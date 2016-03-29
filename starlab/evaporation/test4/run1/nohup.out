@@ -1,0 +1,10 @@
+scale: rscale = 1.00018
+scale: com_pos = 0  0  0
+scale: internal com_vel = 0  0  0,  com_kin = 0
+scale: mass = 1
+scale: rscale = 10
+scale: com_pos = 0  0  0
+scale: r_virial = 10
+scale: vir = 0
+scale: vfac = 1
+scale: q = 0.5

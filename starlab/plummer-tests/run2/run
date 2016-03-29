@@ -1,0 +1,4 @@
+#!/bin/bash
+#
+makeplummer -n 1000 -i | makemass -F Kroupa -l 0.1 -u 50 | scale -m 1 -q 1.5 -r 0.1> out1.dat
+

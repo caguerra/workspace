@@ -1,0 +1,197 @@
+[Mon Aug 24 18:17:07 PET 2015] Start
+100
+scale: rscale = 0.99901
+scale: com_pos = 0  0  0
+200
+scale: rscale = 0.998151
+scale: com_pos = 0  0  0
+300
+scale: rscale = 0.997522
+scale: com_pos = 0  0  0
+400
+scale: rscale = 0.998839
+scale: com_pos = 0  0  0
+500
+scale: rscale = 1.00104
+scale: com_pos = 0  0  0
+600
+scale: rscale = 1.00045
+scale: com_pos = 0  0  0
+700
+scale: rscale = 0.998603
+scale: com_pos = 0  0  0
+800
+scale: rscale = 0.999164
+scale: com_pos = 0  0  0
+900
+scale: rscale = 0.999399
+scale: com_pos = 0  0  0
+1000
+scale: rscale = 1.0021
+scale: com_pos = 0  0  0
+1100
+scale: rscale = 0.999074
+scale: com_pos = 0  0  0
+1200
+scale: rscale = 0.999678
+scale: com_pos = 0  0  0
+1300
+scale: rscale = 0.997851
+scale: com_pos = 0  0  0
+1400
+scale: rscale = 0.997777
+scale: com_pos = 0  0  0
+1500
+scale: rscale = 0.999131
+scale: com_pos = 0  0  0
+1600
+scale: rscale = 0.998236
+scale: com_pos = 0  0  0
+1700
+scale: rscale = 0.998344
+scale: com_pos = 0  0  0
+1800
+scale: rscale = 0.996683
+scale: com_pos = 0  0  0
+1900
+scale: rscale = 0.997312
+scale: com_pos = 0  0  0
+2000
+scale: rscale = 0.998197
+scale: com_pos = 0  0  0
+2100
+scale: rscale = 0.998697
+scale: com_pos = 0  0  0
+2200
+scale: rscale = 0.999597
+scale: com_pos = 0  0  0
+2300
+scale: rscale = 0.998555
+scale: com_pos = 0  0  0
+2400
+scale: rscale = 0.998633
+scale: com_pos = 0  0  0
+2500
+scale: rscale = 0.998172
+scale: com_pos = 0  0  0
+2600
+scale: rscale = 0.998746
+scale: com_pos = 0  0  0
+2700
+scale: rscale = 0.997447
+scale: com_pos = 0  0  0
+2800
+scale: rscale = 0.998449
+scale: com_pos = 0  0  0
+2900
+scale: rscale = 0.997668
+scale: com_pos = 0  0  0
+3000
+scale: rscale = 0.998066
+scale: com_pos = 0  0  0
+3100
+scale: rscale = 0.997172
+scale: com_pos = 0  0  0
+3200
+./run3: line 6: makeplummer: command not found
+3300
+./run3: line 6: makeplummer: command not found
+3400
+./run3: line 6: makeplummer: command not found
+3500
+./run3: line 6: makeplummer: command not found
+3600
+./run3: line 6: makeplummer: command not found
+3700
+./run3: line 6: makeplummer: command not found
+3800
+./run3: line 6: makeplummer: command not found
+3900
+./run3: line 6: makeplummer: command not found
+4000
+./run3: line 6: makeplummer: command not found
+4100
+./run3: line 6: makeplummer: command not found
+4200
+./run3: line 6: makeplummer: command not found
+4300
+./run3: line 6: makeplummer: command not found
+4400
+./run3: line 6: makeplummer: command not found
+4500
+./run3: line 6: makeplummer: command not found
+4600
+./run3: line 6: makeplummer: command not found
+4700
+./run3: line 6: makeplummer: command not found
+4800
+./run3: line 6: makeplummer: command not found
+4900
+./run3: line 6: makeplummer: command not found
+5000
+./run3: line 6: makeplummer: command not found
+
+[Sat Aug 29 02:41:27 PET 2015] End
+375860
+all done
+[Sat Aug 29 12:34:56 PET 2015] Start
+3200
+scale: rscale = 0.998214
+scale: com_pos = 0  0  0
+3300
+scale: rscale = 0.999005
+scale: com_pos = 0  0  0
+3400
+scale: rscale = 0.998975
+scale: com_pos = 0  0  0
+3500
+scale: rscale = 0.997257
+scale: com_pos = 0  0  0
+3600
+scale: rscale = 1.00112
+scale: com_pos = 0  0  0
+3700
+scale: rscale = 0.998398
+scale: com_pos = 0  0  0
+3800
+scale: rscale = 0.998949
+scale: com_pos = 0  0  0
+3900
+scale: rscale = 1.00015
+scale: com_pos = 0  0  0
+4000
+scale: rscale = 0.998436
+scale: com_pos = 0  0  0
+4100
+scale: rscale = 0.998614
+scale: com_pos = 0  0  0
+4200
+scale: rscale = 0.998886
+scale: com_pos = 0  0  0
+4300
+scale: rscale = 0.998073
+scale: com_pos = 0  0  0
+4400
+scale: rscale = 0.999259
+scale: com_pos = 0  0  0
+4500
+scale: rscale = 0.998579
+scale: com_pos = 0  0  0
+4600
+scale: rscale = 0.997334
+scale: com_pos = 0  0  0
+4700
+scale: rscale = 0.998927
+scale: com_pos = 0  0  0
+4800
+scale: rscale = 1.00036
+scale: com_pos = 0  0  0
+4900
+scale: rscale = 0.998938
+scale: com_pos = 0  0  0
+5000
+scale: rscale = 0.997062
+scale: com_pos = 0  0  0
+[Tue Sep  1 00:31:23 PET 2015] End
+215787
+all done
