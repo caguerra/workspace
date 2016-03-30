@@ -1,0 +1,604 @@
+[mi., 30 de mar. de 2016 14:40:37] Start
+creating file number: 100
+scale: rscale = 0.994614
+scale: com_pos = 0  0  0
+makemass: mass function is Kroupa01, m_lower = 0.1,  m_upper = 50
+scale: internal com_vel = 0  0  0,  com_kin = 0
+scale: mass = 1
+scale: rscale = 1.25174
+scale: com_pos = 0  0  0
+scale: r_virial = 1
+scale: vir = 0
+scale: vfac = 0.98356
+scale: q = 0.5
+creating file number: 200
+scale: rscale = 0.984412
+scale: com_pos = 0  0  0
+makemass: mass function is Kroupa01, m_lower = 0.1,  m_upper = 50
+scale: internal com_vel = 0  0  0,  com_kin = 0
+scale: mass = 1
+scale: rscale = 0.642396
+scale: com_pos = 0  0  0
+scale: r_virial = 1
+scale: vir = 0
+scale: vfac = 0.837906
+scale: q = 0.5
+creating file number: 300
+scale: rscale = 0.982849
+scale: com_pos = 0  0  0
+makemass: mass function is Kroupa01, m_lower = 0.1,  m_upper = 50
+scale: internal com_vel = 0  0  0,  com_kin = 0
+scale: mass = 1
+scale: rscale = 1.02875
+scale: com_pos = 0  0  0
+scale: r_virial = 1
+scale: vir = 0
+scale: vfac = 0.941089
+scale: q = 0.5
+creating file number: 400
+scale: rscale = 0.991152
+scale: com_pos = 0  0  0
+makemass: mass function is Kroupa01, m_lower = 0.1,  m_upper = 50
+scale: internal com_vel = 0  0  0,  com_kin = 0
+scale: mass = 1
+scale: rscale = 0.773847
+scale: com_pos = 0  0  0
+scale: r_virial = 1
+scale: vir = 0
+scale: vfac = 0.974252
+scale: q = 0.5
+creating file number: 500
+scale: rscale = 0.981447
+scale: com_pos = 0  0  0
+makemass: mass function is Kroupa01, m_lower = 0.1,  m_upper = 50
+scale: internal com_vel = 0  0  0,  com_kin = 0
+scale: mass = 1
+scale: rscale = 1.34524
+scale: com_pos = 0  0  0
+scale: r_virial = 1
+scale: vir = 0
+scale: vfac = 1.05993
+scale: q = 0.5
+creating file number: 600
+scale: rscale = 0.984028
+scale: com_pos = 0  0  0
+makemass: mass function is Kroupa01, m_lower = 0.1,  m_upper = 50
+scale: internal com_vel = 0  0  0,  com_kin = 0
+scale: mass = 1
+scale: rscale = 0.861364
+scale: com_pos = 0  0  0
+scale: r_virial = 1
+scale: vir = 0
+scale: vfac = 1.06341
+scale: q = 0.5
+creating file number: 700
+scale: rscale = 0.972589
+scale: com_pos = 0  0  0
+makemass: mass function is Kroupa01, m_lower = 0.1,  m_upper = 50
+scale: internal com_vel = 0  0  0,  com_kin = 0
+scale: mass = 1
+scale: rscale = 0.817604
+scale: com_pos = 0  0  0
+scale: r_virial = 1
+scale: vir = 0
+scale: vfac = 1.01734
+scale: q = 0.5
+creating file number: 800
+scale: rscale = 0.974737
+scale: com_pos = 0  0  0
+makemass: mass function is Kroupa01, m_lower = 0.1,  m_upper = 50
+scale: internal com_vel = 0  0  0,  com_kin = 0
+scale: mass = 1
+scale: rscale = 1.16553
+scale: com_pos = 0  0  0
+scale: r_virial = 1
+scale: vir = 0
+scale: vfac = 1.10013
+scale: q = 0.5
+creating file number: 900
+scale: rscale = 0.982343
+scale: com_pos = 0  0  0
+makemass: mass function is Kroupa01, m_lower = 0.1,  m_upper = 50
+scale: internal com_vel = 0  0  0,  com_kin = 0
+scale: mass = 1
+scale: rscale = 1.07764
+scale: com_pos = 0  0  0
+scale: r_virial = 1
+scale: vir = 0
+scale: vfac = 1.29126
+scale: q = 0.5
+creating file number: 1000
+scale: rscale = 0.97774
+scale: com_pos = 0  0  0
+makemass: mass function is Kroupa01, m_lower = 0.1,  m_upper = 50
+scale: internal com_vel = 0  0  0,  com_kin = 0
+scale: mass = 1
+scale: rscale = 1.15562
+scale: com_pos = 0  0  0
+scale: r_virial = 1
+scale: vir = 0
+scale: vfac = 0.935725
+scale: q = 0.5
+creating file number: 1100
+scale: rscale = 0.984193
+scale: com_pos = 0  0  0
+makemass: mass function is Kroupa01, m_lower = 0.1,  m_upper = 50
+scale: internal com_vel = 0  0  0,  com_kin = 0
+scale: mass = 1
+scale: rscale = 1.00517
+scale: com_pos = 0  0  0
+scale: r_virial = 1
+scale: vir = 0
+scale: vfac = 1.00023
+scale: q = 0.5
+creating file number: 1200
+scale: rscale = 0.991943
+scale: com_pos = 0  0  0
+makemass: mass function is Kroupa01, m_lower = 0.1,  m_upper = 50
+scale: internal com_vel = 0  0  0,  com_kin = 0
+scale: mass = 1
+scale: rscale = 0.799934
+scale: com_pos = 0  0  0
+scale: r_virial = 1
+scale: vir = 0
+scale: vfac = 1.02197
+scale: q = 0.5
+creating file number: 1300
+scale: rscale = 0.98019
+scale: com_pos = 0  0  0
+makemass: mass function is Kroupa01, m_lower = 0.1,  m_upper = 50
+scale: internal com_vel = 0  0  0,  com_kin = 0
+scale: mass = 1
+scale: rscale = 0.928306
+scale: com_pos = 0  0  0
+scale: r_virial = 1
+scale: vir = 0
+scale: vfac = 1.03671
+scale: q = 0.5
+creating file number: 1400
+scale: rscale = 0.979125
+scale: com_pos = 0  0  0
+makemass: mass function is Kroupa01, m_lower = 0.1,  m_upper = 50
+scale: internal com_vel = 0  0  0,  com_kin = 0
+scale: mass = 1
+scale: rscale = 1.12075
+scale: com_pos = 0  0  0
+scale: r_virial = 1
+scale: vir = 0
+scale: vfac = 1.11713
+scale: q = 0.5
+creating file number: 1500
+scale: rscale = 0.984541
+scale: com_pos = 0  0  0
+makemass: mass function is Kroupa01, m_lower = 0.1,  m_upper = 50
+scale: internal com_vel = 0  0  0,  com_kin = 0
+scale: mass = 1
+scale: rscale = 0.986979
+scale: com_pos = 0  0  0
+scale: r_virial = 1
+scale: vir = 0
+scale: vfac = 1.04808
+scale: q = 0.5
+creating file number: 1600
+scale: rscale = 0.990532
+scale: com_pos = 0  0  0
+makemass: mass function is Kroupa01, m_lower = 0.1,  m_upper = 50
+scale: internal com_vel = 0  0  0,  com_kin = 0
+scale: mass = 1
+scale: rscale = 0.941061
+scale: com_pos = 0  0  0
+scale: r_virial = 1
+scale: vir = 0
+scale: vfac = 1.04444
+scale: q = 0.5
+creating file number: 1700
+scale: rscale = 0.986682
+scale: com_pos = 0  0  0
+makemass: mass function is Kroupa01, m_lower = 0.1,  m_upper = 50
+scale: internal com_vel = 0  0  0,  com_kin = 0
+scale: mass = 1
+scale: rscale = 1.0537
+scale: com_pos = 0  0  0
+scale: r_virial = 1
+scale: vir = 0
+scale: vfac = 1.06995
+scale: q = 0.5
+creating file number: 1800
+scale: rscale = 0.973325
+scale: com_pos = 0  0  0
+makemass: mass function is Kroupa01, m_lower = 0.1,  m_upper = 50
+scale: internal com_vel = 0  0  0,  com_kin = 0
+scale: mass = 1
+scale: rscale = 0.970901
+scale: com_pos = 0  0  0
+scale: r_virial = 1
+scale: vir = 0
+scale: vfac = 0.915971
+scale: q = 0.5
+creating file number: 1900
+scale: rscale = 0.987664
+scale: com_pos = 0  0  0
+makemass: mass function is Kroupa01, m_lower = 0.1,  m_upper = 50
+scale: internal com_vel = 0  0  0,  com_kin = 0
+scale: mass = 1
+scale: rscale = 0.923301
+scale: com_pos = 0  0  0
+scale: r_virial = 1
+scale: vir = 0
+scale: vfac = 1.03685
+scale: q = 0.5
+creating file number: 2000
+scale: rscale = 0.965266
+scale: com_pos = 0  0  0
+makemass: mass function is Kroupa01, m_lower = 0.1,  m_upper = 50
+scale: internal com_vel = 0  0  0,  com_kin = 0
+scale: mass = 1
+scale: rscale = 0.970353
+scale: com_pos = 0  0  0
+scale: r_virial = 1
+scale: vir = 0
+scale: vfac = 0.943109
+scale: q = 0.5
+creating file number: 2100
+scale: rscale = 0.979265
+scale: com_pos = 0  0  0
+makemass: mass function is Kroupa01, m_lower = 0.1,  m_upper = 50
+scale: internal com_vel = 0  0  0,  com_kin = 0
+scale: mass = 1
+scale: rscale = 0.941863
+scale: com_pos = 0  0  0
+scale: r_virial = 1
+scale: vir = 0
+scale: vfac = 0.924708
+scale: q = 0.5
+creating file number: 2200
+scale: rscale = 1.00565
+scale: com_pos = 0  0  0
+makemass: mass function is Kroupa01, m_lower = 0.1,  m_upper = 50
+scale: internal com_vel = 0  0  0,  com_kin = 0
+scale: mass = 1
+scale: rscale = 0.879891
+scale: com_pos = 0  0  0
+scale: r_virial = 1
+scale: vir = 0
+scale: vfac = 0.935654
+scale: q = 0.5
+creating file number: 2300
+scale: rscale = 0.981802
+scale: com_pos = 0  0  0
+makemass: mass function is Kroupa01, m_lower = 0.1,  m_upper = 50
+scale: internal com_vel = 0  0  0,  com_kin = 0
+scale: mass = 1
+scale: rscale = 1.03918
+scale: com_pos = 0  0  0
+scale: r_virial = 1
+scale: vir = 0
+scale: vfac = 1.06537
+scale: q = 0.5
+creating file number: 2400
+scale: rscale = 0.978488
+scale: com_pos = 0  0  0
+makemass: mass function is Kroupa01, m_lower = 0.1,  m_upper = 50
+scale: internal com_vel = 0  0  0,  com_kin = 0
+scale: mass = 1
+scale: rscale = 1.2252
+scale: com_pos = 0  0  0
+scale: r_virial = 1
+scale: vir = 0
+scale: vfac = 0.864823
+scale: q = 0.5
+creating file number: 2500
+scale: rscale = 0.990004
+scale: com_pos = 0  0  0
+makemass: mass function is Kroupa01, m_lower = 0.1,  m_upper = 50
+scale: internal com_vel = 0  0  0,  com_kin = 0
+scale: mass = 1
+scale: rscale = 0.933925
+scale: com_pos = 0  0  0
+scale: r_virial = 1
+scale: vir = 0
+scale: vfac = 0.945913
+scale: q = 0.5
+creating file number: 2600
+scale: rscale = 0.983281
+scale: com_pos = 0  0  0
+makemass: mass function is Kroupa01, m_lower = 0.1,  m_upper = 50
+scale: internal com_vel = 0  0  0,  com_kin = 0
+scale: mass = 1
+scale: rscale = 0.789391
+scale: com_pos = 0  0  0
+scale: r_virial = 1
+scale: vir = 0
+scale: vfac = 0.999783
+scale: q = 0.5
+creating file number: 2700
+scale: rscale = 0.981767
+scale: com_pos = 0  0  0
+makemass: mass function is Kroupa01, m_lower = 0.1,  m_upper = 50
+scale: internal com_vel = 0  0  0,  com_kin = 0
+scale: mass = 1
+scale: rscale = 0.716126
+scale: com_pos = 0  0  0
+scale: r_virial = 1
+scale: vir = 0
+scale: vfac = 0.935662
+scale: q = 0.5
+creating file number: 2800
+scale: rscale = 0.972991
+scale: com_pos = 0  0  0
+makemass: mass function is Kroupa01, m_lower = 0.1,  m_upper = 50
+scale: internal com_vel = 0  0  0,  com_kin = 0
+scale: mass = 1
+scale: rscale = 1.0197
+scale: com_pos = 0  0  0
+scale: r_virial = 1
+scale: vir = 0
+scale: vfac = 0.971861
+scale: q = 0.5
+creating file number: 2900
+scale: rscale = 0.978202
+scale: com_pos = 0  0  0
+makemass: mass function is Kroupa01, m_lower = 0.1,  m_upper = 50
+scale: internal com_vel = 0  0  0,  com_kin = 0
+scale: mass = 1
+scale: rscale = 0.75721
+scale: com_pos = 0  0  0
+scale: r_virial = 1
+scale: vir = 0
+scale: vfac = 1.05491
+scale: q = 0.5
+creating file number: 3000
+scale: rscale = 0.974325
+scale: com_pos = 0  0  0
+makemass: mass function is Kroupa01, m_lower = 0.1,  m_upper = 50
+scale: internal com_vel = 0  0  0,  com_kin = 0
+scale: mass = 1
+scale: rscale = 0.866996
+scale: com_pos = 0  0  0
+scale: r_virial = 1
+scale: vir = 0
+scale: vfac = 1.01198
+scale: q = 0.5
+creating file number: 3100
+scale: rscale = 0.971488
+scale: com_pos = 0  0  0
+makemass: mass function is Kroupa01, m_lower = 0.1,  m_upper = 50
+scale: internal com_vel = 0  0  0,  com_kin = 0
+scale: mass = 1
+scale: rscale = 1.10157
+scale: com_pos = 0  0  0
+scale: r_virial = 1
+scale: vir = 0
+scale: vfac = 0.892511
+scale: q = 0.5
+creating file number: 3200
+scale: rscale = 0.984925
+scale: com_pos = 0  0  0
+makemass: mass function is Kroupa01, m_lower = 0.1,  m_upper = 50
+scale: internal com_vel = 0  0  0,  com_kin = 0
+scale: mass = 1
+scale: rscale = 0.743362
+scale: com_pos = 0  0  0
+scale: r_virial = 1
+scale: vir = 0
+scale: vfac = 1.04001
+scale: q = 0.5
+creating file number: 3300
+scale: rscale = 0.991916
+scale: com_pos = 0  0  0
+makemass: mass function is Kroupa01, m_lower = 0.1,  m_upper = 50
+scale: internal com_vel = 0  0  0,  com_kin = 0
+scale: mass = 1
+scale: rscale = 0.944128
+scale: com_pos = 0  0  0
+scale: r_virial = 1
+scale: vir = 0
+scale: vfac = 0.989427
+scale: q = 0.5
+creating file number: 3400
+scale: rscale = 0.982599
+scale: com_pos = 0  0  0
+makemass: mass function is Kroupa01, m_lower = 0.1,  m_upper = 50
+scale: internal com_vel = 0  0  0,  com_kin = 0
+scale: mass = 1
+scale: rscale = 0.978817
+scale: com_pos = 0  0  0
+scale: r_virial = 1
+scale: vir = 0
+scale: vfac = 0.992898
+scale: q = 0.5
+creating file number: 3500
+scale: rscale = 0.977996
+scale: com_pos = 0  0  0
+makemass: mass function is Kroupa01, m_lower = 0.1,  m_upper = 50
+scale: internal com_vel = 0  0  0,  com_kin = 0
+scale: mass = 1
+scale: rscale = 1.06585
+scale: com_pos = 0  0  0
+scale: r_virial = 1
+scale: vir = 0
+scale: vfac = 1.06022
+scale: q = 0.5
+creating file number: 3600
+scale: rscale = 0.97627
+scale: com_pos = 0  0  0
+makemass: mass function is Kroupa01, m_lower = 0.1,  m_upper = 50
+scale: internal com_vel = 0  0  0,  com_kin = 0
+scale: mass = 1
+scale: rscale = 0.968643
+scale: com_pos = 0  0  0
+scale: r_virial = 1
+scale: vir = 0
+scale: vfac = 1.01782
+scale: q = 0.5
+creating file number: 3700
+scale: rscale = 0.983055
+scale: com_pos = 0  0  0
+makemass: mass function is Kroupa01, m_lower = 0.1,  m_upper = 50
+scale: internal com_vel = 0  0  0,  com_kin = 0
+scale: mass = 1
+scale: rscale = 0.821248
+scale: com_pos = 0  0  0
+scale: r_virial = 1
+scale: vir = 0
+scale: vfac = 0.904984
+scale: q = 0.5
+creating file number: 3800
+scale: rscale = 0.983099
+scale: com_pos = 0  0  0
+makemass: mass function is Kroupa01, m_lower = 0.1,  m_upper = 50
+scale: internal com_vel = 0  0  0,  com_kin = 0
+scale: mass = 1
+scale: rscale = 0.797939
+scale: com_pos = 0  0  0
+scale: r_virial = 1
+scale: vir = 0
+scale: vfac = 0.906026
+scale: q = 0.5
+creating file number: 3900
+scale: rscale = 1.00087
+scale: com_pos = 0  0  0
+makemass: mass function is Kroupa01, m_lower = 0.1,  m_upper = 50
+scale: internal com_vel = 0  0  0,  com_kin = 0
+scale: mass = 1
+scale: rscale = 1.12148
+scale: com_pos = 0  0  0
+scale: r_virial = 1
+scale: vir = 0
+scale: vfac = 1.01503
+scale: q = 0.5
+creating file number: 4000
+scale: rscale = 0.983691
+scale: com_pos = 0  0  0
+makemass: mass function is Kroupa01, m_lower = 0.1,  m_upper = 50
+scale: internal com_vel = 0  0  0,  com_kin = 0
+scale: mass = 1
+scale: rscale = 0.914536
+scale: com_pos = 0  0  0
+scale: r_virial = 1
+scale: vir = 0
+scale: vfac = 0.948175
+scale: q = 0.5
+creating file number: 4100
+scale: rscale = 0.987689
+scale: com_pos = 0  0  0
+makemass: mass function is Kroupa01, m_lower = 0.1,  m_upper = 50
+scale: internal com_vel = 0  0  0,  com_kin = 0
+scale: mass = 1
+scale: rscale = 0.690973
+scale: com_pos = 0  0  0
+scale: r_virial = 1
+scale: vir = 0
+scale: vfac = 1.03137
+scale: q = 0.5
+creating file number: 4200
+scale: rscale = 1.00531
+scale: com_pos = 0  0  0
+makemass: mass function is Kroupa01, m_lower = 0.1,  m_upper = 50
+scale: internal com_vel = 0  0  0,  com_kin = 0
+scale: mass = 1
+scale: rscale = 0.988841
+scale: com_pos = 0  0  0
+scale: r_virial = 1
+scale: vir = 0
+scale: vfac = 0.961868
+scale: q = 0.5
+creating file number: 4300
+scale: rscale = 0.993762
+scale: com_pos = 0  0  0
+makemass: mass function is Kroupa01, m_lower = 0.1,  m_upper = 50
+scale: internal com_vel = 0  0  0,  com_kin = 0
+scale: mass = 1
+scale: rscale = 0.686063
+scale: com_pos = 0  0  0
+scale: r_virial = 1
+scale: vir = 0
+scale: vfac = 0.966326
+scale: q = 0.5
+creating file number: 4400
+scale: rscale = 0.981981
+scale: com_pos = 0  0  0
+makemass: mass function is Kroupa01, m_lower = 0.1,  m_upper = 50
+scale: internal com_vel = 0  0  0,  com_kin = 0
+scale: mass = 1
+scale: rscale = 1.05744
+scale: com_pos = 0  0  0
+scale: r_virial = 1
+scale: vir = 0
+scale: vfac = 1.07964
+scale: q = 0.5
+creating file number: 4500
+scale: rscale = 0.987615
+scale: com_pos = 0  0  0
+makemass: mass function is Kroupa01, m_lower = 0.1,  m_upper = 50
+scale: internal com_vel = 0  0  0,  com_kin = 0
+scale: mass = 1
+scale: rscale = 0.907759
+scale: com_pos = 0  0  0
+scale: r_virial = 1
+scale: vir = 0
+scale: vfac = 1.11915
+scale: q = 0.5
+creating file number: 4600
+scale: rscale = 0.970086
+scale: com_pos = 0  0  0
+makemass: mass function is Kroupa01, m_lower = 0.1,  m_upper = 50
+scale: internal com_vel = 0  0  0,  com_kin = 0
+scale: mass = 1
+scale: rscale = 0.914499
+scale: com_pos = 0  0  0
+scale: r_virial = 1
+scale: vir = 0
+scale: vfac = 0.984705
+scale: q = 0.5
+creating file number: 4700
+scale: rscale = 0.967705
+scale: com_pos = 0  0  0
+makemass: mass function is Kroupa01, m_lower = 0.1,  m_upper = 50
+scale: internal com_vel = 0  0  0,  com_kin = 0
+scale: mass = 1
+scale: rscale = 0.927632
+scale: com_pos = 0  0  0
+scale: r_virial = 1
+scale: vir = 0
+scale: vfac = 0.975449
+scale: q = 0.5
+creating file number: 4800
+scale: rscale = 0.982696
+scale: com_pos = 0  0  0
+makemass: mass function is Kroupa01, m_lower = 0.1,  m_upper = 50
+scale: internal com_vel = 0  0  0,  com_kin = 0
+scale: mass = 1
+scale: rscale = 0.834959
+scale: com_pos = 0  0  0
+scale: r_virial = 1
+scale: vir = 0
+scale: vfac = 1.1664
+scale: q = 0.5
+creating file number: 4900
+scale: rscale = 0.989263
+scale: com_pos = 0  0  0
+makemass: mass function is Kroupa01, m_lower = 0.1,  m_upper = 50
+scale: internal com_vel = 0  0  0,  com_kin = 0
+scale: mass = 1
+scale: rscale = 0.828562
+scale: com_pos = 0  0  0
+scale: r_virial = 1
+scale: vir = 0
+scale: vfac = 1.16322
+scale: q = 0.5
+creating file number: 5000
+scale: rscale = 0.984337
+scale: com_pos = 0  0  0
+makemass: mass function is Kroupa01, m_lower = 0.1,  m_upper = 50
+scale: internal com_vel = 0  0  0,  com_kin = 0
+scale: mass = 1
+scale: rscale = 0.96217
+scale: com_pos = 0  0  0
+scale: r_virial = 1
+scale: vir = 0
+scale: vfac = 0.994927
+scale: q = 0.5
+[mi., 30 de mar. de 2016 14:40:41] End
+time elapsed: 4
+all done
