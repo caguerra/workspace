@@ -2,11 +2,16 @@
 
 echo "[`date`] Start"
 
+cd "./results/"
+
 for randomseed in {100..5000..100}
 do
 	echo $randomseed
-	dumbp < "../INI/ini-$randomseed.dat" > "ini-$randomseed-nb6.dat"
+	mkdir "./nbody-tmp/run-$randomseed/"
+	dumbp < "./starlab/run-$randomseed/ini-$randomseed.dat" > "./nbody-tmp/run-$randomseed/ini-$randomseed.dat"
 done
+
+cd ..
 
 echo "[`date`] End"
 echo $SECONDS
