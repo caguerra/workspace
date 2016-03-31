@@ -16,7 +16,7 @@ do
 done
 
 cd ..
-
+echo `pwd`
 echo "[`date`] End"
 echo "time elapsed: $SECONDS"
 echo all done

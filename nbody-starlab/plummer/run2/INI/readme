@@ -1,5 +1,0 @@
-# ./ini.sh > ini.log 2>&1 &
-# ./ini2.sh > ini2.log 2>&1 &
-# ./ini3.m > ini3.log &
-
-

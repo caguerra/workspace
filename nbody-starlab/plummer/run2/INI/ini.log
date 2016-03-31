@@ -1,4 +1,4 @@
-[mi., 30 de mar. de 2016 14:40:37] Start
+[mi., 30 de mar. de 2016 21:34:48] Start
 creating file number: 100
 scale: rscale = 0.994614
 scale: com_pos = 0  0  0
@@ -599,6 +599,7 @@ scale: r_virial = 1
 scale: vir = 0
 scale: vfac = 0.994927
 scale: q = 0.5
-[mi., 30 de mar. de 2016 14:40:41] End
-time elapsed: 4
+/home/cesar/git/workspace/nbody-starlab/plummer/run2/INI
+[mi., 30 de mar. de 2016 21:35:00] End
+time elapsed: 12
 all done
