@@ -14,9 +14,10 @@ Get["AstroTools`"];
 
 NBTMPDIR = ToFileName[{$InitialDirectory,"results","nbody-tmp"}];
 NBDIR = ToFileName[{$InitialDirectory,"results","nbody"}]; 
-outputDir[file_] := ToFileName[{NBDIR, StringReplace[FileBaseName[file], "ini" -> "run"]}];
+outputDir[file_] := ToFileName[{NBDIR, DirectoryName[file]}];
 
-If[DirectoryQ[NBDIR] === False, CreateDirectory[NBDIR]]
+If[DirectoryQ[NBTMPDIR] === False, Print[Missing["InputDirectory"]]; Return[]];
+If[DirectoryQ[NBDIR] === False, CreateDirectory[NBDIR]];
 
 SetDirectory[NBTMPDIR];
 files = FileNames["*/*"];

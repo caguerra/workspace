@@ -12,7 +12,7 @@ for randomseed in {100..5000..100}
 do
 	echo $randomseed
 	mkdir "./nbody-tmp/run-$randomseed/"
-	dumbp < "./starlab/run-$randomseed/ini-$randomseed.dat" > "./nbody-tmp/run-$randomseed/ini-$randomseed.dat"
+	dumbp < "./starlab/run-$randomseed/ini.dat" > "./nbody-tmp/run-$randomseed/ini.dat"
 done
 
 cd ..
