@@ -6,8 +6,10 @@ SetOptions["stdout", FormatType -> InputForm];
 SetOptions["stderr", FormatType -> OutputForm];
 SetOptions[$Output, FormatType -> OutputForm];
 
-astroDir = ToFileName[{$HomeDirectory,"ownCloud","code-test"}];
-AppendTo[$Path, astroDir];
+gitDir = Environment["MYGITDIR"];
+If[gitDir===$Failed, "env var MYGITDIR doesn't exists"; Return[]];
+
+AppendTo[$Path, gitDir];
 Get["AstroTools`"];
 
 NBTMPDIR = ToFileName[{$InitialDirectory,"results","nbody-tmp"}];
