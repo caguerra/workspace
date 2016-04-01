@@ -4,6 +4,8 @@ echo "[`date`] Start"
 
 find results/input -type f -not -name 'fort.10' -not -name 'fort.1' -delete
 
+ls ./results/input/run*/
+
 #cd "./results/input/"
 #for filenumber in {100..5000..100}
 #do

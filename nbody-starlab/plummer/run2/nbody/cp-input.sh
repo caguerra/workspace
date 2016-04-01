@@ -1,2 +1,4 @@
 #!/bin/bash
-echo ./run-*/ | xargs -n 1 cp input
+echo ./results/input/run-*/ | xargs -n 1 cp input
+
+ls ./results/input/run*/
