@@ -1,0 +1,213 @@
+[Thu Mar 31 10:36:22 PET 2016] Start
+
+running file 100
+BEGIN: [Thu Mar 31 10:36:22 PET 2016]
+END: [Thu Mar 31 10:36:45 PET 2016]
+
+running file 200
+BEGIN: [Thu Mar 31 10:36:45 PET 2016]
+END: [Thu Mar 31 10:37:08 PET 2016]
+
+running file 300
+BEGIN: [Thu Mar 31 10:37:08 PET 2016]
+END: [Thu Mar 31 10:37:31 PET 2016]
+
+running file 400
+BEGIN: [Thu Mar 31 10:37:31 PET 2016]
+END: [Thu Mar 31 10:38:07 PET 2016]
+
+running file 500
+BEGIN: [Thu Mar 31 10:38:07 PET 2016]
+END: [Thu Mar 31 10:38:29 PET 2016]
+
+running file 600
+BEGIN: [Thu Mar 31 10:38:29 PET 2016]
+END: [Thu Mar 31 10:38:54 PET 2016]
+
+running file 700
+BEGIN: [Thu Mar 31 10:38:54 PET 2016]
+END: [Thu Mar 31 10:39:17 PET 2016]
+
+running file 800
+BEGIN: [Thu Mar 31 10:39:17 PET 2016]
+END: [Thu Mar 31 10:39:39 PET 2016]
+
+running file 900
+BEGIN: [Thu Mar 31 10:39:39 PET 2016]
+END: [Thu Mar 31 10:41:30 PET 2016]
+
+running file 1000
+BEGIN: [Thu Mar 31 10:41:30 PET 2016]
+END: [Thu Mar 31 10:41:53 PET 2016]
+
+running file 1100
+BEGIN: [Thu Mar 31 10:41:53 PET 2016]
+END: [Thu Mar 31 10:42:20 PET 2016]
+
+running file 1200
+BEGIN: [Thu Mar 31 10:42:20 PET 2016]
+END: [Thu Mar 31 10:42:49 PET 2016]
+
+running file 1300
+BEGIN: [Thu Mar 31 10:42:49 PET 2016]
+END: [Thu Mar 31 10:43:14 PET 2016]
+
+running file 1400
+BEGIN: [Thu Mar 31 10:43:14 PET 2016]
+END: [Thu Mar 31 10:43:36 PET 2016]
+
+running file 1500
+BEGIN: [Thu Mar 31 10:43:36 PET 2016]
+END: [Thu Mar 31 10:44:00 PET 2016]
+
+running file 1600
+BEGIN: [Thu Mar 31 10:44:00 PET 2016]
+END: [Thu Mar 31 10:44:26 PET 2016]
+
+running file 1700
+BEGIN: [Thu Mar 31 10:44:26 PET 2016]
+END: [Thu Mar 31 10:44:51 PET 2016]
+
+running file 1800
+BEGIN: [Thu Mar 31 10:44:51 PET 2016]
+END: [Thu Mar 31 10:45:17 PET 2016]
+
+running file 1900
+BEGIN: [Thu Mar 31 10:45:17 PET 2016]
+END: [Thu Mar 31 10:45:47 PET 2016]
+
+running file 2000
+BEGIN: [Thu Mar 31 10:45:47 PET 2016]
+END: [Thu Mar 31 10:46:15 PET 2016]
+
+running file 2100
+BEGIN: [Thu Mar 31 10:46:15 PET 2016]
+END: [Thu Mar 31 10:47:27 PET 2016]
+
+running file 2200
+BEGIN: [Thu Mar 31 10:47:27 PET 2016]
+END: [Thu Mar 31 10:47:50 PET 2016]
+
+running file 2300
+BEGIN: [Thu Mar 31 10:47:50 PET 2016]
+END: [Thu Mar 31 10:48:22 PET 2016]
+
+running file 2400
+BEGIN: [Thu Mar 31 10:48:22 PET 2016]
+END: [Thu Mar 31 10:48:58 PET 2016]
+
+running file 2500
+BEGIN: [Thu Mar 31 10:48:58 PET 2016]
+END: [Thu Mar 31 10:49:35 PET 2016]
+
+running file 2600
+BEGIN: [Thu Mar 31 10:49:35 PET 2016]
+END: [Thu Mar 31 10:50:51 PET 2016]
+
+running file 2700
+BEGIN: [Thu Mar 31 10:50:51 PET 2016]
+END: [Thu Mar 31 10:51:22 PET 2016]
+
+running file 2800
+BEGIN: [Thu Mar 31 10:51:22 PET 2016]
+END: [Thu Mar 31 10:51:49 PET 2016]
+
+running file 2900
+BEGIN: [Thu Mar 31 10:51:49 PET 2016]
+END: [Thu Mar 31 10:52:24 PET 2016]
+
+running file 3000
+BEGIN: [Thu Mar 31 10:52:24 PET 2016]
+END: [Thu Mar 31 10:52:50 PET 2016]
+
+running file 3100
+BEGIN: [Thu Mar 31 10:52:50 PET 2016]
+END: [Thu Mar 31 10:53:13 PET 2016]
+
+running file 3200
+BEGIN: [Thu Mar 31 10:53:13 PET 2016]
+END: [Thu Mar 31 10:53:53 PET 2016]
+
+running file 3300
+BEGIN: [Thu Mar 31 10:53:53 PET 2016]
+END: [Thu Mar 31 10:54:20 PET 2016]
+
+running file 3400
+BEGIN: [Thu Mar 31 10:54:20 PET 2016]
+END: [Thu Mar 31 10:54:43 PET 2016]
+
+running file 3500
+BEGIN: [Thu Mar 31 10:54:43 PET 2016]
+END: [Thu Mar 31 10:55:06 PET 2016]
+
+running file 3600
+BEGIN: [Thu Mar 31 10:55:06 PET 2016]
+END: [Thu Mar 31 10:55:29 PET 2016]
+
+running file 3700
+BEGIN: [Thu Mar 31 10:55:29 PET 2016]
+[Thu Mar 31 12:35:17 PET 2016] Start
+
+running file 3700
+BEGIN: [Thu Mar 31 12:35:17 PET 2016]
+WARNING: timeout reached
+END: [Thu Mar 31 12:40:17 PET 2016]
+
+running file 3800
+BEGIN: [Thu Mar 31 12:40:17 PET 2016]
+END: [Thu Mar 31 12:40:51 PET 2016]
+
+running file 3900
+BEGIN: [Thu Mar 31 12:40:51 PET 2016]
+END: [Thu Mar 31 12:41:34 PET 2016]
+
+running file 4000
+BEGIN: [Thu Mar 31 12:41:34 PET 2016]
+END: [Thu Mar 31 12:42:05 PET 2016]
+
+running file 4100
+BEGIN: [Thu Mar 31 12:42:05 PET 2016]
+END: [Thu Mar 31 12:43:00 PET 2016]
+
+running file 4200
+BEGIN: [Thu Mar 31 12:43:00 PET 2016]
+END: [Thu Mar 31 12:43:30 PET 2016]
+
+running file 4300
+BEGIN: [Thu Mar 31 12:43:30 PET 2016]
+END: [Thu Mar 31 12:44:21 PET 2016]
+
+running file 4400
+BEGIN: [Thu Mar 31 12:44:21 PET 2016]
+END: [Thu Mar 31 12:44:50 PET 2016]
+
+running file 4500
+BEGIN: [Thu Mar 31 12:44:50 PET 2016]
+END: [Thu Mar 31 12:45:32 PET 2016]
+
+running file 4600
+BEGIN: [Thu Mar 31 12:45:32 PET 2016]
+END: [Thu Mar 31 12:46:14 PET 2016]
+
+running file 4700
+BEGIN: [Thu Mar 31 12:46:14 PET 2016]
+END: [Thu Mar 31 12:46:40 PET 2016]
+
+running file 4800
+BEGIN: [Thu Mar 31 12:46:40 PET 2016]
+END: [Thu Mar 31 12:47:31 PET 2016]
+
+running file 4900
+BEGIN: [Thu Mar 31 12:47:31 PET 2016]
+END: [Thu Mar 31 12:48:09 PET 2016]
+
+running file 5000
+BEGIN: [Thu Mar 31 12:48:09 PET 2016]
+END: [Thu Mar 31 12:48:42 PET 2016]
+/home/usr2/cesarg/git/workspace/nbody-starlab/plummer/run2/starlab
+[Thu Mar 31 12:48:42 PET 2016] End
+time elapsed: 805
+all done
+[?1049h[?1h=[1;36r[?12;25h[?12l[?25h[27m[m[H[2J[?25l[2;1H[1m[34m~                                                                                                                    [3;1H~                                                                                                                    [4;1H~                                                                                                                    [5;1H~                                                                                                                    [6;1H~                                                                                                                    [7;1H~                                                                                                                    [8;1H~                                                                                                                    [9;1H~                                                                                                                    [10;1H~                                                                                                                    [11;1H~                                                                                                                    [12;1H~                                                                                                                    [13;1H~                                                                                                                    [14;1H~                                                                                                                    [15;1H~                                                                                                                    [16;1H~                                                                                                                    [17;1H~                                                                                                                    [18;1H~                                                                                                                    [19;1H~                                                                                                                    [20;1H~                                                                                                                    [21;1H~                                                                                                                    [22;1H~                                                                                                                    [23;1H~                                                                                                                    [24;1H~                                                                                                                    [25;1H~                                                                                                                    [26;1H~                                                                                                                    [27;1H~                                                                                                                    [28;1H~                                                                                                                    [29;1H~                                                                                                                    [30;1H~                                                                                                                    [31;1H~                                                                                                                    [32;1H~                                                                                                                    [33;1H~                                                                                                                    [34;1H~                                                                                                                    [35;1H~                                                                                                                    [m[36;100H0,0-1[9CAll[1;1H[?12l[?25h[36;1H[?1l>[?1049lVim: Caught deadly signal HUP
+Vim: Finished.
+[36;1H
