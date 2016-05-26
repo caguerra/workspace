@@ -1,0 +1,210 @@
+[Sun May 22 09:09:22 PET 2016] Start
+
+running file 100
+BEGIN: [Sun May 22 09:09:22 PET 2016]
+END: [Sun May 22 09:09:54 PET 2016]
+
+running file 200
+BEGIN: [Sun May 22 09:09:54 PET 2016]
+WARNING: timeout reached
+END: [Sun May 22 09:14:54 PET 2016]
+
+running file 300
+BEGIN: [Sun May 22 09:14:54 PET 2016]
+END: [Sun May 22 09:15:26 PET 2016]
+
+running file 400
+BEGIN: [Sun May 22 09:15:26 PET 2016]
+END: [Sun May 22 09:19:37 PET 2016]
+
+running file 500
+BEGIN: [Sun May 22 09:19:37 PET 2016]
+END: [Sun May 22 09:21:04 PET 2016]
+
+running file 600
+BEGIN: [Sun May 22 09:21:04 PET 2016]
+END: [Sun May 22 09:22:00 PET 2016]
+
+running file 700
+BEGIN: [Sun May 22 09:22:00 PET 2016]
+END: [Sun May 22 09:22:37 PET 2016]
+
+running file 800
+BEGIN: [Sun May 22 09:22:37 PET 2016]
+END: [Sun May 22 09:23:07 PET 2016]
+
+running file 900
+BEGIN: [Sun May 22 09:23:07 PET 2016]
+END: [Sun May 22 09:24:00 PET 2016]
+
+running file 1000
+BEGIN: [Sun May 22 09:24:00 PET 2016]
+END: [Sun May 22 09:24:30 PET 2016]
+
+running file 1100
+BEGIN: [Sun May 22 09:24:30 PET 2016]
+END: [Sun May 22 09:24:59 PET 2016]
+
+running file 1200
+BEGIN: [Sun May 22 09:24:59 PET 2016]
+END: [Sun May 22 09:25:19 PET 2016]
+
+running file 1300
+BEGIN: [Sun May 22 09:25:20 PET 2016]
+END: [Sun May 22 09:25:58 PET 2016]
+
+running file 1400
+BEGIN: [Sun May 22 09:25:58 PET 2016]
+END: [Sun May 22 09:26:29 PET 2016]
+
+running file 1500
+BEGIN: [Sun May 22 09:26:29 PET 2016]
+END: [Sun May 22 09:27:04 PET 2016]
+
+running file 1600
+BEGIN: [Sun May 22 09:27:04 PET 2016]
+END: [Sun May 22 09:29:00 PET 2016]
+
+running file 1700
+BEGIN: [Sun May 22 09:29:00 PET 2016]
+END: [Sun May 22 09:29:36 PET 2016]
+
+running file 1800
+BEGIN: [Sun May 22 09:29:36 PET 2016]
+END: [Sun May 22 09:30:23 PET 2016]
+
+running file 1900
+BEGIN: [Sun May 22 09:30:24 PET 2016]
+END: [Sun May 22 09:31:18 PET 2016]
+
+running file 2000
+BEGIN: [Sun May 22 09:31:18 PET 2016]
+END: [Sun May 22 09:32:30 PET 2016]
+
+running file 2100
+BEGIN: [Sun May 22 09:32:30 PET 2016]
+END: [Sun May 22 09:32:45 PET 2016]
+
+running file 2200
+BEGIN: [Sun May 22 09:32:45 PET 2016]
+END: [Sun May 22 09:33:23 PET 2016]
+
+running file 2300
+BEGIN: [Sun May 22 09:33:23 PET 2016]
+END: [Sun May 22 09:33:56 PET 2016]
+
+running file 2400
+BEGIN: [Sun May 22 09:33:56 PET 2016]
+END: [Sun May 22 09:34:37 PET 2016]
+
+running file 2500
+BEGIN: [Sun May 22 09:34:37 PET 2016]
+END: [Sun May 22 09:35:14 PET 2016]
+
+running file 2600
+BEGIN: [Sun May 22 09:35:14 PET 2016]
+END: [Sun May 22 09:35:52 PET 2016]
+
+running file 2700
+BEGIN: [Sun May 22 09:35:52 PET 2016]
+END: [Sun May 22 09:39:34 PET 2016]
+
+running file 2800
+BEGIN: [Sun May 22 09:39:34 PET 2016]
+END: [Sun May 22 09:40:06 PET 2016]
+
+running file 2900
+BEGIN: [Sun May 22 09:40:06 PET 2016]
+END: [Sun May 22 09:40:54 PET 2016]
+
+running file 3000
+BEGIN: [Sun May 22 09:40:54 PET 2016]
+END: [Sun May 22 09:41:27 PET 2016]
+
+running file 3100
+BEGIN: [Sun May 22 09:41:27 PET 2016]
+WARNING: timeout reached
+END: [Sun May 22 09:46:27 PET 2016]
+
+running file 3200
+BEGIN: [Sun May 22 09:46:27 PET 2016]
+END: [Sun May 22 09:47:05 PET 2016]
+
+running file 3300
+BEGIN: [Sun May 22 09:47:05 PET 2016]
+END: [Sun May 22 09:47:40 PET 2016]
+
+running file 3400
+BEGIN: [Sun May 22 09:47:40 PET 2016]
+END: [Sun May 22 09:48:17 PET 2016]
+
+running file 3500
+BEGIN: [Sun May 22 09:48:18 PET 2016]
+END: [Sun May 22 09:49:09 PET 2016]
+
+running file 3600
+BEGIN: [Sun May 22 09:49:09 PET 2016]
+END: [Sun May 22 09:49:48 PET 2016]
+
+running file 3700
+BEGIN: [Sun May 22 09:49:48 PET 2016]
+END: [Sun May 22 09:50:16 PET 2016]
+
+running file 3800
+BEGIN: [Sun May 22 09:50:16 PET 2016]
+END: [Sun May 22 09:50:46 PET 2016]
+
+running file 3900
+BEGIN: [Sun May 22 09:50:46 PET 2016]
+END: [Sun May 22 09:51:36 PET 2016]
+
+running file 4000
+BEGIN: [Sun May 22 09:51:36 PET 2016]
+WARNING: timeout reached
+END: [Sun May 22 09:56:36 PET 2016]
+
+running file 4100
+BEGIN: [Sun May 22 09:56:36 PET 2016]
+END: [Sun May 22 09:57:29 PET 2016]
+
+running file 4200
+BEGIN: [Sun May 22 09:57:29 PET 2016]
+END: [Sun May 22 09:58:01 PET 2016]
+
+running file 4300
+BEGIN: [Sun May 22 09:58:01 PET 2016]
+END: [Sun May 22 09:58:39 PET 2016]
+
+running file 4400
+BEGIN: [Sun May 22 09:58:39 PET 2016]
+END: [Sun May 22 10:00:01 PET 2016]
+
+running file 4500
+BEGIN: [Sun May 22 10:00:01 PET 2016]
+END: [Sun May 22 10:00:43 PET 2016]
+
+running file 4600
+BEGIN: [Sun May 22 10:00:43 PET 2016]
+WARNING: timeout reached
+END: [Sun May 22 10:05:44 PET 2016]
+
+running file 4700
+BEGIN: [Sun May 22 10:05:44 PET 2016]
+END: [Sun May 22 10:07:01 PET 2016]
+
+running file 4800
+BEGIN: [Sun May 22 10:07:01 PET 2016]
+WARNING: timeout reached
+END: [Sun May 22 10:12:01 PET 2016]
+
+running file 4900
+BEGIN: [Sun May 22 10:12:01 PET 2016]
+END: [Sun May 22 10:13:05 PET 2016]
+
+running file 5000
+BEGIN: [Sun May 22 10:13:05 PET 2016]
+END: [Sun May 22 10:13:34 PET 2016]
+/home/cesar/git/workspace/nbody-starlab/plummer/run-N50-n100-R01/starlab
+[Sun May 22 10:13:34 PET 2016] End
+time elapsed: 3852
+all done

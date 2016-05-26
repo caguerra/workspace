@@ -12,6 +12,8 @@ If[gitDir===$Failed, "env var MYGITDIR doesn't exists"; Return[]];
 postDir = ToFileName[{Directory[], "results", "post"}];  
 If[DirectoryQ[postDir]===False, CreateDirectory[postDir]];
 
+Print[postDir];
+
 AppendTo[$Path, gitDir];
 Get["AstroTools`"];
 
