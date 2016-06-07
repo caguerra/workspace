@@ -4,28 +4,20 @@ King model
     Rt/Rc = 4.71952 (c = 0.673898)  Rh/Rc = 1.25895  Rvir/Rc = 1.50091
     Rc/Rvir = 0.666261  Rh/Rvir = 0.838789  Rt/Rvir = 3.14443
 
+
+King model
+    w0 = 3  beta = 0  nprof =756  V20/sig2 = 1.99018  Mc/M = 0.349138
+    Rt/Rc = 4.71952 (c = 0.673898)  Rh/Rc = 1.25895  Rvir/Rc = 1.50091
+    Rc/Rvir = 0.666261  Rh/Rvir = 0.838789  Rt/Rvir = 3.14443
+
 makemass: mass function is Power_Law, m_lower = 0.5,  m_upper = 50
-scale: internal com_vel = 0  0  0,  com_kin = 0
-scale: mass = 1
-scale: rscale = 0.0903053
-scale: com_pos = 0  0  0
-scale: r_virial = 0.1
-add_power_law:  interpreting input parameters as N-body units
-                warning:  -G but no physical scaling
-                A = 4.25e+06,  a = 0.1,  x = 1.2
-                center = (0  0  0)
-initial mass = 1
-ext = 1
-set_com:  interpreting input parameters as N-body units
-ext again = 4
-using add_power_law
-MYCHANGE r = 8000  0  0
-MYCHANGE pot = 1.13746e+08
-MYCHANGE acc = -3205.65  0  0
-MYCHANGE jerk = 0  0  0
-vc values = 5064.111898304734495
-          circular orbit speed = 5064.111898304734495,  period = 9.925823810145980
-          r = (8000.000000000000000  0.000000000000000  0.000000000000000),  v = (0.000000000000000  5064.111898304734495  0.000000000000000)
+
+King model
+    w0 = 3  beta = 0  nprof =756  V20/sig2 = 1.99018  Mc/M = 0.349138
+    Rt/Rc = 4.71952 (c = 0.673898)  Rh/Rc = 1.25895  Rvir/Rc = 1.50091
+    Rc/Rvir = 0.666261  Rh/Rvir = 0.838789  Rt/Rvir = 3.14443
+
+makemass: mass function is Power_Law, m_lower = 0.5,  m_upper = 50
 
 King model
     w0 = 3  beta = 0  nprof =756  V20/sig2 = 1.99018  Mc/M = 0.349138
@@ -35,25 +27,148 @@ King model
 makemass: mass function is Power_Law, m_lower = 0.5,  m_upper = 50
 scale: internal com_vel = 0  0  0,  com_kin = 0
 scale: mass = 1
-scale: rscale = 0.0737739
+scale: rscale = 0.092593
+scale: com_pos = 0  0  0
+scale: r_virial = 0.1
+
+King model
+    w0 = 3  beta = 0  nprof =756  V20/sig2 = 1.99018  Mc/M = 0.349138
+    Rt/Rc = 4.71952 (c = 0.673898)  Rh/Rc = 1.25895  Rvir/Rc = 1.50091
+    Rc/Rvir = 0.666261  Rh/Rvir = 0.838789  Rt/Rvir = 3.14443
+
+scale: internal com_vel = 0  0  0,  com_kin = 0
+scale: mass = 1
+scale: rscale = 0.0862606
+scale: com_pos = 0  0  0
+scale: r_virial = 0.1
+
+King model
+    w0 = 3  beta = 0  nprof =756  V20/sig2 = 1.99018  Mc/M = 0.349138
+    Rt/Rc = 4.71952 (c = 0.673898)  Rh/Rc = 1.25895  Rvir/Rc = 1.50091
+    Rc/Rvir = 0.666261  Rh/Rvir = 0.838789  Rt/Rvir = 3.14443
+
+makemass: mass function is Power_Law, m_lower = 0.5,  m_upper = 50
+add_power_law:  interpreting input parameters as N-body units
+                warning:  -G but no physical scaling
+                A = 4.25e+06,  a = 0.1,  x = 1.2
+                center = (0  0  0)
+scale: internal com_vel = 0  0  0,  com_kin = 0
+scale: mass = 1
+scale: rscale = 0.0880034
 scale: com_pos = 0  0  0
 scale: r_virial = 0.1
 add_power_law:  interpreting input parameters as N-body units
                 warning:  -G but no physical scaling
                 A = 4.25e+06,  a = 0.1,  x = 1.2
                 center = (0  0  0)
-initial mass = 1
-ext = 1
+scale: internal com_vel = 0  0  0,  com_kin = 0
+scale: mass = 1
+scale: rscale = 0.0971502
+scale: com_pos = 0  0  0
+makemass: mass function is scale: r_virial = Power_Law0.1, 
+m_lower = 0.5,  m_upper = 50
 set_com:  interpreting input parameters as N-body units
-ext again = 4
-using add_power_law
-MYCHANGE r = 8000  0  0
-MYCHANGE pot = 1.13746e+08
-MYCHANGE acc = -3205.65  0  0
-MYCHANGE jerk = 0  0  0
-vc values = 5064.111898304734495
-          circular orbit speed = 5064.111898304734495,  period = 9.925823810145980
-          r = (8000.000000000000000  0.000000000000000  0.000000000000000),  v = (0.000000000000000  5064.111898304734495  0.000000000000000)
+          circular orbit speed = 5064.11,  period = 9.92582
+          r = (8000  0  0),  v = (0  5064.11  0)
+add_power_law:  interpreting input parameters as N-body units
+                warning:  -G but no physical scaling
+                A = 4.25e+06,  a = 0.1,  x = 1.2
+                center = (0  0  0)
+makemass: mass function is Power_Law, m_lower = 0.5,  m_upper = 50
+
+King model
+    w0 = 3  beta = 0  nprof =756  V20/sig2 = 1.99018  Mc/M = 0.349138
+    Rt/Rc = 4.71952 (c = 0.673898)  Rh/Rc = 1.25895  Rvir/Rc = 1.50091
+    Rc/Rvir = 0.666261  Rh/Rvir = 0.838789  Rt/Rvir = 3.14443
+
+
+King model
+    w0 = 3  beta = 0  nprof =756  V20/sig2 = 1.99018  Mc/M = 0.349138
+    Rt/Rc = 4.71952 (c = 0.673898)  Rh/Rc = 1.25895  Rvir/Rc = 1.50091
+    Rc/Rvir = 0.666261  Rh/Rvir = 0.838789  Rt/Rvir = 3.14443
+
+set_com:  interpreting input parameters as N-body units
+          circular orbit speed = 5064.11,  period = 9.92582
+          r = (8000  0  0),  v = (0  5064.11  0)
+add_power_law:  interpreting input parameters as N-body units
+                warning:  -G but no physical scaling
+                A = 4.25e+06,  a = 0.1,  x = 1.2
+                center = (0  0  0)
+makemass: mass function is Power_Law, m_lower = 0.5,  m_upper = 50
+scale: internal com_vel = 0  0  0,  com_kin = 0
+scale: mass = 1
+scale: rscale = 0.0896312
+scale: com_pos = 0  0  0
+scale: r_virial = 0.1
+
+King model
+    w0 = 3  beta = 0  nprof =756  V20/sig2 = 1.99018  Mc/M = 0.349138
+    Rt/Rc = 4.71952 (c = 0.673898)  Rh/Rc = 1.25895  Rvir/Rc = 1.50091
+    Rc/Rvir = 0.666261  Rh/Rvir = 0.838789  Rt/Rvir = 3.14443
+
+makemass: mass function is Power_Law, m_lower = 0.5,  m_upper = 50
+scale: internal com_vel = 0  0  0,  com_kin = 0
+scale: massset_com:  interpreting input parameters = 1
+ as N-body unitsscale: rscale = 0.0895525
+scale: com_pos = 0
+  0  0
+scale: r_virial = 0.1
+          circular orbit speed = 5064.11,  period = 9.92582
+          r = (8000  0  0),  v = (0  5064.11  0)
+set_com:  interpreting input parameters as N-body units
+          circular orbit speed = 5064.11,  period = 9.92582
+          r = (8000  0  0),  v = (0  5064.11  0)
+add_power_law:  interpreting input parameters as N-body units
+                warning:  -G but no physical scaling
+                A = 4.25e+06,  a = 0.1,  x = 1.2
+                center = (0  0  0)
+makemass: mass function is Power_Law, m_lower = 0.5,  m_upper = 50
+scale: internal com_vel = 0  0  0,  com_kin = 0
+scale: mass = 1
+scale: rscale = 0.102243
+scale: com_pos = 0  0  0
+scale: r_virial = 0.1
+scale: internal com_vel = 0  0  0,  com_kin = 0
+scale: mass = 1
+scale: rscale = 0.105939
+scale: com_pos = 0  0  0
+scale: r_virial = 0.1
+add_power_law:  interpreting input parameters as N-body units
+                warning:  -G but no physical scaling
+                A = 4.25e+06,  a = 0.1,  x = 1.2
+                center = (0  0  0)
+set_com:  interpreting input parameters as N-body units
+          circular orbit speed = 5064.11,  period = 9.92582
+          r = (8000  0  0),  v = (0  5064.11  0)
+add_power_law:  interpreting input parameters as N-body units
+                warning:  -G but no physical scaling
+                A = 4.25e+06,  a = 0.1,  x = 1.2
+                center = (0  0  0)
+set_com:  interpreting input parameters as N-body units
+          circular orbit speed = 5064.11,  period = 9.92582
+          r = (8000  0  0),  v = (0  5064.11  0)
+add_power_law:  interpreting input parameters as N-body units
+                warning:  -G but no physical scaling
+                A = scale: internal 4.25e+06,  a = com_vel0.1 = ,  x = 1.2
+              0    center = (00    00,    com_kin0 = )0
+
+scale: mass = 1
+scale: rscale = 0.118882
+scale: com_pos = 0  0  0
+scale: r_virial = 0.1
+set_com:  interpreting input parameters as N-body units
+          circular orbit speed = 5064.11,  period = 9.92582
+          r = (8000  0  0),  v = (0  5064.11  0)
+set_com:  interpreting input parameters as N-body units
+          circular orbit speed = 5064.11,  period = 9.92582
+          r = (8000  0  0),  v = (0  5064.11  0)
+add_power_law:  interpreting input parameters as N-body units
+                warning:  -G but no physical scaling
+                A = 4.25e+06,  a = 0.1,  x = 1.2
+                center = (0  0  0)
+set_com:  interpreting input parameters as N-body units
+          circular orbit speed = 5064.11,  period = 9.92582
+          r = (8000  0  0),  v = (0  5064.11  0)
 
 King model
     w0 = 3  beta = 0  nprof =756  V20/sig2 = 1.99018  Mc/M = 0.349138
@@ -63,25 +178,16 @@ King model
 makemass: mass function is Power_Law, m_lower = 0.5,  m_upper = 50
 scale: internal com_vel = 0  0  0,  com_kin = 0
 scale: mass = 1
-scale: rscale = 0.0959155
+scale: rscale = 0.0946802
 scale: com_pos = 0  0  0
 scale: r_virial = 0.1
 add_power_law:  interpreting input parameters as N-body units
                 warning:  -G but no physical scaling
                 A = 4.25e+06,  a = 0.1,  x = 1.2
                 center = (0  0  0)
-initial mass = 1
-ext = 1
 set_com:  interpreting input parameters as N-body units
-ext again = 4
-using add_power_law
-MYCHANGE r = 8000  0  0
-MYCHANGE pot = 1.13746e+08
-MYCHANGE acc = -3205.65  0  0
-MYCHANGE jerk = 0  0  0
-vc values = 5064.111898304734495
-          circular orbit speed = 5064.111898304734495,  period = 9.925823810145980
-          r = (8000.000000000000000  0.000000000000000  0.000000000000000),  v = (0.000000000000000  5064.111898304734495  0.000000000000000)
+          circular orbit speed = 5064.11,  period = 9.92582
+          r = (8000  0  0),  v = (0  5064.11  0)
 
 King model
     w0 = 3  beta = 0  nprof =756  V20/sig2 = 1.99018  Mc/M = 0.349138
@@ -91,25 +197,16 @@ King model
 makemass: mass function is Power_Law, m_lower = 0.5,  m_upper = 50
 scale: internal com_vel = 0  0  0,  com_kin = 0
 scale: mass = 1
-scale: rscale = 0.0987867
+scale: rscale = 0.0934045
 scale: com_pos = 0  0  0
 scale: r_virial = 0.1
 add_power_law:  interpreting input parameters as N-body units
                 warning:  -G but no physical scaling
                 A = 4.25e+06,  a = 0.1,  x = 1.2
                 center = (0  0  0)
-initial mass = 1
-ext = 1
 set_com:  interpreting input parameters as N-body units
-ext again = 4
-using add_power_law
-MYCHANGE r = 8000  0  0
-MYCHANGE pot = 1.13746e+08
-MYCHANGE acc = -3205.65  0  0
-MYCHANGE jerk = 0  0  0
-vc values = 5064.111898304734495
-          circular orbit speed = 5064.111898304734495,  period = 9.925823810145980
-          r = (8000.000000000000000  0.000000000000000  0.000000000000000),  v = (0.000000000000000  5064.111898304734495  0.000000000000000)
+          circular orbit speed = 5064.11,  period = 9.92582
+          r = (8000  0  0),  v = (0  5064.11  0)
 
 King model
     w0 = 3  beta = 0  nprof =756  V20/sig2 = 1.99018  Mc/M = 0.349138
@@ -119,25 +216,16 @@ King model
 makemass: mass function is Power_Law, m_lower = 0.5,  m_upper = 50
 scale: internal com_vel = 0  0  0,  com_kin = 0
 scale: mass = 1
-scale: rscale = 0.0799659
+scale: rscale = 0.101513
 scale: com_pos = 0  0  0
 scale: r_virial = 0.1
 add_power_law:  interpreting input parameters as N-body units
                 warning:  -G but no physical scaling
                 A = 4.25e+06,  a = 0.1,  x = 1.2
                 center = (0  0  0)
-initial mass = 1
-ext = 1
 set_com:  interpreting input parameters as N-body units
-ext again = 4
-using add_power_law
-MYCHANGE r = 8000  0  0
-MYCHANGE pot = 1.13746e+08
-MYCHANGE acc = -3205.65  0  0
-MYCHANGE jerk = 0  0  0
-vc values = 5064.111898304734495
-          circular orbit speed = 5064.111898304734495,  period = 9.925823810145980
-          r = (8000.000000000000000  0.000000000000000  0.000000000000000),  v = (0.000000000000000  5064.111898304734495  0.000000000000000)
+          circular orbit speed = 5064.11,  period = 9.92582
+          r = (8000  0  0),  v = (0  5064.11  0)
 
 King model
     w0 = 3  beta = 0  nprof =756  V20/sig2 = 1.99018  Mc/M = 0.349138
@@ -147,25 +235,16 @@ King model
 makemass: mass function is Power_Law, m_lower = 0.5,  m_upper = 50
 scale: internal com_vel = 0  0  0,  com_kin = 0
 scale: mass = 1
-scale: rscale = 0.0868583
+scale: rscale = 0.0850589
 scale: com_pos = 0  0  0
 scale: r_virial = 0.1
 add_power_law:  interpreting input parameters as N-body units
                 warning:  -G but no physical scaling
                 A = 4.25e+06,  a = 0.1,  x = 1.2
                 center = (0  0  0)
-initial mass = 1
-ext = 1
 set_com:  interpreting input parameters as N-body units
-ext again = 4
-using add_power_law
-MYCHANGE r = 8000  0  0
-MYCHANGE pot = 1.13746e+08
-MYCHANGE acc = -3205.65  0  0
-MYCHANGE jerk = 0  0  0
-vc values = 5064.111898304734495
-          circular orbit speed = 5064.111898304734495,  period = 9.925823810145980
-          r = (8000.000000000000000  0.000000000000000  0.000000000000000),  v = (0.000000000000000  5064.111898304734495  0.000000000000000)
+          circular orbit speed = 5064.11,  period = 9.92582
+          r = (8000  0  0),  v = (0  5064.11  0)
 
 King model
     w0 = 3  beta = 0  nprof =756  V20/sig2 = 1.99018  Mc/M = 0.349138
@@ -175,25 +254,16 @@ King model
 makemass: mass function is Power_Law, m_lower = 0.5,  m_upper = 50
 scale: internal com_vel = 0  0  0,  com_kin = 0
 scale: mass = 1
-scale: rscale = 0.101304
+scale: rscale = 0.0860696
 scale: com_pos = 0  0  0
 scale: r_virial = 0.1
 add_power_law:  interpreting input parameters as N-body units
                 warning:  -G but no physical scaling
                 A = 4.25e+06,  a = 0.1,  x = 1.2
                 center = (0  0  0)
-initial mass = 1
-ext = 1
 set_com:  interpreting input parameters as N-body units
-ext again = 4
-using add_power_law
-MYCHANGE r = 8000  0  0
-MYCHANGE pot = 1.13746e+08
-MYCHANGE acc = -3205.65  0  0
-MYCHANGE jerk = 0  0  0
-vc values = 5064.111898304734495
-          circular orbit speed = 5064.111898304734495,  period = 9.925823810145980
-          r = (8000.000000000000000  0.000000000000000  0.000000000000000),  v = (0.000000000000000  5064.111898304734495  0.000000000000000)
+          circular orbit speed = 5064.11,  period = 9.92582
+          r = (8000  0  0),  v = (0  5064.11  0)
 
 King model
     w0 = 3  beta = 0  nprof =756  V20/sig2 = 1.99018  Mc/M = 0.349138
@@ -203,25 +273,16 @@ King model
 makemass: mass function is Power_Law, m_lower = 0.5,  m_upper = 50
 scale: internal com_vel = 0  0  0,  com_kin = 0
 scale: mass = 1
-scale: rscale = 0.104524
+scale: rscale = 0.0873971
 scale: com_pos = 0  0  0
 scale: r_virial = 0.1
 add_power_law:  interpreting input parameters as N-body units
                 warning:  -G but no physical scaling
                 A = 4.25e+06,  a = 0.1,  x = 1.2
                 center = (0  0  0)
-initial mass = 1
-ext = 1
 set_com:  interpreting input parameters as N-body units
-ext again = 4
-using add_power_law
-MYCHANGE r = 8000  0  0
-MYCHANGE pot = 1.13746e+08
-MYCHANGE acc = -3205.65  0  0
-MYCHANGE jerk = 0  0  0
-vc values = 5064.111898304734495
-          circular orbit speed = 5064.111898304734495,  period = 9.925823810145980
-          r = (8000.000000000000000  0.000000000000000  0.000000000000000),  v = (0.000000000000000  5064.111898304734495  0.000000000000000)
+          circular orbit speed = 5064.11,  period = 9.92582
+          r = (8000  0  0),  v = (0  5064.11  0)
 
 King model
     w0 = 3  beta = 0  nprof =756  V20/sig2 = 1.99018  Mc/M = 0.349138
@@ -231,25 +292,16 @@ King model
 makemass: mass function is Power_Law, m_lower = 0.5,  m_upper = 50
 scale: internal com_vel = 0  0  0,  com_kin = 0
 scale: mass = 1
-scale: rscale = 0.118867
+scale: rscale = 0.103102
 scale: com_pos = 0  0  0
 scale: r_virial = 0.1
 add_power_law:  interpreting input parameters as N-body units
                 warning:  -G but no physical scaling
                 A = 4.25e+06,  a = 0.1,  x = 1.2
                 center = (0  0  0)
-initial mass = 1
-ext = 1
 set_com:  interpreting input parameters as N-body units
-ext again = 4
-using add_power_law
-MYCHANGE r = 8000  0  0
-MYCHANGE pot = 1.13746e+08
-MYCHANGE acc = -3205.65  0  0
-MYCHANGE jerk = 0  0  0
-vc values = 5064.111898304734495
-          circular orbit speed = 5064.111898304734495,  period = 9.925823810145980
-          r = (8000.000000000000000  0.000000000000000  0.000000000000000),  v = (0.000000000000000  5064.111898304734495  0.000000000000000)
+          circular orbit speed = 5064.11,  period = 9.92582
+          r = (8000  0  0),  v = (0  5064.11  0)
 
 King model
     w0 = 3  beta = 0  nprof =756  V20/sig2 = 1.99018  Mc/M = 0.349138
@@ -259,25 +311,16 @@ King model
 makemass: mass function is Power_Law, m_lower = 0.5,  m_upper = 50
 scale: internal com_vel = 0  0  0,  com_kin = 0
 scale: mass = 1
-scale: rscale = 0.0994146
+scale: rscale = 0.0866706
 scale: com_pos = 0  0  0
 scale: r_virial = 0.1
 add_power_law:  interpreting input parameters as N-body units
                 warning:  -G but no physical scaling
                 A = 4.25e+06,  a = 0.1,  x = 1.2
                 center = (0  0  0)
-initial mass = 1
-ext = 1
 set_com:  interpreting input parameters as N-body units
-ext again = 4
-using add_power_law
-MYCHANGE r = 8000  0  0
-MYCHANGE pot = 1.13746e+08
-MYCHANGE acc = -3205.65  0  0
-MYCHANGE jerk = 0  0  0
-vc values = 5064.111898304734495
-          circular orbit speed = 5064.111898304734495,  period = 9.925823810145980
-          r = (8000.000000000000000  0.000000000000000  0.000000000000000),  v = (0.000000000000000  5064.111898304734495  0.000000000000000)
+          circular orbit speed = 5064.11,  period = 9.92582
+          r = (8000  0  0),  v = (0  5064.11  0)
 
 King model
     w0 = 3  beta = 0  nprof =756  V20/sig2 = 1.99018  Mc/M = 0.349138
@@ -287,25 +330,16 @@ King model
 makemass: mass function is Power_Law, m_lower = 0.5,  m_upper = 50
 scale: internal com_vel = 0  0  0,  com_kin = 0
 scale: mass = 1
-scale: rscale = 0.087942
+scale: rscale = 0.0964211
 scale: com_pos = 0  0  0
 scale: r_virial = 0.1
 add_power_law:  interpreting input parameters as N-body units
                 warning:  -G but no physical scaling
                 A = 4.25e+06,  a = 0.1,  x = 1.2
                 center = (0  0  0)
-initial mass = 1
-ext = 1
 set_com:  interpreting input parameters as N-body units
-ext again = 4
-using add_power_law
-MYCHANGE r = 8000  0  0
-MYCHANGE pot = 1.13746e+08
-MYCHANGE acc = -3205.65  0  0
-MYCHANGE jerk = 0  0  0
-vc values = 5064.111898304734495
-          circular orbit speed = 5064.111898304734495,  period = 9.925823810145980
-          r = (8000.000000000000000  0.000000000000000  0.000000000000000),  v = (0.000000000000000  5064.111898304734495  0.000000000000000)
+          circular orbit speed = 5064.11,  period = 9.92582
+          r = (8000  0  0),  v = (0  5064.11  0)
 
 King model
     w0 = 3  beta = 0  nprof =756  V20/sig2 = 1.99018  Mc/M = 0.349138
@@ -315,25 +349,16 @@ King model
 makemass: mass function is Power_Law, m_lower = 0.5,  m_upper = 50
 scale: internal com_vel = 0  0  0,  com_kin = 0
 scale: mass = 1
-scale: rscale = 0.104852
+scale: rscale = 0.100238
 scale: com_pos = 0  0  0
 scale: r_virial = 0.1
 add_power_law:  interpreting input parameters as N-body units
                 warning:  -G but no physical scaling
                 A = 4.25e+06,  a = 0.1,  x = 1.2
                 center = (0  0  0)
-initial mass = 1
-ext = 1
 set_com:  interpreting input parameters as N-body units
-ext again = 4
-using add_power_law
-MYCHANGE r = 8000  0  0
-MYCHANGE pot = 1.13746e+08
-MYCHANGE acc = -3205.65  0  0
-MYCHANGE jerk = 0  0  0
-vc values = 5064.111898304734495
-          circular orbit speed = 5064.111898304734495,  period = 9.925823810145980
-          r = (8000.000000000000000  0.000000000000000  0.000000000000000),  v = (0.000000000000000  5064.111898304734495  0.000000000000000)
+          circular orbit speed = 5064.11,  period = 9.92582
+          r = (8000  0  0),  v = (0  5064.11  0)
 
 King model
     w0 = 3  beta = 0  nprof =756  V20/sig2 = 1.99018  Mc/M = 0.349138
@@ -343,25 +368,16 @@ King model
 makemass: mass function is Power_Law, m_lower = 0.5,  m_upper = 50
 scale: internal com_vel = 0  0  0,  com_kin = 0
 scale: mass = 1
-scale: rscale = 0.085441
+scale: rscale = 0.0949144
 scale: com_pos = 0  0  0
 scale: r_virial = 0.1
 add_power_law:  interpreting input parameters as N-body units
                 warning:  -G but no physical scaling
                 A = 4.25e+06,  a = 0.1,  x = 1.2
                 center = (0  0  0)
-initial mass = 1
-ext = 1
 set_com:  interpreting input parameters as N-body units
-ext again = 4
-using add_power_law
-MYCHANGE r = 8000  0  0
-MYCHANGE pot = 1.13746e+08
-MYCHANGE acc = -3205.65  0  0
-MYCHANGE jerk = 0  0  0
-vc values = 5064.111898304734495
-          circular orbit speed = 5064.111898304734495,  period = 9.925823810145980
-          r = (8000.000000000000000  0.000000000000000  0.000000000000000),  v = (0.000000000000000  5064.111898304734495  0.000000000000000)
+          circular orbit speed = 5064.11,  period = 9.92582
+          r = (8000  0  0),  v = (0  5064.11  0)
 
 King model
     w0 = 3  beta = 0  nprof =756  V20/sig2 = 1.99018  Mc/M = 0.349138
@@ -371,25 +387,16 @@ King model
 makemass: mass function is Power_Law, m_lower = 0.5,  m_upper = 50
 scale: internal com_vel = 0  0  0,  com_kin = 0
 scale: mass = 1
-scale: rscale = 0.0840572
+scale: rscale = 0.0997504
 scale: com_pos = 0  0  0
 scale: r_virial = 0.1
 add_power_law:  interpreting input parameters as N-body units
                 warning:  -G but no physical scaling
                 A = 4.25e+06,  a = 0.1,  x = 1.2
                 center = (0  0  0)
-initial mass = 1
-ext = 1
 set_com:  interpreting input parameters as N-body units
-ext again = 4
-using add_power_law
-MYCHANGE r = 8000  0  0
-MYCHANGE pot = 1.13746e+08
-MYCHANGE acc = -3205.65  0  0
-MYCHANGE jerk = 0  0  0
-vc values = 5064.111898304734495
-          circular orbit speed = 5064.111898304734495,  period = 9.925823810145980
-          r = (8000.000000000000000  0.000000000000000  0.000000000000000),  v = (0.000000000000000  5064.111898304734495  0.000000000000000)
+          circular orbit speed = 5064.11,  period = 9.92582
+          r = (8000  0  0),  v = (0  5064.11  0)
 
 King model
     w0 = 3  beta = 0  nprof =756  V20/sig2 = 1.99018  Mc/M = 0.349138
@@ -399,25 +406,16 @@ King model
 makemass: mass function is Power_Law, m_lower = 0.5,  m_upper = 50
 scale: internal com_vel = 0  0  0,  com_kin = 0
 scale: mass = 1
-scale: rscale = 0.0819488
+scale: rscale = 0.106209
 scale: com_pos = 0  0  0
 scale: r_virial = 0.1
 add_power_law:  interpreting input parameters as N-body units
                 warning:  -G but no physical scaling
                 A = 4.25e+06,  a = 0.1,  x = 1.2
                 center = (0  0  0)
-initial mass = 1
-ext = 1
 set_com:  interpreting input parameters as N-body units
-ext again = 4
-using add_power_law
-MYCHANGE r = 8000  0  0
-MYCHANGE pot = 1.13746e+08
-MYCHANGE acc = -3205.65  0  0
-MYCHANGE jerk = 0  0  0
-vc values = 5064.111898304734495
-          circular orbit speed = 5064.111898304734495,  period = 9.925823810145980
-          r = (8000.000000000000000  0.000000000000000  0.000000000000000),  v = (0.000000000000000  5064.111898304734495  0.000000000000000)
+          circular orbit speed = 5064.11,  period = 9.92582
+          r = (8000  0  0),  v = (0  5064.11  0)
 
 King model
     w0 = 3  beta = 0  nprof =756  V20/sig2 = 1.99018  Mc/M = 0.349138
@@ -427,25 +425,16 @@ King model
 makemass: mass function is Power_Law, m_lower = 0.5,  m_upper = 50
 scale: internal com_vel = 0  0  0,  com_kin = 0
 scale: mass = 1
-scale: rscale = 0.118923
+scale: rscale = 0.0910803
 scale: com_pos = 0  0  0
 scale: r_virial = 0.1
 add_power_law:  interpreting input parameters as N-body units
                 warning:  -G but no physical scaling
                 A = 4.25e+06,  a = 0.1,  x = 1.2
                 center = (0  0  0)
-initial mass = 1
-ext = 1
 set_com:  interpreting input parameters as N-body units
-ext again = 4
-using add_power_law
-MYCHANGE r = 8000  0  0
-MYCHANGE pot = 1.13746e+08
-MYCHANGE acc = -3205.65  0  0
-MYCHANGE jerk = 0  0  0
-vc values = 5064.111898304734495
-          circular orbit speed = 5064.111898304734495,  period = 9.925823810145980
-          r = (8000.000000000000000  0.000000000000000  0.000000000000000),  v = (0.000000000000000  5064.111898304734495  0.000000000000000)
+          circular orbit speed = 5064.11,  period = 9.92582
+          r = (8000  0  0),  v = (0  5064.11  0)
 
 King model
     w0 = 3  beta = 0  nprof =756  V20/sig2 = 1.99018  Mc/M = 0.349138
@@ -455,25 +444,16 @@ King model
 makemass: mass function is Power_Law, m_lower = 0.5,  m_upper = 50
 scale: internal com_vel = 0  0  0,  com_kin = 0
 scale: mass = 1
-scale: rscale = 0.0857568
+scale: rscale = 0.0943837
 scale: com_pos = 0  0  0
 scale: r_virial = 0.1
 add_power_law:  interpreting input parameters as N-body units
                 warning:  -G but no physical scaling
                 A = 4.25e+06,  a = 0.1,  x = 1.2
                 center = (0  0  0)
-initial mass = 1
-ext = 1
 set_com:  interpreting input parameters as N-body units
-ext again = 4
-using add_power_law
-MYCHANGE r = 8000  0  0
-MYCHANGE pot = 1.13746e+08
-MYCHANGE acc = -3205.65  0  0
-MYCHANGE jerk = 0  0  0
-vc values = 5064.111898304734495
-          circular orbit speed = 5064.111898304734495,  period = 9.925823810145980
-          r = (8000.000000000000000  0.000000000000000  0.000000000000000),  v = (0.000000000000000  5064.111898304734495  0.000000000000000)
+          circular orbit speed = 5064.11,  period = 9.92582
+          r = (8000  0  0),  v = (0  5064.11  0)
 
 King model
     w0 = 3  beta = 0  nprof =756  V20/sig2 = 1.99018  Mc/M = 0.349138
@@ -483,25 +463,16 @@ King model
 makemass: mass function is Power_Law, m_lower = 0.5,  m_upper = 50
 scale: internal com_vel = 0  0  0,  com_kin = 0
 scale: mass = 1
-scale: rscale = 0.0984904
+scale: rscale = 0.0971416
 scale: com_pos = 0  0  0
 scale: r_virial = 0.1
 add_power_law:  interpreting input parameters as N-body units
                 warning:  -G but no physical scaling
                 A = 4.25e+06,  a = 0.1,  x = 1.2
                 center = (0  0  0)
-initial mass = 1
-ext = 1
 set_com:  interpreting input parameters as N-body units
-ext again = 4
-using add_power_law
-MYCHANGE r = 8000  0  0
-MYCHANGE pot = 1.13746e+08
-MYCHANGE acc = -3205.65  0  0
-MYCHANGE jerk = 0  0  0
-vc values = 5064.111898304734495
-          circular orbit speed = 5064.111898304734495,  period = 9.925823810145980
-          r = (8000.000000000000000  0.000000000000000  0.000000000000000),  v = (0.000000000000000  5064.111898304734495  0.000000000000000)
+          circular orbit speed = 5064.11,  period = 9.92582
+          r = (8000  0  0),  v = (0  5064.11  0)
 
 King model
     w0 = 3  beta = 0  nprof =756  V20/sig2 = 1.99018  Mc/M = 0.349138
@@ -511,25 +482,16 @@ King model
 makemass: mass function is Power_Law, m_lower = 0.5,  m_upper = 50
 scale: internal com_vel = 0  0  0,  com_kin = 0
 scale: mass = 1
-scale: rscale = 0.105431
+scale: rscale = 0.112715
 scale: com_pos = 0  0  0
 scale: r_virial = 0.1
 add_power_law:  interpreting input parameters as N-body units
                 warning:  -G but no physical scaling
                 A = 4.25e+06,  a = 0.1,  x = 1.2
                 center = (0  0  0)
-initial mass = 1
-ext = 1
 set_com:  interpreting input parameters as N-body units
-ext again = 4
-using add_power_law
-MYCHANGE r = 8000  0  0
-MYCHANGE pot = 1.13746e+08
-MYCHANGE acc = -3205.65  0  0
-MYCHANGE jerk = 0  0  0
-vc values = 5064.111898304734495
-          circular orbit speed = 5064.111898304734495,  period = 9.925823810145980
-          r = (8000.000000000000000  0.000000000000000  0.000000000000000),  v = (0.000000000000000  5064.111898304734495  0.000000000000000)
+          circular orbit speed = 5064.11,  period = 9.92582
+          r = (8000  0  0),  v = (0  5064.11  0)
 
 King model
     w0 = 3  beta = 0  nprof =756  V20/sig2 = 1.99018  Mc/M = 0.349138
@@ -539,25 +501,16 @@ King model
 makemass: mass function is Power_Law, m_lower = 0.5,  m_upper = 50
 scale: internal com_vel = 0  0  0,  com_kin = 0
 scale: mass = 1
-scale: rscale = 0.103308
+scale: rscale = 0.0959997
 scale: com_pos = 0  0  0
 scale: r_virial = 0.1
 add_power_law:  interpreting input parameters as N-body units
                 warning:  -G but no physical scaling
                 A = 4.25e+06,  a = 0.1,  x = 1.2
                 center = (0  0  0)
-initial mass = 1
-ext = 1
 set_com:  interpreting input parameters as N-body units
-ext again = 4
-using add_power_law
-MYCHANGE r = 8000  0  0
-MYCHANGE pot = 1.13746e+08
-MYCHANGE acc = -3205.65  0  0
-MYCHANGE jerk = 0  0  0
-vc values = 5064.111898304734495
-          circular orbit speed = 5064.111898304734495,  period = 9.925823810145980
-          r = (8000.000000000000000  0.000000000000000  0.000000000000000),  v = (0.000000000000000  5064.111898304734495  0.000000000000000)
+          circular orbit speed = 5064.11,  period = 9.92582
+          r = (8000  0  0),  v = (0  5064.11  0)
 
 King model
     w0 = 3  beta = 0  nprof =756  V20/sig2 = 1.99018  Mc/M = 0.349138
@@ -567,25 +520,16 @@ King model
 makemass: mass function is Power_Law, m_lower = 0.5,  m_upper = 50
 scale: internal com_vel = 0  0  0,  com_kin = 0
 scale: mass = 1
-scale: rscale = 0.0959569
+scale: rscale = 0.0934251
 scale: com_pos = 0  0  0
 scale: r_virial = 0.1
 add_power_law:  interpreting input parameters as N-body units
                 warning:  -G but no physical scaling
                 A = 4.25e+06,  a = 0.1,  x = 1.2
                 center = (0  0  0)
-initial mass = 1
-ext = 1
 set_com:  interpreting input parameters as N-body units
-ext again = 4
-using add_power_law
-MYCHANGE r = 8000  0  0
-MYCHANGE pot = 1.13746e+08
-MYCHANGE acc = -3205.65  0  0
-MYCHANGE jerk = 0  0  0
-vc values = 5064.111898304734495
-          circular orbit speed = 5064.111898304734495,  period = 9.925823810145980
-          r = (8000.000000000000000  0.000000000000000  0.000000000000000),  v = (0.000000000000000  5064.111898304734495  0.000000000000000)
+          circular orbit speed = 5064.11,  period = 9.92582
+          r = (8000  0  0),  v = (0  5064.11  0)
 
 King model
     w0 = 3  beta = 0  nprof =756  V20/sig2 = 1.99018  Mc/M = 0.349138
@@ -595,25 +539,16 @@ King model
 makemass: mass function is Power_Law, m_lower = 0.5,  m_upper = 50
 scale: internal com_vel = 0  0  0,  com_kin = 0
 scale: mass = 1
-scale: rscale = 0.104204
+scale: rscale = 0.10157
 scale: com_pos = 0  0  0
 scale: r_virial = 0.1
 add_power_law:  interpreting input parameters as N-body units
                 warning:  -G but no physical scaling
                 A = 4.25e+06,  a = 0.1,  x = 1.2
                 center = (0  0  0)
-initial mass = 1
-ext = 1
 set_com:  interpreting input parameters as N-body units
-ext again = 4
-using add_power_law
-MYCHANGE r = 8000  0  0
-MYCHANGE pot = 1.13746e+08
-MYCHANGE acc = -3205.65  0  0
-MYCHANGE jerk = 0  0  0
-vc values = 5064.111898304734495
-          circular orbit speed = 5064.111898304734495,  period = 9.925823810145980
-          r = (8000.000000000000000  0.000000000000000  0.000000000000000),  v = (0.000000000000000  5064.111898304734495  0.000000000000000)
+          circular orbit speed = 5064.11,  period = 9.92582
+          r = (8000  0  0),  v = (0  5064.11  0)
 
 King model
     w0 = 3  beta = 0  nprof =756  V20/sig2 = 1.99018  Mc/M = 0.349138
@@ -623,25 +558,16 @@ King model
 makemass: mass function is Power_Law, m_lower = 0.5,  m_upper = 50
 scale: internal com_vel = 0  0  0,  com_kin = 0
 scale: mass = 1
-scale: rscale = 0.0862228
+scale: rscale = 0.1012
 scale: com_pos = 0  0  0
 scale: r_virial = 0.1
 add_power_law:  interpreting input parameters as N-body units
                 warning:  -G but no physical scaling
                 A = 4.25e+06,  a = 0.1,  x = 1.2
                 center = (0  0  0)
-initial mass = 1
-ext = 1
 set_com:  interpreting input parameters as N-body units
-ext again = 4
-using add_power_law
-MYCHANGE r = 8000  0  0
-MYCHANGE pot = 1.13746e+08
-MYCHANGE acc = -3205.65  0  0
-MYCHANGE jerk = 0  0  0
-vc values = 5064.111898304734495
-          circular orbit speed = 5064.111898304734495,  period = 9.925823810145980
-          r = (8000.000000000000000  0.000000000000000  0.000000000000000),  v = (0.000000000000000  5064.111898304734495  0.000000000000000)
+          circular orbit speed = 5064.11,  period = 9.92582
+          r = (8000  0  0),  v = (0  5064.11  0)
 
 King model
     w0 = 3  beta = 0  nprof =756  V20/sig2 = 1.99018  Mc/M = 0.349138
@@ -651,25 +577,16 @@ King model
 makemass: mass function is Power_Law, m_lower = 0.5,  m_upper = 50
 scale: internal com_vel = 0  0  0,  com_kin = 0
 scale: mass = 1
-scale: rscale = 0.0758384
+scale: rscale = 0.0787247
 scale: com_pos = 0  0  0
 scale: r_virial = 0.1
 add_power_law:  interpreting input parameters as N-body units
                 warning:  -G but no physical scaling
                 A = 4.25e+06,  a = 0.1,  x = 1.2
                 center = (0  0  0)
-initial mass = 1
-ext = 1
 set_com:  interpreting input parameters as N-body units
-ext again = 4
-using add_power_law
-MYCHANGE r = 8000  0  0
-MYCHANGE pot = 1.13746e+08
-MYCHANGE acc = -3205.65  0  0
-MYCHANGE jerk = 0  0  0
-vc values = 5064.111898304734495
-          circular orbit speed = 5064.111898304734495,  period = 9.925823810145980
-          r = (8000.000000000000000  0.000000000000000  0.000000000000000),  v = (0.000000000000000  5064.111898304734495  0.000000000000000)
+          circular orbit speed = 5064.11,  period = 9.92582
+          r = (8000  0  0),  v = (0  5064.11  0)
 
 King model
     w0 = 3  beta = 0  nprof =756  V20/sig2 = 1.99018  Mc/M = 0.349138
@@ -679,25 +596,16 @@ King model
 makemass: mass function is Power_Law, m_lower = 0.5,  m_upper = 50
 scale: internal com_vel = 0  0  0,  com_kin = 0
 scale: mass = 1
-scale: rscale = 0.0999382
+scale: rscale = 0.102412
 scale: com_pos = 0  0  0
 scale: r_virial = 0.1
 add_power_law:  interpreting input parameters as N-body units
                 warning:  -G but no physical scaling
                 A = 4.25e+06,  a = 0.1,  x = 1.2
                 center = (0  0  0)
-initial mass = 1
-ext = 1
 set_com:  interpreting input parameters as N-body units
-ext again = 4
-using add_power_law
-MYCHANGE r = 8000  0  0
-MYCHANGE pot = 1.13746e+08
-MYCHANGE acc = -3205.65  0  0
-MYCHANGE jerk = 0  0  0
-vc values = 5064.111898304734495
-          circular orbit speed = 5064.111898304734495,  period = 9.925823810145980
-          r = (8000.000000000000000  0.000000000000000  0.000000000000000),  v = (0.000000000000000  5064.111898304734495  0.000000000000000)
+          circular orbit speed = 5064.11,  period = 9.92582
+          r = (8000  0  0),  v = (0  5064.11  0)
 
 King model
     w0 = 3  beta = 0  nprof =756  V20/sig2 = 1.99018  Mc/M = 0.349138
@@ -707,25 +615,16 @@ King model
 makemass: mass function is Power_Law, m_lower = 0.5,  m_upper = 50
 scale: internal com_vel = 0  0  0,  com_kin = 0
 scale: mass = 1
-scale: rscale = 0.104818
+scale: rscale = 0.111224
 scale: com_pos = 0  0  0
 scale: r_virial = 0.1
 add_power_law:  interpreting input parameters as N-body units
                 warning:  -G but no physical scaling
                 A = 4.25e+06,  a = 0.1,  x = 1.2
                 center = (0  0  0)
-initial mass = 1
-ext = 1
 set_com:  interpreting input parameters as N-body units
-ext again = 4
-using add_power_law
-MYCHANGE r = 8000  0  0
-MYCHANGE pot = 1.13746e+08
-MYCHANGE acc = -3205.65  0  0
-MYCHANGE jerk = 0  0  0
-vc values = 5064.111898304734495
-          circular orbit speed = 5064.111898304734495,  period = 9.925823810145980
-          r = (8000.000000000000000  0.000000000000000  0.000000000000000),  v = (0.000000000000000  5064.111898304734495  0.000000000000000)
+          circular orbit speed = 5064.11,  period = 9.92582
+          r = (8000  0  0),  v = (0  5064.11  0)
 
 King model
     w0 = 3  beta = 0  nprof =756  V20/sig2 = 1.99018  Mc/M = 0.349138
@@ -735,25 +634,16 @@ King model
 makemass: mass function is Power_Law, m_lower = 0.5,  m_upper = 50
 scale: internal com_vel = 0  0  0,  com_kin = 0
 scale: mass = 1
-scale: rscale = 0.0919523
+scale: rscale = 0.110612
 scale: com_pos = 0  0  0
 scale: r_virial = 0.1
 add_power_law:  interpreting input parameters as N-body units
                 warning:  -G but no physical scaling
                 A = 4.25e+06,  a = 0.1,  x = 1.2
                 center = (0  0  0)
-initial mass = 1
-ext = 1
 set_com:  interpreting input parameters as N-body units
-ext again = 4
-using add_power_law
-MYCHANGE r = 8000  0  0
-MYCHANGE pot = 1.13746e+08
-MYCHANGE acc = -3205.65  0  0
-MYCHANGE jerk = 0  0  0
-vc values = 5064.111898304734495
-          circular orbit speed = 5064.111898304734495,  period = 9.925823810145980
-          r = (8000.000000000000000  0.000000000000000  0.000000000000000),  v = (0.000000000000000  5064.111898304734495  0.000000000000000)
+          circular orbit speed = 5064.11,  period = 9.92582
+          r = (8000  0  0),  v = (0  5064.11  0)
 
 King model
     w0 = 3  beta = 0  nprof =756  V20/sig2 = 1.99018  Mc/M = 0.349138
@@ -763,25 +653,16 @@ King model
 makemass: mass function is Power_Law, m_lower = 0.5,  m_upper = 50
 scale: internal com_vel = 0  0  0,  com_kin = 0
 scale: mass = 1
-scale: rscale = 0.0864496
+scale: rscale = 0.0902903
 scale: com_pos = 0  0  0
 scale: r_virial = 0.1
 add_power_law:  interpreting input parameters as N-body units
                 warning:  -G but no physical scaling
                 A = 4.25e+06,  a = 0.1,  x = 1.2
                 center = (0  0  0)
-initial mass = 1
-ext = 1
 set_com:  interpreting input parameters as N-body units
-ext again = 4
-using add_power_law
-MYCHANGE r = 8000  0  0
-MYCHANGE pot = 1.13746e+08
-MYCHANGE acc = -3205.65  0  0
-MYCHANGE jerk = 0  0  0
-vc values = 5064.111898304734495
-          circular orbit speed = 5064.111898304734495,  period = 9.925823810145980
-          r = (8000.000000000000000  0.000000000000000  0.000000000000000),  v = (0.000000000000000  5064.111898304734495  0.000000000000000)
+          circular orbit speed = 5064.11,  period = 9.92582
+          r = (8000  0  0),  v = (0  5064.11  0)
 
 King model
     w0 = 3  beta = 0  nprof =756  V20/sig2 = 1.99018  Mc/M = 0.349138
@@ -791,25 +672,16 @@ King model
 makemass: mass function is Power_Law, m_lower = 0.5,  m_upper = 50
 scale: internal com_vel = 0  0  0,  com_kin = 0
 scale: mass = 1
-scale: rscale = 0.0970605
+scale: rscale = 0.102275
 scale: com_pos = 0  0  0
 scale: r_virial = 0.1
 add_power_law:  interpreting input parameters as N-body units
                 warning:  -G but no physical scaling
                 A = 4.25e+06,  a = 0.1,  x = 1.2
                 center = (0  0  0)
-initial mass = 1
-ext = 1
 set_com:  interpreting input parameters as N-body units
-ext again = 4
-using add_power_law
-MYCHANGE r = 8000  0  0
-MYCHANGE pot = 1.13746e+08
-MYCHANGE acc = -3205.65  0  0
-MYCHANGE jerk = 0  0  0
-vc values = 5064.111898304734495
-          circular orbit speed = 5064.111898304734495,  period = 9.925823810145980
-          r = (8000.000000000000000  0.000000000000000  0.000000000000000),  v = (0.000000000000000  5064.111898304734495  0.000000000000000)
+          circular orbit speed = 5064.11,  period = 9.92582
+          r = (8000  0  0),  v = (0  5064.11  0)
 
 King model
     w0 = 3  beta = 0  nprof =756  V20/sig2 = 1.99018  Mc/M = 0.349138
@@ -819,25 +691,16 @@ King model
 makemass: mass function is Power_Law, m_lower = 0.5,  m_upper = 50
 scale: internal com_vel = 0  0  0,  com_kin = 0
 scale: mass = 1
-scale: rscale = 0.115469
+scale: rscale = 0.091574
 scale: com_pos = 0  0  0
 scale: r_virial = 0.1
 add_power_law:  interpreting input parameters as N-body units
                 warning:  -G but no physical scaling
                 A = 4.25e+06,  a = 0.1,  x = 1.2
                 center = (0  0  0)
-initial mass = 1
-ext = 1
 set_com:  interpreting input parameters as N-body units
-ext again = 4
-using add_power_law
-MYCHANGE r = 8000  0  0
-MYCHANGE pot = 1.13746e+08
-MYCHANGE acc = -3205.65  0  0
-MYCHANGE jerk = 0  0  0
-vc values = 5064.111898304734495
-          circular orbit speed = 5064.111898304734495,  period = 9.925823810145980
-          r = (8000.000000000000000  0.000000000000000  0.000000000000000),  v = (0.000000000000000  5064.111898304734495  0.000000000000000)
+          circular orbit speed = 5064.11,  period = 9.92582
+          r = (8000  0  0),  v = (0  5064.11  0)
 
 King model
     w0 = 3  beta = 0  nprof =756  V20/sig2 = 1.99018  Mc/M = 0.349138
@@ -847,25 +710,16 @@ King model
 makemass: mass function is Power_Law, m_lower = 0.5,  m_upper = 50
 scale: internal com_vel = 0  0  0,  com_kin = 0
 scale: mass = 1
-scale: rscale = 0.0700943
+scale: rscale = 0.0840129
 scale: com_pos = 0  0  0
 scale: r_virial = 0.1
 add_power_law:  interpreting input parameters as N-body units
                 warning:  -G but no physical scaling
                 A = 4.25e+06,  a = 0.1,  x = 1.2
                 center = (0  0  0)
-initial mass = 1
-ext = 1
 set_com:  interpreting input parameters as N-body units
-ext again = 4
-using add_power_law
-MYCHANGE r = 8000  0  0
-MYCHANGE pot = 1.13746e+08
-MYCHANGE acc = -3205.65  0  0
-MYCHANGE jerk = 0  0  0
-vc values = 5064.111898304734495
-          circular orbit speed = 5064.111898304734495,  period = 9.925823810145980
-          r = (8000.000000000000000  0.000000000000000  0.000000000000000),  v = (0.000000000000000  5064.111898304734495  0.000000000000000)
+          circular orbit speed = 5064.11,  period = 9.92582
+          r = (8000  0  0),  v = (0  5064.11  0)
 
 King model
     w0 = 3  beta = 0  nprof =756  V20/sig2 = 1.99018  Mc/M = 0.349138
@@ -875,25 +729,16 @@ King model
 makemass: mass function is Power_Law, m_lower = 0.5,  m_upper = 50
 scale: internal com_vel = 0  0  0,  com_kin = 0
 scale: mass = 1
-scale: rscale = 0.0980667
+scale: rscale = 0.103124
 scale: com_pos = 0  0  0
 scale: r_virial = 0.1
 add_power_law:  interpreting input parameters as N-body units
                 warning:  -G but no physical scaling
                 A = 4.25e+06,  a = 0.1,  x = 1.2
                 center = (0  0  0)
-initial mass = 1
-ext = 1
 set_com:  interpreting input parameters as N-body units
-ext again = 4
-using add_power_law
-MYCHANGE r = 8000  0  0
-MYCHANGE pot = 1.13746e+08
-MYCHANGE acc = -3205.65  0  0
-MYCHANGE jerk = 0  0  0
-vc values = 5064.111898304734495
-          circular orbit speed = 5064.111898304734495,  period = 9.925823810145980
-          r = (8000.000000000000000  0.000000000000000  0.000000000000000),  v = (0.000000000000000  5064.111898304734495  0.000000000000000)
+          circular orbit speed = 5064.11,  period = 9.92582
+          r = (8000  0  0),  v = (0  5064.11  0)
 
 King model
     w0 = 3  beta = 0  nprof =756  V20/sig2 = 1.99018  Mc/M = 0.349138
@@ -903,25 +748,54 @@ King model
 makemass: mass function is Power_Law, m_lower = 0.5,  m_upper = 50
 scale: internal com_vel = 0  0  0,  com_kin = 0
 scale: mass = 1
-scale: rscale = 0.109386
+scale: rscale = 0.0925612
 scale: com_pos = 0  0  0
 scale: r_virial = 0.1
 add_power_law:  interpreting input parameters as N-body units
                 warning:  -G but no physical scaling
                 A = 4.25e+06,  a = 0.1,  x = 1.2
                 center = (0  0  0)
-initial mass = 1
-ext = 1
 set_com:  interpreting input parameters as N-body units
-ext again = 4
-using add_power_law
-MYCHANGE r = 8000  0  0
-MYCHANGE pot = 1.13746e+08
-MYCHANGE acc = -3205.65  0  0
-MYCHANGE jerk = 0  0  0
-vc values = 5064.111898304734495
-          circular orbit speed = 5064.111898304734495,  period = 9.925823810145980
-          r = (8000.000000000000000  0.000000000000000  0.000000000000000),  v = (0.000000000000000  5064.111898304734495  0.000000000000000)
+          circular orbit speed = 5064.11,  period = 9.92582
+          r = (8000  0  0),  v = (0  5064.11  0)
+
+King model
+    w0 = 3  beta = 0  nprof =756  V20/sig2 = 1.99018  Mc/M = 0.349138
+    Rt/Rc = 4.71952 (c = 0.673898)  Rh/Rc = 1.25895  Rvir/Rc = 1.50091
+    Rc/Rvir = 0.666261  Rh/Rvir = 0.838789  Rt/Rvir = 3.14443
+
+
+King model
+    w0 = 3  beta = 0  nprof =756  V20/sig2 = 1.99018  Mc/M = 0.349138
+    Rt/Rc = 4.71952 (c = 0.673898)  Rh/Rc = 1.25895  Rvir/Rc = 1.50091
+    Rc/Rvir = 0.666261  Rh/Rvir = 0.838789  Rt/Rvir = 3.14443
+
+makemass: mass function is Power_Law, m_lower = 0.5,  m_upper = 50
+makemass: mass function is Power_Law, m_lower = 0.5,  m_upper = 50
+scale: internal com_vel = 0  0  0,  com_kin = 0
+scale: mass = 1
+scale: rscale = 0.103835
+scale: com_pos = 0  0  0
+scale: r_virial = 0.1
+scale: internal com_vel = 0  0  0,  com_kin = 0
+scale: mass = 1
+scale: rscale = 0.0949794
+scale: com_pos = 0  0  0
+scale: r_virial = 0.1
+add_power_law:  interpreting input parameters as N-body units
+                warning:  -G but no physical scaling
+                A = 4.25e+06,  a = 0.1,  x = 1.2
+                center = (0  0  0)
+add_power_law:  interpreting input parameters as N-body units
+                warning:  -G but no physical scaling
+                A = 4.25e+06,  a = 0.1,  x = 1.2
+                center = (0  0  0)
+set_com:  interpreting input parameters as N-body units
+          circular orbit speed = 5064.11,  period = 9.92582
+          r = (8000  0  0),  v = (0  5064.11  0)
+set_com:  interpreting input parameters as N-body units
+          circular orbit speed = 5064.11,  period = 9.92582
+          r = (8000  0  0),  v = (0  5064.11  0)
 
 King model
     w0 = 3  beta = 0  nprof =756  V20/sig2 = 1.99018  Mc/M = 0.349138
@@ -931,25 +805,16 @@ King model
 makemass: mass function is Power_Law, m_lower = 0.5,  m_upper = 50
 scale: internal com_vel = 0  0  0,  com_kin = 0
 scale: mass = 1
-scale: rscale = 0.107631
+scale: rscale = 0.105975
 scale: com_pos = 0  0  0
 scale: r_virial = 0.1
 add_power_law:  interpreting input parameters as N-body units
                 warning:  -G but no physical scaling
                 A = 4.25e+06,  a = 0.1,  x = 1.2
                 center = (0  0  0)
-initial mass = 1
-ext = 1
 set_com:  interpreting input parameters as N-body units
-ext again = 4
-using add_power_law
-MYCHANGE r = 8000  0  0
-MYCHANGE pot = 1.13746e+08
-MYCHANGE acc = -3205.65  0  0
-MYCHANGE jerk = 0  0  0
-vc values = 5064.111898304734495
-          circular orbit speed = 5064.111898304734495,  period = 9.925823810145980
-          r = (8000.000000000000000  0.000000000000000  0.000000000000000),  v = (0.000000000000000  5064.111898304734495  0.000000000000000)
+          circular orbit speed = 5064.11,  period = 9.92582
+          r = (8000  0  0),  v = (0  5064.11  0)
 
 King model
     w0 = 3  beta = 0  nprof =756  V20/sig2 = 1.99018  Mc/M = 0.349138
@@ -959,25 +824,16 @@ King model
 makemass: mass function is Power_Law, m_lower = 0.5,  m_upper = 50
 scale: internal com_vel = 0  0  0,  com_kin = 0
 scale: mass = 1
-scale: rscale = 0.0881676
+scale: rscale = 0.101004
 scale: com_pos = 0  0  0
 scale: r_virial = 0.1
 add_power_law:  interpreting input parameters as N-body units
                 warning:  -G but no physical scaling
                 A = 4.25e+06,  a = 0.1,  x = 1.2
                 center = (0  0  0)
-initial mass = 1
-ext = 1
 set_com:  interpreting input parameters as N-body units
-ext again = 4
-using add_power_law
-MYCHANGE r = 8000  0  0
-MYCHANGE pot = 1.13746e+08
-MYCHANGE acc = -3205.65  0  0
-MYCHANGE jerk = 0  0  0
-vc values = 5064.111898304734495
-          circular orbit speed = 5064.111898304734495,  period = 9.925823810145980
-          r = (8000.000000000000000  0.000000000000000  0.000000000000000),  v = (0.000000000000000  5064.111898304734495  0.000000000000000)
+          circular orbit speed = 5064.11,  period = 9.92582
+          r = (8000  0  0),  v = (0  5064.11  0)
 
 King model
     w0 = 3  beta = 0  nprof =756  V20/sig2 = 1.99018  Mc/M = 0.349138
@@ -987,25 +843,16 @@ King model
 makemass: mass function is Power_Law, m_lower = 0.5,  m_upper = 50
 scale: internal com_vel = 0  0  0,  com_kin = 0
 scale: mass = 1
-scale: rscale = 0.10066
+scale: rscale = 0.103292
 scale: com_pos = 0  0  0
 scale: r_virial = 0.1
 add_power_law:  interpreting input parameters as N-body units
                 warning:  -G but no physical scaling
                 A = 4.25e+06,  a = 0.1,  x = 1.2
                 center = (0  0  0)
-initial mass = 1
-ext = 1
 set_com:  interpreting input parameters as N-body units
-ext again = 4
-using add_power_law
-MYCHANGE r = 8000  0  0
-MYCHANGE pot = 1.13746e+08
-MYCHANGE acc = -3205.65  0  0
-MYCHANGE jerk = 0  0  0
-vc values = 5064.111898304734495
-          circular orbit speed = 5064.111898304734495,  period = 9.925823810145980
-          r = (8000.000000000000000  0.000000000000000  0.000000000000000),  v = (0.000000000000000  5064.111898304734495  0.000000000000000)
+          circular orbit speed = 5064.11,  period = 9.92582
+          r = (8000  0  0),  v = (0  5064.11  0)
 
 King model
     w0 = 3  beta = 0  nprof =756  V20/sig2 = 1.99018  Mc/M = 0.349138
@@ -1015,25 +862,16 @@ King model
 makemass: mass function is Power_Law, m_lower = 0.5,  m_upper = 50
 scale: internal com_vel = 0  0  0,  com_kin = 0
 scale: mass = 1
-scale: rscale = 0.0838163
+scale: rscale = 0.103629
 scale: com_pos = 0  0  0
 scale: r_virial = 0.1
 add_power_law:  interpreting input parameters as N-body units
                 warning:  -G but no physical scaling
                 A = 4.25e+06,  a = 0.1,  x = 1.2
                 center = (0  0  0)
-initial mass = 1
-ext = 1
 set_com:  interpreting input parameters as N-body units
-ext again = 4
-using add_power_law
-MYCHANGE r = 8000  0  0
-MYCHANGE pot = 1.13746e+08
-MYCHANGE acc = -3205.65  0  0
-MYCHANGE jerk = 0  0  0
-vc values = 5064.111898304734495
-          circular orbit speed = 5064.111898304734495,  period = 9.925823810145980
-          r = (8000.000000000000000  0.000000000000000  0.000000000000000),  v = (0.000000000000000  5064.111898304734495  0.000000000000000)
+          circular orbit speed = 5064.11,  period = 9.92582
+          r = (8000  0  0),  v = (0  5064.11  0)
 
 King model
     w0 = 3  beta = 0  nprof =756  V20/sig2 = 1.99018  Mc/M = 0.349138
@@ -1043,25 +881,16 @@ King model
 makemass: mass function is Power_Law, m_lower = 0.5,  m_upper = 50
 scale: internal com_vel = 0  0  0,  com_kin = 0
 scale: mass = 1
-scale: rscale = 0.0842592
+scale: rscale = 0.107649
 scale: com_pos = 0  0  0
 scale: r_virial = 0.1
 add_power_law:  interpreting input parameters as N-body units
                 warning:  -G but no physical scaling
                 A = 4.25e+06,  a = 0.1,  x = 1.2
                 center = (0  0  0)
-initial mass = 1
-ext = 1
 set_com:  interpreting input parameters as N-body units
-ext again = 4
-using add_power_law
-MYCHANGE r = 8000  0  0
-MYCHANGE pot = 1.13746e+08
-MYCHANGE acc = -3205.65  0  0
-MYCHANGE jerk = 0  0  0
-vc values = 5064.111898304734495
-          circular orbit speed = 5064.111898304734495,  period = 9.925823810145980
-          r = (8000.000000000000000  0.000000000000000  0.000000000000000),  v = (0.000000000000000  5064.111898304734495  0.000000000000000)
+          circular orbit speed = 5064.11,  period = 9.92582
+          r = (8000  0  0),  v = (0  5064.11  0)
 
 King model
     w0 = 3  beta = 0  nprof =756  V20/sig2 = 1.99018  Mc/M = 0.349138
@@ -1071,25 +900,16 @@ King model
 makemass: mass function is Power_Law, m_lower = 0.5,  m_upper = 50
 scale: internal com_vel = 0  0  0,  com_kin = 0
 scale: mass = 1
-scale: rscale = 0.0954637
+scale: rscale = 0.0957671
 scale: com_pos = 0  0  0
 scale: r_virial = 0.1
 add_power_law:  interpreting input parameters as N-body units
                 warning:  -G but no physical scaling
                 A = 4.25e+06,  a = 0.1,  x = 1.2
                 center = (0  0  0)
-initial mass = 1
-ext = 1
 set_com:  interpreting input parameters as N-body units
-ext again = 4
-using add_power_law
-MYCHANGE r = 8000  0  0
-MYCHANGE pot = 1.13746e+08
-MYCHANGE acc = -3205.65  0  0
-MYCHANGE jerk = 0  0  0
-vc values = 5064.111898304734495
-          circular orbit speed = 5064.111898304734495,  period = 9.925823810145980
-          r = (8000.000000000000000  0.000000000000000  0.000000000000000),  v = (0.000000000000000  5064.111898304734495  0.000000000000000)
+          circular orbit speed = 5064.11,  period = 9.92582
+          r = (8000  0  0),  v = (0  5064.11  0)
 
 King model
     w0 = 3  beta = 0  nprof =756  V20/sig2 = 1.99018  Mc/M = 0.349138
@@ -1099,25 +919,16 @@ King model
 makemass: mass function is Power_Law, m_lower = 0.5,  m_upper = 50
 scale: internal com_vel = 0  0  0,  com_kin = 0
 scale: mass = 1
-scale: rscale = 0.0914723
+scale: rscale = 0.101458
 scale: com_pos = 0  0  0
 scale: r_virial = 0.1
 add_power_law:  interpreting input parameters as N-body units
                 warning:  -G but no physical scaling
                 A = 4.25e+06,  a = 0.1,  x = 1.2
                 center = (0  0  0)
-initial mass = 1
-ext = 1
 set_com:  interpreting input parameters as N-body units
-ext again = 4
-using add_power_law
-MYCHANGE r = 8000  0  0
-MYCHANGE pot = 1.13746e+08
-MYCHANGE acc = -3205.65  0  0
-MYCHANGE jerk = 0  0  0
-vc values = 5064.111898304734495
-          circular orbit speed = 5064.111898304734495,  period = 9.925823810145980
-          r = (8000.000000000000000  0.000000000000000  0.000000000000000),  v = (0.000000000000000  5064.111898304734495  0.000000000000000)
+          circular orbit speed = 5064.11,  period = 9.92582
+          r = (8000  0  0),  v = (0  5064.11  0)
 
 King model
     w0 = 3  beta = 0  nprof =756  V20/sig2 = 1.99018  Mc/M = 0.349138
@@ -1127,274 +938,19 @@ King model
 makemass: mass function is Power_Law, m_lower = 0.5,  m_upper = 50
 scale: internal com_vel = 0  0  0,  com_kin = 0
 scale: mass = 1
-scale: rscale = 0.106357
+scale: rscale = 0.0928059
 scale: com_pos = 0  0  0
 scale: r_virial = 0.1
 add_power_law:  interpreting input parameters as N-body units
                 warning:  -G but no physical scaling
                 A = 4.25e+06,  a = 0.1,  x = 1.2
                 center = (0  0  0)
-initial mass = 1
-ext = 1
 set_com:  interpreting input parameters as N-body units
-ext again = 4
-using add_power_law
-MYCHANGE r = 8000  0  0
-MYCHANGE pot = 1.13746e+08
-MYCHANGE acc = -3205.65  0  0
-MYCHANGE jerk = 0  0  0
-vc values = 5064.111898304734495
-          circular orbit speed = 5064.111898304734495,  period = 9.925823810145980
-          r = (8000.000000000000000  0.000000000000000  0.000000000000000),  v = (0.000000000000000  5064.111898304734495  0.000000000000000)
-
-King model
-    w0 = 3  beta = 0  nprof =756  V20/sig2 = 1.99018  Mc/M = 0.349138
-    Rt/Rc = 4.71952 (c = 0.673898)  Rh/Rc = 1.25895  Rvir/Rc = 1.50091
-    Rc/Rvir = 0.666261  Rh/Rvir = 0.838789  Rt/Rvir = 3.14443
-
-makemass: mass function is Power_Law, m_lower = 0.5,  m_upper = 50
-scale: internal com_vel = 0  0  0,  com_kin = 0
-scale: mass = 1
-scale: rscale = 0.0980306
-scale: com_pos = 0  0  0
-scale: r_virial = 0.1
-add_power_law:  interpreting input parameters as N-body units
-                warning:  -G but no physical scaling
-                A = 4.25e+06,  a = 0.1,  x = 1.2
-                center = (0  0  0)
-initial mass = 1
-ext = 1
-set_com:  interpreting input parameters as N-body units
-ext again = 4
-using add_power_law
-MYCHANGE r = 8000  0  0
-MYCHANGE pot = 1.13746e+08
-MYCHANGE acc = -3205.65  0  0
-MYCHANGE jerk = 0  0  0
-vc values = 5064.111898304734495
-          circular orbit speed = 5064.111898304734495,  period = 9.925823810145980
-          r = (8000.000000000000000  0.000000000000000  0.000000000000000),  v = (0.000000000000000  5064.111898304734495  0.000000000000000)
-
-King model
-    w0 = 3  beta = 0  nprof =756  V20/sig2 = 1.99018  Mc/M = 0.349138
-    Rt/Rc = 4.71952 (c = 0.673898)  Rh/Rc = 1.25895  Rvir/Rc = 1.50091
-    Rc/Rvir = 0.666261  Rh/Rvir = 0.838789  Rt/Rvir = 3.14443
-
-makemass: mass function is Power_Law, m_lower = 0.5,  m_upper = 50
-scale: internal com_vel = 0  0  0,  com_kin = 0
-scale: mass = 1
-scale: rscale = 0.101867
-scale: com_pos = 0  0  0
-scale: r_virial = 0.1
-add_power_law:  interpreting input parameters as N-body units
-                warning:  -G but no physical scaling
-                A = 4.25e+06,  a = 0.1,  x = 1.2
-                center = (0  0  0)
-initial mass = 1
-ext = 1
-set_com:  interpreting input parameters as N-body units
-ext again = 4
-using add_power_law
-MYCHANGE r = 8000  0  0
-MYCHANGE pot = 1.13746e+08
-MYCHANGE acc = -3205.65  0  0
-MYCHANGE jerk = 0  0  0
-vc values = 5064.111898304734495
-          circular orbit speed = 5064.111898304734495,  period = 9.925823810145980
-          r = (8000.000000000000000  0.000000000000000  0.000000000000000),  v = (0.000000000000000  5064.111898304734495  0.000000000000000)
-
-King model
-    w0 = 3  beta = 0  nprof =756  V20/sig2 = 1.99018  Mc/M = 0.349138
-    Rt/Rc = 4.71952 (c = 0.673898)  Rh/Rc = 1.25895  Rvir/Rc = 1.50091
-    Rc/Rvir = 0.666261  Rh/Rvir = 0.838789  Rt/Rvir = 3.14443
-
-makemass: mass function is Power_Law, m_lower = 0.5,  m_upper = 50
-scale: internal com_vel = 0  0  0,  com_kin = 0
-scale: mass = 1
-scale: rscale = 0.111938
-scale: com_pos = 0  0  0
-scale: r_virial = 0.1
-add_power_law:  interpreting input parameters as N-body units
-                warning:  -G but no physical scaling
-                A = 4.25e+06,  a = 0.1,  x = 1.2
-                center = (0  0  0)
-initial mass = 1
-ext = 1
-set_com:  interpreting input parameters as N-body units
-ext again = 4
-using add_power_law
-MYCHANGE r = 8000  0  0
-MYCHANGE pot = 1.13746e+08
-MYCHANGE acc = -3205.65  0  0
-MYCHANGE jerk = 0  0  0
-vc values = 5064.111898304734495
-          circular orbit speed = 5064.111898304734495,  period = 9.925823810145980
-          r = (8000.000000000000000  0.000000000000000  0.000000000000000),  v = (0.000000000000000  5064.111898304734495  0.000000000000000)
-
-King model
-    w0 = 3  beta = 0  nprof =756  V20/sig2 = 1.99018  Mc/M = 0.349138
-    Rt/Rc = 4.71952 (c = 0.673898)  Rh/Rc = 1.25895  Rvir/Rc = 1.50091
-    Rc/Rvir = 0.666261  Rh/Rvir = 0.838789  Rt/Rvir = 3.14443
-
-makemass: mass function is Power_Law, m_lower = 0.5,  m_upper = 50
-scale: internal com_vel = 0  0  0,  com_kin = 0
-scale: mass = 1
-scale: rscale = 0.109701
-scale: com_pos = 0  0  0
-scale: r_virial = 0.1
-add_power_law:  interpreting input parameters as N-body units
-                warning:  -G but no physical scaling
-                A = 4.25e+06,  a = 0.1,  x = 1.2
-                center = (0  0  0)
-initial mass = 1
-ext = 1
-set_com:  interpreting input parameters as N-body units
-ext again = 4
-using add_power_law
-MYCHANGE r = 8000  0  0
-MYCHANGE pot = 1.13746e+08
-MYCHANGE acc = -3205.65  0  0
-MYCHANGE jerk = 0  0  0
-vc values = 5064.111898304734495
-          circular orbit speed = 5064.111898304734495,  period = 9.925823810145980
-          r = (8000.000000000000000  0.000000000000000  0.000000000000000),  v = (0.000000000000000  5064.111898304734495  0.000000000000000)
-
-King model
-    w0 = 3  beta = 0  nprof =756  V20/sig2 = 1.99018  Mc/M = 0.349138
-    Rt/Rc = 4.71952 (c = 0.673898)  Rh/Rc = 1.25895  Rvir/Rc = 1.50091
-    Rc/Rvir = 0.666261  Rh/Rvir = 0.838789  Rt/Rvir = 3.14443
-
-makemass: mass function is Power_Law, m_lower = 0.5,  m_upper = 50
-scale: internal com_vel = 0  0  0,  com_kin = 0
-scale: mass = 1
-scale: rscale = 0.11343
-scale: com_pos = 0  0  0
-scale: r_virial = 0.1
-add_power_law:  interpreting input parameters as N-body units
-                warning:  -G but no physical scaling
-                A = 4.25e+06,  a = 0.1,  x = 1.2
-                center = (0  0  0)
-initial mass = 1
-ext = 1
-set_com:  interpreting input parameters as N-body units
-ext again = 4
-using add_power_law
-MYCHANGE r = 8000  0  0
-MYCHANGE pot = 1.13746e+08
-MYCHANGE acc = -3205.65  0  0
-MYCHANGE jerk = 0  0  0
-vc values = 5064.111898304734495
-          circular orbit speed = 5064.111898304734495,  period = 9.925823810145980
-          r = (8000.000000000000000  0.000000000000000  0.000000000000000),  v = (0.000000000000000  5064.111898304734495  0.000000000000000)
-
-King model
-    w0 = 3  beta = 0  nprof =756  V20/sig2 = 1.99018  Mc/M = 0.349138
-    Rt/Rc = 4.71952 (c = 0.673898)  Rh/Rc = 1.25895  Rvir/Rc = 1.50091
-    Rc/Rvir = 0.666261  Rh/Rvir = 0.838789  Rt/Rvir = 3.14443
-
-makemass: mass function is Power_Law, m_lower = 0.5,  m_upper = 50
-scale: internal com_vel = 0  0  0,  com_kin = 0
-scale: mass = 1
-scale: rscale = 0.114725
-scale: com_pos = 0  0  0
-scale: r_virial = 0.1
-add_power_law:  interpreting input parameters as N-body units
-                warning:  -G but no physical scaling
-                A = 4.25e+06,  a = 0.1,  x = 1.2
-                center = (0  0  0)
-initial mass = 1
-ext = 1
-set_com:  interpreting input parameters as N-body units
-ext again = 4
-using add_power_law
-MYCHANGE r = 8000  0  0
-MYCHANGE pot = 1.13746e+08
-MYCHANGE acc = -3205.65  0  0
-MYCHANGE jerk = 0  0  0
-vc values = 5064.111898304734495
-          circular orbit speed = 5064.111898304734495,  period = 9.925823810145980
-          r = (8000.000000000000000  0.000000000000000  0.000000000000000),  v = (0.000000000000000  5064.111898304734495  0.000000000000000)
-
-King model
-    w0 = 3  beta = 0  nprof =756  V20/sig2 = 1.99018  Mc/M = 0.349138
-    Rt/Rc = 4.71952 (c = 0.673898)  Rh/Rc = 1.25895  Rvir/Rc = 1.50091
-    Rc/Rvir = 0.666261  Rh/Rvir = 0.838789  Rt/Rvir = 3.14443
-
-makemass: mass function is Power_Law, m_lower = 0.5,  m_upper = 50
-scale: internal com_vel = 0  0  0,  com_kin = 0
-scale: mass = 1
-scale: rscale = 0.0936253
-scale: com_pos = 0  0  0
-scale: r_virial = 0.1
-add_power_law:  interpreting input parameters as N-body units
-                warning:  -G but no physical scaling
-                A = 4.25e+06,  a = 0.1,  x = 1.2
-                center = (0  0  0)
-initial mass = 1
-ext = 1
-set_com:  interpreting input parameters as N-body units
-ext again = 4
-using add_power_law
-MYCHANGE r = 8000  0  0
-MYCHANGE pot = 1.13746e+08
-MYCHANGE acc = -3205.65  0  0
-MYCHANGE jerk = 0  0  0
-vc values = 5064.111898304734495
-          circular orbit speed = 5064.111898304734495,  period = 9.925823810145980
-          r = (8000.000000000000000  0.000000000000000  0.000000000000000),  v = (0.000000000000000  5064.111898304734495  0.000000000000000)
-
-King model
-    w0 = 3  beta = 0  nprof =756  V20/sig2 = 1.99018  Mc/M = 0.349138
-    Rt/Rc = 4.71952 (c = 0.673898)  Rh/Rc = 1.25895  Rvir/Rc = 1.50091
-    Rc/Rvir = 0.666261  Rh/Rvir = 0.838789  Rt/Rvir = 3.14443
-
-makemass: mass function is Power_Law, m_lower = 0.5,  m_upper = 50
-scale: internal com_vel = 0  0  0,  com_kin = 0
-scale: mass = 1
-scale: rscale = 0.105334
-scale: com_pos = 0  0  0
-scale: r_virial = 0.1
-add_power_law:  interpreting input parameters as N-body units
-                warning:  -G but no physical scaling
-                A = 4.25e+06,  a = 0.1,  x = 1.2
-                center = (0  0  0)
-initial mass = 1
-ext = 1
-set_com:  interpreting input parameters as N-body units
-ext again = 4
-using add_power_law
-MYCHANGE r = 8000  0  0
-MYCHANGE pot = 1.13746e+08
-MYCHANGE acc = -3205.65  0  0
-MYCHANGE jerk = 0  0  0
-vc values = 5064.111898304734495
-          circular orbit speed = 5064.111898304734495,  period = 9.925823810145980
-          r = (8000.000000000000000  0.000000000000000  0.000000000000000),  v = (0.000000000000000  5064.111898304734495  0.000000000000000)
-
-King model
-    w0 = 3  beta = 0  nprof =756  V20/sig2 = 1.99018  Mc/M = 0.349138
-    Rt/Rc = 4.71952 (c = 0.673898)  Rh/Rc = 1.25895  Rvir/Rc = 1.50091
-    Rc/Rvir = 0.666261  Rh/Rvir = 0.838789  Rt/Rvir = 3.14443
-
-makemass: mass function is Power_Law, m_lower = 0.5,  m_upper = 50
-scale: internal com_vel = 0  0  0,  com_kin = 0
-scale: mass = 1
-scale: rscale = 0.0949435
-scale: com_pos = 0  0  0
-scale: r_virial = 0.1
-add_power_law:  interpreting input parameters as N-body units
-                warning:  -G but no physical scaling
-                A = 4.25e+06,  a = 0.1,  x = 1.2
-                center = (0  0  0)
-initial mass = 1
-ext = 1
-set_com:  interpreting input parameters as N-body units
-ext again = 4
-using add_power_law
-MYCHANGE r = 8000  0  0
-MYCHANGE pot = 1.13746e+08
-MYCHANGE acc = -3205.65  0  0
-MYCHANGE jerk = 0  0  0
-vc values = 5064.111898304734495
-          circular orbit speed = 5064.111898304734495,  period = 9.925823810145980
-          r = (8000.000000000000000  0.000000000000000  0.000000000000000),  v = (0.000000000000000  5064.111898304734495  0.000000000000000)
+          circular orbit speed = 5064.11,  period = 9.92582
+          r = (8000  0  0),  v = (0  5064.11  0)
+./run.sh: line 17: 119437 Done                    makeking -n 200 -w 3 -i -u -s $randomseed
+     119438                       | makemass -f 1 -l 0.5 -u 50 -s $randomseed
+     119439                       | scale -R 0.1 -M 1
+     119440                       | add_power_law -G
+     119441                       | set_com -r 8000. 0. 0. -v 0 1.0 0
+     119442 Killed                  | ( kira -u -D 1 -b 1 -t 1000 > "dyn-$randomseed.dat" 2> "log-$randomseed.dat" )
