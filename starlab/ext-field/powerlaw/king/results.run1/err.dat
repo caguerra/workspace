@@ -1,0 +1,227 @@
+
+King model
+    w0 = 3  beta = 0  nprof =756  V20/sig2 = 1.99018  Mc/M = 0.349138
+    Rt/Rc = 4.71952 (c = 0.673898)  Rh/Rc = 1.25895  Rvir/Rc = 1.50091
+    Rc/Rvir = 0.666261  Rh/Rvir = 0.838789  Rt/Rvir = 3.14443
+
+makemass: mass function is Power_Law, m_lower = 0.5,  m_upper = 50
+Initialize from: main_sequence
+id = 1,  t_cur = 0,  t_rel = 0,  m_rel = 0.50651,  m_tot = 0.50651,  m_core = 0.01
+Initialize from: main_sequence
+id = 2,  t_cur = 0,  t_rel = 0,  m_rel = 2.53793,  m_tot = 2.53793,  m_core = 0.01
+Initialize from: main_sequence
+id = 3,  t_cur = 0,  t_rel = 0,  m_rel = 0.602467,  m_tot = 0.602467,  m_core = 0.01
+Initialize from: main_sequence
+id = 4,  t_cur = 0,  t_rel = 0,  m_rel = 0.556441,  m_tot = 0.556441,  m_core = 0.01
+Initialize from: main_sequence
+id = 5,  t_cur = 0,  t_rel = 0,  m_rel = 0.5489,  m_tot = 0.5489,  m_core = 0.01
+Initialize from: main_sequence
+id = 6,  t_cur = 0,  t_rel = 0,  m_rel = 0.605681,  m_tot = 0.605681,  m_core = 0.01
+Initialize from: main_sequence
+id = 7,  t_cur = 0,  t_rel = 0,  m_rel = 0.501406,  m_tot = 0.501406,  m_core = 0.01
+Initialize from: main_sequence
+id = 8,  t_cur = 0,  t_rel = 0,  m_rel = 1.34948,  m_tot = 1.34948,  m_core = 0.01
+Initialize from: main_sequence
+id = 9,  t_cur = 0,  t_rel = 0,  m_rel = 0.75596,  m_tot = 0.75596,  m_core = 0.01
+Initialize from: main_sequence
+id = 10,  t_cur = 0,  t_rel = 0,  m_rel = 0.564426,  m_tot = 0.564426,  m_core = 0.01
+Initialize from: main_sequence
+id = 11,  t_cur = 0,  t_rel = 0,  m_rel = 1.27026,  m_tot = 1.27026,  m_core = 0.01
+Initialize from: main_sequence
+id = 12,  t_cur = 0,  t_rel = 0,  m_rel = 0.521799,  m_tot = 0.521799,  m_core = 0.01
+Initialize from: main_sequence
+id = 13,  t_cur = 0,  t_rel = 0,  m_rel = 2.07766,  m_tot = 2.07766,  m_core = 0.01
+Initialize from: main_sequence
+id = 14,  t_cur = 0,  t_rel = 0,  m_rel = 0.651315,  m_tot = 0.651315,  m_core = 0.01
+Initialize from: main_sequence
+id = 15,  t_cur = 0,  t_rel = 0,  m_rel = 0.50803,  m_tot = 0.50803,  m_core = 0.01
+Initialize from: main_sequence
+id = 16,  t_cur = 0,  t_rel = 0,  m_rel = 0.847491,  m_tot = 0.847491,  m_core = 0.01
+Initialize from: main_sequence
+id = 17,  t_cur = 0,  t_rel = 0,  m_rel = 1.63055,  m_tot = 1.63055,  m_core = 0.01
+Initialize from: main_sequence
+id = 18,  t_cur = 0,  t_rel = 0,  m_rel = 0.866555,  m_tot = 0.866555,  m_core = 0.01
+Initialize from: main_sequence
+id = 19,  t_cur = 0,  t_rel = 0,  m_rel = 1.34015,  m_tot = 1.34015,  m_core = 0.01
+Initialize from: main_sequence
+id = 20,  t_cur = 0,  t_rel = 0,  m_rel = 1.50236,  m_tot = 1.50236,  m_core = 0.01
+Initialize from: main_sequence
+id = 21,  t_cur = 0,  t_rel = 0,  m_rel = 1.55025,  m_tot = 1.55025,  m_core = 0.01
+Initialize from: main_sequence
+id = 22,  t_cur = 0,  t_rel = 0,  m_rel = 2.34443,  m_tot = 2.34443,  m_core = 0.01
+Initialize from: main_sequence
+id = 23,  t_cur = 0,  t_rel = 0,  m_rel = 2.5503,  m_tot = 2.5503,  m_core = 0.01
+Initialize from: main_sequence
+id = 24,  t_cur = 0,  t_rel = 0,  m_rel = 1.21051,  m_tot = 1.21051,  m_core = 0.01
+Initialize from: main_sequence
+id = 25,  t_cur = 0,  t_rel = 0,  m_rel = 0.544279,  m_tot = 0.544279,  m_core = 0.01
+Initialize from: main_sequence
+id = 26,  t_cur = 0,  t_rel = 0,  m_rel = 0.701233,  m_tot = 0.701233,  m_core = 0.01
+Initialize from: main_sequence
+id = 27,  t_cur = 0,  t_rel = 0,  m_rel = 0.773958,  m_tot = 0.773958,  m_core = 0.01
+Initialize from: main_sequence
+id = 28,  t_cur = 0,  t_rel = 0,  m_rel = 0.60299,  m_tot = 0.60299,  m_core = 0.01
+Initialize from: main_sequence
+id = 29,  t_cur = 0,  t_rel = 0,  m_rel = 2.12188,  m_tot = 2.12188,  m_core = 0.01
+Initialize from: main_sequence
+id = 30,  t_cur = 0,  t_rel = 0,  m_rel = 2.45523,  m_tot = 2.45523,  m_core = 0.01
+Initialize from: main_sequence
+id = 31,  t_cur = 0,  t_rel = 0,  m_rel = 0.643114,  m_tot = 0.643114,  m_core = 0.01
+Initialize from: main_sequence
+id = 32,  t_cur = 0,  t_rel = 0,  m_rel = 0.55497,  m_tot = 0.55497,  m_core = 0.01
+Initialize from: main_sequence
+id = 33,  t_cur = 0,  t_rel = 0,  m_rel = 0.879059,  m_tot = 0.879059,  m_core = 0.01
+Initialize from: main_sequence
+id = 34,  t_cur = 0,  t_rel = 0,  m_rel = 3.06003,  m_tot = 3.06003,  m_core = 0.01
+Initialize from: main_sequence
+id = 35,  t_cur = 0,  t_rel = 0,  m_rel = 0.7526,  m_tot = 0.7526,  m_core = 0.01
+Initialize from: main_sequence
+id = 36,  t_cur = 0,  t_rel = 0,  m_rel = 0.624263,  m_tot = 0.624263,  m_core = 0.01
+Initialize from: main_sequence
+id = 37,  t_cur = 0,  t_rel = 0,  m_rel = 1.08217,  m_tot = 1.08217,  m_core = 0.01
+Initialize from: main_sequence
+id = 38,  t_cur = 0,  t_rel = 0,  m_rel = 0.624835,  m_tot = 0.624835,  m_core = 0.01
+Initialize from: main_sequence
+id = 39,  t_cur = 0,  t_rel = 0,  m_rel = 0.743483,  m_tot = 0.743483,  m_core = 0.01
+Initialize from: main_sequence
+id = 40,  t_cur = 0,  t_rel = 0,  m_rel = 0.740708,  m_tot = 0.740708,  m_core = 0.01
+Initialize from: main_sequence
+id = 41,  t_cur = 0,  t_rel = 0,  m_rel = 0.96187,  m_tot = 0.96187,  m_core = 0.01
+Initialize from: main_sequence
+id = 42,  t_cur = 0,  t_rel = 0,  m_rel = 0.524513,  m_tot = 0.524513,  m_core = 0.01
+Initialize from: main_sequence
+id = 43,  t_cur = 0,  t_rel = 0,  m_rel = 0.922281,  m_tot = 0.922281,  m_core = 0.01
+Initialize from: main_sequence
+id = 44,  t_cur = 0,  t_rel = 0,  m_rel = 0.542105,  m_tot = 0.542105,  m_core = 0.01
+Initialize from: main_sequence
+id = 45,  t_cur = 0,  t_rel = 0,  m_rel = 1.15619,  m_tot = 1.15619,  m_core = 0.01
+Initialize from: main_sequence
+id = 46,  t_cur = 0,  t_rel = 0,  m_rel = 0.62453,  m_tot = 0.62453,  m_core = 0.01
+Initialize from: main_sequence
+id = 47,  t_cur = 0,  t_rel = 0,  m_rel = 0.945778,  m_tot = 0.945778,  m_core = 0.01
+Initialize from: main_sequence
+id = 48,  t_cur = 0,  t_rel = 0,  m_rel = 0.741303,  m_tot = 0.741303,  m_core = 0.01
+Initialize from: main_sequence
+id = 49,  t_cur = 0,  t_rel = 0,  m_rel = 0.514328,  m_tot = 0.514328,  m_core = 0.01
+Initialize from: main_sequence
+id = 50,  t_cur = 0,  t_rel = 0,  m_rel = 0.578522,  m_tot = 0.578522,  m_core = 0.01
+Initialize from: main_sequence
+id = 51,  t_cur = 0,  t_rel = 0,  m_rel = 1.31277,  m_tot = 1.31277,  m_core = 0.01
+Initialize from: main_sequence
+id = 52,  t_cur = 0,  t_rel = 0,  m_rel = 0.553288,  m_tot = 0.553288,  m_core = 0.01
+Initialize from: main_sequence
+id = 53,  t_cur = 0,  t_rel = 0,  m_rel = 1.20877,  m_tot = 1.20877,  m_core = 0.01
+Initialize from: main_sequence
+id = 54,  t_cur = 0,  t_rel = 0,  m_rel = 0.948924,  m_tot = 0.948924,  m_core = 0.01
+Initialize from: main_sequence
+id = 55,  t_cur = 0,  t_rel = 0,  m_rel = 1.17782,  m_tot = 1.17782,  m_core = 0.01
+Initialize from: main_sequence
+id = 56,  t_cur = 0,  t_rel = 0,  m_rel = 0.836538,  m_tot = 0.836538,  m_core = 0.01
+Initialize from: main_sequence
+id = 57,  t_cur = 0,  t_rel = 0,  m_rel = 1.14508,  m_tot = 1.14508,  m_core = 0.01
+Initialize from: main_sequence
+id = 58,  t_cur = 0,  t_rel = 0,  m_rel = 0.669223,  m_tot = 0.669223,  m_core = 0.01
+Initialize from: main_sequence
+id = 59,  t_cur = 0,  t_rel = 0,  m_rel = 0.540088,  m_tot = 0.540088,  m_core = 0.01
+Initialize from: main_sequence
+id = 60,  t_cur = 0,  t_rel = 0,  m_rel = 0.644337,  m_tot = 0.644337,  m_core = 0.01
+Initialize from: main_sequence
+id = 61,  t_cur = 0,  t_rel = 0,  m_rel = 0.93778,  m_tot = 0.93778,  m_core = 0.01
+Initialize from: main_sequence
+id = 62,  t_cur = 0,  t_rel = 0,  m_rel = 0.729292,  m_tot = 0.729292,  m_core = 0.01
+Initialize from: main_sequence
+id = 63,  t_cur = 0,  t_rel = 0,  m_rel = 1.26457,  m_tot = 1.26457,  m_core = 0.01
+Initialize from: main_sequence
+id = 64,  t_cur = 0,  t_rel = 0,  m_rel = 0.597017,  m_tot = 0.597017,  m_core = 0.01
+Initialize from: main_sequence
+id = 65,  t_cur = 0,  t_rel = 0,  m_rel = 0.930539,  m_tot = 0.930539,  m_core = 0.01
+Initialize from: main_sequence
+id = 66,  t_cur = 0,  t_rel = 0,  m_rel = 0.658537,  m_tot = 0.658537,  m_core = 0.01
+Initialize from: main_sequence
+id = 67,  t_cur = 0,  t_rel = 0,  m_rel = 0.502885,  m_tot = 0.502885,  m_core = 0.01
+Initialize from: main_sequence
+id = 68,  t_cur = 0,  t_rel = 0,  m_rel = 1.12019,  m_tot = 1.12019,  m_core = 0.01
+Initialize from: main_sequence
+id = 69,  t_cur = 0,  t_rel = 0,  m_rel = 2.8316,  m_tot = 2.8316,  m_core = 0.01
+Initialize from: main_sequence
+id = 70,  t_cur = 0,  t_rel = 0,  m_rel = 1.24425,  m_tot = 1.24425,  m_core = 0.01
+Initialize from: main_sequence
+id = 71,  t_cur = 0,  t_rel = 0,  m_rel = 2.21727,  m_tot = 2.21727,  m_core = 0.01
+Initialize from: main_sequence
+id = 72,  t_cur = 0,  t_rel = 0,  m_rel = 1.9398,  m_tot = 1.9398,  m_core = 0.01
+Initialize from: main_sequence
+id = 73,  t_cur = 0,  t_rel = 0,  m_rel = 0.634229,  m_tot = 0.634229,  m_core = 0.01
+Initialize from: main_sequence
+id = 74,  t_cur = 0,  t_rel = 0,  m_rel = 0.53769,  m_tot = 0.53769,  m_core = 0.01
+Initialize from: main_sequence
+id = 75,  t_cur = 0,  t_rel = 0,  m_rel = 0.882786,  m_tot = 0.882786,  m_core = 0.01
+Initialize from: main_sequence
+id = 76,  t_cur = 0,  t_rel = 0,  m_rel = 1.04738,  m_tot = 1.04738,  m_core = 0.01
+Initialize from: main_sequence
+id = 77,  t_cur = 0,  t_rel = 0,  m_rel = 0.78431,  m_tot = 0.78431,  m_core = 0.01
+Initialize from: main_sequence
+id = 78,  t_cur = 0,  t_rel = 0,  m_rel = 0.710514,  m_tot = 0.710514,  m_core = 0.01
+Initialize from: main_sequence
+id = 79,  t_cur = 0,  t_rel = 0,  m_rel = 1.18726,  m_tot = 1.18726,  m_core = 0.01
+Initialize from: main_sequence
+id = 80,  t_cur = 0,  t_rel = 0,  m_rel = 0.550732,  m_tot = 0.550732,  m_core = 0.01
+Initialize from: main_sequence
+id = 81,  t_cur = 0,  t_rel = 0,  m_rel = 2.14264,  m_tot = 2.14264,  m_core = 0.01
+Initialize from: main_sequence
+id = 82,  t_cur = 0,  t_rel = 0,  m_rel = 3.11199,  m_tot = 3.11199,  m_core = 0.01
+Initialize from: main_sequence
+id = 83,  t_cur = 0,  t_rel = 0,  m_rel = 0.860914,  m_tot = 0.860914,  m_core = 0.01
+Initialize from: main_sequence
+id = 84,  t_cur = 0,  t_rel = 0,  m_rel = 2.58076,  m_tot = 2.58076,  m_core = 0.01
+Initialize from: main_sequence
+id = 85,  t_cur = 0,  t_rel = 0,  m_rel = 1.50034,  m_tot = 1.50034,  m_core = 0.01
+Initialize from: main_sequence
+id = 86,  t_cur = 0,  t_rel = 0,  m_rel = 0.588986,  m_tot = 0.588986,  m_core = 0.01
+Initialize from: main_sequence
+id = 87,  t_cur = 0,  t_rel = 0,  m_rel = 0.59522,  m_tot = 0.59522,  m_core = 0.01
+Initialize from: main_sequence
+id = 88,  t_cur = 0,  t_rel = 0,  m_rel = 0.510601,  m_tot = 0.510601,  m_core = 0.01
+Initialize from: main_sequence
+id = 89,  t_cur = 0,  t_rel = 0,  m_rel = 0.61139,  m_tot = 0.61139,  m_core = 0.01
+Initialize from: main_sequence
+id = 90,  t_cur = 0,  t_rel = 0,  m_rel = 0.596049,  m_tot = 0.596049,  m_core = 0.01
+Initialize from: main_sequence
+id = 91,  t_cur = 0,  t_rel = 0,  m_rel = 0.744381,  m_tot = 0.744381,  m_core = 0.01
+Initialize from: main_sequence
+id = 92,  t_cur = 0,  t_rel = 0,  m_rel = 0.916939,  m_tot = 0.916939,  m_core = 0.01
+Initialize from: main_sequence
+id = 93,  t_cur = 0,  t_rel = 0,  m_rel = 1.16456,  m_tot = 1.16456,  m_core = 0.01
+Initialize from: main_sequence
+id = 94,  t_cur = 0,  t_rel = 0,  m_rel = 0.784301,  m_tot = 0.784301,  m_core = 0.01
+Initialize from: main_sequence
+id = 95,  t_cur = 0,  t_rel = 0,  m_rel = 1.23085,  m_tot = 1.23085,  m_core = 0.01
+Initialize from: main_sequence
+id = 96,  t_cur = 0,  t_rel = 0,  m_rel = 0.838413,  m_tot = 0.838413,  m_core = 0.01
+Initialize from: main_sequence
+id = 97,  t_cur = 0,  t_rel = 0,  m_rel = 0.569914,  m_tot = 0.569914,  m_core = 0.01
+Initialize from: main_sequence
+id = 98,  t_cur = 0,  t_rel = 0,  m_rel = 0.834097,  m_tot = 0.834097,  m_core = 0.01
+Initialize from: main_sequence
+id = 99,  t_cur = 0,  t_rel = 0,  m_rel = 0.909885,  m_tot = 0.909885,  m_core = 0.01
+Initialize from: main_sequence
+id = 100,  t_cur = 0,  t_rel = 0,  m_rel = 1.0528,  m_tot = 1.0528,  m_core = 0.01
+add_power_law:  converting input physical parameters to N-body units
+                A = 4.25e+06 Msun,  a = 0.1 pc
+                center = (0  0  0) pc
+                N-body mass scale = 104.308 Msun,  length scale = 1 pc
+                N-body A = 40744.9,  a = 0.1,  x = 1.2
+                center = (0  0  0)
+set_com:  converting input physical parameters to N-body units
+          r = (8000  0  0) pc,  v = (0  1  0) v_circ
+          N-body length scale = 1 pc
+          circular orbit speed = 495.844 (N-body),  period = 101.373
+          r = (8000  0  0),  v = (0  495.844  0)
+scale: non-standard choice of units for system with physical data
+scale: internal com_vel = 0  0  0,  com_kin = 0
+scale: mass = 1
+scale: rscale = 0.102741
+scale: com_pos = 0  0  0
+scale: r_virial = 0.1
+scale: vir = -0.717745
+scale: vfac = 12.0948
+scale: q = 0.5
