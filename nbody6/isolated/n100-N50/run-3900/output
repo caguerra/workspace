@@ -1,0 +1,1953 @@
+
+
+
+
+
+               N  NFIX  NCRIT  NRAND  NNBMAX  NRUN
+
+             100     1     10   3900      20     1
+
+
+            ETAI      ETAR      RS0       DTADJ     DELTAT    TCRIT     QE        RBAR      ZMBAR
+
+            1.0E-02   1.0E-02   3.0E-01   2.0E+00   1.0E+00   5.0E+02   1.0E-03   1.0E-01   5.0E-01
+
+
+            OPTIONS
+
+           1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50
+
+           0  0  1  0  1  0  0  0  0  0  0  0  0  0  0  1  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  1  0  0  0  0  0  0  0  0  0  0
+
+
+            DTMIN     RMIN      ETAU      ECLOSE    GMIN      GMAX
+
+            2.0E-05   1.0E-03   2.0E-01   1.0E+00   1.0E-06   1.0E-03
+
+            STANDARD IMF    ALPHAS = 2.30  BODY1 = 10.0  BODYN = 0.20
+
+            SCALING:    SX =  0.95  E = -2.63E-01  M(1) = 1.52E-01  M(N) = 3.05E-03  <M> = 1.00E-02
+
+            TIME SCALES:   TRH = 4.2E+00  TCR =  2.83  2<R>/<V> =  2.83  SMAX =  0.500
+
+
+            PHYSICAL SCALING:    R* = 0.10  M* =    50.0  V* = 1.466  T* = 0.067  <M> = 0.50  SU = 4.4E+06
+
+            WARNING!   SMALL NEIGHBOUR NUMBERS   <NNB> =   4.4
+
+ ADJUST:  TIME =    0.00  Q = 0.50  DE =  0.00E+00  E = -0.250000  RMIN = 3.0E-03  DTMIN = 4.7E-05  TC =    0  DELTA =  0.0E+00  E(3) = -0.250000  DETOT =  0.000000
+
+
+ T =     0.  N =   100  <NB> =  4  KS =    0  NM =  0  MM = 0  NS =   100  NSTEPS =          0         0          0          0  DE =  0.0E+00  E = -0.250000  M = 1.0000
+
+    <R>  RTIDE  RDENS   RC    NC   MC   RHOD   RHOM  CMAX   <Cn>   Ir/R   UN    NP   RCM    VCM      AZ      EB/E   EM/E   TCR     T6  NESC  VRMS
+ #1 1.00  10.0  0.15 0.2502    8  0.092    7.    15.    9.   6.6  0.164    0     0   0.000  0.0000   0.0424 -0.000 -0.000  2.83     0     0   1.0
+
+       NNPRED    NBCORR  NBFULL  NBVOID    NICONV  NBSMIN  NBDIS  NBDIS2  NCMDER  NBDER  NFAST  NBFAST    NBLOCK    NBLCKR     NBPRED     NBFLUX  NIRECT  NRRECT  NURECT  NBRECT
+ #2         0         0       0       31        0       0      0       0       0      0      0       0         0         0          0          0       0       0       0       0
+
+     NKSTRY  NKSREG  NKSHYP     NKSPER  NPRECT  NEWKS   NKSMOD    NTTRY  NTRIP  NQUAD  NCHAIN  NMERG  NEWHI  NSTEPT  NSTEPQ  NSTEPC
+ #3        0      0       0          0       0      0        0        0      0      0       0      0      0       0       0       0
+
+
+ T =     1.  N =   100  <NB> =  7  KS =    0  NM =  0  MM = 0  NS =   100  NSTEPS =      17213         0       5460          0  DE =  6.6E-07  E = -0.250000  M = 1.0000
+
+    <R>  RTIDE  RDENS   RC    NC   MC   RHOD   RHOM  CMAX   <Cn>   Ir/R   UN    NP   RCM    VCM      AZ      EB/E   EM/E   TCR     T6  NESC  VRMS
+ #1 1.00  10.0  0.11 0.2555   11  0.143    2.     6.   11.  12.0  0.364    0     0   0.000  0.0000   0.0424 -0.000 -0.000  2.83     0     0   1.2
+
+       NNPRED    NBCORR  NBFULL  NBVOID    NICONV  NBSMIN  NBDIS  NBDIS2  NCMDER  NBDER  NFAST  NBFAST    NBLOCK    NBLCKR     NBPRED     NBFLUX  NIRECT  NRRECT  NURECT  NBRECT
+ #2       387         0       9       46      262       0      0       0       0      0      0       0      1915         0      30383       4740       0       0       0       0
+
+     NKSTRY  NKSREG  NKSHYP     NKSPER  NPRECT  NEWKS   NKSMOD    NTTRY  NTRIP  NQUAD  NCHAIN  NMERG  NEWHI  NSTEPT  NSTEPQ  NSTEPC
+ #3        0      0       0          0       0      0        0        0      0      0       0      0      0       0       0       0
+
+ ADJUST:  TIME =    2.00  Q = 0.54  DE =  9.33E-07  E = -0.249999  RMIN = 3.2E-03  DTMIN = 5.1E-05  TC =    0  DELTA =  2.8E-07  E(3) = -0.249999  DETOT =  0.000001
+
+
+ T =     2.  N =   100  <NB> =  7  KS =    0  NM =  0  MM = 0  NS =   100  NSTEPS =      33993         0      10910          0  DE =  9.3E-07  E = -0.249999  M = 1.0000
+
+    <R>  RTIDE  RDENS   RC    NC   MC   RHOD   RHOM  CMAX   <Cn>   Ir/R   UN    NP   RCM    VCM      AZ      EB/E   EM/E   TCR     T6  NESC  VRMS
+ #1 0.91   9.1  0.23 0.5287   28  0.302    3.     8.    4.  11.2  1.865    0     0   0.000  0.0000   0.0424 -0.000 -0.000  2.83     0     0   1.1
+
+       NNPRED    NBCORR  NBFULL  NBVOID    NICONV  NBSMIN  NBDIS  NBDIS2  NCMDER  NBDER  NFAST  NBFAST    NBLOCK    NBLCKR     NBPRED     NBFLUX  NIRECT  NRRECT  NURECT  NBRECT
+ #2       775         0      13       63      578       5      0       0       0      0      0       0      3793         0      57654       8992       0       0       0       0
+
+     NKSTRY  NKSREG  NKSHYP     NKSPER  NPRECT  NEWKS   NKSMOD    NTTRY  NTRIP  NQUAD  NCHAIN  NMERG  NEWHI  NSTEPT  NSTEPQ  NSTEPC
+ #3      254      0       0          0       0      0        0        0      0      0       0      0      0       0       0       0
+
+
+ T =     3.  N =   100  <NB> =  8  KS =    0  NM =  0  MM = 0  NS =   100  NSTEPS =      49234        22      15782         30  DE =  3.6E-07  E = -0.249999  M = 1.0000
+
+    <R>  RTIDE  RDENS   RC    NC   MC   RHOD   RHOM  CMAX   <Cn>   Ir/R   UN    NP   RCM    VCM      AZ      EB/E   EM/E   TCR     T6  NESC  VRMS
+ #1 0.91   9.1  0.28 0.4103   22  0.184    1.     2.    7.  12.8  0.384    0     0   0.000  0.0000   0.0424 -0.000 -0.000  2.83     0     0   1.1
+
+       NNPRED    NBCORR  NBFULL  NBVOID    NICONV  NBSMIN  NBDIS  NBDIS2  NCMDER  NBDER  NFAST  NBFAST    NBLOCK    NBLCKR     NBPRED     NBFLUX  NIRECT  NRRECT  NURECT  NBRECT
+ #2      1123         0      31       94      832       5      0       0       0      0      0       0      5397         0      80207      13519       0       0       0       0
+
+     NKSTRY  NKSREG  NKSHYP     NKSPER  NPRECT  NEWKS   NKSMOD    NTTRY  NTRIP  NQUAD  NCHAIN  NMERG  NEWHI  NSTEPT  NSTEPQ  NSTEPC
+ #3      356      2       2          0       0      0        0        0      0      0       0      0      0       0       0       0
+
+ ADJUST:  TIME =    4.00  Q = 0.53  DE = -1.32E-06  E = -0.250000  RMIN = 3.5E-03  DTMIN = 5.7E-05  TC =    1  DELTA = -3.7E-07  E(3) = -0.250000  DETOT =  0.000000
+
+
+ T =     4.  N =   100  <NB> =  7  KS =    0  NM =  0  MM = 0  NS =   100  NSTEPS =      62347        30      20232         40  DE = -1.3E-06  E = -0.250000  M = 1.0000
+
+    <R>  RTIDE  RDENS   RC    NC   MC   RHOD   RHOM  CMAX   <Cn>   Ir/R   UN    NP   RCM    VCM      AZ      EB/E   EM/E   TCR     T6  NESC  VRMS
+ #1 0.95   9.5  0.11 0.3306   12  0.157    7.    15.    4.  12.8  0.328    0     0   0.000  0.0000   0.0424 -0.000 -0.000  2.83     0     0   1.1
+
+       NNPRED    NBCORR  NBFULL  NBVOID    NICONV  NBSMIN  NBDIS  NBDIS2  NCMDER  NBDER  NFAST  NBFAST    NBLOCK    NBLCKR     NBPRED     NBFLUX  NIRECT  NRRECT  NURECT  NBRECT
+ #2      1429         0      37      137     1120       6      0       0       0      0      0       0      6760         0     100812      17132       0       0       0       0
+
+     NKSTRY  NKSREG  NKSHYP     NKSPER  NPRECT  NEWKS   NKSMOD    NTTRY  NTRIP  NQUAD  NCHAIN  NMERG  NEWHI  NSTEPT  NSTEPQ  NSTEPC
+ #3      591      3       3          0       0      0        0        0      0      0       0      0      0       0       0       0
+
+
+ T =     5.  N =   100  <NB> =  9  KS =    0  NM =  0  MM = 0  NS =   100  NSTEPS =      79063        30      26384         40  DE = -1.5E-07  E = -0.250000  M = 1.0000
+
+    <R>  RTIDE  RDENS   RC    NC   MC   RHOD   RHOM  CMAX   <Cn>   Ir/R   UN    NP   RCM    VCM      AZ      EB/E   EM/E   TCR     T6  NESC  VRMS
+ #1 0.95   9.5  0.23 0.1559    4  0.184    3.     5.    4.  13.9  0.299    0     0   0.000  0.0000   0.0424 -0.000 -0.000  2.83     0     0   1.2
+
+       NNPRED    NBCORR  NBFULL  NBVOID    NICONV  NBSMIN  NBDIS  NBDIS2  NCMDER  NBDER  NFAST  NBFAST    NBLOCK    NBLCKR     NBPRED     NBFLUX  NIRECT  NRRECT  NURECT  NBRECT
+ #2      1986         0     185      218     1540      11      0       0       0      0      0       0      9069         0     138688      23982       0       0       0       0
+
+     NKSTRY  NKSREG  NKSHYP     NKSPER  NPRECT  NEWKS   NKSMOD    NTTRY  NTRIP  NQUAD  NCHAIN  NMERG  NEWHI  NSTEPT  NSTEPQ  NSTEPC
+ #3      591      3       3          0       0      0        0        0      0      0       0      0      0       0       0       0
+
+ ADJUST:  TIME =    6.00  Q = 0.58  DE = -1.71E-07  E = -0.250000  RMIN = 3.8E-03  DTMIN = 6.7E-05  TC =    2  DELTA = -5.9E-08  E(3) = -0.250000  DETOT =  0.000000
+
+
+ T =     6.  N =   100  <NB> =  7  KS =    0  NM =  0  MM = 0  NS =   100  NSTEPS =      92250        30      31153         40  DE = -1.7E-07  E = -0.250000  M = 1.0000
+
+    <R>  RTIDE  RDENS   RC    NC   MC   RHOD   RHOM  CMAX   <Cn>   Ir/R   UN    NP   RCM    VCM      AZ      EB/E   EM/E   TCR     T6  NESC  VRMS
+ #1 0.84   8.4  0.34 0.1765    4  0.243   11.    19.    2.  11.5  0.278    0     0   0.000  0.0000   0.0424 -0.000 -0.000  2.83     0     0   1.2
+
+       NNPRED    NBCORR  NBFULL  NBVOID    NICONV  NBSMIN  NBDIS  NBDIS2  NCMDER  NBDER  NFAST  NBFAST    NBLOCK    NBLCKR     NBPRED     NBFLUX  NIRECT  NRRECT  NURECT  NBRECT
+ #2      2337         0     213      292     1962      17      0       0       0      0      0       0     10707         0     166405      28848       0       0       0       0
+
+     NKSTRY  NKSREG  NKSHYP     NKSPER  NPRECT  NEWKS   NKSMOD    NTTRY  NTRIP  NQUAD  NCHAIN  NMERG  NEWHI  NSTEPT  NSTEPQ  NSTEPC
+ #3      851      3       3          0       0      0        0        0      0      0       0      0      0       0       0       0
+
+
+ T =     7.  N =   100  <NB> =  7  KS =    0  NM =  0  MM = 0  NS =   100  NSTEPS =     104322        43      35342         53  DE = -1.7E-06  E = -0.250000  M = 1.0000
+
+    <R>  RTIDE  RDENS   RC    NC   MC   RHOD   RHOM  CMAX   <Cn>   Ir/R   UN    NP   RCM    VCM      AZ      EB/E   EM/E   TCR     T6  NESC  VRMS
+ #1 0.84   8.4  0.19 0.2278    6  0.265    2.     3.    2.  12.9  0.264    0     0   0.000  0.0000   0.0424 -0.000 -0.000  2.83     0     0   1.1
+
+       NNPRED    NBCORR  NBFULL  NBVOID    NICONV  NBSMIN  NBDIS  NBDIS2  NCMDER  NBDER  NFAST  NBFAST    NBLOCK    NBLCKR     NBPRED     NBFLUX  NIRECT  NRRECT  NURECT  NBRECT
+ #2      2640         0     250      396     2378      30      0       0       0      0      0       0     12675         0     198716      32924       0       0       0       0
+
+     NKSTRY  NKSREG  NKSHYP     NKSPER  NPRECT  NEWKS   NKSMOD    NTTRY  NTRIP  NQUAD  NCHAIN  NMERG  NEWHI  NSTEPT  NSTEPQ  NSTEPC
+ #3     1207      4       4          0       0      0        0        0      0      0       0      0      0       0       0       0
+
+ ADJUST:  TIME =    8.00  Q = 0.56  DE = -2.74E-06  E = -0.250001  RMIN = 4.2E-03  DTMIN = 7.8E-05  TC =    2  DELTA = -8.8E-07  E(3) = -0.250001  DETOT = -0.000001
+
+
+ T =     8.  N =   100  <NB> =  8  KS =    0  NM =  0  MM = 0  NS =   100  NSTEPS =     115463        76      39278         59  DE = -2.7E-06  E = -0.250001  M = 1.0000
+
+    <R>  RTIDE  RDENS   RC    NC   MC   RHOD   RHOM  CMAX   <Cn>   Ir/R   UN    NP   RCM    VCM      AZ      EB/E   EM/E   TCR     T6  NESC  VRMS
+ #1 0.88   8.8  0.13 0.2023    4  0.193   11.    21.    2.  15.9  0.645    0     0   0.000  0.0000   0.0424 -0.000 -0.000  2.83     0     0   1.2
+
+       NNPRED    NBCORR  NBFULL  NBVOID    NICONV  NBSMIN  NBDIS  NBDIS2  NCMDER  NBDER  NFAST  NBFAST    NBLOCK    NBLCKR     NBPRED     NBFLUX  NIRECT  NRRECT  NURECT  NBRECT
+ #2      2949         0     285      505     2754      35      0       0       0      0      0       0     14302         0     224977      36586       0       0       0       0
+
+     NKSTRY  NKSREG  NKSHYP     NKSPER  NPRECT  NEWKS   NKSMOD    NTTRY  NTRIP  NQUAD  NCHAIN  NMERG  NEWHI  NSTEPT  NSTEPQ  NSTEPC
+ #3     1481      5       5          0       0      0        0        0      0      0       0      0      0       0       0       0
+
+
+ T =     9.  N =   100  <NB> =  8  KS =    0  NM =  0  MM = 0  NS =   100  NSTEPS =     131442        76      43658         59  DE =  5.4E-07  E = -0.250001  M = 1.0000
+
+    <R>  RTIDE  RDENS   RC    NC   MC   RHOD   RHOM  CMAX   <Cn>   Ir/R   UN    NP   RCM    VCM      AZ      EB/E   EM/E   TCR     T6  NESC  VRMS
+ #1 0.88   8.8  0.08 0.2730    5  0.239    1.     2.    2.  13.8  0.353    0     0   0.000  0.0000   0.0424 -0.000 -0.000  2.83     0     0   1.0
+
+       NNPRED    NBCORR  NBFULL  NBVOID    NICONV  NBSMIN  NBDIS  NBDIS2  NCMDER  NBDER  NFAST  NBFAST    NBLOCK    NBLCKR     NBPRED     NBFLUX  NIRECT  NRRECT  NURECT  NBRECT
+ #2      3393         0     336      611     3234      77      0       0       0      0      0       0     17560         0     281326      41033       0       0       0       0
+
+     NKSTRY  NKSREG  NKSHYP     NKSPER  NPRECT  NEWKS   NKSMOD    NTTRY  NTRIP  NQUAD  NCHAIN  NMERG  NEWHI  NSTEPT  NSTEPQ  NSTEPC
+ #3     2851      5       5          0       0      0        0        0      0      0       0      0      0       0       0       0
+
+ ADJUST:  TIME =   10.00  Q = 0.54  DE =  2.33E-06  E = -0.250000  RMIN = 3.6E-03  DTMIN = 6.2E-05  TC =    3  DELTA =  6.9E-07  E(3) = -0.250000  DETOT = -0.000000
+
+
+ T =    10.  N =   100  <NB> =  7  KS =    0  NM =  0  MM = 0  NS =   100  NSTEPS =     145476        87      48433         91  DE =  2.3E-06  E = -0.250000  M = 1.0000
+
+    <R>  RTIDE  RDENS   RC    NC   MC   RHOD   RHOM  CMAX   <Cn>   Ir/R   UN    NP   RCM    VCM      AZ      EB/E   EM/E   TCR     T6  NESC  VRMS
+ #1 0.92   9.2  0.29 0.1353    3  0.180   26.    56.    4.  14.1  0.324    0     0   0.000  0.0000   0.0424 -0.000 -0.000  2.83     0     0   1.1
+
+       NNPRED    NBCORR  NBFULL  NBVOID    NICONV  NBSMIN  NBDIS  NBDIS2  NCMDER  NBDER  NFAST  NBFAST    NBLOCK    NBLCKR     NBPRED     NBFLUX  NIRECT  NRRECT  NURECT  NBRECT
+ #2      3847         0     455      734     3827      94      0       0       0      0      0       0     20097         0     322943      45739       0       0       0       0
+
+     NKSTRY  NKSREG  NKSHYP     NKSPER  NPRECT  NEWKS   NKSMOD    NTTRY  NTRIP  NQUAD  NCHAIN  NMERG  NEWHI  NSTEPT  NSTEPQ  NSTEPC
+ #3     3914      6       5          0       0      0        0        0      0      0       0      0      0       0       0       0
+
+
+ T =    11.  N =   100  <NB> =  8  KS =    0  NM =  0  MM = 0  NS =   100  NSTEPS =     158112        87      52311         91  DE =  7.0E-07  E = -0.250000  M = 1.0000
+
+    <R>  RTIDE  RDENS   RC    NC   MC   RHOD   RHOM  CMAX   <Cn>   Ir/R   UN    NP   RCM    VCM      AZ      EB/E   EM/E   TCR     T6  NESC  VRMS
+ #1 0.92   9.2  0.38 0.1420    3  0.243    3.     5.    1.  14.8  0.582    0     0   0.000  0.0000   0.0424 -0.000 -0.000  2.83     0     0   1.0
+
+       NNPRED    NBCORR  NBFULL  NBVOID    NICONV  NBSMIN  NBDIS  NBDIS2  NCMDER  NBDER  NFAST  NBFAST    NBLOCK    NBLCKR     NBPRED     NBFLUX  NIRECT  NRRECT  NURECT  NBRECT
+ #2      4124         0     522      856     4365     108      0       0       0      0      0       0     22287         0     362303      49874       0       0       0       0
+
+     NKSTRY  NKSREG  NKSHYP     NKSPER  NPRECT  NEWKS   NKSMOD    NTTRY  NTRIP  NQUAD  NCHAIN  NMERG  NEWHI  NSTEPT  NSTEPQ  NSTEPC
+ #3     4840      6       5          0       0      0        0        0      0      0       0      0      0       0       0       0
+
+ ADJUST:  TIME =   12.00  Q = 0.53  DE = -6.20E-04  E = -0.250172  RMIN = 5.8E-03  DTMIN = 1.2E-04  TC =    4  DELTA = -1.7E-04  E(3) = -0.250172  DETOT = -0.000172
+
+
+ T =    12.  N =   100  <NB> =  8  KS =    0  NM =  0  MM = 0  NS =   100  NSTEPS =     169280       149      55919        194  DE = -6.2E-04  E = -0.250172  M = 1.0000
+
+    <R>  RTIDE  RDENS   RC    NC   MC   RHOD   RHOM  CMAX   <Cn>   Ir/R   UN    NP   RCM    VCM      AZ      EB/E   EM/E   TCR     T6  NESC  VRMS
+ #1 0.95   9.5  0.36 0.2974    6  0.263    5.     9.    2.  15.4  0.704    0     0   0.000  0.0000   0.0424 -0.000 -0.000  2.83     0     0   1.1
+
+       NNPRED    NBCORR  NBFULL  NBVOID    NICONV  NBSMIN  NBDIS  NBDIS2  NCMDER  NBDER  NFAST  NBFAST    NBLOCK    NBLCKR     NBPRED     NBFLUX  NIRECT  NRRECT  NURECT  NBRECT
+ #2      4426         1     593     1005     4934     126      0       0       0      0      0       0     24426         0     399989      53925       0       0       0       0
+
+     NKSTRY  NKSREG  NKSHYP     NKSPER  NPRECT  NEWKS   NKSMOD    NTTRY  NTRIP  NQUAD  NCHAIN  NMERG  NEWHI  NSTEPT  NSTEPQ  NSTEPC
+ #3     6095      9       5          0       0      0        0        0      0      0       0      0      0       0       0       0
+
+
+ T =    13.  N =   100  <NB> =  8  KS =    0  NM =  0  MM = 0  NS =   100  NSTEPS =     181234       174      59287        347  DE = -7.9E-06  E = -0.250174  M = 1.0000
+
+    <R>  RTIDE  RDENS   RC    NC   MC   RHOD   RHOM  CMAX   <Cn>   Ir/R   UN    NP   RCM    VCM      AZ      EB/E   EM/E   TCR     T6  NESC  VRMS
+ #1 0.95   9.5  0.33 0.3380    6  0.275    0.     1.    1.  14.1  0.391    0     0   0.000  0.0000   0.0424 -0.000 -0.000  2.83     0     0   0.9
+
+       NNPRED    NBCORR  NBFULL  NBVOID    NICONV  NBSMIN  NBDIS  NBDIS2  NCMDER  NBDER  NFAST  NBFAST    NBLOCK    NBLCKR     NBPRED     NBFLUX  NIRECT  NRRECT  NURECT  NBRECT
+ #2      4745         1     717     1139     5379     281      0       0       0      0      0       0     26713         0     440515      58157       0       0       0       0
+
+     NKSTRY  NKSREG  NKSHYP     NKSPER  NPRECT  NEWKS   NKSMOD    NTTRY  NTRIP  NQUAD  NCHAIN  NMERG  NEWHI  NSTEPT  NSTEPQ  NSTEPC
+ #3     8482     11       6          0       0      0        0        0      0      0       0      0      0       0       0       0
+
+ ADJUST:  TIME =   14.00  Q = 0.51  DE = -1.30E-05  E = -0.250177  RMIN = 5.4E-03  DTMIN = 1.1E-04  TC =    4  DELTA = -3.4E-06  E(3) = -0.250177  DETOT = -0.000177
+
+
+ T =    14.  N =   100  <NB> =  8  KS =    0  NM =  0  MM = 0  NS =   100  NSTEPS =     193942       233      63894        674  DE = -1.3E-05  E = -0.250177  M = 1.0000
+
+    <R>  RTIDE  RDENS   RC    NC   MC   RHOD   RHOM  CMAX   <Cn>   Ir/R   UN    NP   RCM    VCM      AZ      EB/E   EM/E   TCR     T6  NESC  VRMS
+ #1 0.97   9.7  0.25 0.3019   10  0.346    5.     9.    2.  15.0  0.367    0     0   0.000  0.0000   0.0424 -0.000 -0.000  2.83     0     0   1.1
+
+       NNPRED    NBCORR  NBFULL  NBVOID    NICONV  NBSMIN  NBDIS  NBDIS2  NCMDER  NBDER  NFAST  NBFAST    NBLOCK    NBLCKR     NBPRED     NBFLUX  NIRECT  NRRECT  NURECT  NBRECT
+ #2      5377         2     840     1304     6132     348      0       0       0      0      0       0     29229         0     477125      62585       0       0       0       0
+
+     NKSTRY  NKSREG  NKSHYP     NKSPER  NPRECT  NEWKS   NKSMOD    NTTRY  NTRIP  NQUAD  NCHAIN  NMERG  NEWHI  NSTEPT  NSTEPQ  NSTEPC
+ #3    10168     14       8          0       0      0        0        0      0      0       0      0      0       0       0       0
+
+
+ T =    15.  N =   100  <NB> =  8  KS =    0  NM =  0  MM = 0  NS =   100  NSTEPS =     209884       252      68646        881  DE = -2.1E-06  E = -0.250178  M = 1.0000
+
+    <R>  RTIDE  RDENS   RC    NC   MC   RHOD   RHOM  CMAX   <Cn>   Ir/R   UN    NP   RCM    VCM      AZ      EB/E   EM/E   TCR     T6  NESC  VRMS
+ #1 0.97   9.7  0.35 0.1167    3  0.184    6.    10.    1.  16.2  0.415    0     0   0.000  0.0000   0.0424 -0.000 -0.000  2.83     1     0   1.3
+
+       NNPRED    NBCORR  NBFULL  NBVOID    NICONV  NBSMIN  NBDIS  NBDIS2  NCMDER  NBDER  NFAST  NBFAST    NBLOCK    NBLCKR     NBPRED     NBFLUX  NIRECT  NRRECT  NURECT  NBRECT
+ #2      6006         2     957     1461     6997     381      0       0       0      0      0       0     32750         0     534186      67514       0       0       0       0
+
+     NKSTRY  NKSREG  NKSHYP     NKSPER  NPRECT  NEWKS   NKSMOD    NTTRY  NTRIP  NQUAD  NCHAIN  NMERG  NEWHI  NSTEPT  NSTEPQ  NSTEPC
+ #3    10815     15       8          0       0      0        0        0      0      0       0      0      0       0       0       0
+
+ ADJUST:  TIME =   16.00  Q = 0.68  DE = -1.46E-04  E = -0.250254  RMIN = 6.3E-03  DTMIN = 1.4E-04  TC =    5  DELTA = -7.6E-05  E(3) = -0.250254  DETOT = -0.000254
+
+
+ T =    16.  N =   100  <NB> =  8  KS =    0  NM =  0  MM = 0  NS =   100  NSTEPS =     224644       385      72281       1276  DE = -1.5E-04  E = -0.250254  M = 1.0000
+
+    <R>  RTIDE  RDENS   RC    NC   MC   RHOD   RHOM  CMAX   <Cn>   Ir/R   UN    NP   RCM    VCM      AZ      EB/E   EM/E   TCR     T6  NESC  VRMS
+ #1 0.65   6.5  0.51 0.2273    3  0.231    2.     3.    0.  16.4  1.408    0     0   0.000  0.0001   0.0424 -0.000 -0.000  2.82     1     0   1.5
+
+       NNPRED    NBCORR  NBFULL  NBVOID    NICONV  NBSMIN  NBDIS  NBDIS2  NCMDER  NBDER  NFAST  NBFAST    NBLOCK    NBLCKR     NBPRED     NBFLUX  NIRECT  NRRECT  NURECT  NBRECT
+ #2      6444         3    1053     1573     7525     414      0       0       0      0      0       0     36456         0     598567      71529       0       0       0       0
+
+     NKSTRY  NKSREG  NKSHYP     NKSPER  NPRECT  NEWKS   NKSMOD    NTTRY  NTRIP  NQUAD  NCHAIN  NMERG  NEWHI  NSTEPT  NSTEPQ  NSTEPC
+ #3    13149     24       9          0       0      0        0        0      0      0       0      0      0       0       0       0
+
+
+ T =    17.  N =   100  <NB> =  7  KS =    0  NM =  0  MM = 0  NS =   100  NSTEPS =     233713       385      75142       1276  DE = -9.2E-08  E = -0.250254  M = 1.0000
+
+    <R>  RTIDE  RDENS   RC    NC   MC   RHOD   RHOM  CMAX   <Cn>   Ir/R   UN    NP   RCM    VCM      AZ      EB/E   EM/E   TCR     T6  NESC  VRMS
+ #1 0.65   6.5  0.59 0.1463    4  0.263    3.     4.    0.  16.5  0.737    0     0   0.000  0.0001   0.0424 -0.000 -0.000  2.82     1     0   1.2
+
+       NNPRED    NBCORR  NBFULL  NBVOID    NICONV  NBSMIN  NBDIS  NBDIS2  NCMDER  NBDER  NFAST  NBFAST    NBLOCK    NBLCKR     NBPRED     NBFLUX  NIRECT  NRRECT  NURECT  NBRECT
+ #2      6617         3    1090     1717     8019     458      0       0       0      0      0       0     38145         0     629261      74733       0       0       0       0
+
+     NKSTRY  NKSREG  NKSHYP     NKSPER  NPRECT  NEWKS   NKSMOD    NTTRY  NTRIP  NQUAD  NCHAIN  NMERG  NEWHI  NSTEPT  NSTEPQ  NSTEPC
+ #3    14198     24       9          0       0      0        0        0      0      0       0      0      0       0       0       0
+
+ ADJUST:  TIME =   18.00  Q = 0.46  DE =  6.12E-05  E = -0.250239  RMIN = 5.7E-03  DTMIN = 1.2E-04  TC =    6  DELTA =  1.5E-05  E(3) = -0.250239  DETOT = -0.000239
+
+
+ T =    18.  N =   100  <NB> =  7  KS =    0  NM =  0  MM = 0  NS =   100  NSTEPS =     246490       462      78513       1466  DE =  6.1E-05  E = -0.250239  M = 1.0000
+
+    <R>  RTIDE  RDENS   RC    NC   MC   RHOD   RHOM  CMAX   <Cn>   Ir/R   UN    NP   RCM    VCM      AZ      EB/E   EM/E   TCR     T6  NESC  VRMS
+ #1 1.08  10.8  0.54 0.1485    2  0.100   21.    37.    2.  14.8  0.510    0     0   0.000  0.0000   0.0424 -0.000 -0.000  2.82     1     0   1.0
+
+       NNPRED    NBCORR  NBFULL  NBVOID    NICONV  NBSMIN  NBDIS  NBDIS2  NCMDER  NBDER  NFAST  NBFAST    NBLOCK    NBLCKR     NBPRED     NBFLUX  NIRECT  NRRECT  NURECT  NBRECT
+ #2      6908         3    1159     1841     8446     582      0       0       0      0      0       0     40790         0     675894      79408       0       0       0       0
+
+     NKSTRY  NKSREG  NKSHYP     NKSPER  NPRECT  NEWKS   NKSMOD    NTTRY  NTRIP  NQUAD  NCHAIN  NMERG  NEWHI  NSTEPT  NSTEPQ  NSTEPC
+ #3    16312     27       9          0       0      0        0        0      0      0       0      0      0       0       0       0
+
+
+ T =    19.  N =   100  <NB> =  9  KS =    0  NM =  0  MM = 0  NS =   100  NSTEPS =     261569       518      82443       1589  DE = -7.1E-05  E = -0.250257  M = 1.0000
+
+    <R>  RTIDE  RDENS   RC    NC   MC   RHOD   RHOM  CMAX   <Cn>   Ir/R   UN    NP   RCM    VCM      AZ      EB/E   EM/E   TCR     T6  NESC  VRMS
+ #1 1.08  10.8  0.49 0.2186    5  0.266    2.     3.    3.  15.6  0.316    0     0   0.000  0.0000   0.0424 -0.000 -0.000  2.82     1     0   1.0
+
+       NNPRED    NBCORR  NBFULL  NBVOID    NICONV  NBSMIN  NBDIS  NBDIS2  NCMDER  NBDER  NFAST  NBFAST    NBLOCK    NBLCKR     NBPRED     NBFLUX  NIRECT  NRRECT  NURECT  NBRECT
+ #2      7408         3    1316     1904     8912     589      0       0       0      0      0       0     44166         0     733197      84209       0       0       0       0
+
+     NKSTRY  NKSREG  NKSHYP     NKSPER  NPRECT  NEWKS   NKSMOD    NTTRY  NTRIP  NQUAD  NCHAIN  NMERG  NEWHI  NSTEPT  NSTEPQ  NSTEPC
+ #3    17448     31       9          0       0      0        0        0      0      0       0      0      0       0       0       0
+
+ ADJUST:  TIME =   20.00  Q = 0.46  DE =  3.07E-05  E = -0.250249  RMIN = 4.7E-03  DTMIN = 9.2E-05  TC =    7  DELTA =  7.7E-06  E(3) = -0.250249  DETOT = -0.000249
+
+
+ T =    20.  N =   100  <NB> =  9  KS =    0  NM =  0  MM = 0  NS =   100  NSTEPS =     275331       605      86248       1809  DE =  3.1E-05  E = -0.250249  M = 1.0000
+
+    <R>  RTIDE  RDENS   RC    NC   MC   RHOD   RHOM  CMAX   <Cn>   Ir/R   UN    NP   RCM    VCM      AZ      EB/E   EM/E   TCR     T6  NESC  VRMS
+ #1 1.09  10.9  0.64 0.1950    4  0.256   18.    29.    2.  15.6  0.326    0     0   0.000  0.0000   0.0424 -0.000 -0.000  2.82     1     0   0.9
+
+       NNPRED    NBCORR  NBFULL  NBVOID    NICONV  NBSMIN  NBDIS  NBDIS2  NCMDER  NBDER  NFAST  NBFAST    NBLOCK    NBLCKR     NBPRED     NBFLUX  NIRECT  NRRECT  NURECT  NBRECT
+ #2      7816         4    1445     1965     9276     610      0       0       0      0      0       0     47050         0     781610      89288       0       0       0       0
+
+     NKSTRY  NKSREG  NKSHYP     NKSPER  NPRECT  NEWKS   NKSMOD    NTTRY  NTRIP  NQUAD  NCHAIN  NMERG  NEWHI  NSTEPT  NSTEPQ  NSTEPC
+ #3    18418     35       9          0       0      0        0        0      0      0       0      0      0       0       0       0
+
+
+ T =    21.  N =   100  <NB> =  8  KS =    0  NM =  0  MM = 0  NS =   100  NSTEPS =     295443       623      89634       1836  DE =  7.3E-05  E = -0.250220  M = 1.0000
+
+    <R>  RTIDE  RDENS   RC    NC   MC   RHOD   RHOM  CMAX   <Cn>   Ir/R   UN    NP   RCM    VCM      AZ      EB/E   EM/E   TCR     T6  NESC  VRMS
+ #1 1.09  10.9  0.72 0.3213    4  0.203    0.     1.    1.  16.9  1.152    0     0   0.000  0.0000   0.0424 -0.000 -0.000  2.82     1     0   1.3
+
+       NNPRED    NBCORR  NBFULL  NBVOID    NICONV  NBSMIN  NBDIS  NBDIS2  NCMDER  NBDER  NFAST  NBFAST    NBLOCK    NBLCKR     NBPRED     NBFLUX  NIRECT  NRRECT  NURECT  NBRECT
+ #2      8248         4    1547     2010     9659     674      0       0       0      0      0       0     52076         0     874707      93365       0       0       0       0
+
+     NKSTRY  NKSREG  NKSHYP     NKSPER  NPRECT  NEWKS   NKSMOD    NTTRY  NTRIP  NQUAD  NCHAIN  NMERG  NEWHI  NSTEPT  NSTEPQ  NSTEPC
+ #3    19074     36      10          0       0      0        0        0      0      0       0      0      0       0       0       0
+
+ ADJUST:  TIME =   22.00  Q = 0.45  DE = -7.93E-06  E = -0.250222  RMIN = 6.9E-03  DTMIN = 1.6E-04  TC =    7  DELTA = -2.0E-06  E(3) = -0.250222  DETOT = -0.000222
+
+
+ T =    22.  N =   100  <NB> =  8  KS =    0  NM =  0  MM = 0  NS =   100  NSTEPS =     322955       623      93186       1836  DE = -7.9E-06  E = -0.250222  M = 1.0000
+
+    <R>  RTIDE  RDENS   RC    NC   MC   RHOD   RHOM  CMAX   <Cn>   Ir/R   UN    NP   RCM    VCM      AZ      EB/E   EM/E   TCR     T6  NESC  VRMS
+ #1 1.11  11.1  0.63 0.4645    7  0.091    3.     7.    1.  16.4  0.860    0     0   0.000  0.0000   0.0424 -0.000 -0.000  2.82     1     0   0.9
+
+       NNPRED    NBCORR  NBFULL  NBVOID    NICONV  NBSMIN  NBDIS  NBDIS2  NCMDER  NBDER  NFAST  NBFAST    NBLOCK    NBLCKR     NBPRED     NBFLUX  NIRECT  NRRECT  NURECT  NBRECT
+ #2      8773         4    1616     2061    10288     711      0       0       0      0      0       0     60471         0    1029681      97198       0       0       0       0
+
+     NKSTRY  NKSREG  NKSHYP     NKSPER  NPRECT  NEWKS   NKSMOD    NTTRY  NTRIP  NQUAD  NCHAIN  NMERG  NEWHI  NSTEPT  NSTEPQ  NSTEPC
+ #3    27719     36      10          0       0      0        0        0      0      0       0      0      0       0       0       0
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    22.636    60   1  17  1.61E-02  9.31E-03 -1.32E-01 -6.62E-03  5.32E-02
+ CHLIST!   NP NB2 GP RPERT R    18   19  1.12E-03  1.21E-02  1.40E-02  1.01E-02
+ CHLIST!   NP NB2 GP RPERT R    16   17  1.09E-03  1.21E-02  1.41E-02  1.00E-02
+ CHLIST!   NP NB2 GP RPERT R    16   17  1.01E-03  1.20E-02  1.42E-02  9.78E-03
+ CHLIST!   NP NB2 GP RPERT R    16   17  9.13E-04  1.19E-02  1.43E-02  9.46E-03
+ CHLIST!   NP NB2 GP RPERT R    16   17  7.32E-04  1.17E-02  1.46E-02  8.79E-03
+ CHLIST!   NP NB2 GP RPERT R    16   17  6.36E-04  1.15E-02  1.49E-02  8.12E-03
+ CHLIST!   NP NB2 GP RPERT R    16   17  6.67E-04  1.13E-02  1.51E-02  7.45E-03
+ CHLIST!   NP NB2 GP RPERT R    16   17  7.34E-04  1.09E-02  1.57E-02  6.05E-03
+ CHLIST!   NP NB2 GP RPERT R    16   17  7.34E-04  1.09E-02  1.57E-02  6.05E-03
+ CHLIST!   NP NB2 GP RPERT R    16   17  7.54E-04  1.07E-02  1.58E-02  5.64E-03
+ CHAIN ESCAPE:    IESC NM RI RDOT2 2*M/R VF   3    60  2.4E-02  1.8E+01  1.6E+01   2.2
+ ACTUAL ESCAPE    NAM G R     60  1.24E-02  2.27E-02  2.40E-02
+ EXCHANGE    T NAM E0 E A0 A EB0 EB     22.64     1     6     1     6  1.125  0.604  1.6E-02  1.5E-02  -1.3E-01  -1.4E-01
+ CHAIN BINARY    NM M1 M2 VCM A PB       1      6   7.6   1.4    0.3  1.53E-02  6.85E+05
+
+
+ T =    23.  N =   100  <NB> =  9  KS =    1  NM =  0  MM = 0  NS =    98  NSTEPS =     334522      1490      96179       3331  DE = -1.3E-04  E = -0.250254  M = 1.0000
+
+    <R>  RTIDE  RDENS   RC    NC   MC   RHOD   RHOM  CMAX   <Cn>   Ir/R   UN    NP   RCM    VCM      AZ      EB/E   EM/E   TCR     T6  NESC  VRMS
+ #1 1.11  11.1  0.75 0.4393    3  0.211    0.     0.    1.  16.5  0.805    0    15   0.000  0.0000   0.0424  1.240 -0.000  2.82     1     0   0.9
+
+       NNPRED    NBCORR  NBFULL  NBVOID    NICONV  NBSMIN  NBDIS  NBDIS2  NCMDER  NBDER  NFAST  NBFAST    NBLOCK    NBLCKR     NBPRED     NBFLUX  NIRECT  NRRECT  NURECT  NBRECT
+ #2      9068         8    1753     2103    10913     729      0       0       0      0      1       0     62070         0    1056698     102146       0       0       0       0
+
+     NKSTRY  NKSREG  NKSHYP     NKSPER  NPRECT  NEWKS   NKSMOD    NTTRY  NTRIP  NQUAD  NCHAIN  NMERG  NEWHI  NSTEPT  NSTEPQ  NSTEPC
+ #3    28110     39      11          0       0      0        0        0      0      0       1      0      0       0       0      60
+
+ ADJUST:  TIME =   24.00  Q = 0.71  DE = -2.65E-06  E = -0.250254  RMIN = 8.2E-03  DTMIN = 2.1E-04  TC =    2  DELTA = -7.1E-07  E(3) = -0.111724  DETOT = -0.000254
+
+
+ T =    24.  N =   100  <NB> =  8  KS =    1  NM =  0  MM = 0  NS =    98  NSTEPS =     343707      2104      99134       4594  DE = -2.7E-06  E = -0.250254  M = 1.0000
+
+    <R>  RTIDE  RDENS   RC    NC   MC   RHOD   RHOM  CMAX   <Cn>   Ir/R   UN    NP   RCM    VCM      AZ      EB/E   EM/E   TCR     T6  NESC  VRMS
+ #1 1.32  13.2  0.85 0.2533    4  0.228    9.    17.    1.  15.9  0.491    0    16   0.000  0.0000   0.0424  1.240 -0.000  9.47     1     0   1.1
+
+       NNPRED    NBCORR  NBFULL  NBVOID    NICONV  NBSMIN  NBDIS  NBDIS2  NCMDER  NBDER  NFAST  NBFAST    NBLOCK    NBLCKR     NBPRED     NBFLUX  NIRECT  NRRECT  NURECT  NBRECT
+ #2      9308         9    1801     2137    11705     733      0       0       0      0      1       0     63026         0    1072768     107169       0       0       0       0
+
+     NKSTRY  NKSREG  NKSHYP     NKSPER  NPRECT  NEWKS   NKSMOD    NTTRY  NTRIP  NQUAD  NCHAIN  NMERG  NEWHI  NSTEPT  NSTEPQ  NSTEPC
+ #3    28110     39      11          0       0      0        0        0      0      0       1      0      0       0       0      60
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    24.052    17   2  16  1.55E-02  1.24E-01 -1.37E-01  1.63E-02  5.03E-02
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    24.053    17   2  15  1.55E-02  1.24E-01 -1.36E-01  1.65E-02  5.16E-02
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    24.054    17   2  15  1.56E-02  1.26E-01 -1.36E-01  1.67E-02  5.14E-02
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    24.063    17   2  15  1.48E-02  1.35E-01 -1.43E-01  1.32E-02  5.38E-02
+ CHAIN RECOIL  NAM =     1     6  A = 1.2E-02  E = 0.49  EB = 1.14  GB = 1.3E-03  G4 = 3.3E-02  EB1 =-0.00  E1 =-0.15  ET = 1.557  DB =  0.2
+
+
+ T =    25.  N =   100  <NB> =  9  KS =    1  NM =  0  MM = 0  NS =    98  NSTEPS =     356523      3193     101918       6837  DE = -4.0E-06  E = -0.250255  M = 1.0000
+
+    <R>  RTIDE  RDENS   RC    NC   MC   RHOD   RHOM  CMAX   <Cn>   Ir/R   UN    NP   RCM    VCM      AZ      EB/E   EM/E   TCR     T6  NESC  VRMS
+ #1 1.32  13.2  0.87 0.7381    8  0.310    0.     0.    1.  16.2  0.625    0    12   0.000  0.0000   0.0424  2.276 -0.000  9.47     1     0   0.9
+
+       NNPRED    NBCORR  NBFULL  NBVOID    NICONV  NBSMIN  NBDIS  NBDIS2  NCMDER  NBDER  NFAST  NBFAST    NBLOCK    NBLCKR     NBPRED     NBFLUX  NIRECT  NRRECT  NURECT  NBRECT
+ #2      9678        12    1903     2170    12074     762      0       0       0      0      1       0     65027         0    1107134     111008       0       0       0       0
+
+     NKSTRY  NKSREG  NKSHYP     NKSPER  NPRECT  NEWKS   NKSMOD    NTTRY  NTRIP  NQUAD  NCHAIN  NMERG  NEWHI  NSTEPT  NSTEPQ  NSTEPC
+ #3    28853     44      12          0       0      0        0        0      0      0       5      0      0       0       0     273
+
+ ADJUST:  TIME =   26.00  Q = 0.72  DE = -1.03E-06  E = -0.250256  RMIN = 8.7E-03  DTMIN = 2.3E-04  TC =    1  DELTA = -2.1E-07  E(3) = -0.076379  DETOT = -0.000256
+
+
+ T =    26.  N =   100  <NB> =  9  KS =    1  NM =  0  MM = 0  NS =    98  NSTEPS =     365760      3768     104323       8460  DE = -1.0E-06  E = -0.250256  M = 1.0000
+
+    <R>  RTIDE  RDENS   RC    NC   MC   RHOD   RHOM  CMAX   <Cn>   Ir/R   UN    NP   RCM    VCM      AZ      EB/E   EM/E   TCR     T6  NESC  VRMS
+ #1 1.81  18.1  0.92 0.4822    7  0.272   17.    38.    3.  16.6  0.611    0    10   0.000  0.0000   0.0424  2.276 -0.000 16.75     1     0   0.9
+
+       NNPRED    NBCORR  NBFULL  NBVOID    NICONV  NBSMIN  NBDIS  NBDIS2  NCMDER  NBDER  NFAST  NBFAST    NBLOCK    NBLCKR     NBPRED     NBFLUX  NIRECT  NRRECT  NURECT  NBRECT
+ #2      9991        12    1971     2197    12624     762      0       0       0      0      1       0     66031         0    1122369     114138       0       0       0       0
+
+     NKSTRY  NKSREG  NKSHYP     NKSPER  NPRECT  NEWKS   NKSMOD    NTTRY  NTRIP  NQUAD  NCHAIN  NMERG  NEWHI  NSTEPT  NSTEPQ  NSTEPC
+ #3    28853     44      12          0       0      0        0        0      0      0       5      0      0       0       0     273
+
+
+ T =    27.  N =   100  <NB> = 10  KS =    1  NM =  0  MM = 0  NS =    98  NSTEPS =     378664      4951     106153      10467  DE =  2.3E-06  E = -0.250255  M = 1.0000
+
+    <R>  RTIDE  RDENS   RC    NC   MC   RHOD   RHOM  CMAX   <Cn>   Ir/R   UN    NP   RCM    VCM      AZ      EB/E   EM/E   TCR     T6  NESC  VRMS
+ #1 1.81  18.1  1.18 0.5244    6  0.205    0.     0.    3.  17.2  1.062    0     9   0.000  0.0000   0.0424  2.274 -0.000 16.75     1     0   0.8
+
+       NNPRED    NBCORR  NBFULL  NBVOID    NICONV  NBSMIN  NBDIS  NBDIS2  NCMDER  NBDER  NFAST  NBFAST    NBLOCK    NBLCKR     NBPRED     NBFLUX  NIRECT  NRRECT  NURECT  NBRECT
+ #2     10325        13    2030     2219    12929     767      0       0       0      0      1       0     67788         0    1153352     116676       0       0       0       0
+
+     NKSTRY  NKSREG  NKSHYP     NKSPER  NPRECT  NEWKS   NKSMOD    NTTRY  NTRIP  NQUAD  NCHAIN  NMERG  NEWHI  NSTEPT  NSTEPQ  NSTEPC
+ #3    29143     44      12          0       0      0        0        0      0      0       5      0      0       0       0     273
+
+ ADJUST:  TIME =   28.00  Q = 0.66  DE =  5.15E-07  E = -0.250255  RMIN = 8.8E-03  DTMIN = 2.3E-04  TC =    1  DELTA =  7.7E-08  E(3) = -0.076425  DETOT = -0.000255
+
+
+ T =    28.  N =   100  <NB> = 10  KS =    1  NM =  0  MM = 0  NS =    98  NSTEPS =     388584      5782     107774      12209  DE =  5.1E-07  E = -0.250255  M = 1.0000
+
+    <R>  RTIDE  RDENS   RC    NC   MC   RHOD   RHOM  CMAX   <Cn>   Ir/R   UN    NP   RCM    VCM      AZ      EB/E   EM/E   TCR     T6  NESC  VRMS
+ #1 2.21  22.1  1.25 0.4398    5  0.223   20.    45.    3.  16.8  0.776    0    11   0.000  0.0000   0.0424  2.275 -0.000 16.73     1     0   0.8
+
+       NNPRED    NBCORR  NBFULL  NBVOID    NICONV  NBSMIN  NBDIS  NBDIS2  NCMDER  NBDER  NFAST  NBFAST    NBLOCK    NBLCKR     NBPRED     NBFLUX  NIRECT  NRRECT  NURECT  NBRECT
+ #2     10617        13    2080     2235    13176     768      0       0       0      0      1       0     69035         0    1173670     119158       0       0       0       0
+
+     NKSTRY  NKSREG  NKSHYP     NKSPER  NPRECT  NEWKS   NKSMOD    NTTRY  NTRIP  NQUAD  NCHAIN  NMERG  NEWHI  NSTEPT  NSTEPQ  NSTEPC
+ #3    29263     44      12          0       0      0        0        0      0      0       5      0      0       0       0     273
+
+
+ T =    29.  N =   100  <NB> = 10  KS =    1  NM =  0  MM = 0  NS =    98  NSTEPS =     399517      6926     109086      14135  DE =  1.7E-06  E = -0.250254  M = 1.0000
+
+    <R>  RTIDE  RDENS   RC    NC   MC   RHOD   RHOM  CMAX   <Cn>   Ir/R   UN    NP   RCM    VCM      AZ      EB/E   EM/E   TCR     T6  NESC  VRMS
+ #1 2.21  22.1  1.13 0.4822    5  0.205    0.     0.    3.  17.1  1.841    0    12   0.000  0.0000   0.0424  2.274 -0.000 16.73     1     0   0.8
+
+       NNPRED    NBCORR  NBFULL  NBVOID    NICONV  NBSMIN  NBDIS  NBDIS2  NCMDER  NBDER  NFAST  NBFAST    NBLOCK    NBLCKR     NBPRED     NBFLUX  NIRECT  NRRECT  NURECT  NBRECT
+ #2     10941        13    2117     2248    13337     769      0       0       0      0      1       0     70512         0    1197636     120838       0       0       0       0
+
+     NKSTRY  NKSREG  NKSHYP     NKSPER  NPRECT  NEWKS   NKSMOD    NTTRY  NTRIP  NQUAD  NCHAIN  NMERG  NEWHI  NSTEPT  NSTEPQ  NSTEPC
+ #3    29263     44      12          0       0      0        0        0      0      0       5      0      0       0       0     273
+
+ ADJUST:  TIME =   30.00  Q = 0.65  DE = -1.14E-06  E = -0.250255  RMIN = 1.1E-02  DTMIN = 3.4E-04  TC =    1  DELTA = -1.6E-07  E(3) = -0.076421  DETOT = -0.000255
+
+
+ T =    30.  N =   100  <NB> = 10  KS =    1  NM =  0  MM = 0  NS =    98  NSTEPS =     407074      7384     110075      15746  DE = -1.1E-06  E = -0.250255  M = 1.0000
+
+    <R>  RTIDE  RDENS   RC    NC   MC   RHOD   RHOM  CMAX   <Cn>   Ir/R   UN    NP   RCM    VCM      AZ      EB/E   EM/E   TCR     T6  NESC  VRMS
+ #1 2.27  22.7  1.05 0.5074    5  0.258   12.    29.    2.  17.2  1.502    0     7   0.001  0.0000   0.0424  2.275 -0.000 16.74     2     0   0.8
+
+       NNPRED    NBCORR  NBFULL  NBVOID    NICONV  NBSMIN  NBDIS  NBDIS2  NCMDER  NBDER  NFAST  NBFAST    NBLOCK    NBLCKR     NBPRED     NBFLUX  NIRECT  NRRECT  NURECT  NBRECT
+ #2     11180        13    2148     2264    13404     770      0       0       0      0      1       0     71570         0    1215877     122414       0       0       0       0
+
+     NKSTRY  NKSREG  NKSHYP     NKSPER  NPRECT  NEWKS   NKSMOD    NTTRY  NTRIP  NQUAD  NCHAIN  NMERG  NEWHI  NSTEPT  NSTEPQ  NSTEPC
+ #3    29263     44      12          0       0      0        0        0      0      0       5      0      0       0       0     273
+
+
+ T =    31.  N =   100  <NB> = 10  KS =    1  NM =  0  MM = 0  NS =    98  NSTEPS =     415495      8221     111341      17460  DE = -4.6E-07  E = -0.250255  M = 1.0000
+
+    <R>  RTIDE  RDENS   RC    NC   MC   RHOD   RHOM  CMAX   <Cn>   Ir/R   UN    NP   RCM    VCM      AZ      EB/E   EM/E   TCR     T6  NESC  VRMS
+ #1 2.27  22.7  1.14 0.2521    5  0.250    0.     1.    2.  17.2  1.284    0    11   0.001  0.0000   0.0424  2.274 -0.000 16.74     2     0   0.9
+
+       NNPRED    NBCORR  NBFULL  NBVOID    NICONV  NBSMIN  NBDIS  NBDIS2  NCMDER  NBDER  NFAST  NBFAST    NBLOCK    NBLCKR     NBPRED     NBFLUX  NIRECT  NRRECT  NURECT  NBRECT
+ #2     11425        13    2244     2276    13544     796      0       0       0      0      1       0     72895         0    1239921     124616       0       0       0       0
+
+     NKSTRY  NKSREG  NKSHYP     NKSPER  NPRECT  NEWKS   NKSMOD    NTTRY  NTRIP  NQUAD  NCHAIN  NMERG  NEWHI  NSTEPT  NSTEPQ  NSTEPC
+ #3    29555     44      12          0       0      0        0        0      0      0       5      0      0       0       0     273
+
+ ADJUST:  TIME =   32.00  Q = 0.73  DE =  4.53E-07  E = -0.250255  RMIN = 1.0E-02  DTMIN = 3.0E-04  TC =    1  DELTA =  9.6E-08  E(3) = -0.076427  DETOT = -0.000255
+
+
+ T =    32.  N =   100  <NB> =  9  KS =    1  NM =  0  MM = 0  NS =    98  NSTEPS =     426609      9046     112907      19125  DE =  4.5E-07  E = -0.250255  M = 1.0000
+
+    <R>  RTIDE  RDENS   RC    NC   MC   RHOD   RHOM  CMAX   <Cn>   Ir/R   UN    NP   RCM    VCM      AZ      EB/E   EM/E   TCR     T6  NESC  VRMS
+ #1 1.74  17.4  1.11 0.2985    6  0.149   18.    39.    2.  17.6  1.020    0    13   0.001  0.0000   0.0424  2.274 -0.000 16.73     2     0   1.0
+
+       NNPRED    NBCORR  NBFULL  NBVOID    NICONV  NBSMIN  NBDIS  NBDIS2  NCMDER  NBDER  NFAST  NBFAST    NBLOCK    NBLCKR     NBPRED     NBFLUX  NIRECT  NRRECT  NURECT  NBRECT
+ #2     11728        14    2346     2290    13795     829      0       0       0      0      1       0     74673         0    1270995     126813       0       0       0       0
+
+     NKSTRY  NKSREG  NKSHYP     NKSPER  NPRECT  NEWKS   NKSMOD    NTTRY  NTRIP  NQUAD  NCHAIN  NMERG  NEWHI  NSTEPT  NSTEPQ  NSTEPC
+ #3    30577     45      13          0       0      0        0        0      0      0       5      0      0       0       0     273
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    32.396    10   2  13  1.22E-02  1.32E-01 -1.73E-01  3.37E-02  5.09E-02
+ CHAIN BINARY    NM M1 M2 VCM A PB       1      6   7.6   1.4    1.2  1.19E-02  4.69E+05
+
+
+ T =    33.  N =   100  <NB> =  9  KS =    1  NM =  0  MM = 0  NS =    98  NSTEPS =     437187      9874     115067      20804  DE =  1.2E-04  E = -0.250224  M = 1.0000
+
+    <R>  RTIDE  RDENS   RC    NC   MC   RHOD   RHOM  CMAX   <Cn>   Ir/R   UN    NP   RCM    VCM      AZ      EB/E   EM/E   TCR     T6  NESC  VRMS
+ #1 1.74  17.4  0.87 0.4259    6  0.118    0.     0.    2.  17.2  0.511    0    10   0.001  0.0000   0.0424  2.451 -0.000 16.73     2     0   0.9
+
+       NNPRED    NBCORR  NBFULL  NBVOID    NICONV  NBSMIN  NBDIS  NBDIS2  NCMDER  NBDER  NFAST  NBFAST    NBLOCK    NBLCKR     NBPRED     NBFLUX  NIRECT  NRRECT  NURECT  NBRECT
+ #2     12034        15    2445     2308    14137     862      0       0       0      0      1       0     76407         0    1300327     130454       0       0       0       0
+
+     NKSTRY  NKSREG  NKSHYP     NKSPER  NPRECT  NEWKS   NKSMOD    NTTRY  NTRIP  NQUAD  NCHAIN  NMERG  NEWHI  NSTEPT  NSTEPQ  NSTEPC
+ #3    31687     46      13          0       0      0        0        0      0      0       6      0      0       0       0     628
+
+ ADJUST:  TIME =   34.00  Q = 0.69  DE = -1.02E-06  E = -0.250224  RMIN = 8.9E-03  DTMIN = 2.4E-04  TC =    1  DELTA = -1.6E-07  E(3) = -0.072513  DETOT = -0.000224
+
+
+ T =    34.  N =   100  <NB> =  8  KS =    1  NM =  0  MM = 0  NS =    98  NSTEPS =     444624     10234     116817      22455  DE = -1.0E-06  E = -0.250224  M = 1.0000
+
+    <R>  RTIDE  RDENS   RC    NC   MC   RHOD   RHOM  CMAX   <Cn>   Ir/R   UN    NP   RCM    VCM      AZ      EB/E   EM/E   TCR     T6  NESC  VRMS
+ #1 2.17  21.7  1.00 0.5805    8  0.245    8.    19.    5.  17.4  0.837    0    11   0.001  0.0001   0.0424  2.451 -0.000 18.11     2     0   0.8
+
+       NNPRED    NBCORR  NBFULL  NBVOID    NICONV  NBSMIN  NBDIS  NBDIS2  NCMDER  NBDER  NFAST  NBFAST    NBLOCK    NBLCKR     NBPRED     NBFLUX  NIRECT  NRRECT  NURECT  NBRECT
+ #2     12292        15    2481     2320    14418     865      0       0       0      0      1       0     77497         0    1318002     132602       0       0       0       0
+
+     NKSTRY  NKSREG  NKSHYP     NKSPER  NPRECT  NEWKS   NKSMOD    NTTRY  NTRIP  NQUAD  NCHAIN  NMERG  NEWHI  NSTEPT  NSTEPQ  NSTEPC
+ #3    32088     47      14          0       0      0        0        0      0      0       6      0      0       0       0     628
+
+
+ T =    35.  N =   100  <NB> =  9  KS =    1  NM =  0  MM = 0  NS =    98  NSTEPS =     453352     11714     118395      24671  DE = -7.3E-07  E = -0.250224  M = 1.0000
+
+    <R>  RTIDE  RDENS   RC    NC   MC   RHOD   RHOM  CMAX   <Cn>   Ir/R   UN    NP   RCM    VCM      AZ      EB/E   EM/E   TCR     T6  NESC  VRMS
+ #1 2.17  21.7  1.19 0.6104    5  0.202    0.     0.    3.  16.0  1.462    0    10   0.001  0.0001   0.0424  2.355 -0.000 18.11     2     0   0.8
+
+       NNPRED    NBCORR  NBFULL  NBVOID    NICONV  NBSMIN  NBDIS  NBDIS2  NCMDER  NBDER  NFAST  NBFAST    NBLOCK    NBLCKR     NBPRED     NBFLUX  NIRECT  NRRECT  NURECT  NBRECT
+ #2     12536        16    2517     2333    14689     868      0       0       0      0      1       0     79097         0    1346404     134974       0       0       0       0
+
+     NKSTRY  NKSREG  NKSHYP     NKSPER  NPRECT  NEWKS   NKSMOD    NTTRY  NTRIP  NQUAD  NCHAIN  NMERG  NEWHI  NSTEPT  NSTEPQ  NSTEPC
+ #3    32213     48      15          0       0      0        0        0      0      0       6      0      0       0       0     628
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    35.848     5   1   9  1.20E-02  2.65E-02 -1.76E-01 -1.61E-03  5.02E-02
+
+ ADJUST:  TIME =   36.00  Q = 0.71  DE =  1.61E-04  E = -0.250198  RMIN = 9.6E-03  DTMIN = 2.7E-04  TC =    1  DELTA =  2.6E-05  E(3) = -0.068223  DETOT = -0.000198
+
+
+ T =    36.  N =   100  <NB> =  9  KS =    1  NM =  0  MM = 0  NS =    98  NSTEPS =     460757     12591     119632      26394  DE =  1.6E-04  E = -0.250198  M = 1.0000
+
+    <R>  RTIDE  RDENS   RC    NC   MC   RHOD   RHOM  CMAX   <Cn>   Ir/R   UN    NP   RCM    VCM      AZ      EB/E   EM/E   TCR     T6  NESC  VRMS
+ #1 2.16  21.6  1.05 0.7124    7  0.358    9.    21.    2.  15.5  0.539    0     8   0.001  0.0001   0.0424  2.667 -0.000 19.84     2     0   0.8
+
+       NNPRED    NBCORR  NBFULL  NBVOID    NICONV  NBSMIN  NBDIS  NBDIS2  NCMDER  NBDER  NFAST  NBFAST    NBLOCK    NBLCKR     NBPRED     NBFLUX  NIRECT  NRRECT  NURECT  NBRECT
+ #2     12793        16    2574     2343    14815     868      0       0       0      0      1       0     80214         0    1364766     137395       0       0       0       0
+
+     NKSTRY  NKSREG  NKSHYP     NKSPER  NPRECT  NEWKS   NKSMOD    NTTRY  NTRIP  NQUAD  NCHAIN  NMERG  NEWHI  NSTEPT  NSTEPQ  NSTEPC
+ #3    32238     49      15          0       0      0        0        0      0      0       7      0      0       0       0     754
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    36.949     2   1  11  1.16E-02  3.83E-02 -1.82E-01 -9.51E-03  5.59E-02
+
+
+ T =    37.  N =   100  <NB> =  8  KS =    0  NM =  0  MM = 0  NS =    97  NSTEPS =     469039     13566     120915      28463  DE = -4.8E-06  E = -0.250199  M = 1.0000
+
+    <R>  RTIDE  RDENS   RC    NC   MC   RHOD   RHOM  CMAX   <Cn>   Ir/R   UN    NP   RCM    VCM      AZ      EB/E   EM/E   TCR     T6  NESC  VRMS
+ #1 2.16  21.6  1.13 0.7801    8  0.391    0.     0.    2.   8.0  0.345    0     0   0.001  0.0001   0.0424  3.192 -0.000 19.84     2     0   0.8
+
+       NNPRED    NBCORR  NBFULL  NBVOID    NICONV  NBSMIN  NBDIS  NBDIS2  NCMDER  NBDER  NFAST  NBFAST    NBLOCK    NBLCKR     NBPRED     NBFLUX  NIRECT  NRRECT  NURECT  NBRECT
+ #2     13020        19    2630     2351    14941     881      0       0       0      0      1       0     81843         0    1394555     139604       0       0       0       0
+
+     NKSTRY  NKSREG  NKSHYP     NKSPER  NPRECT  NEWKS   NKSMOD    NTTRY  NTRIP  NQUAD  NCHAIN  NMERG  NEWHI  NSTEPT  NSTEPQ  NSTEPC
+ #3    32949     49      15          0       0      0        0        0      0      0       8      0      0       0       0     754
+
+ ADJUST:  TIME =   38.00  Q = 0.71  DE =  2.05E-04  E = -0.250165  RMIN = 9.5E-03  DTMIN = 2.6E-04  TC =    1  DELTA =  3.3E-05  E(3) = -0.066878  DETOT = -0.000165
+
+
+ T =    38.  N =   100  <NB> =  9  KS =    1  NM =  0  MM = 0  NS =    98  NSTEPS =     478502     14237     122471      30000  DE =  2.1E-04  E = -0.250165  M = 1.0000
+
+    <R>  RTIDE  RDENS   RC    NC   MC   RHOD   RHOM  CMAX   <Cn>   Ir/R   UN    NP   RCM    VCM      AZ      EB/E   EM/E   TCR     T6  NESC  VRMS
+ #1 2.17  21.7  1.23 0.5929    6  0.162    8.    19.    3.  16.6  0.811    0     9   0.001  0.0001   0.0425  2.741 -0.000 20.44     2     0   0.8
+
+       NNPRED    NBCORR  NBFULL  NBVOID    NICONV  NBSMIN  NBDIS  NBDIS2  NCMDER  NBDER  NFAST  NBFAST    NBLOCK    NBLCKR     NBPRED     NBFLUX  NIRECT  NRRECT  NURECT  NBRECT
+ #2     13211        20    2739     2366    15122     935      0       0       0      0      1       0     83866         0    1433423     142275       0       0       0       0
+
+     NKSTRY  NKSREG  NKSHYP     NKSPER  NPRECT  NEWKS   NKSMOD    NTTRY  NTRIP  NQUAD  NCHAIN  NMERG  NEWHI  NSTEPT  NSTEPQ  NSTEPC
+ #3    34238     50      15          0       0      0        0        0      0      0       8      0      0       0       0    2004
+
+
+ T =    39.  N =   100  <NB> =  9  KS =    1  NM =  0  MM = 0  NS =    98  NSTEPS =     486362     14984     124059      31839  DE =  2.2E-07  E = -0.250165  M = 1.0000
+
+    <R>  RTIDE  RDENS   RC    NC   MC   RHOD   RHOM  CMAX   <Cn>   Ir/R   UN    NP   RCM    VCM      AZ      EB/E   EM/E   TCR     T6  NESC  VRMS
+ #1 2.17  21.7  1.31 0.5875    8  0.281    0.     0.    6.  17.4  1.003    0    10   0.001  0.0001   0.0425  2.741 -0.000 20.44     2     0   0.8
+
+       NNPRED    NBCORR  NBFULL  NBVOID    NICONV  NBSMIN  NBDIS  NBDIS2  NCMDER  NBDER  NFAST  NBFAST    NBLOCK    NBLCKR     NBPRED     NBFLUX  NIRECT  NRRECT  NURECT  NBRECT
+ #2     13432        20    2831     2379    15358     942      0       0       0      0      1       0     85119         0    1456603     144922       0       0       0       0
+
+     NKSTRY  NKSREG  NKSHYP     NKSPER  NPRECT  NEWKS   NKSMOD    NTTRY  NTRIP  NQUAD  NCHAIN  NMERG  NEWHI  NSTEPT  NSTEPQ  NSTEPC
+ #3    34464     50      15          0       0      0        0        0      0      0       8      0      0       0       0    2004
+
+ ADJUST:  TIME =   40.00  Q = 0.78  DE = -7.09E-06  E = -0.250167  RMIN = 8.1E-03  DTMIN = 2.1E-04  TC =    1  DELTA = -1.6E-06  E(3) = -0.066500  DETOT = -0.000167
+
+
+ T =    40.  N =   100  <NB> =  9  KS =    1  NM =  0  MM = 0  NS =    98  NSTEPS =     495690     16123     125727      34018  DE = -7.1E-06  E = -0.250167  M = 1.0000
+
+    <R>  RTIDE  RDENS   RC    NC   MC   RHOD   RHOM  CMAX   <Cn>   Ir/R   UN    NP   RCM    VCM      AZ      EB/E   EM/E   TCR     T6  NESC  VRMS
+ #1 1.68  16.8  1.32 0.4823    7  0.268    8.    14.    2.  16.1  0.899    0    16   0.001  0.0001   0.0425  2.762 -0.000 20.62     2     0   1.0
+
+       NNPRED    NBCORR  NBFULL  NBVOID    NICONV  NBSMIN  NBDIS  NBDIS2  NCMDER  NBDER  NFAST  NBFAST    NBLOCK    NBLCKR     NBPRED     NBFLUX  NIRECT  NRRECT  NURECT  NBRECT
+ #2     13777        24    2909     2394    15538     954      0       0       0      0      1       0     86627         0    1481129     147590       0       0       0       0
+
+     NKSTRY  NKSREG  NKSHYP     NKSPER  NPRECT  NEWKS   NKSMOD    NTTRY  NTRIP  NQUAD  NCHAIN  NMERG  NEWHI  NSTEPT  NSTEPQ  NSTEPC
+ #3    35077     51      16          0       0      0        0        0      0      0       8      0      0       0       0    2004
+
+
+ T =    41.  N =   100  <NB> =  8  KS =    1  NM =  0  MM = 0  NS =    98  NSTEPS =     505940     17159     127505      36076  DE =  1.3E-07  E = -0.250167  M = 1.0000
+
+    <R>  RTIDE  RDENS   RC    NC   MC   RHOD   RHOM  CMAX   <Cn>   Ir/R   UN    NP   RCM    VCM      AZ      EB/E   EM/E   TCR     T6  NESC  VRMS
+ #1 1.68  16.8  1.33 0.3069    4  0.203    0.     1.    2.  16.9  0.763    0    13   0.001  0.0001   0.0425  2.758 -0.000 20.62     2     0   0.9
+
+       NNPRED    NBCORR  NBFULL  NBVOID    NICONV  NBSMIN  NBDIS  NBDIS2  NCMDER  NBDER  NFAST  NBFAST    NBLOCK    NBLCKR     NBPRED     NBFLUX  NIRECT  NRRECT  NURECT  NBRECT
+ #2     14055        24    2988     2407    15807     961      0       0       0      0      1       0     88087         0    1505294     150908       0       0       0       0
+
+     NKSTRY  NKSREG  NKSHYP     NKSPER  NPRECT  NEWKS   NKSMOD    NTTRY  NTRIP  NQUAD  NCHAIN  NMERG  NEWHI  NSTEPT  NSTEPQ  NSTEPC
+ #3    35228     52      17          0       0      0        0        0      0      0       8      0      0       0       0    2004
+
+ ADJUST:  TIME =   42.00  Q = 0.71  DE =  4.22E-06  E = -0.250166  RMIN = 9.0E-03  DTMIN = 2.4E-04  TC =    2  DELTA =  6.8E-07  E(3) = -0.066574  DETOT = -0.000166
+
+
+ T =    42.  N =   100  <NB> =  8  KS =    1  NM =  0  MM = 0  NS =    98  NSTEPS =     515786     18491     129285      38297  DE =  4.2E-06  E = -0.250166  M = 1.0000
+
+    <R>  RTIDE  RDENS   RC    NC   MC   RHOD   RHOM  CMAX   <Cn>   Ir/R   UN    NP   RCM    VCM      AZ      EB/E   EM/E   TCR     T6  NESC  VRMS
+ #1 2.20  22.0  1.40 0.4235    5  0.213   13.    21.    3.  17.7  1.602    0    12   0.002  0.0001   0.0425  2.758 -0.000 20.58     2     0   0.8
+
+       NNPRED    NBCORR  NBFULL  NBVOID    NICONV  NBSMIN  NBDIS  NBDIS2  NCMDER  NBDER  NFAST  NBFAST    NBLOCK    NBLCKR     NBPRED     NBFLUX  NIRECT  NRRECT  NURECT  NBRECT
+ #2     14324        25    3026     2425    16178     964      0       0       0      0      1       0     89607         0    1530957     153440       0       0       0       0
+
+     NKSTRY  NKSREG  NKSHYP     NKSPER  NPRECT  NEWKS   NKSMOD    NTTRY  NTRIP  NQUAD  NCHAIN  NMERG  NEWHI  NSTEPT  NSTEPQ  NSTEPC
+ #3    35276     52      17          0       0      0        0        0      0      0       8      0      0       0       0    2004
+
+
+ T =    43.  N =   100  <NB> =  9  KS =    1  NM =  0  MM = 0  NS =    98  NSTEPS =     522436     19020     130508      40071  DE =  1.3E-06  E = -0.250166  M = 1.0000
+
+    <R>  RTIDE  RDENS   RC    NC   MC   RHOD   RHOM  CMAX   <Cn>   Ir/R   UN    NP   RCM    VCM      AZ      EB/E   EM/E   TCR     T6  NESC  VRMS
+ #1 2.20  22.0  1.36 0.6181    8  0.303    0.     0.    2.  16.6  0.697    0    12   0.002  0.0001   0.0425  2.758 -0.000 20.58     2     0   0.8
+
+       NNPRED    NBCORR  NBFULL  NBVOID    NICONV  NBSMIN  NBDIS  NBDIS2  NCMDER  NBDER  NFAST  NBFAST    NBLOCK    NBLCKR     NBPRED     NBFLUX  NIRECT  NRRECT  NURECT  NBRECT
+ #2     14547        25    3069     2436    16317     964      0       0       0      0      1       0     90412         0    1544138     155633       0       0       0       0
+
+     NKSTRY  NKSREG  NKSHYP     NKSPER  NPRECT  NEWKS   NKSMOD    NTTRY  NTRIP  NQUAD  NCHAIN  NMERG  NEWHI  NSTEPT  NSTEPQ  NSTEPC
+ #3    35276     52      17          0       0      0        0        0      0      0       8      0      0       0       0    2004
+
+ ADJUST:  TIME =   44.00  Q = 0.78  DE = -1.22E-06  E = -0.250166  RMIN = 1.1E-02  DTMIN = 3.4E-04  TC =    2  DELTA = -2.9E-07  E(3) = -0.066613  DETOT = -0.000166
+
+
+ T =    44.  N =   100  <NB> =  9  KS =    1  NM =  0  MM = 0  NS =    98  NSTEPS =     530061     20194     131752      42210  DE = -1.2E-06  E = -0.250166  M = 1.0000
+
+    <R>  RTIDE  RDENS   RC    NC   MC   RHOD   RHOM  CMAX   <Cn>   Ir/R   UN    NP   RCM    VCM      AZ      EB/E   EM/E   TCR     T6  NESC  VRMS
+ #1 1.63  16.3  1.41 0.4607    3  0.275    6.    11.    1.  17.2  1.274    0     9   0.002  0.0001   0.0425  2.755 -0.000 20.56     2     0   1.0
+
+       NNPRED    NBCORR  NBFULL  NBVOID    NICONV  NBSMIN  NBDIS  NBDIS2  NCMDER  NBDER  NFAST  NBFAST    NBLOCK    NBLCKR     NBPRED     NBFLUX  NIRECT  NRRECT  NURECT  NBRECT
+ #2     14737        25    3139     2445    16468     968      0       0       0      0      1       0     91735         0    1568080     157932       0       0       0       0
+
+     NKSTRY  NKSREG  NKSHYP     NKSPER  NPRECT  NEWKS   NKSMOD    NTTRY  NTRIP  NQUAD  NCHAIN  NMERG  NEWHI  NSTEPT  NSTEPQ  NSTEPC
+ #3    35328     52      17          0       0      0        0        0      0      0       8      0      0       0       0    2004
+
+
+ T =    45.  N =   100  <NB> =  8  KS =    1  NM =  0  MM = 0  NS =    98  NSTEPS =     538483     21344     133157      44262  DE =  1.4E-06  E = -0.250166  M = 1.0000
+
+    <R>  RTIDE  RDENS   RC    NC   MC   RHOD   RHOM  CMAX   <Cn>   Ir/R   UN    NP   RCM    VCM      AZ      EB/E   EM/E   TCR     T6  NESC  VRMS
+ #1 1.63  16.3  1.41 0.2607    5  0.267    1.     1.    1.  17.0  0.901    0    11   0.002  0.0001   0.0425  2.754 -0.000 20.56     3     0   1.0
+
+       NNPRED    NBCORR  NBFULL  NBVOID    NICONV  NBSMIN  NBDIS  NBDIS2  NCMDER  NBDER  NFAST  NBFAST    NBLOCK    NBLCKR     NBPRED     NBFLUX  NIRECT  NRRECT  NURECT  NBRECT
+ #2     14956        25    3187     2457    16661     981      0       0       0      0      1       0     93097         0    1592257     160172       0       0       0       0
+
+     NKSTRY  NKSREG  NKSHYP     NKSPER  NPRECT  NEWKS   NKSMOD    NTTRY  NTRIP  NQUAD  NCHAIN  NMERG  NEWHI  NSTEPT  NSTEPQ  NSTEPC
+ #3    35516     52      17          0       0      0        0        0      0      0       8      0      0       0       0    2004
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.385    81   5  14  1.72E-02  3.41E-01 -1.23E-01 -5.47E-05  1.28E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.385    81   5  16  1.88E-02  3.40E-01 -1.13E-01  3.33E-04  1.48E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.385    81   5  16  1.88E-02  3.40E-01 -1.13E-01  3.46E-04  1.48E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.385    81   5  16  1.89E-02  3.40E-01 -1.12E-01  3.66E-04  1.49E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.385    81   5  16  1.90E-02  3.40E-01 -1.12E-01  3.80E-04  1.49E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.385    81   5  16  1.91E-02  3.40E-01 -1.11E-01  4.00E-04  1.49E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.385    81   5  16  1.91E-02  3.40E-01 -1.11E-01  4.14E-04  1.50E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.385    81   5  16  1.92E-02  3.40E-01 -1.10E-01  4.34E-04  1.50E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.385    81   5  16  1.93E-02  3.40E-01 -1.10E-01  4.48E-04  1.50E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.385    81   5  16  1.95E-02  3.40E-01 -1.09E-01  4.83E-04  1.51E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.385    81   5  16  1.96E-02  3.40E-01 -1.08E-01  4.97E-04  1.51E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.385    81   5  16  1.97E-02  3.40E-01 -1.08E-01  5.18E-04  1.51E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.385    81   5  16  1.97E-02  3.40E-01 -1.07E-01  5.32E-04  1.51E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.385    81   5  16  1.98E-02  3.40E-01 -1.07E-01  5.53E-04  1.52E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.385    81   5  16  1.99E-02  3.40E-01 -1.06E-01  5.68E-04  1.52E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.385    81   5  16  2.00E-02  3.40E-01 -1.06E-01  5.90E-04  1.52E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.385    81   5  16  2.01E-02  3.40E-01 -1.05E-01  6.04E-04  1.53E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.385    81   5  16  2.03E-02  3.40E-01 -1.04E-01  6.41E-04  1.53E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.385    81   5  16  2.04E-02  3.40E-01 -1.04E-01  6.48E-04  1.53E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.385    81   5  16  2.04E-02  3.40E-01 -1.04E-01  6.59E-04  1.53E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.385    81   5  16  2.05E-02  3.40E-01 -1.04E-01  6.67E-04  1.53E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.385    81   5  16  2.05E-02  3.40E-01 -1.03E-01  6.78E-04  1.53E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.385    81   5  16  2.06E-02  3.40E-01 -1.03E-01  6.86E-04  1.54E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.385    81   5  16  2.06E-02  3.40E-01 -1.03E-01  6.97E-04  1.54E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.385    81   5  17  2.07E-02  3.40E-01 -1.02E-01  7.05E-04  1.54E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.385    81   5  17  2.08E-02  3.40E-01 -1.02E-01  7.24E-04  1.54E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.385    81   5  17  2.08E-02  3.40E-01 -1.02E-01  7.31E-04  1.54E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.385    81   5  17  2.09E-02  3.40E-01 -1.01E-01  7.43E-04  1.54E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.385    81   5  17  2.10E-02  3.40E-01 -1.01E-01  7.50E-04  1.54E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.385    81   5  17  2.10E-02  3.40E-01 -1.01E-01  7.62E-04  1.54E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.385    81   5  17  2.11E-02  3.40E-01 -1.01E-01  7.70E-04  1.55E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.385    81   5  17  2.11E-02  3.40E-01 -1.00E-01  7.81E-04  1.55E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.385    81   5  17  2.12E-02  3.40E-01 -1.00E-01  7.89E-04  1.55E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.385    81   5  17  2.14E-02  3.40E-01 -9.90E-02  8.24E-04  1.55E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.385    81   5  17  2.15E-02  3.40E-01 -9.88E-02  8.32E-04  1.55E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.385    81   5  17  2.15E-02  3.40E-01 -9.85E-02  8.44E-04  1.55E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.385    81   5  17  2.16E-02  3.40E-01 -9.82E-02  8.52E-04  1.55E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.385    81   5  17  2.17E-02  3.40E-01 -9.79E-02  8.64E-04  1.56E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.385    81   5  17  2.17E-02  3.40E-01 -9.77E-02  8.72E-04  1.56E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.385    81   5  17  2.18E-02  3.40E-01 -9.73E-02  8.84E-04  1.56E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.385    81   5  17  2.18E-02  3.40E-01 -9.71E-02  8.92E-04  1.56E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.385    81   5  17  2.20E-02  3.40E-01 -9.65E-02  9.12E-04  1.56E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.385    81   5  17  2.20E-02  3.40E-01 -9.63E-02  9.21E-04  1.56E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.385    81   5  17  2.21E-02  3.40E-01 -9.59E-02  9.33E-04  1.56E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.385    81   5  17  2.22E-02  3.40E-01 -9.57E-02  9.41E-04  1.56E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.385    81   5  17  2.22E-02  3.40E-01 -9.53E-02  9.53E-04  1.57E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.385    81   5  17  2.23E-02  3.40E-01 -9.51E-02  9.61E-04  1.57E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.385    81   5  17  2.24E-02  3.40E-01 -9.47E-02  9.74E-04  1.57E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.385    81   5  17  2.24E-02  3.40E-01 -9.45E-02  9.82E-04  1.57E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.385    81   5  17  2.27E-02  3.40E-01 -9.34E-02  1.02E-03  1.57E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.385    81   5  17  2.27E-02  3.40E-01 -9.32E-02  1.03E-03  1.57E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.385    81   5  17  2.28E-02  3.40E-01 -9.28E-02  1.04E-03  1.57E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.385    81   5  17  2.29E-02  3.40E-01 -9.26E-02  1.05E-03  1.57E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.385    81   5  17  2.30E-02  3.40E-01 -9.22E-02  1.06E-03  1.58E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.385    81   5  17  2.30E-02  3.40E-01 -9.20E-02  1.07E-03  1.58E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.385    81   5  17  2.31E-02  3.40E-01 -9.16E-02  1.08E-03  1.58E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.385    81   5  17  2.32E-02  3.40E-01 -9.14E-02  1.09E-03  1.58E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.385    81   5  17  2.32E-02  3.40E-01 -9.13E-02  1.09E-03  1.58E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.385    81   5  17  2.34E-02  3.40E-01 -9.07E-02  1.11E-03  1.58E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.385    81   5  17  2.34E-02  3.40E-01 -9.07E-02  1.12E-03  1.58E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.385    81   5  17  2.34E-02  3.40E-01 -9.05E-02  1.12E-03  1.58E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.385    81   5  17  2.34E-02  3.40E-01 -9.04E-02  1.12E-03  1.58E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.385    81   5  17  2.35E-02  3.40E-01 -9.02E-02  1.13E-03  1.58E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.385    81   5  17  2.35E-02  3.40E-01 -9.02E-02  1.13E-03  1.58E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.385    81   5  17  2.36E-02  3.40E-01 -9.00E-02  1.14E-03  1.58E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.385    81   5  17  2.36E-02  3.40E-01 -8.99E-02  1.14E-03  1.58E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.385    81   5  17  2.37E-02  3.40E-01 -8.96E-02  1.15E-03  1.59E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.385    81   5  17  2.37E-02  3.40E-01 -8.95E-02  1.15E-03  1.59E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.385    81   5  17  2.37E-02  3.40E-01 -8.94E-02  1.16E-03  1.59E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.385    81   5  17  2.37E-02  3.40E-01 -8.93E-02  1.16E-03  1.59E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.385    81   5  17  2.38E-02  3.40E-01 -8.91E-02  1.17E-03  1.59E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.385    81   5  17  2.38E-02  3.40E-01 -8.90E-02  1.17E-03  1.59E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.385    81   5  17  2.39E-02  3.40E-01 -8.89E-02  1.18E-03  1.59E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.385    81   5  17  2.39E-02  3.40E-01 -8.88E-02  1.18E-03  1.59E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.385    81   5  17  2.42E-02  3.40E-01 -8.77E-02  1.22E-03  1.59E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.385    81   5  17  2.42E-02  3.40E-01 -8.76E-02  1.22E-03  1.59E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  2.42E-02  3.40E-01 -8.75E-02  1.23E-03  1.59E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  2.43E-02  3.40E-01 -8.74E-02  1.23E-03  1.59E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  2.43E-02  3.40E-01 -8.72E-02  1.24E-03  1.59E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  2.43E-02  3.40E-01 -8.71E-02  1.24E-03  1.59E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  2.44E-02  3.40E-01 -8.70E-02  1.24E-03  1.59E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  2.44E-02  3.40E-01 -8.69E-02  1.25E-03  1.59E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  2.45E-02  3.40E-01 -8.65E-02  1.26E-03  1.59E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  2.45E-02  3.40E-01 -8.65E-02  1.26E-03  1.59E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  2.46E-02  3.40E-01 -8.63E-02  1.27E-03  1.59E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  2.46E-02  3.40E-01 -8.62E-02  1.27E-03  1.60E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  2.46E-02  3.40E-01 -8.60E-02  1.28E-03  1.60E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  2.47E-02  3.40E-01 -8.60E-02  1.28E-03  1.60E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  2.47E-02  3.40E-01 -8.58E-02  1.28E-03  1.60E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  2.47E-02  3.40E-01 -8.57E-02  1.29E-03  1.60E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  2.49E-02  3.40E-01 -8.51E-02  1.31E-03  1.60E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  2.49E-02  3.40E-01 -8.50E-02  1.31E-03  1.60E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  2.50E-02  3.40E-01 -8.49E-02  1.32E-03  1.60E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  2.50E-02  3.40E-01 -8.48E-02  1.32E-03  1.60E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  2.51E-02  3.40E-01 -8.46E-02  1.33E-03  1.60E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  2.51E-02  3.40E-01 -8.45E-02  1.33E-03  1.60E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  2.51E-02  3.40E-01 -8.44E-02  1.33E-03  1.60E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  2.51E-02  3.40E-01 -8.43E-02  1.34E-03  1.60E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  2.53E-02  3.40E-01 -8.39E-02  1.35E-03  1.60E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  2.53E-02  3.40E-01 -8.39E-02  1.35E-03  1.60E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  2.53E-02  3.40E-01 -8.37E-02  1.36E-03  1.60E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  2.53E-02  3.40E-01 -8.36E-02  1.36E-03  1.60E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  2.54E-02  3.40E-01 -8.34E-02  1.37E-03  1.60E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  2.54E-02  3.40E-01 -8.33E-02  1.37E-03  1.60E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  2.55E-02  3.40E-01 -8.32E-02  1.37E-03  1.60E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  2.55E-02  3.40E-01 -8.31E-02  1.38E-03  1.60E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  2.59E-02  3.40E-01 -8.19E-02  1.42E-03  1.61E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  2.59E-02  3.40E-01 -8.19E-02  1.42E-03  1.61E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  2.59E-02  3.40E-01 -8.17E-02  1.43E-03  1.61E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  2.60E-02  3.40E-01 -8.16E-02  1.43E-03  1.61E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  2.60E-02  3.40E-01 -8.14E-02  1.44E-03  1.61E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  2.61E-02  3.40E-01 -8.13E-02  1.44E-03  1.61E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  2.61E-02  3.40E-01 -8.12E-02  1.44E-03  1.61E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  2.61E-02  3.40E-01 -8.11E-02  1.45E-03  1.61E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  2.63E-02  3.40E-01 -8.07E-02  1.46E-03  1.61E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  2.63E-02  3.40E-01 -8.06E-02  1.46E-03  1.61E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  2.63E-02  3.40E-01 -8.05E-02  1.47E-03  1.61E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  2.64E-02  3.40E-01 -8.04E-02  1.47E-03  1.61E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  2.64E-02  3.40E-01 -8.02E-02  1.48E-03  1.61E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  2.65E-02  3.40E-01 -8.01E-02  1.48E-03  1.61E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  2.65E-02  3.40E-01 -7.99E-02  1.49E-03  1.61E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  2.65E-02  3.40E-01 -7.99E-02  1.49E-03  1.61E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  2.68E-02  3.40E-01 -7.92E-02  1.51E-03  1.61E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  2.68E-02  3.40E-01 -7.91E-02  1.51E-03  1.61E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  2.68E-02  3.40E-01 -7.90E-02  1.52E-03  1.61E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  2.69E-02  3.40E-01 -7.89E-02  1.52E-03  1.61E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  2.69E-02  3.40E-01 -7.87E-02  1.53E-03  1.61E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  2.70E-02  3.40E-01 -7.86E-02  1.53E-03  1.61E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  2.70E-02  3.40E-01 -7.84E-02  1.54E-03  1.61E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  2.71E-02  3.40E-01 -7.83E-02  1.54E-03  1.62E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  2.72E-02  3.40E-01 -7.80E-02  1.55E-03  1.62E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  2.72E-02  3.40E-01 -7.79E-02  1.56E-03  1.62E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  2.73E-02  3.40E-01 -7.77E-02  1.56E-03  1.62E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  2.73E-02  3.40E-01 -7.77E-02  1.56E-03  1.62E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  2.74E-02  3.40E-01 -7.74E-02  1.57E-03  1.62E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  2.74E-02  3.40E-01 -7.73E-02  1.58E-03  1.62E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  2.75E-02  3.40E-01 -7.72E-02  1.58E-03  1.62E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  2.75E-02  3.40E-01 -7.71E-02  1.58E-03  1.62E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  2.79E-02  3.40E-01 -7.59E-02  1.63E-03  1.62E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  2.80E-02  3.40E-01 -7.58E-02  1.63E-03  1.62E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  2.80E-02  3.40E-01 -7.56E-02  1.63E-03  1.62E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  2.81E-02  3.40E-01 -7.56E-02  1.64E-03  1.62E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  2.81E-02  3.40E-01 -7.53E-02  1.65E-03  1.62E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  2.82E-02  3.40E-01 -7.52E-02  1.65E-03  1.62E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  2.82E-02  3.40E-01 -7.51E-02  1.65E-03  1.62E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  2.83E-02  3.40E-01 -7.50E-02  1.66E-03  1.62E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  2.84E-02  3.40E-01 -7.46E-02  1.67E-03  1.62E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  2.84E-02  3.40E-01 -7.45E-02  1.67E-03  1.62E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  2.85E-02  3.40E-01 -7.44E-02  1.68E-03  1.62E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  2.85E-02  3.40E-01 -7.43E-02  1.68E-03  1.62E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  2.86E-02  3.40E-01 -7.40E-02  1.69E-03  1.62E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  2.87E-02  3.40E-01 -7.40E-02  1.69E-03  1.62E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  2.87E-02  3.40E-01 -7.38E-02  1.70E-03  1.62E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  2.88E-02  3.40E-01 -7.37E-02  1.70E-03  1.62E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  2.90E-02  3.40E-01 -7.30E-02  1.72E-03  1.62E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  2.91E-02  3.40E-01 -7.30E-02  1.73E-03  1.62E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  2.91E-02  3.40E-01 -7.28E-02  1.73E-03  1.62E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  2.92E-02  3.40E-01 -7.27E-02  1.73E-03  1.63E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  2.92E-02  3.40E-01 -7.25E-02  1.74E-03  1.63E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  2.93E-02  3.40E-01 -7.24E-02  1.75E-03  1.63E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  2.94E-02  3.40E-01 -7.22E-02  1.75E-03  1.63E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  2.94E-02  3.40E-01 -7.21E-02  1.75E-03  1.63E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  2.95E-02  3.40E-01 -7.18E-02  1.77E-03  1.63E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  2.96E-02  3.40E-01 -7.16E-02  1.77E-03  1.63E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  2.97E-02  3.40E-01 -7.14E-02  1.78E-03  1.63E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  2.98E-02  3.40E-01 -7.12E-02  1.79E-03  1.63E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  2.98E-02  3.40E-01 -7.10E-02  1.79E-03  1.63E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  2.99E-02  3.40E-01 -7.09E-02  1.80E-03  1.63E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  3.00E-02  3.40E-01 -7.07E-02  1.81E-03  1.63E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  3.01E-02  3.40E-01 -7.05E-02  1.81E-03  1.63E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  3.06E-02  3.40E-01 -6.93E-02  1.85E-03  1.63E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  3.07E-02  3.40E-01 -6.91E-02  1.86E-03  1.63E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  3.08E-02  3.40E-01 -6.89E-02  1.87E-03  1.63E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  3.08E-02  3.40E-01 -6.88E-02  1.87E-03  1.63E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  3.09E-02  3.40E-01 -6.85E-02  1.88E-03  1.63E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  3.10E-02  3.40E-01 -6.84E-02  1.88E-03  1.63E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  3.11E-02  3.40E-01 -6.82E-02  1.89E-03  1.63E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  3.12E-02  3.40E-01 -6.80E-02  1.90E-03  1.63E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  3.13E-02  3.40E-01 -6.76E-02  1.91E-03  1.63E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  3.14E-02  3.40E-01 -6.75E-02  1.91E-03  1.63E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  3.15E-02  3.40E-01 -6.73E-02  1.92E-03  1.63E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  3.16E-02  3.40E-01 -6.71E-02  1.93E-03  1.63E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  3.17E-02  3.40E-01 -6.69E-02  1.93E-03  1.63E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  3.18E-02  3.40E-01 -6.68E-02  1.94E-03  1.63E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  3.19E-02  3.40E-01 -6.65E-02  1.95E-03  1.63E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  3.19E-02  3.40E-01 -6.64E-02  1.95E-03  1.63E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  3.23E-02  3.40E-01 -6.57E-02  1.98E-03  1.63E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  3.23E-02  3.40E-01 -6.56E-02  1.98E-03  1.63E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  3.24E-02  3.40E-01 -6.53E-02  1.99E-03  1.63E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  3.25E-02  3.40E-01 -6.52E-02  1.99E-03  1.63E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  3.26E-02  3.40E-01 -6.50E-02  2.00E-03  1.63E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  3.27E-02  3.40E-01 -6.48E-02  2.01E-03  1.63E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  3.28E-02  3.40E-01 -6.46E-02  2.01E-03  1.63E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  3.29E-02  3.40E-01 -6.44E-02  2.02E-03  1.63E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  3.31E-02  3.40E-01 -6.41E-02  2.03E-03  1.63E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  3.32E-02  3.40E-01 -6.39E-02  2.04E-03  1.63E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  3.33E-02  3.40E-01 -6.37E-02  2.05E-03  1.63E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  3.34E-02  3.40E-01 -6.35E-02  2.05E-03  1.64E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  3.35E-02  3.40E-01 -6.33E-02  2.06E-03  1.64E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  3.36E-02  3.40E-01 -6.31E-02  2.06E-03  1.64E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  3.37E-02  3.40E-01 -6.29E-02  2.07E-03  1.64E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  3.38E-02  3.40E-01 -6.28E-02  2.08E-03  1.64E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  3.45E-02  3.40E-01 -6.15E-02  2.12E-03  1.64E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  3.46E-02  3.40E-01 -6.13E-02  2.13E-03  1.64E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  3.47E-02  3.40E-01 -6.11E-02  2.14E-03  1.64E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  3.48E-02  3.40E-01 -6.09E-02  2.14E-03  1.64E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  3.49E-02  3.40E-01 -6.07E-02  2.15E-03  1.64E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  3.50E-02  3.40E-01 -6.05E-02  2.15E-03  1.64E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  3.51E-02  3.40E-01 -6.03E-02  2.16E-03  1.64E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  3.52E-02  3.40E-01 -6.02E-02  2.17E-03  1.64E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  3.55E-02  3.40E-01 -5.98E-02  2.18E-03  1.64E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  3.56E-02  3.40E-01 -5.96E-02  2.19E-03  1.64E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  3.57E-02  3.40E-01 -5.94E-02  2.19E-03  1.64E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  3.58E-02  3.40E-01 -5.92E-02  2.20E-03  1.64E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  3.59E-02  3.40E-01 -5.90E-02  2.21E-03  1.64E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  3.60E-02  3.40E-01 -5.88E-02  2.21E-03  1.64E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  3.62E-02  3.40E-01 -5.86E-02  2.22E-03  1.64E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  3.63E-02  3.40E-01 -5.84E-02  2.23E-03  1.64E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  3.67E-02  3.40E-01 -5.77E-02  2.25E-03  1.64E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  3.67E-02  3.40E-01 -5.77E-02  2.25E-03  1.64E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  3.68E-02  3.40E-01 -5.76E-02  2.26E-03  1.64E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  3.68E-02  3.40E-01 -5.76E-02  2.26E-03  1.64E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  3.69E-02  3.40E-01 -5.74E-02  2.26E-03  1.64E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  3.69E-02  3.40E-01 -5.74E-02  2.26E-03  1.64E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  3.70E-02  3.40E-01 -5.73E-02  2.27E-03  1.64E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  3.70E-02  3.40E-01 -5.73E-02  2.27E-03  1.64E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  3.72E-02  3.40E-01 -5.70E-02  2.28E-03  1.64E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  3.72E-02  3.40E-01 -5.70E-02  2.28E-03  1.64E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  3.73E-02  3.40E-01 -5.69E-02  2.28E-03  1.64E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  3.73E-02  3.40E-01 -5.69E-02  2.28E-03  1.64E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  3.74E-02  3.40E-01 -5.67E-02  2.29E-03  1.64E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  3.74E-02  3.40E-01 -5.67E-02  2.29E-03  1.64E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  3.75E-02  3.40E-01 -5.66E-02  2.29E-03  1.64E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  3.75E-02  3.40E-01 -5.66E-02  2.29E-03  1.64E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  3.77E-02  3.40E-01 -5.62E-02  2.31E-03  1.64E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  3.78E-02  3.40E-01 -5.61E-02  2.31E-03  1.64E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  3.78E-02  3.40E-01 -5.60E-02  2.31E-03  1.64E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  3.79E-02  3.40E-01 -5.60E-02  2.31E-03  1.64E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  3.79E-02  3.40E-01 -5.59E-02  2.32E-03  1.64E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  3.80E-02  3.40E-01 -5.58E-02  2.32E-03  1.64E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  3.80E-02  3.40E-01 -5.57E-02  2.32E-03  1.64E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  3.81E-02  3.40E-01 -5.57E-02  2.32E-03  1.64E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  3.82E-02  3.40E-01 -5.55E-02  2.33E-03  1.64E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  3.82E-02  3.40E-01 -5.54E-02  2.33E-03  1.64E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  3.83E-02  3.40E-01 -5.53E-02  2.34E-03  1.64E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  3.83E-02  3.40E-01 -5.53E-02  2.34E-03  1.64E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  3.84E-02  3.40E-01 -5.52E-02  2.34E-03  1.64E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  3.85E-02  3.40E-01 -5.51E-02  2.34E-03  1.64E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  3.85E-02  3.40E-01 -5.50E-02  2.35E-03  1.64E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  3.86E-02  3.40E-01 -5.50E-02  2.35E-03  1.64E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  3.95E-02  3.40E-01 -5.36E-02  2.39E-03  1.64E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  3.95E-02  3.40E-01 -5.36E-02  2.39E-03  1.64E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  3.96E-02  3.40E-01 -5.35E-02  2.40E-03  1.64E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  3.96E-02  3.40E-01 -5.35E-02  2.40E-03  1.64E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  3.97E-02  3.40E-01 -5.33E-02  2.40E-03  1.64E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  3.98E-02  3.40E-01 -5.33E-02  2.41E-03  1.64E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  3.99E-02  3.40E-01 -5.32E-02  2.41E-03  1.64E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  3.99E-02  3.40E-01 -5.32E-02  2.41E-03  1.64E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  4.00E-02  3.40E-01 -5.29E-02  2.42E-03  1.64E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  4.01E-02  3.40E-01 -5.29E-02  2.42E-03  1.64E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  4.02E-02  3.40E-01 -5.28E-02  2.42E-03  1.64E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  4.02E-02  3.40E-01 -5.28E-02  2.42E-03  1.64E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  4.03E-02  3.40E-01 -5.26E-02  2.43E-03  1.64E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  4.03E-02  3.40E-01 -5.26E-02  2.43E-03  1.64E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  4.04E-02  3.40E-01 -5.25E-02  2.43E-03  1.64E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  4.04E-02  3.40E-01 -5.24E-02  2.44E-03  1.64E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  4.07E-02  3.40E-01 -5.21E-02  2.45E-03  1.64E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  4.08E-02  3.40E-01 -5.20E-02  2.45E-03  1.64E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  4.08E-02  3.40E-01 -5.19E-02  2.45E-03  1.64E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  4.09E-02  3.40E-01 -5.19E-02  2.46E-03  1.64E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  4.10E-02  3.40E-01 -5.17E-02  2.46E-03  1.64E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  4.10E-02  3.40E-01 -5.17E-02  2.46E-03  1.64E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  4.11E-02  3.40E-01 -5.16E-02  2.47E-03  1.64E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  4.11E-02  3.40E-01 -5.16E-02  2.47E-03  1.64E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  4.13E-02  3.40E-01 -5.13E-02  2.47E-03  1.64E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  4.13E-02  3.40E-01 -5.13E-02  2.48E-03  1.64E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  4.14E-02  3.40E-01 -5.12E-02  2.48E-03  1.64E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  4.14E-02  3.40E-01 -5.11E-02  2.48E-03  1.64E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  4.16E-02  3.40E-01 -5.10E-02  2.49E-03  1.64E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  4.16E-02  3.40E-01 -5.10E-02  2.49E-03  1.64E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  4.17E-02  3.40E-01 -5.09E-02  2.49E-03  1.64E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  4.17E-02  3.40E-01 -5.08E-02  2.49E-03  1.64E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  4.23E-02  3.40E-01 -5.01E-02  2.52E-03  1.64E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  4.23E-02  3.40E-01 -5.01E-02  2.52E-03  1.64E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  4.24E-02  3.40E-01 -5.00E-02  2.52E-03  1.64E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  4.25E-02  3.40E-01 -4.99E-02  2.52E-03  1.64E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  4.26E-02  3.40E-01 -4.98E-02  2.53E-03  1.64E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  4.26E-02  3.40E-01 -4.98E-02  2.53E-03  1.64E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  4.27E-02  3.40E-01 -4.97E-02  2.53E-03  1.64E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  4.27E-02  3.40E-01 -4.96E-02  2.53E-03  1.64E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  4.29E-02  3.40E-01 -4.94E-02  2.54E-03  1.64E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  4.30E-02  3.40E-01 -4.93E-02  2.54E-03  1.64E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  4.30E-02  3.40E-01 -4.93E-02  2.55E-03  1.64E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  4.31E-02  3.40E-01 -4.92E-02  2.55E-03  1.64E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  4.32E-02  3.40E-01 -4.91E-02  2.55E-03  1.64E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  4.32E-02  3.40E-01 -4.90E-02  2.55E-03  1.64E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  4.33E-02  3.40E-01 -4.89E-02  2.56E-03  1.64E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  4.34E-02  3.40E-01 -4.89E-02  2.56E-03  1.64E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  4.37E-02  3.40E-01 -4.85E-02  2.57E-03  1.64E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  4.37E-02  3.40E-01 -4.85E-02  2.57E-03  1.64E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  4.38E-02  3.40E-01 -4.84E-02  2.58E-03  1.64E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  4.39E-02  3.40E-01 -4.83E-02  2.58E-03  1.64E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  4.40E-02  3.40E-01 -4.82E-02  2.58E-03  1.64E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  4.40E-02  3.40E-01 -4.81E-02  2.59E-03  1.64E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  4.41E-02  3.40E-01 -4.80E-02  2.59E-03  1.64E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  4.42E-02  3.40E-01 -4.80E-02  2.59E-03  1.64E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  4.44E-02  3.40E-01 -4.78E-02  2.60E-03  1.64E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  4.44E-02  3.40E-01 -4.77E-02  2.60E-03  1.64E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  4.45E-02  3.40E-01 -4.76E-02  2.60E-03  1.64E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  4.45E-02  3.40E-01 -4.76E-02  2.61E-03  1.64E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  4.47E-02  3.40E-01 -4.75E-02  2.61E-03  1.64E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  4.47E-02  3.40E-01 -4.74E-02  2.61E-03  1.64E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  4.48E-02  3.40E-01 -4.73E-02  2.61E-03  1.64E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  4.49E-02  3.40E-01 -4.73E-02  2.62E-03  1.64E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  4.62E-02  3.40E-01 -4.59E-02  2.66E-03  1.64E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  4.62E-02  3.40E-01 -4.59E-02  2.67E-03  1.64E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  4.63E-02  3.40E-01 -4.58E-02  2.67E-03  1.64E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  4.64E-02  3.40E-01 -4.57E-02  2.67E-03  1.64E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  4.65E-02  3.40E-01 -4.56E-02  2.67E-03  1.64E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  4.66E-02  3.40E-01 -4.55E-02  2.68E-03  1.64E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  4.66E-02  3.40E-01 -4.54E-02  2.68E-03  1.64E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  4.67E-02  3.40E-01 -4.54E-02  2.68E-03  1.64E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  4.69E-02  3.40E-01 -4.52E-02  2.69E-03  1.64E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  4.70E-02  3.40E-01 -4.51E-02  2.69E-03  1.64E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  4.71E-02  3.40E-01 -4.50E-02  2.69E-03  1.64E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  4.71E-02  3.40E-01 -4.50E-02  2.70E-03  1.64E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  4.73E-02  3.40E-01 -4.49E-02  2.70E-03  1.64E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  4.73E-02  3.40E-01 -4.48E-02  2.70E-03  1.64E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  4.74E-02  3.40E-01 -4.47E-02  2.71E-03  1.64E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  4.75E-02  3.40E-01 -4.47E-02  2.71E-03  1.64E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  4.79E-02  3.40E-01 -4.43E-02  2.72E-03  1.64E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  4.79E-02  3.40E-01 -4.42E-02  2.72E-03  1.64E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  4.80E-02  3.40E-01 -4.41E-02  2.73E-03  1.64E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  4.81E-02  3.40E-01 -4.41E-02  2.73E-03  1.64E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  4.82E-02  3.40E-01 -4.39E-02  2.73E-03  1.64E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  4.83E-02  3.40E-01 -4.39E-02  2.73E-03  1.64E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  4.84E-02  3.40E-01 -4.38E-02  2.74E-03  1.64E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  4.85E-02  3.40E-01 -4.37E-02  2.74E-03  1.64E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  4.87E-02  3.40E-01 -4.35E-02  2.75E-03  1.64E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  4.88E-02  3.40E-01 -4.35E-02  2.75E-03  1.64E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  4.88E-02  3.40E-01 -4.34E-02  2.75E-03  1.63E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  4.89E-02  3.40E-01 -4.33E-02  2.75E-03  1.63E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  4.91E-02  3.40E-01 -4.32E-02  2.76E-03  1.63E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  4.91E-02  3.40E-01 -4.32E-02  2.76E-03  1.63E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  4.92E-02  3.40E-01 -4.31E-02  2.76E-03  1.63E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  4.93E-02  3.40E-01 -4.30E-02  2.77E-03  1.63E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  5.01E-02  3.40E-01 -4.23E-02  2.79E-03  1.63E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  5.02E-02  3.40E-01 -4.22E-02  2.79E-03  1.63E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  5.03E-02  3.40E-01 -4.22E-02  2.80E-03  1.63E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  5.03E-02  3.40E-01 -4.21E-02  2.80E-03  1.63E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  5.05E-02  3.40E-01 -4.20E-02  2.80E-03  1.63E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  5.06E-02  3.40E-01 -4.19E-02  2.80E-03  1.63E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  5.07E-02  3.40E-01 -4.18E-02  2.81E-03  1.63E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  5.07E-02  3.40E-01 -4.18E-02  2.81E-03  1.63E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  5.10E-02  3.40E-01 -4.16E-02  2.82E-03  1.63E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  5.11E-02  3.40E-01 -4.15E-02  2.82E-03  1.63E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  5.12E-02  3.40E-01 -4.14E-02  2.82E-03  1.63E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  5.13E-02  3.40E-01 -4.14E-02  2.82E-03  1.63E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  5.14E-02  3.40E-01 -4.12E-02  2.83E-03  1.63E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  5.15E-02  3.40E-01 -4.12E-02  2.83E-03  1.63E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  5.16E-02  3.40E-01 -4.11E-02  2.83E-03  1.63E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  5.17E-02  3.40E-01 -4.10E-02  2.84E-03  1.63E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  5.22E-02  3.40E-01 -4.06E-02  2.85E-03  1.63E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  5.23E-02  3.40E-01 -4.05E-02  2.85E-03  1.63E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  5.24E-02  3.40E-01 -4.04E-02  2.86E-03  1.63E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  5.25E-02  3.40E-01 -4.03E-02  2.86E-03  1.63E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  5.27E-02  3.40E-01 -4.02E-02  2.86E-03  1.63E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  5.28E-02  3.40E-01 -4.01E-02  2.87E-03  1.63E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  5.30E-02  3.40E-01 -4.00E-02  2.87E-03  1.63E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  5.31E-02  3.40E-01 -3.99E-02  2.87E-03  1.63E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  5.34E-02  3.40E-01 -3.97E-02  2.88E-03  1.63E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  5.35E-02  3.40E-01 -3.96E-02  2.88E-03  1.63E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  5.37E-02  3.40E-01 -3.95E-02  2.89E-03  1.63E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  5.38E-02  3.40E-01 -3.94E-02  2.89E-03  1.63E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  5.39E-02  3.40E-01 -3.93E-02  2.90E-03  1.63E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  5.40E-02  3.40E-01 -3.92E-02  2.90E-03  1.63E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  5.42E-02  3.40E-01 -3.91E-02  2.90E-03  1.63E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  5.43E-02  3.40E-01 -3.90E-02  2.91E-03  1.63E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  5.63E-02  3.40E-01 -3.77E-02  2.95E-03  1.63E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  5.64E-02  3.40E-01 -3.76E-02  2.96E-03  1.63E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  5.66E-02  3.40E-01 -3.75E-02  2.96E-03  1.63E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.386    81   5  17  5.67E-02  3.40E-01 -3.74E-02  2.96E-03  1.63E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.388    81   5  17  2.10E-02  3.42E-01 -7.98E-02  3.45E-03  5.12E-02
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.389    81   5  17  1.93E-02  3.42E-01 -8.67E-02  3.31E-03  1.34E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.389    81   5  17  1.84E-02  3.42E-01 -9.12E-02  3.13E-03  2.03E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.389    81   5  17  1.84E-02  3.42E-01 -9.11E-02  3.13E-03  2.05E-01
+ CHAIN RECOIL  NAM =     1     8  A = 1.6E-02  E = 0.44  EB = 1.37  GB = 1.6E-03  G4 = 5.2E-04  EB1 =-0.00  E1 =-0.32  ET = 1.612  DB =  0.2
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.637    59   3  14  1.47E-02  2.36E-01 -1.14E-01  9.00E-03  5.34E-02
+ EXCHANGE    T NAM E0 E A0 A EB0 EB     45.68     1     8     8     6  0.713  0.285  1.5E-02  1.0E-02  -1.1E-01  -3.1E-02
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.676    18   2  13  9.94E-03  1.89E-01 -3.08E-02  1.25E-02  2.20E-01
+ CHAIN RECOIL  NAM =     8     6  A = 9.9E-03  E = 0.29  EB = 0.15  GB = 2.8E-01  G4 = 6.7E-04  EB1 = 0.02  E1 = 5.41  ET = 0.463  DB =  0.2
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.676    18   2  13  9.92E-03  1.89E-01 -3.09E-02  1.26E-02  2.20E-01
+ CHAIN RECOIL  NAM =     8     6  A = 9.9E-03  E = 0.29  EB = 0.15  GB = 2.9E-01  G4 = 6.6E-04  EB1 = 0.02  E1 = 5.40  ET = 0.464  DB =  0.2
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.676    18   2  13  9.91E-03  1.89E-01 -3.09E-02  1.27E-02  2.20E-01
+ CHAIN RECOIL  NAM =     8     6  A = 9.9E-03  E = 0.29  EB = 0.15  GB = 2.9E-01  G4 = 6.4E-04  EB1 = 0.02  E1 = 5.39  ET = 0.465  DB =  0.2
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.677    18   2  13  9.89E-03  1.89E-01 -3.10E-02  1.28E-02  2.21E-01
+ CHAIN RECOIL  NAM =     8     6  A = 9.9E-03  E = 0.30  EB = 0.15  GB = 2.9E-01  G4 = 6.3E-04  EB1 = 0.02  E1 = 5.38  ET = 0.465  DB =  0.2
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.677    18   2  12  9.87E-03  1.89E-01 -3.10E-02  1.29E-02  2.21E-01
+ CHAIN RECOIL  NAM =     8     6  A = 9.9E-03  E = 0.30  EB = 0.15  GB = 3.0E-01  G4 = 6.2E-04  EB1 = 0.02  E1 = 5.37  ET = 0.466  DB =  0.2
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.677    18   2  13  9.86E-03  1.89E-01 -3.11E-02  1.30E-02  2.21E-01
+ CHAIN RECOIL  NAM =     8     6  A = 9.8E-03  E = 0.30  EB = 0.15  GB = 3.0E-01  G4 = 6.1E-04  EB1 = 0.02  E1 = 5.36  ET = 0.467  DB =  0.2
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.677    18   2  13  9.84E-03  1.89E-01 -3.11E-02  1.31E-02  2.22E-01
+ CHAIN RECOIL  NAM =     8     6  A = 9.8E-03  E = 0.30  EB = 0.15  GB = 3.0E-01  G4 = 6.0E-04  EB1 = 0.02  E1 = 5.35  ET = 0.468  DB =  0.1
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.677    18   2  13  9.82E-03  1.89E-01 -3.12E-02  1.32E-02  2.22E-01
+ CHAIN RECOIL  NAM =     8     6  A = 9.8E-03  E = 0.31  EB = 0.15  GB = 3.1E-01  G4 = 5.9E-04  EB1 = 0.02  E1 = 5.34  ET = 0.469  DB =  0.1
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.677    18   2  13  9.81E-03  1.90E-01 -3.12E-02  1.33E-02  2.22E-01
+ CHAIN RECOIL  NAM =     8     6  A = 9.8E-03  E = 0.31  EB = 0.15  GB = 3.1E-01  G4 = 5.8E-04  EB1 = 0.02  E1 = 5.33  ET = 0.469  DB =  0.1
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.677    18   2  13  9.79E-03  1.90E-01 -3.13E-02  1.34E-02  2.23E-01
+ CHAIN RECOIL  NAM =     8     6  A = 9.8E-03  E = 0.31  EB = 0.15  GB = 3.1E-01  G4 = 5.7E-04  EB1 = 0.02  E1 = 5.32  ET = 0.470  DB =  0.1
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.677    18   2  13  9.78E-03  1.90E-01 -3.13E-02  1.35E-02  2.23E-01
+ CHAIN RECOIL  NAM =     8     6  A = 9.8E-03  E = 0.31  EB = 0.15  GB = 3.2E-01  G4 = 5.6E-04  EB1 = 0.02  E1 = 5.31  ET = 0.471  DB =  0.1
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.677    18   2  13  9.76E-03  1.90E-01 -3.14E-02  1.36E-02  2.23E-01
+ CHAIN RECOIL  NAM =     8     6  A = 9.8E-03  E = 0.32  EB = 0.16  GB = 3.2E-01  G4 = 5.5E-04  EB1 = 0.02  E1 = 5.30  ET = 0.471  DB =  0.1
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.677    18   2  13  9.75E-03  1.90E-01 -3.14E-02  1.37E-02  2.23E-01
+ CHAIN RECOIL  NAM =     8     6  A = 9.7E-03  E = 0.32  EB = 0.16  GB = 3.2E-01  G4 = 5.4E-04  EB1 = 0.02  E1 = 5.29  ET = 0.472  DB =  0.1
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.677    18   2  13  9.73E-03  1.90E-01 -3.15E-02  1.38E-02  2.24E-01
+ CHAIN RECOIL  NAM =     8     6  A = 9.7E-03  E = 0.32  EB = 0.16  GB = 3.3E-01  G4 = 5.3E-04  EB1 = 0.02  E1 = 5.29  ET = 0.473  DB =  0.1
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.677    18   2  13  9.72E-03  1.90E-01 -3.15E-02  1.40E-02  2.24E-01
+ CHAIN RECOIL  NAM =     8     6  A = 9.7E-03  E = 0.33  EB = 0.16  GB = 3.3E-01  G4 = 5.2E-04  EB1 = 0.02  E1 = 5.28  ET = 0.473  DB =  0.1
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.677    18   2  13  9.71E-03  1.90E-01 -3.16E-02  1.41E-02  2.24E-01
+ CHAIN RECOIL  NAM =     8     6  A = 9.7E-03  E = 0.33  EB = 0.16  GB = 3.3E-01  G4 = 5.1E-04  EB1 = 0.02  E1 = 5.27  ET = 0.474  DB =  0.1
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.677    18   2  13  9.69E-03  1.90E-01 -3.16E-02  1.42E-02  2.24E-01
+ CHAIN RECOIL  NAM =     8     6  A = 9.7E-03  E = 0.33  EB = 0.16  GB = 3.4E-01  G4 = 5.0E-04  EB1 = 0.02  E1 = 5.27  ET = 0.475  DB =  0.1
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.677    18   2  13  9.69E-03  1.90E-01 -3.16E-02  1.43E-02  2.24E-01
+ CHAIN RECOIL  NAM =     8     6  A = 9.7E-03  E = 0.33  EB = 0.16  GB = 3.4E-01  G4 = 4.9E-04  EB1 = 0.02  E1 = 5.26  ET = 0.475  DB =  0.1
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.677    18   2  13  9.67E-03  1.91E-01 -3.17E-02  1.44E-02  2.25E-01
+ CHAIN RECOIL  NAM =     8     6  A = 9.7E-03  E = 0.34  EB = 0.16  GB = 3.5E-01  G4 = 4.7E-04  EB1 = 0.02  E1 = 5.25  ET = 0.476  DB =  0.1
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.678    18   2  13  9.65E-03  1.91E-01 -3.17E-02  1.47E-02  2.25E-01
+ CHAIN RECOIL  NAM =     8     6  A = 9.6E-03  E = 0.34  EB = 0.16  GB = 3.6E-01  G4 = 4.6E-04  EB1 = 0.02  E1 = 5.24  ET = 0.477  DB =  0.1
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.678    18   2  13  9.64E-03  1.91E-01 -3.18E-02  1.49E-02  2.25E-01
+ CHAIN RECOIL  NAM =     8     6  A = 9.6E-03  E = 0.35  EB = 0.16  GB = 3.6E-01  G4 = 4.4E-04  EB1 = 0.02  E1 = 5.23  ET = 0.478  DB =  0.1
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.678    18   2  13  9.62E-03  1.91E-01 -3.18E-02  1.52E-02  2.26E-01
+ CHAIN RECOIL  NAM =     8     6  A = 9.6E-03  E = 0.35  EB = 0.16  GB = 3.7E-01  G4 = 4.2E-04  EB1 = 0.02  E1 = 5.23  ET = 0.478  DB =  0.1
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.678    18   2  13  9.61E-03  1.91E-01 -3.19E-02  1.55E-02  2.26E-01
+ CHAIN RECOIL  NAM =     8     6  A = 9.6E-03  E = 0.36  EB = 0.16  GB = 3.8E-01  G4 = 4.1E-04  EB1 = 0.02  E1 = 5.22  ET = 0.479  DB =  0.1
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.678    18   2  13  9.60E-03  1.91E-01 -3.19E-02  1.56E-02  2.26E-01
+ CHAIN RECOIL  NAM =     8     6  A = 9.6E-03  E = 0.36  EB = 0.16  GB = 3.9E-01  G4 = 3.9E-04  EB1 = 0.02  E1 = 5.22  ET = 0.479  DB =  0.1
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.678    18   2  13  9.60E-03  1.92E-01 -3.19E-02  1.59E-02  2.27E-01
+ CHAIN RECOIL  NAM =     8     6  A = 9.6E-03  E = 0.37  EB = 0.16  GB = 3.9E-01  G4 = 3.8E-04  EB1 = 0.02  E1 = 5.22  ET = 0.479  DB =  0.1
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.678    18   2  13  9.59E-03  1.92E-01 -3.19E-02  1.62E-02  2.27E-01
+ CHAIN RECOIL  NAM =     8     6  A = 9.6E-03  E = 0.37  EB = 0.16  GB = 4.0E-01  G4 = 3.6E-04  EB1 = 0.02  E1 = 5.22  ET = 0.479  DB =  0.1
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.679    18   2  13  9.66E-03  1.93E-01 -3.17E-02  1.81E-02  2.33E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.679    18   2  14  9.68E-03  1.93E-01 -3.16E-02  1.84E-02  2.34E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.679    18   2  14  9.70E-03  1.93E-01 -3.16E-02  1.86E-02  2.35E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.679    18   2  14  9.72E-03  1.93E-01 -3.15E-02  1.88E-02  2.35E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.679    18   2  14  9.74E-03  1.93E-01 -3.15E-02  1.90E-02  2.36E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.680    18   2  14  9.76E-03  1.94E-01 -3.14E-02  1.92E-02  2.37E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.680    18   2  14  9.79E-03  1.94E-01 -3.13E-02  1.94E-02  2.38E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.680    18   2  14  9.80E-03  1.94E-01 -3.13E-02  1.96E-02  2.39E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.680    18   2  14  9.82E-03  1.94E-01 -3.12E-02  1.97E-02  2.40E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.680    18   2  14  9.83E-03  1.94E-01 -3.12E-02  1.98E-02  2.40E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.680    18   2  14  9.85E-03  1.94E-01 -3.11E-02  1.99E-02  2.41E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.680    18   2  14  9.87E-03  1.94E-01 -3.10E-02  2.01E-02  2.42E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.680    18   2  14  9.89E-03  1.94E-01 -3.10E-02  2.02E-02  2.43E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.680    18   2  14  9.91E-03  1.94E-01 -3.09E-02  2.04E-02  2.44E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.680    18   2  14  9.93E-03  1.94E-01 -3.08E-02  2.05E-02  2.45E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.680    18   2  14  9.95E-03  1.94E-01 -3.08E-02  2.06E-02  2.46E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.680    18   2  14  9.98E-03  1.94E-01 -3.07E-02  2.08E-02  2.47E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.680    18   2  14  1.00E-02  1.94E-01 -3.06E-02  2.09E-02  2.48E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.680    18   2  14  1.00E-02  1.94E-01 -3.06E-02  2.11E-02  2.49E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.680    18   2  14  1.01E-02  1.94E-01 -3.05E-02  2.12E-02  2.50E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.680    18   2  14  1.01E-02  1.94E-01 -3.04E-02  2.14E-02  2.51E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.680    18   2  14  1.01E-02  1.94E-01 -3.03E-02  2.16E-02  2.52E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.680    18   2  14  1.01E-02  1.95E-01 -3.02E-02  2.17E-02  2.53E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.680    18   2  14  1.01E-02  1.95E-01 -3.02E-02  2.18E-02  2.54E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.680    18   2  14  1.02E-02  1.95E-01 -3.01E-02  2.19E-02  2.55E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.680    18   2  14  1.02E-02  1.95E-01 -3.01E-02  2.20E-02  2.56E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.680    18   2  14  1.02E-02  1.95E-01 -3.00E-02  2.21E-02  2.57E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.680    18   2  14  1.02E-02  1.95E-01 -2.99E-02  2.22E-02  2.58E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.680    18   2  14  1.03E-02  1.95E-01 -2.99E-02  2.23E-02  2.59E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.680    18   2  14  1.03E-02  1.95E-01 -2.98E-02  2.24E-02  2.60E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.680    18   2  14  1.03E-02  1.95E-01 -2.97E-02  2.25E-02  2.61E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.680    18   2  14  1.03E-02  1.95E-01 -2.97E-02  2.26E-02  2.62E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.680    18   2  14  1.04E-02  1.95E-01 -2.96E-02  2.27E-02  2.63E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.680    18   2  14  1.04E-02  1.95E-01 -2.95E-02  2.29E-02  2.64E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.680    18   2  14  1.04E-02  1.95E-01 -2.95E-02  2.30E-02  2.65E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.680    18   2  14  1.04E-02  1.95E-01 -2.94E-02  2.31E-02  2.66E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.680    18   2  14  1.05E-02  1.95E-01 -2.93E-02  2.32E-02  2.67E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.680    18   2  14  1.05E-02  1.95E-01 -2.92E-02  2.33E-02  2.68E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.680    18   2  14  1.05E-02  1.95E-01 -2.91E-02  2.34E-02  2.70E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.680    18   2  14  1.05E-02  1.95E-01 -2.91E-02  2.36E-02  2.71E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.680    18   2  14  1.06E-02  1.95E-01 -2.90E-02  2.37E-02  2.72E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.680    18   2  14  1.06E-02  1.95E-01 -2.89E-02  2.38E-02  2.73E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.680    18   2  14  1.06E-02  1.95E-01 -2.88E-02  2.39E-02  2.75E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.680    18   2  14  1.07E-02  1.95E-01 -2.87E-02  2.41E-02  2.76E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.680    18   2  14  1.07E-02  1.95E-01 -2.86E-02  2.42E-02  2.77E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.680    18   2  14  1.07E-02  1.95E-01 -2.85E-02  2.43E-02  2.79E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.680    18   2  14  1.08E-02  1.95E-01 -2.84E-02  2.44E-02  2.80E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.680    18   2  14  1.08E-02  1.95E-01 -2.84E-02  2.46E-02  2.82E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.680    18   2  14  1.08E-02  1.95E-01 -2.83E-02  2.47E-02  2.83E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.680    18   2  14  1.09E-02  1.95E-01 -2.82E-02  2.48E-02  2.85E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.680    18   2  14  1.09E-02  1.96E-01 -2.81E-02  2.50E-02  2.86E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.680    18   2  14  1.09E-02  1.96E-01 -2.80E-02  2.50E-02  2.87E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.680    18   2  14  1.10E-02  1.96E-01 -2.79E-02  2.51E-02  2.88E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.680    18   2  14  1.10E-02  1.96E-01 -2.79E-02  2.52E-02  2.89E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.680    18   2  14  1.10E-02  1.96E-01 -2.78E-02  2.53E-02  2.90E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.680    18   2  14  1.10E-02  1.96E-01 -2.77E-02  2.54E-02  2.91E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.680    18   2  14  1.11E-02  1.96E-01 -2.77E-02  2.55E-02  2.92E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.680    18   2  14  1.11E-02  1.96E-01 -2.76E-02  2.56E-02  2.93E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.680    18   2  14  1.11E-02  1.96E-01 -2.75E-02  2.57E-02  2.94E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.680    18   2  14  1.12E-02  1.96E-01 -2.75E-02  2.58E-02  2.95E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.680    18   2  15  1.12E-02  1.96E-01 -2.74E-02  2.59E-02  2.97E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.680    18   2  15  1.12E-02  1.96E-01 -2.73E-02  2.59E-02  2.98E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.681    18   2  15  1.12E-02  1.96E-01 -2.72E-02  2.60E-02  2.99E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.681    18   2  15  1.13E-02  1.96E-01 -2.72E-02  2.61E-02  3.00E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.681    18   2  15  1.13E-02  1.96E-01 -2.71E-02  2.62E-02  3.01E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.681    18   2  15  1.13E-02  1.96E-01 -2.70E-02  2.63E-02  3.03E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.681    18   2  16  1.14E-02  1.96E-01 -2.70E-02  2.64E-02  3.04E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.681    18   2  16  1.14E-02  1.96E-01 -2.69E-02  2.65E-02  3.05E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.681    18   2  16  1.14E-02  1.96E-01 -2.68E-02  2.66E-02  3.06E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.681    18   2  16  1.15E-02  1.96E-01 -2.67E-02  2.67E-02  3.07E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.681    18   2  16  1.15E-02  1.96E-01 -2.66E-02  2.68E-02  3.09E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.681    18   2  16  1.15E-02  1.96E-01 -2.66E-02  2.69E-02  3.10E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.681    18   2  16  1.16E-02  1.96E-01 -2.65E-02  2.70E-02  3.12E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.681    18   2  16  1.16E-02  1.96E-01 -2.64E-02  2.71E-02  3.13E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.681    18   2  16  1.16E-02  1.96E-01 -2.63E-02  2.72E-02  3.14E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.681    18   2  16  1.17E-02  1.96E-01 -2.63E-02  2.73E-02  3.15E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.681    18   2  16  1.17E-02  1.96E-01 -2.62E-02  2.74E-02  3.17E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.681    18   2  16  1.17E-02  1.96E-01 -2.61E-02  2.75E-02  3.18E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.681    18   2  16  1.18E-02  1.96E-01 -2.60E-02  2.76E-02  3.20E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.681    18   2  16  1.18E-02  1.96E-01 -2.59E-02  2.77E-02  3.21E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.681    18   2  16  1.19E-02  1.96E-01 -2.58E-02  2.78E-02  3.23E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.681    18   2  16  1.19E-02  1.96E-01 -2.57E-02  2.79E-02  3.24E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.681    18   2  16  1.19E-02  1.96E-01 -2.57E-02  2.81E-02  3.26E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.681    18   2  16  1.20E-02  1.96E-01 -2.56E-02  2.82E-02  3.27E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.681    18   2  16  1.20E-02  1.96E-01 -2.55E-02  2.83E-02  3.29E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.681    18   2  16  1.21E-02  1.96E-01 -2.54E-02  2.84E-02  3.30E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.681    18   2  16  1.21E-02  1.96E-01 -2.53E-02  2.85E-02  3.32E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.681    18   2  16  1.22E-02  1.96E-01 -2.52E-02  2.86E-02  3.33E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.681    18   2  16  1.22E-02  1.96E-01 -2.51E-02  2.87E-02  3.35E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.681    18   2  16  1.22E-02  1.96E-01 -2.50E-02  2.88E-02  3.37E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.681    18   2  16  1.23E-02  1.96E-01 -2.49E-02  2.90E-02  3.39E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.681    18   2  16  1.23E-02  1.96E-01 -2.48E-02  2.91E-02  3.40E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.681    18   2  16  1.24E-02  1.96E-01 -2.47E-02  2.92E-02  3.42E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.681    18   2  16  1.24E-02  1.96E-01 -2.46E-02  2.93E-02  3.44E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.681    18   2  16  1.25E-02  1.96E-01 -2.45E-02  2.94E-02  3.46E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.681    18   2  16  1.25E-02  1.97E-01 -2.44E-02  2.95E-02  3.47E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.681    18   2  16  1.26E-02  1.97E-01 -2.43E-02  2.97E-02  3.49E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.681    18   2  16  1.26E-02  1.97E-01 -2.43E-02  2.98E-02  3.51E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.681    18   2  16  1.27E-02  1.97E-01 -2.41E-02  2.99E-02  3.53E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.681    18   2  16  1.27E-02  1.97E-01 -2.40E-02  3.00E-02  3.55E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.681    18   2  16  1.28E-02  1.97E-01 -2.39E-02  3.01E-02  3.57E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.681    18   2  16  1.28E-02  1.97E-01 -2.38E-02  3.03E-02  3.58E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.681    18   2  16  1.29E-02  1.97E-01 -2.38E-02  3.03E-02  3.59E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.681    18   2  16  1.29E-02  1.97E-01 -2.37E-02  3.04E-02  3.61E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.681    18   2  16  1.29E-02  1.97E-01 -2.37E-02  3.05E-02  3.62E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.681    18   2  16  1.30E-02  1.97E-01 -2.36E-02  3.06E-02  3.63E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.681    18   2  16  1.30E-02  1.97E-01 -2.35E-02  3.06E-02  3.64E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.681    18   2  16  1.31E-02  1.97E-01 -2.35E-02  3.07E-02  3.66E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.681    18   2  16  1.31E-02  1.97E-01 -2.34E-02  3.08E-02  3.67E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.681    18   2  16  1.31E-02  1.97E-01 -2.33E-02  3.09E-02  3.68E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.681    18   2  16  1.32E-02  1.97E-01 -2.33E-02  3.09E-02  3.69E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.681    18   2  16  1.32E-02  1.97E-01 -2.32E-02  3.10E-02  3.71E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.681    18   2  16  1.32E-02  1.97E-01 -2.32E-02  3.11E-02  3.72E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.681    18   2  16  1.33E-02  1.97E-01 -2.31E-02  3.12E-02  3.73E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.681    18   2  16  1.33E-02  1.97E-01 -2.30E-02  3.13E-02  3.74E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.681    18   2  16  1.34E-02  1.97E-01 -2.29E-02  3.14E-02  3.76E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.681    18   2  16  1.34E-02  1.97E-01 -2.28E-02  3.15E-02  3.78E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.681    18   2  16  1.34E-02  1.97E-01 -2.28E-02  3.16E-02  3.79E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.681    18   2  16  1.35E-02  1.97E-01 -2.27E-02  3.16E-02  3.81E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.681    18   2  16  1.35E-02  1.97E-01 -2.26E-02  3.17E-02  3.82E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.681    18   2  16  1.36E-02  1.97E-01 -2.26E-02  3.18E-02  3.83E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.681    18   2  16  1.36E-02  1.97E-01 -2.25E-02  3.19E-02  3.85E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.681    18   2  16  1.37E-02  1.97E-01 -2.24E-02  3.20E-02  3.86E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.681    18   2  16  1.37E-02  1.97E-01 -2.24E-02  3.21E-02  3.88E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.681    18   2  17  1.37E-02  1.97E-01 -2.23E-02  3.22E-02  3.89E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.681    18   2  17  1.38E-02  1.97E-01 -2.22E-02  3.22E-02  3.90E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.681    18   2  17  1.38E-02  1.97E-01 -2.21E-02  3.23E-02  3.92E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.681    18   2  17  1.39E-02  1.97E-01 -2.21E-02  3.24E-02  3.93E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.681    18   2  17  1.39E-02  1.97E-01 -2.20E-02  3.25E-02  3.95E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.681    18   2  17  1.40E-02  1.97E-01 -2.20E-02  3.26E-02  3.96E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.681    18   2  17  1.40E-02  1.97E-01 -2.18E-02  3.27E-02  3.99E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.681    18   2  17  1.41E-02  1.97E-01 -2.17E-02  3.28E-02  4.01E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.681    18   2  17  1.41E-02  1.97E-01 -2.17E-02  3.29E-02  4.02E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.681    18   2  17  1.42E-02  1.97E-01 -2.16E-02  3.30E-02  4.04E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.681    18   2  17  1.42E-02  1.97E-01 -2.15E-02  3.31E-02  4.05E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.681    18   2  17  1.43E-02  1.97E-01 -2.15E-02  3.32E-02  4.07E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.681    18   2  17  1.43E-02  1.97E-01 -2.14E-02  3.32E-02  4.08E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.681    18   2  17  1.44E-02  1.97E-01 -2.13E-02  3.34E-02  4.10E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.681    18   2  17  1.44E-02  1.97E-01 -2.12E-02  3.34E-02  4.12E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.681    18   2  17  1.45E-02  1.97E-01 -2.12E-02  3.35E-02  4.14E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.681    18   2  17  1.45E-02  1.97E-01 -2.11E-02  3.36E-02  4.15E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.681    18   2  17  1.46E-02  1.97E-01 -2.10E-02  3.37E-02  4.17E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.681    18   2  17  1.46E-02  1.97E-01 -2.09E-02  3.38E-02  4.18E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.681    18   2  17  1.47E-02  1.97E-01 -2.09E-02  3.39E-02  4.20E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.681    18   2  17  1.47E-02  1.97E-01 -2.08E-02  3.40E-02  4.22E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.681    18   2  17  1.48E-02  1.97E-01 -2.07E-02  3.41E-02  4.25E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.681    18   2  17  1.49E-02  1.97E-01 -2.06E-02  3.43E-02  4.27E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.681    18   2  17  1.49E-02  1.97E-01 -2.05E-02  3.43E-02  4.28E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.681    18   2  17  1.50E-02  1.97E-01 -2.04E-02  3.45E-02  4.30E-01
+ EXCHANGE    T NAM E0 E A0 A EB0 EB     45.68     8     6     6     1  0.567  0.968  1.5E-02  9.3E-02  -2.0E-02  -2.3E-02
+ CHAIN RECOIL  NAM =     6     1  A = 9.3E-02  E = 0.97  EB = 0.11  GB = 2.6E+00  G4 = 7.9E-06  EB1 =-0.00  E1 = 8.80  ET = 0.341  DB =  0.1
+ RECOIL:    NAM E E1 PM/A RD A A1 RP GB IN      8  0.9683  0.81  0.0  -2.1  9.33E-02  1.33E-02  1.80E-02  2.56E+00   76.9
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.682    59   3  17  5.52E-02  2.29E-01 -3.84E-02  3.33E-03  1.40E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.684    59   3  17  3.83E-02  2.29E-01 -5.53E-02  4.84E-03  5.14E-02
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    45.989    18   2  12  1.31E-02  2.52E-01 -1.62E-01 -6.85E-03  1.32E-01
+
+ ADJUST:  TIME =   46.00  Q = 0.77  DE = -2.89E-03  E = -0.250637  RMIN = 8.8E-03  DTMIN = 2.3E-04  TC =    1  DELTA = -4.7E-04  E(3) = -0.048849  DETOT = -0.000637
+
+
+ T =    46.  N =   100  <NB> =  7  KS =    0  NM =  0  MM = 0  NS =    96  NSTEPS =     564028     27488     140126      50985  DE = -2.9E-03  E = -0.250637  M = 1.0000
+
+    <R>  RTIDE  RDENS   RC    NC   MC   RHOD   RHOM  CMAX   <Cn>   Ir/R   UN    NP   RCM    VCM      AZ      EB/E   EM/E   TCR     T6  NESC  VRMS
+ #1 2.36  23.6  1.58 0.4495    4  0.274   15.    32.    5.   2.7  0.140    0     0   0.002  0.0006   0.0420  4.131 -0.000 32.75     3     0   0.8
+
+       NNPRED    NBCORR  NBFULL  NBVOID    NICONV  NBSMIN  NBDIS  NBDIS2  NCMDER  NBDER  NFAST  NBFAST    NBLOCK    NBLCKR     NBPRED     NBFLUX  NIRECT  NRRECT  NURECT  NBRECT
+ #2     17099        46    3425     2469    16990    2780      0       0       0      0      1       0    101261         0    1704930     164063       0       0       0       0
+
+     NKSTRY  NKSREG  NKSHYP     NKSPER  NPRECT  NEWKS   NKSMOD    NTTRY  NTRIP  NQUAD  NCHAIN  NMERG  NEWHI  NSTEPT  NSTEPQ  NSTEPC
+ #3    45041    644      19          0       0      0        0        8      0      0     573      0      0       0       0    3005
+ CHAIN ESCAPE:    IESC JESC NM RI RDOT2 2*M/R RB GP VINF   4  1     8     1  1.6E-01  4.7E+00  2.6E+00  1.2E-02  2.9E-01   2.1
+ ACTUAL ESCAPE    NAM G R      8  2.92E-01  1.18E-02  1.29E-01  1.29E-01
+ EXCHANGE    T NAM E0 E A0 A EB0 EB     46.07     1     6     1     8  0.539  0.977  1.3E-02  6.3E-03  -1.6E-01  -2.7E-01
+ CHAIN RECOIL  NAM =     1     8  A = 6.3E-03  E = 0.98  EB = 1.33  GB = 3.5E-04  G4 = 1.5E-02  EB1 =-0.00  E1 =-0.41  ET = 4.027  DB =  0.7
+ RECOIL:    NAM E E1 PM/A RD A A1 RP GB IN      6  0.9766  1.15  0.8   3.0  6.25E-03 -3.24E-02  1.31E-01  3.46E-04   82.1
+
+
+ T =    47.  N =   100  <NB> =  9  KS =    1  NM =  0  MM = 0  NS =    98  NSTEPS =     572241     28461     141692      55098  DE =  1.1E-05  E = -0.250634  M = 1.0000
+
+    <R>  RTIDE  RDENS   RC    NC   MC   RHOD   RHOM  CMAX   <Cn>   Ir/R   UN    NP   RCM    VCM      AZ      EB/E   EM/E   TCR     T6  NESC  VRMS
+ #1 2.36  23.6  1.39 0.5531    6  0.250    0.     0.    2.  16.3  0.826    0     3   0.002  0.0006   0.0420-15.219  0.000 32.75     3     0   0.9
+
+       NNPRED    NBCORR  NBFULL  NBVOID    NICONV  NBSMIN  NBDIS  NBDIS2  NCMDER  NBDER  NFAST  NBFAST    NBLOCK    NBLCKR     NBPRED     NBFLUX  NIRECT  NRRECT  NURECT  NBRECT
+ #2     17243        46    3453     2482    17137    2786      0       0       0      0      1       0    103017         0    1738019     166028       0       0       0       0
+
+     NKSTRY  NKSREG  NKSHYP     NKSPER  NPRECT  NEWKS   NKSMOD    NTTRY  NTRIP  NQUAD  NCHAIN  NMERG  NEWHI  NSTEPT  NSTEPQ  NSTEPC
+ #3    45375    645      19          0       0      0        0        8      0      0     573      0      0       0       0    3267
+
+ ADJUST:  TIME =   48.00  Q = 1.09  DE =  2.09E-07  E = -0.250634  RMIN = 1.3E-02  DTMIN = 4.1E-04  TC =    0  DELTA =  4.4E-08  E(3) =  0.017628  DETOT = -0.000634
+
+
+ T =    48.  N =   100  <NB> =  9  KS =    1  NM =  0  MM = 0  NS =    98  NSTEPS =     578708     29384     142678      59476  DE =  2.1E-07  E = -0.250634  M = 1.0000
+
+    <R>  RTIDE  RDENS   RC    NC   MC   RHOD   RHOM  CMAX   <Cn>   Ir/R   UN    NP   RCM    VCM      AZ      EB/E   EM/E   TCR     T6  NESC  VRMS
+ #1 2.62  26.2  1.51 0.3291    4  0.196   36.    65.    1.  16.2  0.818    0     7   0.002  0.0006   0.0425-15.218  0.000223.28     3     0   0.9
+
+       NNPRED    NBCORR  NBFULL  NBVOID    NICONV  NBSMIN  NBDIS  NBDIS2  NCMDER  NBDER  NFAST  NBFAST    NBLOCK    NBLCKR     NBPRED     NBFLUX  NIRECT  NRRECT  NURECT  NBRECT
+ #2     17417        46    3471     2487    17211    2789      0       0       0      0      1       0    104207         0    1758982     167184       0       0       0       0
+
+     NKSTRY  NKSREG  NKSHYP     NKSPER  NPRECT  NEWKS   NKSMOD    NTTRY  NTRIP  NQUAD  NCHAIN  NMERG  NEWHI  NSTEPT  NSTEPQ  NSTEPC
+ #3    45483    645      19          0       0      0        0        8      0      0     573      0      0       0       0    3267
+
+
+ T =    49.  N =   100  <NB> =  9  KS =    1  NM =  0  MM = 0  NS =    98  NSTEPS =     587421     30556     143623      63880  DE =  3.2E-07  E = -0.250634  M = 1.0000
+
+    <R>  RTIDE  RDENS   RC    NC   MC   RHOD   RHOM  CMAX   <Cn>   Ir/R   UN    NP   RCM    VCM      AZ      EB/E   EM/E   TCR     T6  NESC  VRMS
+ #1 2.62  26.2  1.51 0.3504    3  0.236    0.     0.    1.  17.2  1.079    0     6   0.002  0.0006   0.0425-15.218  0.000223.28     3     0   0.9
+
+       NNPRED    NBCORR  NBFULL  NBVOID    NICONV  NBSMIN  NBDIS  NBDIS2  NCMDER  NBDER  NFAST  NBFAST    NBLOCK    NBLCKR     NBPRED     NBFLUX  NIRECT  NRRECT  NURECT  NBRECT
+ #2     17642        46    3494     2501    17305    2822      0       0       0      0      1       0    105829         0    1788474     168233       0       0       0       0
+
+     NKSTRY  NKSREG  NKSHYP     NKSPER  NPRECT  NEWKS   NKSMOD    NTTRY  NTRIP  NQUAD  NCHAIN  NMERG  NEWHI  NSTEPT  NSTEPQ  NSTEPC
+ #3    46006    646      19          0       0      0        0        8      0      0     573      0      0       0       0    3267
+
+ ADJUST:  TIME =   50.00  Q = 1.10  DE = -9.01E-07  E = -0.250634  RMIN = 1.6E-02  DTMIN = 5.8E-04  TC =    0  DELTA = -1.7E-07  E(3) =  0.017627  DETOT = -0.000634
+
+
+ T =    50.  N =   100  <NB> =  9  KS =    1  NM =  0  MM = 0  NS =    98  NSTEPS =     592796     31038     144337      68147  DE = -9.0E-07  E = -0.250634  M = 1.0000
+
+    <R>  RTIDE  RDENS   RC    NC   MC   RHOD   RHOM  CMAX   <Cn>   Ir/R   UN    NP   RCM    VCM      AZ      EB/E   EM/E   TCR     T6  NESC  VRMS
+ #1 2.96  29.6  1.53 0.3297    3  0.024   48.    86.    2.  16.4  0.727    0     4   0.002  0.0006   0.0425-15.219  0.000224.51     3     0   0.9
+
+       NNPRED    NBCORR  NBFULL  NBVOID    NICONV  NBSMIN  NBDIS  NBDIS2  NCMDER  NBDER  NFAST  NBFAST    NBLOCK    NBLCKR     NBPRED     NBFLUX  NIRECT  NRRECT  NURECT  NBRECT
+ #2     17715        46    3510     2509    17360    2827      0       0       0      0      1       0    106821         0    1808555     169012       0       0       0       0
+
+     NKSTRY  NKSREG  NKSHYP     NKSPER  NPRECT  NEWKS   NKSMOD    NTTRY  NTRIP  NQUAD  NCHAIN  NMERG  NEWHI  NSTEPT  NSTEPQ  NSTEPC
+ #3    46147    646      19          0       0      0        0        8      0      0     573      0      0       0       0    3267
+
+
+ T =    51.  N =   100  <NB> =  9  KS =    1  NM =  0  MM = 0  NS =    98  NSTEPS =     599651     32082     145101      73024  DE = -4.1E-06  E = -0.250635  M = 1.0000
+
+    <R>  RTIDE  RDENS   RC    NC   MC   RHOD   RHOM  CMAX   <Cn>   Ir/R   UN    NP   RCM    VCM      AZ      EB/E   EM/E   TCR     T6  NESC  VRMS
+ #1 2.96  29.6  1.57 0.4204    5  0.280    0.     0.    2.  16.8  1.264    0     7   0.002  0.0006   0.0425-18.282  0.000224.51     3     0   1.0
+
+       NNPRED    NBCORR  NBFULL  NBVOID    NICONV  NBSMIN  NBDIS  NBDIS2  NCMDER  NBDER  NFAST  NBFAST    NBLOCK    NBLCKR     NBPRED     NBFLUX  NIRECT  NRRECT  NURECT  NBRECT
+ #2     17823        46    3528     2513    17427    2847      0       0       0      0      1       0    108190         0    1835266     169867       0       0       0       0
+
+     NKSTRY  NKSREG  NKSHYP     NKSPER  NPRECT  NEWKS   NKSMOD    NTTRY  NTRIP  NQUAD  NCHAIN  NMERG  NEWHI  NSTEPT  NSTEPQ  NSTEPC
+ #3    47190    648      20          0       0      0        0        9      0      0     573      0      0       0       0    3267
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    51.331    18   4  18  5.58E-02  3.18E-01 -6.60E-03  3.91E-04  6.01E-02
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    51.334    18   4  17  6.90E-02  3.20E-01 -5.34E-03  8.55E-04  5.04E-02
+
+ ADJUST:  TIME =   52.00  Q = 1.08  DE = -7.56E-05  E = -0.250650  RMIN = 1.7E-02  DTMIN = 6.2E-04  TC =    0  DELTA = -1.5E-05  E(3) =  0.014084  DETOT = -0.000650
+
+
+ T =    52.  N =   100  <NB> =  9  KS =    1  NM =  0  MM = 0  NS =    98  NSTEPS =     612681     35289     146691      80465  DE = -7.6E-05  E = -0.250650  M = 1.0000
+
+    <R>  RTIDE  RDENS   RC    NC   MC   RHOD   RHOM  CMAX   <Cn>   Ir/R   UN    NP   RCM    VCM      AZ      EB/E   EM/E   TCR     T6  NESC  VRMS
+ #1 2.79  27.9  1.64 0.5351    4  0.237   18.    28.    1.  17.4  1.217    0     5   0.003  0.0006   0.0425-18.797  0.000310.68     3     0   0.9
+
+       NNPRED    NBCORR  NBFULL  NBVOID    NICONV  NBSMIN  NBDIS  NBDIS2  NCMDER  NBDER  NFAST  NBFAST    NBLOCK    NBLCKR     NBPRED     NBFLUX  NIRECT  NRRECT  NURECT  NBRECT
+ #2     18233        49    3539     2515    17535    3063      0       0       0      0      1       0    111658         0    1894723     170745       0       0       0       0
+
+     NKSTRY  NKSREG  NKSHYP     NKSPER  NPRECT  NEWKS   NKSMOD    NTTRY  NTRIP  NQUAD  NCHAIN  NMERG  NEWHI  NSTEPT  NSTEPQ  NSTEPC
+ #3    51017    668      22          0       0      0        0       19      0      0     575      0      0       0       0    3269
+
+
+ T =    53.  N =   100  <NB> =  9  KS =    1  NM =  0  MM = 0  NS =    98  NSTEPS =     619454     36693     147556      84974  DE = -8.9E-06  E = -0.250652  M = 1.0000
+
+    <R>  RTIDE  RDENS   RC    NC   MC   RHOD   RHOM  CMAX   <Cn>   Ir/R   UN    NP   RCM    VCM      AZ      EB/E   EM/E   TCR     T6  NESC  VRMS
+ #1 2.79  27.9  1.76 0.6762    4  0.302    0.     0.    2.  16.8  0.856    0     3   0.003  0.0006   0.0425-19.392  0.000310.68     3     0   0.9
+
+       NNPRED    NBCORR  NBFULL  NBVOID    NICONV  NBSMIN  NBDIS  NBDIS2  NCMDER  NBDER  NFAST  NBFAST    NBLOCK    NBLCKR     NBPRED     NBFLUX  NIRECT  NRRECT  NURECT  NBRECT
+ #2     18422        49    3548     2519    17601    3076      0       0       0      0      1       0    113273         0    1925259     171464       0       0       0       0
+
+     NKSTRY  NKSREG  NKSHYP     NKSPER  NPRECT  NEWKS   NKSMOD    NTTRY  NTRIP  NQUAD  NCHAIN  NMERG  NEWHI  NSTEPT  NSTEPQ  NSTEPC
+ #3    52095    668      22          0       0      0        0       19      0      0     575      0      0       0       0    3269
+
+ ADJUST:  TIME =   54.00  Q = 1.07  DE = -1.15E-05  E = -0.250655  RMIN = 1.7E-02  DTMIN = 6.1E-04  TC =    0  DELTA = -2.4E-06  E(3) =  0.013318  DETOT = -0.000655
+
+
+ T =    54.  N =   100  <NB> =  9  KS =    1  NM =  0  MM = 0  NS =    98  NSTEPS =     626311     38472     148533      89605  DE = -1.1E-05  E = -0.250655  M = 1.0000
+
+    <R>  RTIDE  RDENS   RC    NC   MC   RHOD   RHOM  CMAX   <Cn>   Ir/R   UN    NP   RCM    VCM      AZ      EB/E   EM/E   TCR     T6  NESC  VRMS
+ #1 2.55  25.5  1.86 0.4010    4  0.302   18.    37.    1.  16.3  1.077    0     5   0.004  0.0006   0.0425-19.821  0.000336.19     3     0   0.9
+
+       NNPRED    NBCORR  NBFULL  NBVOID    NICONV  NBSMIN  NBDIS  NBDIS2  NCMDER  NBDER  NFAST  NBFAST    NBLOCK    NBLCKR     NBPRED     NBFLUX  NIRECT  NRRECT  NURECT  NBRECT
+ #2     18673        49    3567     2522    17678    3101      0       0       0      0      1       0    115345         0    1962294     172103       0       0       0       0
+
+     NKSTRY  NKSREG  NKSHYP     NKSPER  NPRECT  NEWKS   NKSMOD    NTTRY  NTRIP  NQUAD  NCHAIN  NMERG  NEWHI  NSTEPT  NSTEPQ  NSTEPC
+ #3    53900    668      22          0       0      0        0       19      0      0     575      0      0       0       0    3269
+
+
+ T =    55.  N =   100  <NB> =  8  KS =    1  NM =  0  MM = 0  NS =    98  NSTEPS =     634229     40084     149297      94315  DE = -8.2E-06  E = -0.250657  M = 1.0000
+
+    <R>  RTIDE  RDENS   RC    NC   MC   RHOD   RHOM  CMAX   <Cn>   Ir/R   UN    NP   RCM    VCM      AZ      EB/E   EM/E   TCR     T6  NESC  VRMS
+ #1 2.55  25.5  1.98 0.4101    3  0.229    0.     0.    1.  17.0  1.070    0     6   0.004  0.0006   0.0425-17.918  0.000336.19     3     0   0.9
+
+       NNPRED    NBCORR  NBFULL  NBVOID    NICONV  NBSMIN  NBDIS  NBDIS2  NCMDER  NBDER  NFAST  NBFAST    NBLOCK    NBLCKR     NBPRED     NBFLUX  NIRECT  NRRECT  NURECT  NBRECT
+ #2     18754        49    3578     2528    17753    3157      0       0       0      0      1       0    117395         0    2003317     172721       0       0       0       0
+
+     NKSTRY  NKSREG  NKSHYP     NKSPER  NPRECT  NEWKS   NKSMOD    NTTRY  NTRIP  NQUAD  NCHAIN  NMERG  NEWHI  NSTEPT  NSTEPQ  NSTEPC
+ #3    55568    668      22          0       0      0        0       19      0      0     575      0      0       0       0    3269
+
+ ADJUST:  TIME =   56.00  Q = 1.08  DE = -5.88E-07  E = -0.250657  RMIN = 1.5E-02  DTMIN = 5.2E-04  TC =    0  DELTA = -1.2E-07  E(3) =  0.014612  DETOT = -0.000657
+
+
+ T =    56.  N =   100  <NB> =  8  KS =    1  NM =  0  MM = 0  NS =    98  NSTEPS =     643366     41643     150280      98933  DE = -5.9E-07  E = -0.250657  M = 1.0000
+
+    <R>  RTIDE  RDENS   RC    NC   MC   RHOD   RHOM  CMAX   <Cn>   Ir/R   UN    NP   RCM    VCM      AZ      EB/E   EM/E   TCR     T6  NESC  VRMS
+ #1 2.66  26.6  2.02 0.4429    3  0.229   24.    50.    2.  17.5  1.432    0     5   0.006  0.0006   0.0425-18.154  0.000293.88     3     0   0.9
+
+       NNPRED    NBCORR  NBFULL  NBVOID    NICONV  NBSMIN  NBDIS  NBDIS2  NCMDER  NBDER  NFAST  NBFAST    NBLOCK    NBLCKR     NBPRED     NBFLUX  NIRECT  NRRECT  NURECT  NBRECT
+ #2     18943        49    3591     2535    17849    3219      0       0       0      0      1       0    119356         0    2040628     173371       0       0       0       0
+
+     NKSTRY  NKSREG  NKSHYP     NKSPER  NPRECT  NEWKS   NKSMOD    NTTRY  NTRIP  NQUAD  NCHAIN  NMERG  NEWHI  NSTEPT  NSTEPQ  NSTEPC
+ #3    57596    668      22          0       0      0        0       19      0      0     575      0      0       0       0    3269
+
+
+ T =    57.  N =   100  <NB> =  8  KS =    1  NM =  0  MM = 0  NS =    98  NSTEPS =     652472     43336     151222     103905  DE =  9.2E-06  E = -0.250654  M = 1.0000
+
+    <R>  RTIDE  RDENS   RC    NC   MC   RHOD   RHOM  CMAX   <Cn>   Ir/R   UN    NP   RCM    VCM      AZ      EB/E   EM/E   TCR     T6  NESC  VRMS
+ #1 2.66  26.6  2.11 0.4026    5  0.277    0.     0.    2.  17.1  1.723    0     5   0.006  0.0006   0.0425 -7.118  0.000293.88     3     0   1.0
+
+       NNPRED    NBCORR  NBFULL  NBVOID    NICONV  NBSMIN  NBDIS  NBDIS2  NCMDER  NBDER  NFAST  NBFAST    NBLOCK    NBLCKR     NBPRED     NBFLUX  NIRECT  NRRECT  NURECT  NBRECT
+ #2     19115        49    3604     2540    17936    3271      0       0       0      0      1       0    121277         0    2076312     173952       0       0       0       0
+
+     NKSTRY  NKSREG  NKSHYP     NKSPER  NPRECT  NEWKS   NKSMOD    NTTRY  NTRIP  NQUAD  NCHAIN  NMERG  NEWHI  NSTEPT  NSTEPQ  NSTEPC
+ #3    59548    670      23          0       0      0        0       20      0      0     575      0      0       0       0    3269
+ WARNING!    KSRECT    KS K* E R H G UPR2 A2 CK-1    1   0  0.9264  5.89E-03 -1.53E+01  6.56E-02  4.22E-02 -8.78E-04 -4.11E-04
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.668     5   3  17  4.24E-02  3.86E-01 -9.00E-02  3.56E-02  2.12E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.891     5   2  11  2.07E-02  2.96E-01 -8.10E-02  4.87E-03  5.66E-02
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.892     5   2  11  1.98E-02  2.96E-01 -8.45E-02  2.68E-03  7.67E-02
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.893     5   2  11  1.86E-02  2.96E-01 -8.99E-02  2.37E-04  1.18E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.901    51   5  17  2.57E-02  5.15E-01 -1.48E-01  1.04E-03  7.85E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.979    51   5  15  2.63E-02  4.69E-01 -1.45E-01  9.85E-05  1.98E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.980    51   5  16  2.71E-02  4.68E-01 -1.41E-01  3.68E-04  7.66E-02
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.983    51   5  16  3.29E-02  4.66E-01 -1.16E-01  1.05E-03  5.09E-02
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.983    51   5  16  3.23E-02  4.61E-01 -1.18E-01  2.98E-03  3.57E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.984    51   5  16  3.22E-02  4.61E-01 -1.19E-01  3.00E-03  3.56E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.984    51   5  16  3.21E-02  4.61E-01 -1.19E-01  3.02E-03  3.54E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.984    51   5  16  3.20E-02  4.61E-01 -1.19E-01  3.04E-03  3.53E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.984    51   5  16  3.20E-02  4.61E-01 -1.19E-01  3.06E-03  3.52E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.984    51   5  16  3.19E-02  4.61E-01 -1.20E-01  3.08E-03  3.51E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.984    51   5  16  3.18E-02  4.61E-01 -1.20E-01  3.10E-03  3.50E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.984    51   5  16  3.18E-02  4.61E-01 -1.20E-01  3.12E-03  3.49E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.984    51   5  16  3.17E-02  4.61E-01 -1.20E-01  3.13E-03  3.48E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.984    51   5  17  3.16E-02  4.61E-01 -1.21E-01  3.15E-03  3.48E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.984    51   5  16  3.16E-02  4.61E-01 -1.21E-01  3.17E-03  3.47E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.984    51   5  17  3.15E-02  4.61E-01 -1.21E-01  3.19E-03  3.46E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.984    51   5  16  3.15E-02  4.61E-01 -1.21E-01  3.21E-03  3.46E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.984    51   5  17  3.14E-02  4.61E-01 -1.22E-01  3.23E-03  3.45E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.984    51   5  16  3.13E-02  4.61E-01 -1.22E-01  3.25E-03  3.45E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.984    51   5  17  3.13E-02  4.61E-01 -1.22E-01  3.26E-03  3.44E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.984    51   5  17  3.12E-02  4.61E-01 -1.22E-01  3.28E-03  3.44E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.984    51   5  17  3.11E-02  4.61E-01 -1.22E-01  3.30E-03  3.43E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.985    51   5  17  3.11E-02  4.61E-01 -1.23E-01  3.32E-03  3.43E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.985    51   5  17  3.10E-02  4.61E-01 -1.23E-01  3.34E-03  3.43E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.985    51   5  17  3.10E-02  4.61E-01 -1.23E-01  3.35E-03  3.42E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.985    51   5  17  3.09E-02  4.61E-01 -1.23E-01  3.37E-03  3.42E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.985    51   5  17  3.09E-02  4.61E-01 -1.24E-01  3.39E-03  3.42E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.985    51   5  17  3.08E-02  4.61E-01 -1.24E-01  3.40E-03  3.42E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.985    51   5  17  3.08E-02  4.61E-01 -1.24E-01  3.42E-03  3.42E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.985    51   5  17  3.07E-02  4.61E-01 -1.24E-01  3.45E-03  3.40E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.985    51   5  17  3.06E-02  4.61E-01 -1.25E-01  3.48E-03  3.39E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.985    51   5  17  3.05E-02  4.61E-01 -1.25E-01  3.51E-03  3.39E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.985    51   5  17  3.04E-02  4.61E-01 -1.25E-01  3.53E-03  3.38E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.986    51   5  17  3.03E-02  4.61E-01 -1.26E-01  3.56E-03  3.37E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.986    51   5  17  3.03E-02  4.61E-01 -1.26E-01  3.59E-03  3.37E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.986    51   5  17  3.02E-02  4.61E-01 -1.26E-01  3.61E-03  3.37E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.986    51   5  17  3.01E-02  4.61E-01 -1.27E-01  3.64E-03  3.36E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.986    51   5  17  3.01E-02  4.61E-01 -1.27E-01  3.66E-03  3.36E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.986    51   5  17  3.00E-02  4.61E-01 -1.27E-01  3.69E-03  3.36E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.986    51   5  17  2.99E-02  4.61E-01 -1.28E-01  3.72E-03  3.37E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.986    51   5  16  2.98E-02  4.61E-01 -1.28E-01  3.74E-03  3.37E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.987    51   5  16  2.98E-02  4.61E-01 -1.28E-01  3.77E-03  3.37E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.987    51   5  16  2.97E-02  4.61E-01 -1.28E-01  3.79E-03  3.38E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.987    51   5  16  2.96E-02  4.61E-01 -1.29E-01  3.82E-03  3.38E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.987    51   5  16  2.96E-02  4.61E-01 -1.29E-01  3.85E-03  3.39E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.987    51   5  16  2.95E-02  4.61E-01 -1.29E-01  3.87E-03  3.40E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.987    51   5  16  2.95E-02  4.61E-01 -1.29E-01  3.90E-03  3.41E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.987    51   5  16  2.94E-02  4.61E-01 -1.30E-01  3.92E-03  3.42E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.987    51   5  16  2.93E-02  4.61E-01 -1.30E-01  3.95E-03  3.43E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.988    51   5  16  2.93E-02  4.61E-01 -1.30E-01  3.97E-03  3.44E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.988    51   5  16  2.92E-02  4.61E-01 -1.31E-01  4.00E-03  3.46E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.988    51   5  16  2.92E-02  4.61E-01 -1.31E-01  4.03E-03  3.47E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.988    51   5  16  2.91E-02  4.61E-01 -1.31E-01  4.05E-03  3.48E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.988    51   5  16  2.91E-02  4.61E-01 -1.31E-01  4.08E-03  3.50E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.988    51   5  16  2.90E-02  4.61E-01 -1.32E-01  4.10E-03  3.52E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.988    51   5  17  2.89E-02  4.61E-01 -1.32E-01  4.13E-03  3.53E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.988    51   5  17  2.89E-02  4.61E-01 -1.32E-01  4.15E-03  3.55E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.989    51   5  17  2.88E-02  4.61E-01 -1.32E-01  4.18E-03  3.57E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.989    51   5  17  2.88E-02  4.61E-01 -1.33E-01  4.21E-03  3.59E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.989    51   5  17  2.87E-02  4.61E-01 -1.33E-01  4.23E-03  3.61E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.989    51   5  17  2.87E-02  4.61E-01 -1.33E-01  4.26E-03  3.64E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.989    51   5  17  2.86E-02  4.61E-01 -1.33E-01  4.28E-03  3.66E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.989    51   5  17  2.86E-02  4.61E-01 -1.33E-01  4.31E-03  3.68E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.989    51   5  17  2.85E-02  4.61E-01 -1.34E-01  4.34E-03  3.71E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.989    51   5  17  2.85E-02  4.61E-01 -1.34E-01  4.36E-03  3.74E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.990    51   5  17  2.84E-02  4.61E-01 -1.34E-01  4.39E-03  3.76E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.990    51   5  17  2.84E-02  4.61E-01 -1.34E-01  4.42E-03  3.79E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.990    51   5  17  2.84E-02  4.61E-01 -1.35E-01  4.45E-03  3.82E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.990    51   5  17  2.83E-02  4.61E-01 -1.35E-01  4.47E-03  3.85E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.990    51   5  17  2.83E-02  4.61E-01 -1.35E-01  4.50E-03  3.89E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.990    51   5  17  2.82E-02  4.61E-01 -1.35E-01  4.53E-03  3.92E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.990    51   5  17  2.82E-02  4.61E-01 -1.35E-01  4.55E-03  3.94E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.990    51   5  16  2.81E-02  4.61E-01 -1.36E-01  4.58E-03  3.99E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.991    51   5  17  2.81E-02  4.61E-01 -1.36E-01  4.63E-03  4.06E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.991    51   5  16  2.80E-02  4.61E-01 -1.36E-01  4.68E-03  4.13E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.991    51   5  17  2.79E-02  4.61E-01 -1.37E-01  4.72E-03  4.21E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.991    51   5  16  2.79E-02  4.62E-01 -1.37E-01  4.77E-03  4.29E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.992    51   5  17  2.78E-02  4.62E-01 -1.37E-01  4.82E-03  4.39E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.992    51   5  16  2.77E-02  4.62E-01 -1.38E-01  4.87E-03  4.49E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.992    51   5  17  2.77E-02  4.62E-01 -1.38E-01  4.92E-03  4.60E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.992    51   5  16  2.76E-02  4.62E-01 -1.38E-01  4.98E-03  4.71E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.993    51   5  17  2.76E-02  4.62E-01 -1.38E-01  5.03E-03  4.84E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.993    51   5  17  2.75E-02  4.62E-01 -1.39E-01  5.07E-03  4.94E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.993    51   5  17  2.75E-02  4.62E-01 -1.39E-01  5.11E-03  5.02E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.993    51   5  17  2.74E-02  4.62E-01 -1.39E-01  5.14E-03  5.09E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.993    51   5  17  2.74E-02  4.62E-01 -1.39E-01  5.18E-03  5.18E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.993    51   5  17  2.74E-02  4.62E-01 -1.39E-01  5.21E-03  5.26E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.993    51   5  17  2.73E-02  4.62E-01 -1.40E-01  5.25E-03  5.35E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.994    51   5  17  2.73E-02  4.62E-01 -1.40E-01  5.29E-03  5.44E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.994    51   5  17  2.73E-02  4.62E-01 -1.40E-01  5.33E-03  5.54E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.994    51   5  17  2.72E-02  4.62E-01 -1.40E-01  5.36E-03  5.64E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.994    51   5  17  2.72E-02  4.62E-01 -1.40E-01  5.40E-03  5.74E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.994    51   5  17  2.72E-02  4.63E-01 -1.40E-01  5.44E-03  5.85E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.994    51   5  17  2.71E-02  4.63E-01 -1.41E-01  5.48E-03  5.97E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.994    51   5  17  2.71E-02  4.63E-01 -1.41E-01  5.52E-03  6.09E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.994    51   5  17  2.71E-02  4.63E-01 -1.41E-01  5.57E-03  6.22E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.995    51   5  17  2.71E-02  4.63E-01 -1.41E-01  5.61E-03  6.35E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.995    51   5  17  2.70E-02  4.63E-01 -1.41E-01  5.66E-03  6.50E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.995    51   5  17  2.70E-02  4.63E-01 -1.41E-01  5.70E-03  6.65E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.995    51   5  17  2.70E-02  4.63E-01 -1.41E-01  5.75E-03  6.80E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.995    51   5  17  2.69E-02  4.63E-01 -1.42E-01  5.80E-03  6.97E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.995    51   5  17  2.69E-02  4.63E-01 -1.42E-01  5.84E-03  7.15E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.995    51   5  17  2.69E-02  4.63E-01 -1.42E-01  5.90E-03  7.33E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.995    51   5  17  2.69E-02  4.63E-01 -1.42E-01  5.95E-03  7.53E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.995    51   5  17  2.69E-02  4.63E-01 -1.42E-01  6.00E-03  7.75E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.996    51   5  17  2.68E-02  4.63E-01 -1.42E-01  6.06E-03  7.97E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.996    51   5  17  2.68E-02  4.64E-01 -1.42E-01  6.11E-03  8.22E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.996    51   5  17  2.68E-02  4.64E-01 -1.42E-01  6.16E-03  8.35E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.996    51   5  17  2.68E-02  4.64E-01 -1.43E-01  6.22E-03  8.62E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.996    51   5  17  2.68E-02  4.64E-01 -1.43E-01  6.28E-03  8.91E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.996    51   5  17  2.67E-02  4.64E-01 -1.43E-01  6.34E-03  9.22E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.996    51   5  17  2.67E-02  4.64E-01 -1.43E-01  6.41E-03  9.55E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.996    51   5  17  2.67E-02  4.64E-01 -1.43E-01  6.48E-03  9.90E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.997    51   5  17  2.67E-02  4.64E-01 -1.43E-01  6.55E-03  1.03E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.997    51   5  17  2.67E-02  4.64E-01 -1.43E-01  6.63E-03  1.07E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.997    51   5  17  2.67E-02  4.64E-01 -1.43E-01  6.70E-03  1.11E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.997    51   5  17  2.67E-02  4.64E-01 -1.43E-01  6.79E-03  1.16E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.997    51   5  17  2.67E-02  4.65E-01 -1.43E-01  6.87E-03  1.21E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.997    51   5  17  2.67E-02  4.65E-01 -1.43E-01  6.96E-03  1.27E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.997    51   5  17  2.67E-02  4.65E-01 -1.43E-01  7.06E-03  1.34E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.997    51   5  17  2.67E-02  4.65E-01 -1.43E-01  7.16E-03  1.41E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.997    51   5  17  2.67E-02  4.65E-01 -1.43E-01  7.25E-03  1.46E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.998    51   5  17  2.67E-02  4.65E-01 -1.43E-01  7.32E-03  1.51E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.998    51   5  17  2.67E-02  4.65E-01 -1.43E-01  7.41E-03  1.57E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.998    51   5  17  2.67E-02  4.65E-01 -1.43E-01  7.48E-03  1.61E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.998    51   5  17  2.67E-02  4.65E-01 -1.43E-01  7.55E-03  1.66E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.998    51   5  17  2.68E-02  4.65E-01 -1.43E-01  7.63E-03  1.71E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.998    51   5  17  2.68E-02  4.65E-01 -1.42E-01  7.72E-03  1.77E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.998    51   5  17  2.68E-02  4.66E-01 -1.42E-01  7.83E-03  1.86E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.998    51   5  17  2.68E-02  4.66E-01 -1.42E-01  7.91E-03  1.92E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.998    51   5  17  2.69E-02  4.66E-01 -1.42E-01  8.00E-03  1.99E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.998    51   5  17  2.69E-02  4.66E-01 -1.42E-01  8.11E-03  2.06E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.998    51   5  17  2.70E-02  4.66E-01 -1.41E-01  8.21E-03  2.14E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.998    51   5  17  2.70E-02  4.66E-01 -1.41E-01  8.32E-03  2.23E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.998    51   5  17  2.71E-02  4.66E-01 -1.41E-01  8.46E-03  2.37E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.998    51   5  17  2.72E-02  4.66E-01 -1.40E-01  8.58E-03  2.48E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.998    51   5  17  2.72E-02  4.66E-01 -1.40E-01  8.71E-03  2.59E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.998    51   5  17  2.73E-02  4.66E-01 -1.40E-01  8.84E-03  2.72E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  2.74E-02  4.66E-01 -1.39E-01  8.98E-03  2.86E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  2.75E-02  4.67E-01 -1.39E-01  9.15E-03  3.01E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  2.76E-02  4.67E-01 -1.38E-01  9.22E-03  3.10E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  2.77E-02  4.67E-01 -1.38E-01  9.35E-03  3.19E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  2.77E-02  4.67E-01 -1.38E-01  9.43E-03  3.29E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  2.78E-02  4.67E-01 -1.37E-01  9.56E-03  3.39E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  2.79E-02  4.67E-01 -1.37E-01  9.66E-03  3.50E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  2.80E-02  4.67E-01 -1.36E-01  9.75E-03  3.62E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  2.81E-02  4.67E-01 -1.36E-01  9.85E-03  3.74E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  2.83E-02  4.67E-01 -1.35E-01  1.00E-02  3.88E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  2.84E-02  4.67E-01 -1.34E-01  1.01E-02  4.02E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  2.85E-02  4.67E-01 -1.34E-01  1.02E-02  4.17E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  2.86E-02  4.67E-01 -1.34E-01  1.03E-02  4.25E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  2.86E-02  4.67E-01 -1.33E-01  1.04E-02  4.34E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  2.87E-02  4.67E-01 -1.33E-01  1.05E-02  4.42E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  2.89E-02  4.67E-01 -1.32E-01  1.06E-02  4.53E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  2.90E-02  4.67E-01 -1.32E-01  1.07E-02  4.62E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  2.91E-02  4.67E-01 -1.31E-01  1.08E-02  4.73E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  2.92E-02  4.67E-01 -1.31E-01  1.08E-02  4.83E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  2.93E-02  4.67E-01 -1.30E-01  1.10E-02  4.94E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  2.94E-02  4.67E-01 -1.30E-01  1.10E-02  5.05E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  2.95E-02  4.68E-01 -1.29E-01  1.11E-02  5.18E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  2.96E-02  4.68E-01 -1.29E-01  1.12E-02  5.30E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  3.00E-02  4.68E-01 -1.27E-01  1.14E-02  5.46E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  3.01E-02  4.68E-01 -1.27E-01  1.15E-02  5.59E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  3.03E-02  4.68E-01 -1.26E-01  1.16E-02  5.74E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  3.03E-02  4.68E-01 -1.26E-01  1.17E-02  5.82E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  3.04E-02  4.68E-01 -1.25E-01  1.18E-02  5.90E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  3.05E-02  4.68E-01 -1.25E-01  1.18E-02  5.97E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  3.07E-02  4.68E-01 -1.24E-01  1.19E-02  6.07E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  3.08E-02  4.68E-01 -1.24E-01  1.20E-02  6.15E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  3.09E-02  4.68E-01 -1.24E-01  1.20E-02  6.24E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  3.10E-02  4.68E-01 -1.23E-01  1.21E-02  6.32E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  3.11E-02  4.68E-01 -1.23E-01  1.22E-02  6.42E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  3.12E-02  4.68E-01 -1.22E-01  1.22E-02  6.51E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  3.13E-02  4.68E-01 -1.22E-01  1.23E-02  6.61E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  3.14E-02  4.68E-01 -1.22E-01  1.23E-02  6.70E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  3.19E-02  4.68E-01 -1.20E-01  1.26E-02  6.98E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  3.20E-02  4.68E-01 -1.19E-01  1.27E-02  7.06E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  3.21E-02  4.68E-01 -1.19E-01  1.27E-02  7.17E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  3.23E-02  4.68E-01 -1.18E-01  1.28E-02  7.29E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  3.24E-02  4.68E-01 -1.18E-01  1.29E-02  7.40E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  3.26E-02  4.68E-01 -1.17E-01  1.30E-02  7.52E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  3.27E-02  4.68E-01 -1.17E-01  1.30E-02  7.64E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  3.30E-02  4.68E-01 -1.15E-01  1.32E-02  7.80E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  3.32E-02  4.68E-01 -1.15E-01  1.32E-02  7.93E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  3.32E-02  4.68E-01 -1.15E-01  1.33E-02  7.99E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  3.33E-02  4.68E-01 -1.14E-01  1.33E-02  8.07E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  3.34E-02  4.68E-01 -1.14E-01  1.34E-02  8.13E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  3.35E-02  4.68E-01 -1.14E-01  1.34E-02  8.21E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  3.36E-02  4.68E-01 -1.14E-01  1.34E-02  8.28E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  3.38E-02  4.68E-01 -1.13E-01  1.35E-02  8.37E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  3.39E-02  4.68E-01 -1.13E-01  1.36E-02  8.44E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  3.40E-02  4.68E-01 -1.12E-01  1.36E-02  8.52E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  3.41E-02  4.68E-01 -1.12E-01  1.36E-02  8.59E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  3.42E-02  4.68E-01 -1.12E-01  1.37E-02  8.68E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  3.43E-02  4.68E-01 -1.11E-01  1.37E-02  8.75E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  3.44E-02  4.68E-01 -1.11E-01  1.38E-02  8.84E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  3.45E-02  4.68E-01 -1.11E-01  1.38E-02  8.92E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  3.55E-02  4.68E-01 -1.08E-01  1.42E-02  9.34E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  3.58E-02  4.69E-01 -1.07E-01  1.43E-02  9.46E+00
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  3.59E-02  4.69E-01 -1.06E-01  1.43E-02  9.55E+00
+ CHAIN BINARY    NM M1 M2 VCM A PB       1      3   7.6   2.5    1.5  3.60E-02  2.32E+06
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  3.60E-02  4.69E-01 -1.06E-01  1.44E-02  9.65E+00
+ CHAIN BINARY    NM M1 M2 VCM A PB       1      3   7.6   2.5    1.5  3.61E-02  2.33E+06
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  3.61E-02  4.69E-01 -1.06E-01  1.44E-02  9.75E+00
+ CHAIN BINARY    NM M1 M2 VCM A PB       1      3   7.6   2.5    1.5  3.64E-02  2.36E+06
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  3.64E-02  4.69E-01 -1.05E-01  1.45E-02  9.87E+00
+ CHAIN BINARY    NM M1 M2 VCM A PB       1      3   7.6   2.5    1.5  3.65E-02  2.37E+06
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  3.66E-02  4.69E-01 -1.04E-01  1.46E-02  9.97E+00
+ CHAIN BINARY    NM M1 M2 VCM A PB       1      3   7.6   2.5    1.5  3.67E-02  2.39E+06
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  3.67E-02  4.69E-01 -1.04E-01  1.46E-02  1.01E+01
+ CHAIN BINARY    NM M1 M2 VCM A PB       1      3   7.6   2.5    1.5  3.68E-02  2.40E+06
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  3.69E-02  4.69E-01 -1.03E-01  1.47E-02  1.02E+01
+ CHAIN BINARY    NM M1 M2 VCM A PB       1      3   7.6   2.5    1.5  3.70E-02  2.42E+06
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  3.71E-02  4.69E-01 -1.03E-01  1.48E-02  1.03E+01
+ CHAIN BINARY    NM M1 M2 VCM A PB       1      3   7.6   2.5    1.5  3.72E-02  2.44E+06
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  3.72E-02  4.69E-01 -1.03E-01  1.48E-02  1.04E+01
+ CHAIN BINARY    NM M1 M2 VCM A PB       1      3   7.6   2.5    1.5  3.74E-02  2.46E+06
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  3.74E-02  4.69E-01 -1.02E-01  1.49E-02  1.05E+01
+ CHAIN BINARY    NM M1 M2 VCM A PB       1      3   7.6   2.5    1.5  3.75E-02  2.47E+06
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  3.75E-02  4.69E-01 -1.02E-01  1.49E-02  1.06E+01
+ CHAIN BINARY    NM M1 M2 VCM A PB       1      3   7.6   2.5    1.5  3.82E-02  2.54E+06
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  3.83E-02  4.69E-01 -9.96E-02  1.51E-02  1.09E+01
+ CHAIN BINARY    NM M1 M2 VCM A PB       1      3   7.6   2.5    1.5  3.85E-02  2.57E+06
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  3.85E-02  4.69E-01 -9.90E-02  1.52E-02  1.10E+01
+ CHAIN BINARY    NM M1 M2 VCM A PB       1      3   7.6   2.5    1.5  3.86E-02  2.58E+06
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  3.86E-02  4.69E-01 -9.88E-02  1.52E-02  1.11E+01
+ CHAIN BINARY    NM M1 M2 VCM A PB       1      3   7.6   2.5    1.5  3.87E-02  2.59E+06
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  3.87E-02  4.69E-01 -9.85E-02  1.53E-02  1.12E+01
+ CHAIN BINARY    NM M1 M2 VCM A PB       1      3   7.6   2.5    1.5  3.88E-02  2.60E+06
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  3.88E-02  4.69E-01 -9.83E-02  1.53E-02  1.12E+01
+ CHAIN BINARY    NM M1 M2 VCM A PB       1      3   7.6   2.5    1.6  3.90E-02  2.62E+06
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  3.90E-02  4.69E-01 -9.78E-02  1.53E-02  1.13E+01
+ CHAIN BINARY    NM M1 M2 VCM A PB       1      3   7.6   2.5    1.6  3.91E-02  2.63E+06
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  3.91E-02  4.69E-01 -9.75E-02  1.54E-02  1.14E+01
+ CHAIN BINARY    NM M1 M2 VCM A PB       1      3   7.6   2.5    1.6  3.92E-02  2.64E+06
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  3.92E-02  4.69E-01 -9.72E-02  1.54E-02  1.14E+01
+ CHAIN BINARY    NM M1 M2 VCM A PB       1      3   7.6   2.5    1.6  3.93E-02  2.65E+06
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  3.93E-02  4.69E-01 -9.70E-02  1.54E-02  1.15E+01
+ CHAIN BINARY    NM M1 M2 VCM A PB       1      3   7.6   2.5    1.6  3.94E-02  2.66E+06
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  3.95E-02  4.69E-01 -9.67E-02  1.55E-02  1.16E+01
+ CHAIN BINARY    NM M1 M2 VCM A PB       1      3   7.6   2.5    1.6  3.95E-02  2.67E+06
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  3.96E-02  4.69E-01 -9.65E-02  1.55E-02  1.16E+01
+ CHAIN BINARY    NM M1 M2 VCM A PB       1      3   7.6   2.5    1.6  3.97E-02  2.69E+06
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  3.97E-02  4.69E-01 -9.61E-02  1.55E-02  1.17E+01
+ CHAIN BINARY    NM M1 M2 VCM A PB       1      3   7.6   2.5    1.6  3.97E-02  2.69E+06
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  3.98E-02  4.69E-01 -9.59E-02  1.56E-02  1.18E+01
+ CHAIN BINARY    NM M1 M2 VCM A PB       1      3   7.6   2.5    1.6  4.02E-02  2.74E+06
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  4.03E-02  4.69E-01 -9.48E-02  1.57E-02  1.19E+01
+ CHAIN BINARY    NM M1 M2 VCM A PB       1      3   7.6   2.5    1.6  4.04E-02  2.76E+06
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  4.04E-02  4.69E-01 -9.44E-02  1.57E-02  1.20E+01
+ CHAIN BINARY    NM M1 M2 VCM A PB       1      3   7.6   2.5    1.6  4.05E-02  2.77E+06
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  4.05E-02  4.69E-01 -9.42E-02  1.58E-02  1.21E+01
+ CHAIN BINARY    NM M1 M2 VCM A PB       1      3   7.6   2.5    1.6  4.06E-02  2.79E+06
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  4.07E-02  4.69E-01 -9.38E-02  1.58E-02  1.22E+01
+ CHAIN BINARY    NM M1 M2 VCM A PB       1      3   7.6   2.5    1.6  4.07E-02  2.80E+06
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  4.08E-02  4.69E-01 -9.36E-02  1.58E-02  1.22E+01
+ CHAIN BINARY    NM M1 M2 VCM A PB       1      3   7.6   2.5    1.6  4.09E-02  2.81E+06
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  4.09E-02  4.69E-01 -9.32E-02  1.59E-02  1.23E+01
+ CHAIN BINARY    NM M1 M2 VCM A PB       1      3   7.6   2.5    1.6  4.10E-02  2.82E+06
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  4.10E-02  4.69E-01 -9.30E-02  1.59E-02  1.24E+01
+ CHAIN BINARY    NM M1 M2 VCM A PB       1      3   7.6   2.5    1.6  4.13E-02  2.85E+06
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  4.13E-02  4.69E-01 -9.23E-02  1.59E-02  1.25E+01
+ CHAIN BINARY    NM M1 M2 VCM A PB       1      3   7.6   2.5    1.6  4.14E-02  2.86E+06
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  4.14E-02  4.69E-01 -9.21E-02  1.60E-02  1.26E+01
+ CHAIN BINARY    NM M1 M2 VCM A PB       1      3   7.6   2.5    1.6  4.16E-02  2.88E+06
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  4.16E-02  4.69E-01 -9.17E-02  1.60E-02  1.26E+01
+ CHAIN BINARY    NM M1 M2 VCM A PB       1      3   7.6   2.5    1.6  4.17E-02  2.89E+06
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  4.17E-02  4.69E-01 -9.15E-02  1.60E-02  1.27E+01
+ CHAIN BINARY    NM M1 M2 VCM A PB       1      3   7.6   2.5    1.6  4.18E-02  2.91E+06
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  4.19E-02  4.69E-01 -9.11E-02  1.61E-02  1.28E+01
+ CHAIN BINARY    NM M1 M2 VCM A PB       1      3   7.6   2.5    1.6  4.20E-02  2.92E+06
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  4.20E-02  4.69E-01 -9.08E-02  1.61E-02  1.29E+01
+ CHAIN BINARY    NM M1 M2 VCM A PB       1      3   7.6   2.5    1.6  4.21E-02  2.94E+06
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  4.22E-02  4.69E-01 -9.04E-02  1.62E-02  1.30E+01
+ CHAIN BINARY    NM M1 M2 VCM A PB       1      3   7.6   2.5    1.6  4.23E-02  2.96E+06
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  4.23E-02  4.69E-01 -9.02E-02  1.62E-02  1.30E+01
+ CHAIN BINARY    NM M1 M2 VCM A PB       1      3   7.6   2.5    1.6  4.47E-02  3.21E+06
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  4.52E-02  4.69E-01 -8.43E-02  1.68E-02  1.39E+01
+ CHAIN BINARY    NM M1 M2 VCM A PB       1      3   7.6   2.5    1.7  4.59E-02  3.35E+06
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  4.60E-02  4.69E-01 -8.30E-02  1.69E-02  1.41E+01
+ CHAIN BINARY    NM M1 M2 VCM A PB       1      3   7.6   2.5    1.7  4.61E-02  3.37E+06
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  4.62E-02  4.69E-01 -8.26E-02  1.70E-02  1.42E+01
+ CHAIN BINARY    NM M1 M2 VCM A PB       1      3   7.6   2.5    1.7  4.64E-02  3.40E+06
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  4.64E-02  4.69E-01 -8.22E-02  1.70E-02  1.43E+01
+ CHAIN BINARY    NM M1 M2 VCM A PB       1      3   7.6   2.5    1.7  4.65E-02  3.41E+06
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  4.66E-02  4.69E-01 -8.18E-02  1.71E-02  1.44E+01
+ CHAIN BINARY    NM M1 M2 VCM A PB       1      3   7.6   2.5    1.7  4.68E-02  3.44E+06
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  4.69E-02  4.69E-01 -8.14E-02  1.71E-02  1.45E+01
+ CHAIN BINARY    NM M1 M2 VCM A PB       1      3   7.6   2.5    1.7  4.70E-02  3.46E+06
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  4.71E-02  4.69E-01 -8.11E-02  1.71E-02  1.46E+01
+ CHAIN BINARY    NM M1 M2 VCM A PB       1      3   7.6   2.5    1.7  4.73E-02  3.50E+06
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  4.73E-02  4.69E-01 -8.06E-02  1.72E-02  1.47E+01
+ CHAIN BINARY    NM M1 M2 VCM A PB       1      3   7.6   2.5    1.7  4.75E-02  3.52E+06
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  4.75E-02  4.69E-01 -8.03E-02  1.72E-02  1.48E+01
+ CHAIN BINARY    NM M1 M2 VCM A PB       1      3   7.6   2.5    1.7  4.76E-02  3.53E+06
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  4.76E-02  4.69E-01 -8.01E-02  1.72E-02  1.48E+01
+ CHAIN BINARY    NM M1 M2 VCM A PB       1      3   7.6   2.5    1.7  4.84E-02  3.62E+06
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  4.86E-02  4.69E-01 -7.85E-02  1.74E-02  1.51E+01
+ CHAIN BINARY    NM M1 M2 VCM A PB       1      3   7.6   2.5    1.7  4.88E-02  3.67E+06
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  4.89E-02  4.69E-01 -7.80E-02  1.74E-02  1.51E+01
+ CHAIN BINARY    NM M1 M2 VCM A PB       1      3   7.6   2.5    1.7  4.89E-02  3.68E+06
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  4.90E-02  4.69E-01 -7.79E-02  1.75E-02  1.52E+01
+ CHAIN BINARY    NM M1 M2 VCM A PB       1      3   7.6   2.5    1.7  4.91E-02  3.70E+06
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  4.92E-02  4.69E-01 -7.76E-02  1.75E-02  1.53E+01
+ CHAIN BINARY    NM M1 M2 VCM A PB       1      3   7.6   2.5    1.7  4.92E-02  3.71E+06
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  4.93E-02  4.69E-01 -7.74E-02  1.75E-02  1.53E+01
+ CHAIN BINARY    NM M1 M2 VCM A PB       1      3   7.6   2.5    1.7  4.95E-02  3.74E+06
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  4.95E-02  4.69E-01 -7.70E-02  1.75E-02  1.54E+01
+ CHAIN BINARY    NM M1 M2 VCM A PB       1      3   7.6   2.5    1.7  4.96E-02  3.76E+06
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  4.97E-02  4.69E-01 -7.68E-02  1.76E-02  1.54E+01
+ CHAIN BINARY    NM M1 M2 VCM A PB       1      3   7.6   2.5    1.7  4.98E-02  3.78E+06
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  4.98E-02  4.69E-01 -7.66E-02  1.76E-02  1.55E+01
+ CHAIN BINARY    NM M1 M2 VCM A PB       1      3   7.6   2.5    1.7  4.99E-02  3.79E+06
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  4.99E-02  4.69E-01 -7.64E-02  1.76E-02  1.55E+01
+ CHAIN BINARY    NM M1 M2 VCM A PB       1      3   7.6   2.5    1.7  5.01E-02  3.81E+06
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  5.01E-02  4.69E-01 -7.61E-02  1.76E-02  1.56E+01
+ CHAIN BINARY    NM M1 M2 VCM A PB       1      3   7.6   2.5    1.7  5.02E-02  3.82E+06
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  5.02E-02  4.69E-01 -7.60E-02  1.76E-02  1.57E+01
+ CHAIN DISRUPT    NMX NCH ECH VX      51   4  0.0285   3.2
+ CHAIN BINARY    NM M1 M2 VCM A PB       1      3   7.6   2.5    1.7  5.04E-02  3.84E+06
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  5.04E-02  4.69E-01 -7.57E-02  1.77E-02  1.57E+01
+ CHAIN DISRUPT    NMX NCH ECH VX      51   4  0.0288   3.2
+ CHAIN BINARY    NM M1 M2 VCM A PB       1      3   7.6   2.5    1.7  5.05E-02  3.86E+06
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  5.05E-02  4.69E-01 -7.55E-02  1.77E-02  1.58E+01
+ CHAIN DISRUPT    NMX NCH ECH VX      51   4  0.0303   3.2
+ CHAIN BINARY    NM M1 M2 VCM A PB       1      3   7.6   2.5    1.7  5.10E-02  3.92E+06
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  5.11E-02  4.69E-01 -7.46E-02  1.78E-02  1.59E+01
+ CHAIN DISRUPT    NMX NCH ECH VX      51   4  0.0310   3.2
+ CHAIN BINARY    NM M1 M2 VCM A PB       1      3   7.6   2.5    1.7  5.13E-02  3.95E+06
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  5.13E-02  4.69E-01 -7.43E-02  1.78E-02  1.60E+01
+ CHAIN DISRUPT    NMX NCH ECH VX      51   4  0.0314   3.2
+ CHAIN BINARY    NM M1 M2 VCM A PB       1      3   7.6   2.5    1.7  5.14E-02  3.96E+06
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  5.15E-02  4.69E-01 -7.41E-02  1.78E-02  1.60E+01
+ CHAIN DISRUPT    NMX NCH ECH VX      51   4  0.0319   3.2
+ CHAIN BINARY    NM M1 M2 VCM A PB       1      3   7.6   2.5    1.7  5.16E-02  3.99E+06
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  5.16E-02  4.69E-01 -7.39E-02  1.79E-02  1.61E+01
+ CHAIN DISRUPT    NMX NCH ECH VX      51   4  0.0323   3.2
+ CHAIN BINARY    NM M1 M2 VCM A PB       1      3   7.6   2.5    1.7  5.17E-02  4.00E+06
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  5.18E-02  4.69E-01 -7.37E-02  1.79E-02  1.62E+01
+ CHAIN DISRUPT    NMX NCH ECH VX      51   4  0.0328   3.2
+ CHAIN BINARY    NM M1 M2 VCM A PB       1      3   7.6   2.5    1.7  5.19E-02  4.02E+06
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  5.20E-02  4.69E-01 -7.34E-02  1.79E-02  1.62E+01
+ CHAIN DISRUPT    NMX NCH ECH VX      51   4  0.0331   3.2
+ CHAIN BINARY    NM M1 M2 VCM A PB       1      3   7.6   2.5    1.7  5.21E-02  4.04E+06
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  5.21E-02  4.69E-01 -7.32E-02  1.79E-02  1.63E+01
+ CHAIN DISRUPT    NMX NCH ECH VX      51   4  0.0340   3.2
+ CHAIN BINARY    NM M1 M2 VCM A PB       1      3   7.6   2.5    1.7  5.24E-02  4.08E+06
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  5.24E-02  4.69E-01 -7.27E-02  1.80E-02  1.64E+01
+ CHAIN DISRUPT    NMX NCH ECH VX      51   4  0.0344   3.2
+ CHAIN BINARY    NM M1 M2 VCM A PB       1      3   7.6   2.5    1.7  5.25E-02  4.09E+06
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  5.26E-02  4.69E-01 -7.26E-02  1.80E-02  1.64E+01
+ CHAIN DISRUPT    NMX NCH ECH VX      51   4  0.0349   3.2
+ CHAIN BINARY    NM M1 M2 VCM A PB       1      3   7.6   2.5    1.7  5.27E-02  4.12E+06
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  5.28E-02  4.69E-01 -7.23E-02  1.80E-02  1.65E+01
+ CHAIN DISRUPT    NMX NCH ECH VX      51   4  0.0353   3.2
+ CHAIN BINARY    NM M1 M2 VCM A PB       1      3   7.6   2.5    1.7  5.29E-02  4.14E+06
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  5.29E-02  4.69E-01 -7.21E-02  1.80E-02  1.65E+01
+ CHAIN DISRUPT    NMX NCH ECH VX      51   4  0.0359   3.2
+ CHAIN BINARY    NM M1 M2 VCM A PB       1      3   7.6   2.5    1.7  5.31E-02  4.16E+06
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  5.31E-02  4.69E-01 -7.18E-02  1.81E-02  1.66E+01
+ CHAIN DISRUPT    NMX NCH ECH VX      51   4  0.0362   3.2
+ CHAIN BINARY    NM M1 M2 VCM A PB       1      3   7.6   2.5    1.7  5.32E-02  4.18E+06
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  5.33E-02  4.69E-01 -7.16E-02  1.81E-02  1.67E+01
+ CHAIN DISRUPT    NMX NCH ECH VX      51   4  0.0368   3.2
+ CHAIN BINARY    NM M1 M2 VCM A PB       1      3   7.6   2.5    1.7  5.35E-02  4.20E+06
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  5.35E-02  4.69E-01 -7.13E-02  1.81E-02  1.67E+01
+ CHAIN DISRUPT    NMX NCH ECH VX      51   4  0.0371   3.2
+ CHAIN BINARY    NM M1 M2 VCM A PB       1      3   7.6   2.5    1.7  5.36E-02  4.22E+06
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  5.37E-02  4.69E-01 -7.11E-02  1.81E-02  1.68E+01
+ CHAIN DISRUPT    NMX NCH ECH VX      51   4  0.0436   3.3
+ CHAIN BINARY    NM M1 M2 VCM A PB       1      3   7.6   2.5    1.7  5.63E-02  4.55E+06
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  5.70E-02  4.69E-01 -6.69E-02  1.85E-02  1.75E+01
+ CHAIN DISRUPT    NMX NCH ECH VX      51   4  0.0467   3.3
+ CHAIN BINARY    NM M1 M2 VCM A PB       1      3   7.6   2.5    1.8  5.78E-02  4.72E+06
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  5.78E-02  4.69E-01 -6.60E-02  1.86E-02  1.76E+01
+ CHAIN DISRUPT    NMX NCH ECH VX      51   4  0.0471   3.3
+ CHAIN BINARY    NM M1 M2 VCM A PB       1      3   7.6   2.5    1.8  5.80E-02  4.74E+06
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  5.80E-02  4.69E-01 -6.57E-02  1.86E-02  1.77E+01
+ CHAIN DISRUPT    NMX NCH ECH VX      51   4  0.0477   3.3
+ CHAIN BINARY    NM M1 M2 VCM A PB       1      3   7.6   2.5    1.8  5.82E-02  4.78E+06
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  5.83E-02  4.69E-01 -6.54E-02  1.87E-02  1.78E+01
+ CHAIN DISRUPT    NMX NCH ECH VX      51   4  0.0482   3.3
+ CHAIN BINARY    NM M1 M2 VCM A PB       1      3   7.6   2.5    1.8  5.84E-02  4.80E+06
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  5.85E-02  4.69E-01 -6.52E-02  1.87E-02  1.78E+01
+ CHAIN DISRUPT    NMX NCH ECH VX      51   4  0.0488   3.3
+ CHAIN BINARY    NM M1 M2 VCM A PB       1      3   7.6   2.5    1.8  5.87E-02  4.84E+06
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  5.88E-02  4.69E-01 -6.49E-02  1.87E-02  1.79E+01
+ CHAIN DISRUPT    NMX NCH ECH VX      51   4  0.0492   3.3
+ CHAIN BINARY    NM M1 M2 VCM A PB       1      3   7.6   2.5    1.8  5.89E-02  4.86E+06
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  5.90E-02  4.69E-01 -6.46E-02  1.87E-02  1.80E+01
+ CHAIN DISRUPT    NMX NCH ECH VX      51   4  0.0498   3.3
+ CHAIN BINARY    NM M1 M2 VCM A PB       1      3   7.6   2.5    1.8  5.92E-02  4.90E+06
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  5.93E-02  4.69E-01 -6.43E-02  1.88E-02  1.80E+01
+ CHAIN DISRUPT    NMX NCH ECH VX      51   4  0.0502   3.3
+ CHAIN BINARY    NM M1 M2 VCM A PB       1      3   7.6   2.5    1.8  5.94E-02  4.93E+06
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  5.95E-02  4.69E-01 -6.41E-02  1.88E-02  1.81E+01
+ CHAIN DISRUPT    NMX NCH ECH VX      51   4  0.0521   3.3
+ CHAIN BINARY    NM M1 M2 VCM A PB       1      3   7.6   2.5    1.8  6.04E-02  5.05E+06
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  6.06E-02  4.69E-01 -6.30E-02  1.89E-02  1.83E+01
+ CHAIN DISRUPT    NMX NCH ECH VX      51   4  0.0529   3.3
+ CHAIN BINARY    NM M1 M2 VCM A PB       1      3   7.6   2.5    1.8  6.08E-02  5.10E+06
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  6.09E-02  4.69E-01 -6.26E-02  1.89E-02  1.84E+01
+ CHAIN DISRUPT    NMX NCH ECH VX      51   4  0.0534   3.3
+ CHAIN BINARY    NM M1 M2 VCM A PB       1      3   7.6   2.5    1.8  6.10E-02  5.13E+06
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  6.11E-02  4.69E-01 -6.24E-02  1.90E-02  1.85E+01
+ CHAIN DISRUPT    NMX NCH ECH VX      51   4  0.0540   3.3
+ CHAIN BINARY    NM M1 M2 VCM A PB       1      3   7.6   2.5    1.8  6.14E-02  5.17E+06
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  6.15E-02  4.69E-01 -6.21E-02  1.90E-02  1.85E+01
+ CHAIN DISRUPT    NMX NCH ECH VX      51   4  0.0544   3.3
+ CHAIN BINARY    NM M1 M2 VCM A PB       1      3   7.6   2.5    1.8  6.16E-02  5.20E+06
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  6.17E-02  4.69E-01 -6.18E-02  1.90E-02  1.86E+01
+ CHAIN DISRUPT    NMX NCH ECH VX      51   4  0.0551   3.3
+ CHAIN BINARY    NM M1 M2 VCM A PB       1      3   7.6   2.5    1.8  6.19E-02  5.24E+06
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  6.20E-02  4.69E-01 -6.15E-02  1.90E-02  1.87E+01
+ CHAIN DISRUPT    NMX NCH ECH VX      51   4  0.0555   3.3
+ CHAIN BINARY    NM M1 M2 VCM A PB       1      3   7.6   2.5    1.8  6.22E-02  5.27E+06
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  6.23E-02  4.69E-01 -6.13E-02  1.91E-02  1.88E+01
+ CHAIN DISRUPT    NMX NCH ECH VX      51   4  0.0566   3.3
+ CHAIN BINARY    NM M1 M2 VCM A PB       1      3   7.6   2.5    1.8  6.28E-02  5.35E+06
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  6.28E-02  4.69E-01 -6.07E-02  1.91E-02  1.88E+01
+ CHAIN DISRUPT    NMX NCH ECH VX      51   4  0.0570   3.3
+ CHAIN BINARY    NM M1 M2 VCM A PB       1      3   7.6   2.5    1.8  6.30E-02  5.38E+06
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  6.31E-02  4.69E-01 -6.04E-02  1.91E-02  1.89E+01
+ CHAIN DISRUPT    NMX NCH ECH VX      51   4  0.0577   3.3
+ CHAIN BINARY    NM M1 M2 VCM A PB       1      3   7.6   2.5    1.8  6.34E-02  5.43E+06
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  6.35E-02  4.69E-01 -6.01E-02  1.92E-02  1.90E+01
+ CHAIN DISRUPT    NMX NCH ECH VX      51   4  0.0581   3.3
+ CHAIN BINARY    NM M1 M2 VCM A PB       1      3   7.6   2.5    1.8  6.37E-02  5.46E+06
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  6.38E-02  4.69E-01 -5.98E-02  1.92E-02  1.91E+01
+ CHAIN DISRUPT    NMX NCH ECH VX      51   4  0.0588   3.3
+ CHAIN BINARY    NM M1 M2 VCM A PB       1      3   7.6   2.5    1.8  6.40E-02  5.51E+06
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  6.41E-02  4.69E-01 -5.95E-02  1.92E-02  1.92E+01
+ CHAIN DISRUPT    NMX NCH ECH VX      51   4  0.0590   3.3
+ CHAIN BINARY    NM M1 M2 VCM A PB       1      3   7.6   2.5    1.8  6.42E-02  5.53E+06
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  6.42E-02  4.69E-01 -5.94E-02  1.92E-02  1.92E+01
+ CHAIN DISRUPT    NMX NCH ECH VX      51   4  0.0594   3.3
+ CHAIN BINARY    NM M1 M2 VCM A PB       1      3   7.6   2.5    1.8  6.44E-02  5.55E+06
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  6.44E-02  4.69E-01 -5.92E-02  1.93E-02  1.92E+01
+ CHAIN DISRUPT    NMX NCH ECH VX      51   4  0.0596   3.3
+ CHAIN BINARY    NM M1 M2 VCM A PB       1      3   7.6   2.5    1.8  6.45E-02  5.57E+06
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  6.46E-02  4.69E-01 -5.91E-02  1.93E-02  1.93E+01
+ CHAIN DISRUPT    NMX NCH ECH VX      51   4  0.0599   3.3
+ CHAIN BINARY    NM M1 M2 VCM A PB       1      3   7.6   2.5    1.8  6.47E-02  5.60E+06
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  6.48E-02  4.69E-01 -5.89E-02  1.93E-02  1.93E+01
+ CHAIN DISRUPT    NMX NCH ECH VX      51   4  0.0602   3.3
+ CHAIN BINARY    NM M1 M2 VCM A PB       1      3   7.6   2.5    1.8  6.48E-02  5.61E+06
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  6.49E-02  4.69E-01 -5.88E-02  1.93E-02  1.94E+01
+ CHAIN DISRUPT    NMX NCH ECH VX      51   4  0.0605   3.3
+ CHAIN BINARY    NM M1 M2 VCM A PB       1      3   7.6   2.5    1.8  6.50E-02  5.64E+06
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  6.51E-02  4.69E-01 -5.86E-02  1.93E-02  1.94E+01
+ CHAIN DISRUPT    NMX NCH ECH VX      51   4  0.0607   3.3
+ CHAIN BINARY    NM M1 M2 VCM A PB       1      3   7.6   2.5    1.8  6.52E-02  5.66E+06
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  6.52E-02  4.69E-01 -5.85E-02  1.93E-02  1.95E+01
+ CHAIN DISRUPT    NMX NCH ECH VX      51   4  0.0646   3.3
+ CHAIN BINARY    NM M1 M2 VCM A PB       1      3   7.6   2.5    1.8  6.76E-02  5.98E+06
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  6.81E-02  4.69E-01 -5.60E-02  1.96E-02  1.99E+01
+ CHAIN DISRUPT    NMX NCH ECH VX      51   4  0.0665   3.3
+ CHAIN BINARY    NM M1 M2 VCM A PB       1      3   7.6   2.5    1.8  6.88E-02  6.14E+06
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  6.89E-02  4.69E-01 -5.54E-02  1.96E-02  2.00E+01
+ CHAIN DISRUPT    NMX NCH ECH VX      51   4  0.0667   3.3
+ CHAIN BINARY    NM M1 M2 VCM A PB       1      3   7.6   2.5    1.8  6.90E-02  6.16E+06
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  6.91E-02  4.69E-01 -5.52E-02  1.96E-02  2.00E+01
+ CHAIN DISRUPT    NMX NCH ECH VX      51   4  0.0671   3.3
+ CHAIN BINARY    NM M1 M2 VCM A PB       1      3   7.6   2.5    1.8  6.92E-02  6.20E+06
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  6.93E-02  4.69E-01 -5.50E-02  1.96E-02  2.01E+01
+ CHAIN DISRUPT    NMX NCH ECH VX      51   4  0.0673   3.3
+ CHAIN BINARY    NM M1 M2 VCM A PB       1      3   7.6   2.5    1.8  6.94E-02  6.22E+06
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  6.95E-02  4.69E-01 -5.49E-02  1.97E-02  2.01E+01
+ CHAIN DISRUPT    NMX NCH ECH VX      51   4  0.0677   3.3
+ CHAIN BINARY    NM M1 M2 VCM A PB       1      3   7.6   2.5    1.8  6.96E-02  6.25E+06
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  6.97E-02  4.69E-01 -5.47E-02  1.97E-02  2.01E+01
+ CHAIN DISRUPT    NMX NCH ECH VX      51   4  0.0679   3.3
+ CHAIN BINARY    NM M1 M2 VCM A PB       1      3   7.6   2.5    1.8  6.98E-02  6.27E+06
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  6.99E-02  4.69E-01 -5.46E-02  1.97E-02  2.02E+01
+ CHAIN DISRUPT    NMX NCH ECH VX      51   4  0.0683   3.3
+ CHAIN BINARY    NM M1 M2 VCM A PB       1      3   7.6   2.5    1.8  7.01E-02  6.31E+06
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  7.01E-02  4.69E-01 -5.44E-02  1.97E-02  2.02E+01
+ CHAIN DISRUPT    NMX NCH ECH VX      51   4  0.0685   3.3
+ CHAIN BINARY    NM M1 M2 VCM A PB       1      3   7.6   2.5    1.8  7.02E-02  6.33E+06
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  7.03E-02  4.69E-01 -5.43E-02  1.97E-02  2.03E+01
+ CHAIN DISRUPT    NMX NCH ECH VX      51   4  0.0696   3.3
+ CHAIN BINARY    NM M1 M2 VCM A PB       1      3   7.6   2.5    1.8  7.10E-02  6.44E+06
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  7.11E-02  4.69E-01 -5.36E-02  1.98E-02  2.04E+01
+ CHAIN DISRUPT    NMX NCH ECH VX      51   4  0.0701   3.4
+ CHAIN BINARY    NM M1 M2 VCM A PB       1      3   7.6   2.5    1.8  7.14E-02  6.48E+06
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  7.14E-02  4.69E-01 -5.34E-02  1.98E-02  2.04E+01
+ CHAIN DISRUPT    NMX NCH ECH VX      51   4  0.0703   3.4
+ CHAIN BINARY    NM M1 M2 VCM A PB       1      3   7.6   2.5    1.8  7.15E-02  6.51E+06
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  7.16E-02  4.69E-01 -5.33E-02  1.98E-02  2.05E+01
+ CHAIN DISRUPT    NMX NCH ECH VX      51   4  0.0707   3.4
+ CHAIN BINARY    NM M1 M2 VCM A PB       1      3   7.6   2.5    1.8  7.18E-02  6.54E+06
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  7.19E-02  4.69E-01 -5.31E-02  1.98E-02  2.05E+01
+ CHAIN DISRUPT    NMX NCH ECH VX      51   4  0.0709   3.4
+ CHAIN BINARY    NM M1 M2 VCM A PB       1      3   7.6   2.5    1.8  7.20E-02  6.57E+06
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  7.21E-02  4.69E-01 -5.29E-02  1.98E-02  2.06E+01
+ CHAIN DISRUPT    NMX NCH ECH VX      51   4  0.0713   3.4
+ CHAIN BINARY    NM M1 M2 VCM A PB       1      3   7.6   2.5    1.8  7.23E-02  6.61E+06
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  7.23E-02  4.69E-01 -5.27E-02  1.98E-02  2.06E+01
+ CHAIN DISRUPT    NMX NCH ECH VX      51   4  0.0716   3.4
+ CHAIN BINARY    NM M1 M2 VCM A PB       1      3   7.6   2.5    1.8  7.24E-02  6.63E+06
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  7.25E-02  4.69E-01 -5.26E-02  1.99E-02  2.07E+01
+ CHAIN DISRUPT    NMX NCH ECH VX      51   4  0.0722   3.4
+ CHAIN BINARY    NM M1 M2 VCM A PB       1      3   7.6   2.5    1.8  7.29E-02  6.70E+06
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  7.30E-02  4.69E-01 -5.23E-02  1.99E-02  2.07E+01
+ CHAIN DISRUPT    NMX NCH ECH VX      51   4  0.0724   3.4
+ CHAIN BINARY    NM M1 M2 VCM A PB       1      3   7.6   2.5    1.8  7.31E-02  6.72E+06
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  7.32E-02  4.69E-01 -5.21E-02  1.99E-02  2.08E+01
+ CHAIN DISRUPT    NMX NCH ECH VX      51   4  0.0728   3.4
+ CHAIN BINARY    NM M1 M2 VCM A PB       1      3   7.6   2.5    1.8  7.34E-02  6.76E+06
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  7.35E-02  4.69E-01 -5.19E-02  1.99E-02  2.08E+01
+ CHAIN DISRUPT    NMX NCH ECH VX      51   4  0.0731   3.4
+ CHAIN BINARY    NM M1 M2 VCM A PB       1      3   7.6   2.5    1.8  7.36E-02  6.79E+06
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  7.37E-02  4.69E-01 -5.18E-02  1.99E-02  2.09E+01
+ CHAIN DISRUPT    NMX NCH ECH VX      51   4  0.0734   3.4
+ CHAIN BINARY    NM M1 M2 VCM A PB       1      3   7.6   2.5    1.8  7.39E-02  6.83E+06
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  7.39E-02  4.69E-01 -5.16E-02  2.00E-02  2.09E+01
+ CHAIN DISRUPT    NMX NCH ECH VX      51   4  0.0737   3.4
+ CHAIN BINARY    NM M1 M2 VCM A PB       1      3   7.6   2.5    1.8  7.41E-02  6.86E+06
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  7.41E-02  4.69E-01 -5.15E-02  2.00E-02  2.10E+01
+ CHAIN DISRUPT    NMX NCH ECH VX      51   4  0.0741   3.4
+ CHAIN BINARY    NM M1 M2 VCM A PB       1      3   7.6   2.5    1.8  7.44E-02  6.90E+06
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  7.44E-02  4.69E-01 -5.12E-02  2.00E-02  2.10E+01
+ CHAIN DISRUPT    NMX NCH ECH VX      51   4  0.0743   3.4
+ CHAIN BINARY    NM M1 M2 VCM A PB       1      3   7.6   2.5    1.8  7.46E-02  6.93E+06
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    57.999    51   5  17  7.46E-02  4.69E-01 -5.11E-02  2.00E-02  2.11E+01
+ CHAIN DISRUPT    NMX NCH ECH VX      51   4  0.0765   3.4
+ CHAIN BINARY    NM M1 M2 VCM A PB       1      3   7.6   2.5    1.8  7.64E-02  7.18E+06
+
+ ADJUST:  TIME =   58.00  Q = 0.87  DE =  3.69E-02  E = -0.238063  RMIN = 1.4E-02  DTMIN = 4.9E-04  TC =    1  DELTA =  1.3E-02  E(3) = -0.049806  DETOT =  0.011937
+
+         CALCULATIONS HALTED * * *

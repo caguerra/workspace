@@ -1,0 +1,1012 @@
+
+
+
+
+
+               N  NFIX  NCRIT  NRAND  NNBMAX  NRUN
+
+             100     1     10   3400      20     1
+
+
+            ETAI      ETAR      RS0       DTADJ     DELTAT    TCRIT     QE        RBAR      ZMBAR
+
+            1.0E-02   1.0E-02   3.0E-01   2.0E+00   1.0E+00   5.0E+02   1.0E-03   1.0E-01   5.0E-01
+
+
+            OPTIONS
+
+           1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50
+
+           0  0  1  0  1  0  0  0  0  0  0  0  0  0  0  1  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  1  0  0  0  0  0  0  0  0  0  0
+
+
+            DTMIN     RMIN      ETAU      ECLOSE    GMIN      GMAX
+
+            2.0E-05   1.0E-03   2.0E-01   1.0E+00   1.0E-06   1.0E-03
+
+            STANDARD IMF    ALPHAS = 2.30  BODY1 = 10.0  BODYN = 0.20
+
+            SCALING:    SX =  0.98  E = -2.56E-01  M(1) = 1.52E-01  M(N) = 3.05E-03  <M> = 1.00E-02
+
+            TIME SCALES:   TRH = 4.2E+00  TCR =  2.83  2<R>/<V> =  2.83  SMAX =  0.500
+
+
+            PHYSICAL SCALING:    R* = 0.10  M* =    50.0  V* = 1.466  T* = 0.067  <M> = 0.50  SU = 4.4E+06
+
+ ADJUST:  TIME =    0.00  Q = 0.50  DE =  0.00E+00  E = -0.250000  RMIN = 3.0E-03  DTMIN = 4.7E-05  TC =    0  DELTA =  0.0E+00  E(3) = -0.250000  DETOT =  0.000000
+
+
+ T =     0.  N =   100  <NB> =  4  KS =    0  NM =  0  MM = 0  NS =   100  NSTEPS =          0         0          0          0  DE =  0.0E+00  E = -0.250000  M = 1.0000
+
+    <R>  RTIDE  RDENS   RC    NC   MC   RHOD   RHOM  CMAX   <Cn>   Ir/R   UN    NP   RCM    VCM      AZ      EB/E   EM/E   TCR     T6  NESC  VRMS
+ #1 1.00  10.0  0.44 0.3039   11  0.057    3.     7.    9.   7.4  0.209    0     0   0.000  0.0000  -0.0726 -0.000 -0.000  2.83     0     0   1.0
+
+       NNPRED    NBCORR  NBFULL  NBVOID    NICONV  NBSMIN  NBDIS  NBDIS2  NCMDER  NBDER  NFAST  NBFAST    NBLOCK    NBLCKR     NBPRED     NBFLUX  NIRECT  NRRECT  NURECT  NBRECT
+ #2         0         0       0       28        0       0      0       0       0      0      0       0         0         0          0          0       0       0       0       0
+
+     NKSTRY  NKSREG  NKSHYP     NKSPER  NPRECT  NEWKS   NKSMOD    NTTRY  NTRIP  NQUAD  NCHAIN  NMERG  NEWHI  NSTEPT  NSTEPQ  NSTEPC
+ #3        0      0       0          0       0      0        0        0      0      0       0      0      0       0       0       0
+
+
+ T =     1.  N =   100  <NB> =  7  KS =    0  NM =  0  MM = 0  NS =   100  NSTEPS =      19426         0       5147          0  DE = -6.6E-07  E = -0.250000  M = 1.0000
+
+    <R>  RTIDE  RDENS   RC    NC   MC   RHOD   RHOM  CMAX   <Cn>   Ir/R   UN    NP   RCM    VCM      AZ      EB/E   EM/E   TCR     T6  NESC  VRMS
+ #1 1.00  10.0  0.29 0.2127    8  0.229    3.     7.    9.  10.4  0.327    0     0   0.000  0.0000  -0.0726 -0.000 -0.000  2.83     0     0   1.2
+
+       NNPRED    NBCORR  NBFULL  NBVOID    NICONV  NBSMIN  NBDIS  NBDIS2  NCMDER  NBDER  NFAST  NBFAST    NBLOCK    NBLCKR     NBPRED     NBFLUX  NIRECT  NRRECT  NURECT  NBRECT
+ #2       459         0      12       54      241       6      0       0       0      0      0       0      2056         0      28583       4775       0       0       0       0
+
+     NKSTRY  NKSREG  NKSHYP     NKSPER  NPRECT  NEWKS   NKSMOD    NTTRY  NTRIP  NQUAD  NCHAIN  NMERG  NEWHI  NSTEPT  NSTEPQ  NSTEPC
+ #3      140      0       0          0       0      0        0        0      0      0       0      0      0       0       0       0
+
+ ADJUST:  TIME =    2.00  Q = 0.50  DE =  2.70E-08  E = -0.250000  RMIN = 3.3E-03  DTMIN = 5.3E-05  TC =    0  DELTA =  6.8E-09  E(3) = -0.250000  DETOT = -0.000000
+
+
+ T =     2.  N =   100  <NB> =  5  KS =    0  NM =  0  MM = 0  NS =   100  NSTEPS =      35441         0      10296          0  DE =  2.7E-08  E = -0.250000  M = 1.0000
+
+    <R>  RTIDE  RDENS   RC    NC   MC   RHOD   RHOM  CMAX   <Cn>   Ir/R   UN    NP   RCM    VCM      AZ      EB/E   EM/E   TCR     T6  NESC  VRMS
+ #1 1.00  10.0  0.23 0.3406    9  0.280    5.    12.    5.   8.3  0.176    0     0   0.000  0.0000  -0.0726 -0.000 -0.000  2.83     0     0   1.0
+
+       NNPRED    NBCORR  NBFULL  NBVOID    NICONV  NBSMIN  NBDIS  NBDIS2  NCMDER  NBDER  NFAST  NBFAST    NBLOCK    NBLCKR     NBPRED     NBFLUX  NIRECT  NRRECT  NURECT  NBRECT
+ #2       801         0      15       83      560       6      0       0       0      0      0       0      4053         0      59469       9286       0       0       0       0
+
+     NKSTRY  NKSREG  NKSHYP     NKSPER  NPRECT  NEWKS   NKSMOD    NTTRY  NTRIP  NQUAD  NCHAIN  NMERG  NEWHI  NSTEPT  NSTEPQ  NSTEPC
+ #3      140      0       0          0       0      0        0        0      0      0       0      0      0       0       0       0
+
+
+ T =     3.  N =   100  <NB> =  7  KS =    0  NM =  0  MM = 0  NS =   100  NSTEPS =      47358         0      14763          0  DE = -2.7E-07  E = -0.250000  M = 1.0000
+
+    <R>  RTIDE  RDENS   RC    NC   MC   RHOD   RHOM  CMAX   <Cn>   Ir/R   UN    NP   RCM    VCM      AZ      EB/E   EM/E   TCR     T6  NESC  VRMS
+ #1 1.00  10.0  0.29 0.2651    6  0.253    1.     3.    4.  11.3  0.250    0     0   0.000  0.0000  -0.0726 -0.000 -0.000  2.83     0     0   1.2
+
+       NNPRED    NBCORR  NBFULL  NBVOID    NICONV  NBSMIN  NBDIS  NBDIS2  NCMDER  NBDER  NFAST  NBFAST    NBLOCK    NBLCKR     NBPRED     NBFLUX  NIRECT  NRRECT  NURECT  NBRECT
+ #2      1103         0      17      109      984       6      0       0       0      0      0       0      5633         0      85943      13309       0       0       0       0
+
+     NKSTRY  NKSREG  NKSHYP     NKSPER  NPRECT  NEWKS   NKSMOD    NTTRY  NTRIP  NQUAD  NCHAIN  NMERG  NEWHI  NSTEPT  NSTEPQ  NSTEPC
+ #3      140      0       0          0       0      0        0        0      0      0       0      0      0       0       0       0
+
+ ADJUST:  TIME =    4.00  Q = 0.50  DE = -5.91E-06  E = -0.250002  RMIN = 3.8E-03  DTMIN = 6.5E-05  TC =    1  DELTA = -1.5E-06  E(3) = -0.250002  DETOT = -0.000002
+
+
+ T =     4.  N =   100  <NB> =  7  KS =    0  NM =  0  MM = 0  NS =   100  NSTEPS =      62661         0      19716          0  DE = -5.9E-06  E = -0.250002  M = 1.0000
+
+    <R>  RTIDE  RDENS   RC    NC   MC   RHOD   RHOM  CMAX   <Cn>   Ir/R   UN    NP   RCM    VCM      AZ      EB/E   EM/E   TCR     T6  NESC  VRMS
+ #1 1.00  10.0  0.31 0.3104    9  0.228    6.    14.    5.  10.8  0.293    0     0   0.000  0.0000  -0.0726 -0.000 -0.000  2.83     0     0   1.0
+
+       NNPRED    NBCORR  NBFULL  NBVOID    NICONV  NBSMIN  NBDIS  NBDIS2  NCMDER  NBDER  NFAST  NBFAST    NBLOCK    NBLCKR     NBPRED     NBFLUX  NIRECT  NRRECT  NURECT  NBRECT
+ #2      1514         0      23      157     1394       7      0       0       0      0      0       0      7858         0     122814      18174       0       0       0       0
+
+     NKSTRY  NKSREG  NKSHYP     NKSPER  NPRECT  NEWKS   NKSMOD    NTTRY  NTRIP  NQUAD  NCHAIN  NMERG  NEWHI  NSTEPT  NSTEPQ  NSTEPC
+ #3      388      0       0          0       0      0        0        0      0      0       0      0      0       0       0       0
+
+
+ T =     5.  N =   100  <NB> =  7  KS =    0  NM =  0  MM = 0  NS =   100  NSTEPS =      79397        99      24048        181  DE = -8.1E-05  E = -0.250022  M = 1.0000
+
+    <R>  RTIDE  RDENS   RC    NC   MC   RHOD   RHOM  CMAX   <Cn>   Ir/R   UN    NP   RCM    VCM      AZ      EB/E   EM/E   TCR     T6  NESC  VRMS
+ #1 1.00  10.0  0.35 0.2535    5  0.194    1.     1.    2.  13.7  0.417    0     0   0.000  0.0000  -0.0726 -0.000 -0.000  2.83     0     0   1.0
+
+       NNPRED    NBCORR  NBFULL  NBVOID    NICONV  NBSMIN  NBDIS  NBDIS2  NCMDER  NBDER  NFAST  NBFAST    NBLOCK    NBLCKR     NBPRED     NBFLUX  NIRECT  NRRECT  NURECT  NBRECT
+ #2      2001         1      31      212     1803      34      0       0       0      0      0       0     11467         0     180207      21848       0       0       0       0
+
+     NKSTRY  NKSREG  NKSHYP     NKSPER  NPRECT  NEWKS   NKSMOD    NTTRY  NTRIP  NQUAD  NCHAIN  NMERG  NEWHI  NSTEPT  NSTEPQ  NSTEPC
+ #3     3142      6       0          0       0      0        0        0      0      0       0      0      0       0       0       0
+
+ ADJUST:  TIME =    6.00  Q = 0.48  DE = -1.00E-04  E = -0.250047  RMIN = 5.5E-03  DTMIN = 1.2E-04  TC =    2  DELTA = -2.5E-05  E(3) = -0.250047  DETOT = -0.000047
+
+
+ T =     6.  N =   100  <NB> =  6  KS =    0  NM =  0  MM = 0  NS =   100  NSTEPS =     100529       191      29681        360  DE = -1.0E-04  E = -0.250047  M = 1.0000
+
+    <R>  RTIDE  RDENS   RC    NC   MC   RHOD   RHOM  CMAX   <Cn>   Ir/R   UN    NP   RCM    VCM      AZ      EB/E   EM/E   TCR     T6  NESC  VRMS
+ #1 1.04  10.4  0.25 0.2091    4  0.204    9.    16.    2.  13.8  0.690    0     0   0.000  0.0000  -0.0726 -0.000 -0.000  2.83     0     0   1.0
+
+       NNPRED    NBCORR  NBFULL  NBVOID    NICONV  NBSMIN  NBDIS  NBDIS2  NCMDER  NBDER  NFAST  NBFAST    NBLOCK    NBLCKR     NBPRED     NBFLUX  NIRECT  NRRECT  NURECT  NBRECT
+ #2      3165         2      33      265     2371      67      0       0       0      0      0       0     16932         0     252643      25218       0       0       0       0
+
+     NKSTRY  NKSREG  NKSHYP     NKSPER  NPRECT  NEWKS   NKSMOD    NTTRY  NTRIP  NQUAD  NCHAIN  NMERG  NEWHI  NSTEPT  NSTEPQ  NSTEPC
+ #3     8627     13       1          0       0      0        0        0      0      0       0      0      0       0       0       0
+
+
+ T =     7.  N =   100  <NB> =  8  KS =    0  NM =  0  MM = 0  NS =   100  NSTEPS =     115504       350      34112        650  DE =  1.5E-05  E = -0.250043  M = 1.0000
+
+    <R>  RTIDE  RDENS   RC    NC   MC   RHOD   RHOM  CMAX   <Cn>   Ir/R   UN    NP   RCM    VCM      AZ      EB/E   EM/E   TCR     T6  NESC  VRMS
+ #1 1.04  10.4  0.24 0.2015    4  0.254    1.     2.    4.  14.7  0.375    0     0   0.000  0.0000  -0.0726 -0.000 -0.000  2.83     0     0   1.0
+
+       NNPRED    NBCORR  NBFULL  NBVOID    NICONV  NBSMIN  NBDIS  NBDIS2  NCMDER  NBDER  NFAST  NBFAST    NBLOCK    NBLCKR     NBPRED     NBFLUX  NIRECT  NRRECT  NURECT  NBRECT
+ #2      3689         5     118      312     2841     109      0       0       0      0      0       0     20177         0     306234      30250       0       0       0       0
+
+     NKSTRY  NKSREG  NKSHYP     NKSPER  NPRECT  NEWKS   NKSMOD    NTTRY  NTRIP  NQUAD  NCHAIN  NMERG  NEWHI  NSTEPT  NSTEPQ  NSTEPC
+ #3    10359     22       1          0       0      0        0        0      0      0       0      0      0       0       0       0
+
+ ADJUST:  TIME =    8.00  Q = 0.56  DE = -2.07E-07  E = -0.250044  RMIN = 4.6E-03  DTMIN = 8.9E-05  TC =    2  DELTA = -6.5E-08  E(3) = -0.250044  DETOT = -0.000044
+
+
+ T =     8.  N =   100  <NB> =  9  KS =    0  NM =  0  MM = 0  NS =   100  NSTEPS =     129732       358      38526        684  DE = -2.1E-07  E = -0.250044  M = 1.0000
+
+    <R>  RTIDE  RDENS   RC    NC   MC   RHOD   RHOM  CMAX   <Cn>   Ir/R   UN    NP   RCM    VCM      AZ      EB/E   EM/E   TCR     T6  NESC  VRMS
+ #1 0.89   8.9  0.24 0.0944    3  0.181   36.    62.    1.  16.7  0.794    0     0   0.000  0.0000  -0.0726 -0.000 -0.000  2.83     0     0   1.2
+
+       NNPRED    NBCORR  NBFULL  NBVOID    NICONV  NBSMIN  NBDIS  NBDIS2  NCMDER  NBDER  NFAST  NBFAST    NBLOCK    NBLCKR     NBPRED     NBFLUX  NIRECT  NRRECT  NURECT  NBRECT
+ #2      4216         6     242      374     3256     140      0       0       0      0      0       0     22993         0     351814      34987       0       0       0       0
+
+     NKSTRY  NKSREG  NKSHYP     NKSPER  NPRECT  NEWKS   NKSMOD    NTTRY  NTRIP  NQUAD  NCHAIN  NMERG  NEWHI  NSTEPT  NSTEPQ  NSTEPC
+ #3    11632     23       2          0       0      0        0        0      0      0       0      0      0       0       0       0
+
+
+ T =     9.  N =   100  <NB> =  8  KS =    0  NM =  0  MM = 0  NS =   100  NSTEPS =     144782       370      42497        710  DE = -1.5E-05  E = -0.250048  M = 1.0000
+
+    <R>  RTIDE  RDENS   RC    NC   MC   RHOD   RHOM  CMAX   <Cn>   Ir/R   UN    NP   RCM    VCM      AZ      EB/E   EM/E   TCR     T6  NESC  VRMS
+ #1 0.89   8.9  0.23 0.2592    6  0.309    1.     2.    1.  16.3  0.744    0     0   0.000  0.0000  -0.0726 -0.000 -0.000  2.83     0     0   1.1
+
+       NNPRED    NBCORR  NBFULL  NBVOID    NICONV  NBSMIN  NBDIS  NBDIS2  NCMDER  NBDER  NFAST  NBFAST    NBLOCK    NBLCKR     NBPRED     NBFLUX  NIRECT  NRRECT  NURECT  NBRECT
+ #2      4533         6     343      475     3708     172      0       0       0      0      0       0     25690         0     402059      39444       0       0       0       0
+
+     NKSTRY  NKSREG  NKSHYP     NKSPER  NPRECT  NEWKS   NKSMOD    NTTRY  NTRIP  NQUAD  NCHAIN  NMERG  NEWHI  NSTEPT  NSTEPQ  NSTEPC
+ #3    12033     24       2          0       0      0        0        0      0      0       0      0      0       0       0       0
+
+ ADJUST:  TIME =   10.00  Q = 0.50  DE =  3.08E-07  E = -0.250048  RMIN = 4.7E-03  DTMIN = 9.2E-05  TC =    3  DELTA =  7.7E-08  E(3) = -0.250048  DETOT = -0.000048
+
+
+ T =    10.  N =   100  <NB> =  8  KS =    0  NM =  0  MM = 0  NS =   100  NSTEPS =     156355       370      46582        710  DE =  3.1E-07  E = -0.250048  M = 1.0000
+
+    <R>  RTIDE  RDENS   RC    NC   MC   RHOD   RHOM  CMAX   <Cn>   Ir/R   UN    NP   RCM    VCM      AZ      EB/E   EM/E   TCR     T6  NESC  VRMS
+ #1 1.00  10.0  0.19 0.2356    4  0.191    8.    17.    2.  14.8  0.320    0     0   0.000  0.0000  -0.0726 -0.000 -0.000  2.83     0     0   1.0
+
+       NNPRED    NBCORR  NBFULL  NBVOID    NICONV  NBSMIN  NBDIS  NBDIS2  NCMDER  NBDER  NFAST  NBFAST    NBLOCK    NBLCKR     NBPRED     NBFLUX  NIRECT  NRRECT  NURECT  NBRECT
+ #2      4851         6     415      569     4214     183      0       0       0      0      0       0     27681         0     435902      43442       0       0       0       0
+
+     NKSTRY  NKSREG  NKSHYP     NKSPER  NPRECT  NEWKS   NKSMOD    NTTRY  NTRIP  NQUAD  NCHAIN  NMERG  NEWHI  NSTEPT  NSTEPQ  NSTEPC
+ #3    12399     24       2          0       0      0        0        0      0      0       0      0      0       0       0       0
+
+
+ T =    11.  N =   100  <NB> =  9  KS =    0  NM =  0  MM = 0  NS =   100  NSTEPS =     167808       380      50581        724  DE = -5.8E-07  E = -0.250048  M = 1.0000
+
+    <R>  RTIDE  RDENS   RC    NC   MC   RHOD   RHOM  CMAX   <Cn>   Ir/R   UN    NP   RCM    VCM      AZ      EB/E   EM/E   TCR     T6  NESC  VRMS
+ #1 1.00  10.0  0.12 0.1710    5  0.296    2.     4.    2.  15.6  0.439    0     0   0.000  0.0000  -0.0726 -0.000 -0.000  2.83     0     0   1.3
+
+       NNPRED    NBCORR  NBFULL  NBVOID    NICONV  NBSMIN  NBDIS  NBDIS2  NCMDER  NBDER  NFAST  NBFAST    NBLOCK    NBLCKR     NBPRED     NBFLUX  NIRECT  NRRECT  NURECT  NBRECT
+ #2      5254         6     511      632     4660     183      0       0       0      0      0       0     29774         0     470557      47372       0       0       0       0
+
+     NKSTRY  NKSREG  NKSHYP     NKSPER  NPRECT  NEWKS   NKSMOD    NTTRY  NTRIP  NQUAD  NCHAIN  NMERG  NEWHI  NSTEPT  NSTEPQ  NSTEPC
+ #3    13299     25       3          0       0      0        0        0      0      0       0      0      0       0       0       0
+
+ ADJUST:  TIME =   12.00  Q = 0.53  DE =  1.16E-07  E = -0.250048  RMIN = 4.9E-03  DTMIN = 9.6E-05  TC =    4  DELTA =  3.2E-08  E(3) = -0.250048  DETOT = -0.000048
+
+
+ T =    12.  N =   100  <NB> =  9  KS =    0  NM =  0  MM = 0  NS =   100  NSTEPS =     176678       380      53976        724  DE =  1.2E-07  E = -0.250048  M = 1.0000
+
+    <R>  RTIDE  RDENS   RC    NC   MC   RHOD   RHOM  CMAX   <Cn>   Ir/R   UN    NP   RCM    VCM      AZ      EB/E   EM/E   TCR     T6  NESC  VRMS
+ #1 0.94   9.4  0.12 0.2424    4  0.268    8.    16.    2.  15.2  0.338    0     0   0.000  0.0000  -0.0726 -0.000 -0.000  2.83     0     0   1.1
+
+       NNPRED    NBCORR  NBFULL  NBVOID    NICONV  NBSMIN  NBDIS  NBDIS2  NCMDER  NBDER  NFAST  NBFAST    NBLOCK    NBLCKR     NBPRED     NBFLUX  NIRECT  NRRECT  NURECT  NBRECT
+ #2      5443         6     603      709     5064     184      0       0       0      0      0       0     30950         0     492568      50736       0       0       0       0
+
+     NKSTRY  NKSREG  NKSHYP     NKSPER  NPRECT  NEWKS   NKSMOD    NTTRY  NTRIP  NQUAD  NCHAIN  NMERG  NEWHI  NSTEPT  NSTEPQ  NSTEPC
+ #3    13299     25       3          0       0      0        0        0      0      0       0      0      0       0       0       0
+
+
+ T =    13.  N =   100  <NB> =  8  KS =    0  NM =  0  MM = 0  NS =   100  NSTEPS =     189240       380      58298        724  DE =  4.5E-07  E = -0.250048  M = 1.0000
+
+    <R>  RTIDE  RDENS   RC    NC   MC   RHOD   RHOM  CMAX   <Cn>   Ir/R   UN    NP   RCM    VCM      AZ      EB/E   EM/E   TCR     T6  NESC  VRMS
+ #1 0.94   9.4  0.16 0.1563    5  0.272    3.     6.    4.  15.7  0.344    0     0   0.000  0.0000  -0.0726 -0.000 -0.000  2.83     0     0   1.2
+
+       NNPRED    NBCORR  NBFULL  NBVOID    NICONV  NBSMIN  NBDIS  NBDIS2  NCMDER  NBDER  NFAST  NBFAST    NBLOCK    NBLCKR     NBPRED     NBFLUX  NIRECT  NRRECT  NURECT  NBRECT
+ #2      5776         6     801      808     5537     202      0       0       0      0      0       0     33044         0     529297      55780       0       0       0       0
+
+     NKSTRY  NKSREG  NKSHYP     NKSPER  NPRECT  NEWKS   NKSMOD    NTTRY  NTRIP  NQUAD  NCHAIN  NMERG  NEWHI  NSTEPT  NSTEPQ  NSTEPC
+ #3    13885     25       3          0       0      0        0        0      0      0       0      0      0       0       0       0
+
+ ADJUST:  TIME =   14.00  Q = 0.55  DE = -2.33E-05  E = -0.250055  RMIN = 4.3E-03  DTMIN = 8.0E-05  TC =    4  DELTA = -7.2E-06  E(3) = -0.250055  DETOT = -0.000055
+
+
+ T =    14.  N =   100  <NB> =  8  KS =    0  NM =  0  MM = 0  NS =   100  NSTEPS =     199984       390      62052        737  DE = -2.3E-05  E = -0.250055  M = 1.0000
+
+    <R>  RTIDE  RDENS   RC    NC   MC   RHOD   RHOM  CMAX   <Cn>   Ir/R   UN    NP   RCM    VCM      AZ      EB/E   EM/E   TCR     T6  NESC  VRMS
+ #1 0.90   9.0  0.22 0.2044    6  0.287   12.    26.    2.  16.3  0.596    0     0   0.000  0.0000  -0.0726 -0.000 -0.000  2.83     0     0   1.1
+
+       NNPRED    NBCORR  NBFULL  NBVOID    NICONV  NBSMIN  NBDIS  NBDIS2  NCMDER  NBDER  NFAST  NBFAST    NBLOCK    NBLCKR     NBPRED     NBFLUX  NIRECT  NRRECT  NURECT  NBRECT
+ #2      6047         6     914      907     5963     206      0       0       0      0      0       0     34819         0     560090      59725       0       0       0       0
+
+     NKSTRY  NKSREG  NKSHYP     NKSPER  NPRECT  NEWKS   NKSMOD    NTTRY  NTRIP  NQUAD  NCHAIN  NMERG  NEWHI  NSTEPT  NSTEPQ  NSTEPC
+ #3    14124     26       4          0       0      0        0        0      0      0       0      0      0       0       0       0
+
+
+ T =    15.  N =   100  <NB> =  8  KS =    0  NM =  0  MM = 0  NS =   100  NSTEPS =     212181       399      66051        747  DE = -1.6E-06  E = -0.250056  M = 1.0000
+
+    <R>  RTIDE  RDENS   RC    NC   MC   RHOD   RHOM  CMAX   <Cn>   Ir/R   UN    NP   RCM    VCM      AZ      EB/E   EM/E   TCR     T6  NESC  VRMS
+ #1 0.90   9.0  0.35 0.1046    3  0.264    4.     7.    2.  16.0  0.599    0     0   0.000  0.0000  -0.0726 -0.000 -0.000  2.83     1     0   1.7
+
+       NNPRED    NBCORR  NBFULL  NBVOID    NICONV  NBSMIN  NBDIS  NBDIS2  NCMDER  NBDER  NFAST  NBFAST    NBLOCK    NBLCKR     NBPRED     NBFLUX  NIRECT  NRRECT  NURECT  NBRECT
+ #2      6336         7    1023     1017     6477     208      0       0       0      0      0       0     36809         0     595813      63988       0       0       0       0
+
+     NKSTRY  NKSREG  NKSHYP     NKSPER  NPRECT  NEWKS   NKSMOD    NTTRY  NTRIP  NQUAD  NCHAIN  NMERG  NEWHI  NSTEPT  NSTEPQ  NSTEPC
+ #3    14400     27       5          0       0      0        0        0      0      0       0      0      0       0       0       0
+
+ ADJUST:  TIME =   16.00  Q = 0.53  DE = -7.68E-07  E = -0.250057  RMIN = 5.4E-03  DTMIN = 1.1E-04  TC =    5  DELTA = -2.2E-07  E(3) = -0.250057  DETOT = -0.000057
+
+
+ T =    16.  N =   100  <NB> =  8  KS =    0  NM =  0  MM = 0  NS =   100  NSTEPS =     224417       409      69781        765  DE = -7.7E-07  E = -0.250057  M = 1.0000
+
+    <R>  RTIDE  RDENS   RC    NC   MC   RHOD   RHOM  CMAX   <Cn>   Ir/R   UN    NP   RCM    VCM      AZ      EB/E   EM/E   TCR     T6  NESC  VRMS
+ #1 0.94   9.4  0.30 0.2409    5  0.265    6.     9.    1.  14.2  0.282    0     0   0.000  0.0000  -0.0726 -0.000 -0.000  2.83     1     0   1.1
+
+       NNPRED    NBCORR  NBFULL  NBVOID    NICONV  NBSMIN  NBDIS  NBDIS2  NCMDER  NBDER  NFAST  NBFAST    NBLOCK    NBLCKR     NBPRED     NBFLUX  NIRECT  NRRECT  NURECT  NBRECT
+ #2      6616         7    1135     1179     6994     217      0       0       0      0      0       0     38623         0     628159      68053       0       0       0       0
+
+     NKSTRY  NKSREG  NKSHYP     NKSPER  NPRECT  NEWKS   NKSMOD    NTTRY  NTRIP  NQUAD  NCHAIN  NMERG  NEWHI  NSTEPT  NSTEPQ  NSTEPC
+ #3    14719     28       6          0       0      0        0        0      0      0       0      0      0       0       0       0
+
+
+ T =    17.  N =   100  <NB> =  8  KS =    0  NM =  0  MM = 0  NS =   100  NSTEPS =     236340       425      73833        795  DE = -9.7E-06  E = -0.250059  M = 1.0000
+
+    <R>  RTIDE  RDENS   RC    NC   MC   RHOD   RHOM  CMAX   <Cn>   Ir/R   UN    NP   RCM    VCM      AZ      EB/E   EM/E   TCR     T6  NESC  VRMS
+ #1 0.94   9.4  0.41 0.1703    4  0.234    2.     4.    3.  16.6  0.589    0     0   0.000  0.0000  -0.0726 -0.000 -0.000  2.83     1     0   1.1
+
+       NNPRED    NBCORR  NBFULL  NBVOID    NICONV  NBSMIN  NBDIS  NBDIS2  NCMDER  NBDER  NFAST  NBFAST    NBLOCK    NBLCKR     NBPRED     NBFLUX  NIRECT  NRRECT  NURECT  NBRECT
+ #2      6958         7    1239     1318     7619     219      0       0       0      0      0       0     41052         0     670120      72748       0       0       0       0
+
+     NKSTRY  NKSREG  NKSHYP     NKSPER  NPRECT  NEWKS   NKSMOD    NTTRY  NTRIP  NQUAD  NCHAIN  NMERG  NEWHI  NSTEPT  NSTEPQ  NSTEPC
+ #3    15739     29       6          0       0      0        0        0      0      0       0      0      0       0       0       0
+
+ ADJUST:  TIME =   18.00  Q = 0.42  DE = -1.94E-05  E = -0.250064  RMIN = 4.7E-03  DTMIN = 9.2E-05  TC =    6  DELTA = -4.9E-06  E(3) = -0.250064  DETOT = -0.000064
+
+
+ T =    18.  N =   100  <NB> =  8  KS =    0  NM =  0  MM = 0  NS =   100  NSTEPS =     250412       449      78666        847  DE = -1.9E-05  E = -0.250064  M = 1.0000
+
+    <R>  RTIDE  RDENS   RC    NC   MC   RHOD   RHOM  CMAX   <Cn>   Ir/R   UN    NP   RCM    VCM      AZ      EB/E   EM/E   TCR     T6  NESC  VRMS
+ #1 1.15  11.5  0.36 0.2295    4  0.233   12.    19.    1.  13.6  0.235    0     0   0.000  0.0000  -0.0726 -0.000 -0.000  2.83     1     0   0.9
+
+       NNPRED    NBCORR  NBFULL  NBVOID    NICONV  NBSMIN  NBDIS  NBDIS2  NCMDER  NBDER  NFAST  NBFAST    NBLOCK    NBLCKR     NBPRED     NBFLUX  NIRECT  NRRECT  NURECT  NBRECT
+ #2      7482         7    1304     1461     8280     233      0       0       0      0      0       0     44065         0     718078      77335       0       0       0       0
+
+     NKSTRY  NKSREG  NKSHYP     NKSPER  NPRECT  NEWKS   NKSMOD    NTTRY  NTRIP  NQUAD  NCHAIN  NMERG  NEWHI  NSTEPT  NSTEPQ  NSTEPC
+ #3    16789     31       6          0       0      0        0        0      0      0       0      0      0       0       0       0
+
+
+ T =    19.  N =   100  <NB> =  9  KS =    0  NM =  0  MM = 0  NS =   100  NSTEPS =     268018       449      82436        847  DE = -2.7E-06  E = -0.250065  M = 1.0000
+
+    <R>  RTIDE  RDENS   RC    NC   MC   RHOD   RHOM  CMAX   <Cn>   Ir/R   UN    NP   RCM    VCM      AZ      EB/E   EM/E   TCR     T6  NESC  VRMS
+ #1 1.15  11.5  0.45 0.4526    5  0.242    0.     0.    1.  14.2  0.366    0     0   0.000  0.0000  -0.0726 -0.000 -0.000  2.83     1     0   0.9
+
+       NNPRED    NBCORR  NBFULL  NBVOID    NICONV  NBSMIN  NBDIS  NBDIS2  NCMDER  NBDER  NFAST  NBFAST    NBLOCK    NBLCKR     NBPRED     NBFLUX  NIRECT  NRRECT  NURECT  NBRECT
+ #2      7879         7    1403     1566     8943     280      0       0       0      0      0       0     48787         0     803660      81203       0       0       0       0
+
+     NKSTRY  NKSREG  NKSHYP     NKSPER  NPRECT  NEWKS   NKSMOD    NTTRY  NTRIP  NQUAD  NCHAIN  NMERG  NEWHI  NSTEPT  NSTEPQ  NSTEPC
+ #3    21513     31       6          0       0      0        0        0      0      0       0      0      0       0       0       0
+
+ ADJUST:  TIME =   20.00  Q = 0.66  DE = -1.55E-06  E = -0.250066  RMIN = 7.5E-03  DTMIN = 1.8E-04  TC =    7  DELTA = -7.5E-07  E(3) = -0.250066  DETOT = -0.000066
+
+
+ T =    20.  N =   100  <NB> =  8  KS =    0  NM =  0  MM = 0  NS =   100  NSTEPS =     284661       449      86120        847  DE = -1.6E-06  E = -0.250066  M = 1.0000
+
+    <R>  RTIDE  RDENS   RC    NC   MC   RHOD   RHOM  CMAX   <Cn>   Ir/R   UN    NP   RCM    VCM      AZ      EB/E   EM/E   TCR     T6  NESC  VRMS
+ #1 0.68   6.8  0.50 0.4204    5  0.221    1.     2.    0.  17.2  1.538    0     0   0.000  0.0000  -0.0726 -0.000 -0.000  2.83     1     0   1.4
+
+       NNPRED    NBCORR  NBFULL  NBVOID    NICONV  NBSMIN  NBDIS  NBDIS2  NCMDER  NBDER  NFAST  NBFAST    NBLOCK    NBLCKR     NBPRED     NBFLUX  NIRECT  NRRECT  NURECT  NBRECT
+ #2      8370         7    1457     1686     9741     309      0       0       0      0      0       0     53599         0     887118      84113       0       0       0       0
+
+     NKSTRY  NKSREG  NKSHYP     NKSPER  NPRECT  NEWKS   NKSMOD    NTTRY  NTRIP  NQUAD  NCHAIN  NMERG  NEWHI  NSTEPT  NSTEPQ  NSTEPC
+ #3    26271     31       6          0       0      0        0        0      0      0       0      0      0       0       0       0
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    20.976    65   2  18  2.79E-02  1.09E-01 -1.37E-01  2.30E-04  5.04E-02
+
+
+ T =    21.  N =   100  <NB> =  7  KS =    0  NM =  0  MM = 0  NS =   100  NSTEPS =     293628       951      89884       1634  DE = -6.8E-06  E = -0.250068  M = 1.0000
+
+    <R>  RTIDE  RDENS   RC    NC   MC   RHOD   RHOM  CMAX   <Cn>   Ir/R   UN    NP   RCM    VCM      AZ      EB/E   EM/E   TCR     T6  NESC  VRMS
+ #1 0.68   6.8  0.55 0.2726    5  0.278    1.     1.    0.  15.3  0.443    0     0   0.000  0.0000  -0.0726 -0.000 -0.000  2.83     1     0   1.3
+
+       NNPRED    NBCORR  NBFULL  NBVOID    NICONV  NBSMIN  NBDIS  NBDIS2  NCMDER  NBDER  NFAST  NBFAST    NBLOCK    NBLCKR     NBPRED     NBFLUX  NIRECT  NRRECT  NURECT  NBRECT
+ #2      8580        20    1533     1741    10780     314      0       0       0      0      0       0     54531         0     902591      89059       0       0       0       0
+
+     NKSTRY  NKSREG  NKSHYP     NKSPER  NPRECT  NEWKS   NKSMOD    NTTRY  NTRIP  NQUAD  NCHAIN  NMERG  NEWHI  NSTEPT  NSTEPQ  NSTEPC
+ #3    26362     33       6          0       0      0        0        0      0      0       1      0      0       0       0       1
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    21.441    24   1  19  2.81E-02  3.57E-02 -1.36E-01 -8.99E-03  5.11E-02
+ CHLIST!   NP NB2 GP RPERT R    17   18  4.20E-04  1.50E-02  4.31E-02  3.82E-02
+ CHLIST!   NP NB2 GP RPERT R    17   18  4.21E-04  1.50E-02  4.31E-02  3.82E-02
+ CHLIST!   NP NB2 GP RPERT R    16   17  4.22E-04  1.50E-02  4.32E-02  3.83E-02
+ CHLIST!   NP NB2 GP RPERT R    16   17  4.24E-04  1.50E-02  4.32E-02  3.83E-02
+ CHLIST!   NP NB2 GP RPERT R    16   17  4.26E-04  1.50E-02  4.33E-02  3.84E-02
+ CHLIST!   NP NB2 GP RPERT R    16   17  4.30E-04  1.50E-02  4.34E-02  3.85E-02
+ CHLIST!   NP NB2 GP RPERT R    16   17  4.33E-04  1.50E-02  4.35E-02  3.86E-02
+ CHLIST!   NP NB2 GP RPERT R    16   17  4.33E-04  1.50E-02  4.35E-02  3.86E-02
+ CHLIST!   NP NB2 GP RPERT R    16   17  4.40E-04  1.50E-02  4.37E-02  3.89E-02
+ CHLIST!   NP NB2 GP RPERT R    16   17  4.47E-04  1.50E-02  4.40E-02  3.91E-02
+
+ ADJUST:  TIME =   22.00  Q = 0.66  DE = -1.94E-04  E = -0.250110  RMIN = 7.0E-03  DTMIN = 1.6E-04  TC =    2  DELTA = -4.1E-05  E(3) = -0.110357  DETOT = -0.000110
+
+
+ T =    22.  N =   100  <NB> =  7  KS =    0  NM =  0  MM = 0  NS =    97  NSTEPS =     307665      1241      93324       2066  DE = -1.9E-04  E = -0.250110  M = 1.0000
+
+    <R>  RTIDE  RDENS   RC    NC   MC   RHOD   RHOM  CMAX   <Cn>   Ir/R   UN    NP   RCM    VCM      AZ      EB/E   EM/E   TCR     T6  NESC  VRMS
+ #1 1.54  15.4  0.63 0.4340    5  0.256   10.    21.    3.   8.6  0.239    0     0   0.000  0.0001  -0.0733  1.266 -0.000  9.64     1     0   1.0
+
+       NNPRED    NBCORR  NBFULL  NBVOID    NICONV  NBSMIN  NBDIS  NBDIS2  NCMDER  NBDER  NFAST  NBFAST    NBLOCK    NBLCKR     NBPRED     NBFLUX  NIRECT  NRRECT  NURECT  NBRECT
+ #2      8942        22    1596     1775    11437     352      0       0       0      0      0       0     57466         0     957034      93951       0       0       0       0
+
+     NKSTRY  NKSREG  NKSHYP     NKSPER  NPRECT  NEWKS   NKSMOD    NTTRY  NTRIP  NQUAD  NCHAIN  NMERG  NEWHI  NSTEPT  NSTEPQ  NSTEPC
+ #3    28076     37       6          0       0      0        0        0      0      0       2      0      0       0       0       1
+ EXCHANGE    T NAM E0 E A0 A EB0 EB     22.12     3     1     3     1  1.658  0.687  2.8E-02  2.8E-02  -1.4E-01  -1.4E-01
+
+
+ T =    23.  N =   100  <NB> = 10  KS =    0  NM =  0  MM = 0  NS =   100  NSTEPS =     324692      1255      97238       2096  DE =  4.1E-05  E = -0.250097  M = 1.0000
+
+    <R>  RTIDE  RDENS   RC    NC   MC   RHOD   RHOM  CMAX   <Cn>   Ir/R   UN    NP   RCM    VCM      AZ      EB/E   EM/E   TCR     T6  NESC  VRMS
+ #1 1.54  15.4  0.67 0.2067    5  0.277    1.     3.    6.  16.1  0.418    0     0   0.000  0.0001  -0.0733 -0.000 -0.000  9.64     1     0   1.1
+
+       NNPRED    NBCORR  NBFULL  NBVOID    NICONV  NBSMIN  NBDIS  NBDIS2  NCMDER  NBDER  NFAST  NBFAST    NBLOCK    NBLCKR     NBPRED     NBFLUX  NIRECT  NRRECT  NURECT  NBRECT
+ #2      9438        22    1790     1783    11977     456      0       0       0      0      0       0     61685         0    1028546      98904       0       0       0       0
+
+     NKSTRY  NKSREG  NKSHYP     NKSPER  NPRECT  NEWKS   NKSMOD    NTTRY  NTRIP  NQUAD  NCHAIN  NMERG  NEWHI  NSTEPT  NSTEPQ  NSTEPC
+ #3    32772     38       6          0       0      0        0        0      0      0       2      0      0       0       0    2216
+
+ ADJUST:  TIME =   24.00  Q = 0.54  DE =  1.84E-06  E = -0.250097  RMIN = 5.3E-03  DTMIN = 1.1E-04  TC =    8  DELTA =  5.5E-07  E(3) = -0.250097  DETOT = -0.000097
+
+
+ T =    24.  N =   100  <NB> =  9  KS =    0  NM =  0  MM = 0  NS =   100  NSTEPS =     343915      1255     101120       2096  DE =  1.8E-06  E = -0.250097  M = 1.0000
+
+    <R>  RTIDE  RDENS   RC    NC   MC   RHOD   RHOM  CMAX   <Cn>   Ir/R   UN    NP   RCM    VCM      AZ      EB/E   EM/E   TCR     T6  NESC  VRMS
+ #1 0.91   9.1  0.65 0.2018    5  0.254    8.    14.    1.  15.1  0.573    0     0   0.001  0.0001  -0.0726 -0.000 -0.000  2.83     1     0   1.1
+
+       NNPRED    NBCORR  NBFULL  NBVOID    NICONV  NBSMIN  NBDIS  NBDIS2  NCMDER  NBDER  NFAST  NBFAST    NBLOCK    NBLCKR     NBPRED     NBFLUX  NIRECT  NRRECT  NURECT  NBRECT
+ #2      9795        22    1997     1786    12575     570      0       0       0      0      0       0     66046         0    1105914     105792       0       0       0       0
+
+     NKSTRY  NKSREG  NKSHYP     NKSPER  NPRECT  NEWKS   NKSMOD    NTTRY  NTRIP  NQUAD  NCHAIN  NMERG  NEWHI  NSTEPT  NSTEPQ  NSTEPC
+ #3    37219     38       6          0       0      0        0        0      0      0       2      0      0       0       0    2216
+
+
+ T =    25.  N =   100  <NB> =  8  KS =    0  NM =  0  MM = 0  NS =   100  NSTEPS =     362240      1255     105232       2096  DE =  9.5E-07  E = -0.250097  M = 1.0000
+
+    <R>  RTIDE  RDENS   RC    NC   MC   RHOD   RHOM  CMAX   <Cn>   Ir/R   UN    NP   RCM    VCM      AZ      EB/E   EM/E   TCR     T6  NESC  VRMS
+ #1 0.91   9.1  0.59 0.1382    3  0.207    2.     4.    0.  16.2  0.699    0     0   0.001  0.0001  -0.0726 -0.000 -0.000  2.83     1     0   1.1
+
+       NNPRED    NBCORR  NBFULL  NBVOID    NICONV  NBSMIN  NBDIS  NBDIS2  NCMDER  NBDER  NFAST  NBFAST    NBLOCK    NBLCKR     NBPRED     NBFLUX  NIRECT  NRRECT  NURECT  NBRECT
+ #2     10282        22    2044     1852    13463     626      0       0       0      0      0       0     70398         0    1180710     111110       0       0       0       0
+
+     NKSTRY  NKSREG  NKSHYP     NKSPER  NPRECT  NEWKS   NKSMOD    NTTRY  NTRIP  NQUAD  NCHAIN  NMERG  NEWHI  NSTEPT  NSTEPQ  NSTEPC
+ #3    39227     38       6          0       0      0        0        0      0      0       2      0      0       0       0    2216
+
+ ADJUST:  TIME =   26.00  Q = 0.74  DE = -1.10E-06  E = -0.250097  RMIN = 7.9E-03  DTMIN = 2.0E-04  TC =    9  DELTA = -7.9E-07  E(3) = -0.250097  DETOT = -0.000097
+
+
+ T =    26.  N =   100  <NB> =  8  KS =    0  NM =  0  MM = 0  NS =   100  NSTEPS =     381746      1255     109575       2096  DE = -1.1E-06  E = -0.250097  M = 1.0000
+
+    <R>  RTIDE  RDENS   RC    NC   MC   RHOD   RHOM  CMAX   <Cn>   Ir/R   UN    NP   RCM    VCM      AZ      EB/E   EM/E   TCR     T6  NESC  VRMS
+ #1 0.51   5.1  0.73 0.2520    5  0.224    1.     2.    0.  17.2  1.529    0     0   0.001  0.0001  -0.0726 -0.000 -0.000  2.83     1     0   1.8
+
+       NNPRED    NBCORR  NBFULL  NBVOID    NICONV  NBSMIN  NBDIS  NBDIS2  NCMDER  NBDER  NFAST  NBFAST    NBLOCK    NBLCKR     NBPRED     NBFLUX  NIRECT  NRRECT  NURECT  NBRECT
+ #2     10745        22    2124     1930    14441     730      0       0       0      0      0       0     75047         0    1262393     116385       0       0       0       0
+
+     NKSTRY  NKSREG  NKSHYP     NKSPER  NPRECT  NEWKS   NKSMOD    NTTRY  NTRIP  NQUAD  NCHAIN  NMERG  NEWHI  NSTEPT  NSTEPQ  NSTEPC
+ #3    41821     38       6          0       0      0        0        0      0      0       2      0      0       0       0    2216
+
+
+ T =    27.  N =   100  <NB> =  6  KS =    0  NM =  0  MM = 0  NS =   100  NSTEPS =     402368      1445     115525       2393  DE =  1.5E-05  E = -0.250092  M = 1.0000
+
+    <R>  RTIDE  RDENS   RC    NC   MC   RHOD   RHOM  CMAX   <Cn>   Ir/R   UN    NP   RCM    VCM      AZ      EB/E   EM/E   TCR     T6  NESC  VRMS
+ #1 0.51   5.1  0.75 0.1754    5  0.241    2.     3.    0.  16.4  0.676    0     0   0.001  0.0001  -0.0726 -0.000 -0.000  2.83     1     0   1.2
+
+       NNPRED    NBCORR  NBFULL  NBVOID    NICONV  NBSMIN  NBDIS  NBDIS2  NCMDER  NBDER  NFAST  NBFAST    NBLOCK    NBLCKR     NBPRED     NBFLUX  NIRECT  NRRECT  NURECT  NBRECT
+ #2     11457        24    2314     1944    15807    1048      0       0       0      0      0       0     79625         0    1335789     125650       0       0       0       0
+
+     NKSTRY  NKSREG  NKSHYP     NKSPER  NPRECT  NEWKS   NKSMOD    NTTRY  NTRIP  NQUAD  NCHAIN  NMERG  NEWHI  NSTEPT  NSTEPQ  NSTEPC
+ #3    46831     44       6          0       0      0        0        0      0      0       2      0      0       0       0    2216
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    27.321     8   2  18  2.10E-02  1.54E-01 -1.81E-01  2.73E-03  5.06E-02
+ EXCHANGE    T NAM E0 E A0 A EB0 EB     27.41     1     8     1     4  0.513  0.503  2.2E-02  2.3E-02  -1.4E-01  -1.3E-01
+ CHAIN BINARY    NM M1 M2 VCM A PB       1      4   7.6   2.0    0.5  2.29E-02  1.21E+06
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    27.509     8   3  17  2.23E-02  2.08E-01 -1.33E-01  7.67E-03  5.26E-02
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    27.511     8   3  15  2.23E-02  2.10E-01 -1.33E-01  8.11E-03  5.95E-02
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    27.512     8   3  15  2.23E-02  2.13E-01 -1.33E-01  8.54E-03  6.60E-02
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    27.513     8   3  16  2.23E-02  2.15E-01 -1.33E-01  8.93E-03  7.17E-02
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    27.514     8   3  17  2.24E-02  2.16E-01 -1.33E-01  9.30E-03  7.69E-02
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    27.516     8   3  17  2.24E-02  2.18E-01 -1.33E-01  9.78E-03  8.31E-02
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    27.517     8   3  15  2.24E-02  2.20E-01 -1.33E-01  1.03E-02  8.89E-02
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    27.518     8   3  15  2.25E-02  2.22E-01 -1.32E-01  1.08E-02  9.43E-02
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    27.519     8   3  15  2.26E-02  2.24E-01 -1.32E-01  1.13E-02  9.87E-02
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    27.520     8   3  17  2.26E-02  2.26E-01 -1.31E-01  1.18E-02  1.02E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    27.521     8   3  15  2.27E-02  2.27E-01 -1.31E-01  1.25E-02  1.04E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    27.522     8   3  16  2.28E-02  2.29E-01 -1.30E-01  1.31E-02  1.03E-01
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    27.523     8   3  17  2.29E-02  2.31E-01 -1.30E-01  1.37E-02  9.97E-02
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    27.524     8   3  15  2.31E-02  2.33E-01 -1.29E-01  1.44E-02  9.34E-02
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    27.525     8   3  15  2.33E-02  2.35E-01 -1.27E-01  1.51E-02  8.24E-02
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    27.526     8   3  17  2.37E-02  2.37E-01 -1.25E-01  1.57E-02  6.83E-02
+
+ ADJUST:  TIME =   28.00  Q = 0.68  DE =  2.99E-04  E = -0.249936  RMIN = 5.8E-03  DTMIN = 1.2E-04  TC =    9  DELTA =  1.6E-04  E(3) = -0.249936  DETOT =  0.000064
+
+
+ T =    28.  N =   100  <NB> =  5  KS =    0  NM =  0  MM = 0  NS =   100  NSTEPS =     420844      2111     121484       3275  DE =  3.0E-04  E = -0.249936  M = 1.0000
+
+    <R>  RTIDE  RDENS   RC    NC   MC   RHOD   RHOM  CMAX   <Cn>   Ir/R   UN    NP   RCM    VCM      AZ      EB/E   EM/E   TCR     T6  NESC  VRMS
+ #1 0.65   6.5  0.76 0.3058    5  0.253    1.     2.    0.  14.9  0.623    0     0   0.001  0.0002  -0.0727 -0.000 -0.000  2.83     1     0   1.5
+
+       NNPRED    NBCORR  NBFULL  NBVOID    NICONV  NBSMIN  NBDIS  NBDIS2  NCMDER  NBDER  NFAST  NBFAST    NBLOCK    NBLCKR     NBPRED     NBFLUX  NIRECT  NRRECT  NURECT  NBRECT
+ #2     12166        62    2476     1960    17188    1350      0       0       0      0      0       0     83509         0    1396147     134363       0       0       0       0
+
+     NKSTRY  NKSREG  NKSHYP     NKSPER  NPRECT  NEWKS   NKSMOD    NTTRY  NTRIP  NQUAD  NCHAIN  NMERG  NEWHI  NSTEPT  NSTEPQ  NSTEPC
+ #3    50577     65       7          0       0      0        0        0      0      0      19      0      0       0       0    2690
+
+
+ T =    29.  N =   100  <NB> =  5  KS =    0  NM =  0  MM = 0  NS =   100  NSTEPS =     440634      2111     125959       3275  DE = -2.7E-06  E = -0.249938  M = 1.0000
+
+    <R>  RTIDE  RDENS   RC    NC   MC   RHOD   RHOM  CMAX   <Cn>   Ir/R   UN    NP   RCM    VCM      AZ      EB/E   EM/E   TCR     T6  NESC  VRMS
+ #1 0.65   6.5  0.71 0.5874    6  0.292    0.     0.    0.  16.6  1.513    0     0   0.001  0.0002  -0.0727 -0.000 -0.000  2.83     1     0   1.9
+
+       NNPRED    NBCORR  NBFULL  NBVOID    NICONV  NBSMIN  NBDIS  NBDIS2  NCMDER  NBDER  NFAST  NBFAST    NBLOCK    NBLCKR     NBPRED     NBFLUX  NIRECT  NRRECT  NURECT  NBRECT
+ #2     12643        62    2487     1962    18499    1664      0       0       0      0      0       0     89259         0    1497105     138815       0       0       0       0
+
+     NKSTRY  NKSREG  NKSHYP     NKSPER  NPRECT  NEWKS   NKSMOD    NTTRY  NTRIP  NQUAD  NCHAIN  NMERG  NEWHI  NSTEPT  NSTEPQ  NSTEPC
+ #3    57534     65       7          0       0      0        0        0      0      0      19      0      0       0       0    2690
+
+ ADJUST:  TIME =   30.00  Q = 0.49  DE = -1.69E-05  E = -0.249942  RMIN = 1.0E-02  DTMIN = 2.8E-04  TC =   10  DELTA = -4.2E-06  E(3) = -0.249942  DETOT =  0.000058
+
+
+ T =    30.  N =   100  <NB> =  5  KS =    0  NM =  0  MM = 0  NS =   100  NSTEPS =     462805      2111     130135       3275  DE = -1.7E-05  E = -0.249942  M = 1.0000
+
+    <R>  RTIDE  RDENS   RC    NC   MC   RHOD   RHOM  CMAX   <Cn>   Ir/R   UN    NP   RCM    VCM      AZ      EB/E   EM/E   TCR     T6  NESC  VRMS
+ #1 1.02  10.2  0.70 0.3911    4  0.279    1.     2.    0.  13.5  0.558    0     0   0.001  0.0002  -0.0727 -0.000 -0.000  2.83     2     0   1.0
+
+       NNPRED    NBCORR  NBFULL  NBVOID    NICONV  NBSMIN  NBDIS  NBDIS2  NCMDER  NBDER  NFAST  NBFAST    NBLOCK    NBLCKR     NBPRED     NBFLUX  NIRECT  NRRECT  NURECT  NBRECT
+ #2     13578        62    2491     1962    19519    1850      0       0       0      0      0       0     97191         0    1630370     142149       0       0       0       0
+
+     NKSTRY  NKSREG  NKSHYP     NKSPER  NPRECT  NEWKS   NKSMOD    NTTRY  NTRIP  NQUAD  NCHAIN  NMERG  NEWHI  NSTEPT  NSTEPQ  NSTEPC
+ #3    69701     65       7          0       0      0        0        0      0      0      19      0      0       0       0    2690
+
+
+ T =    31.  N =   100  <NB> =  6  KS =    1  NM =  0  MM = 0  NS =    98  NSTEPS =     471740      3586     132704       5459  DE = -2.6E-05  E = -0.249949  M = 1.0000
+
+    <R>  RTIDE  RDENS   RC    NC   MC   RHOD   RHOM  CMAX   <Cn>   Ir/R   UN    NP   RCM    VCM      AZ      EB/E   EM/E   TCR     T6  NESC  VRMS
+ #1 1.02  10.2  0.73 0.2903    5  0.256    0.     1.    0.  16.0  0.652    0    18   0.001  0.0002  -0.0727  4.871 -0.000  2.83     2     0   0.9
+
+       NNPRED    NBCORR  NBFULL  NBVOID    NICONV  NBSMIN  NBDIS  NBDIS2  NCMDER  NBDER  NFAST  NBFAST    NBLOCK    NBLCKR     NBPRED     NBFLUX  NIRECT  NRRECT  NURECT  NBRECT
+ #2     13899        68    2497     1963    20219    1903      0       0       0      0      0       0     98952         0    1658361     145711       0       0       0       0
+
+     NKSTRY  NKSREG  NKSHYP     NKSPER  NPRECT  NEWKS   NKSMOD    NTTRY  NTRIP  NQUAD  NCHAIN  NMERG  NEWHI  NSTEPT  NSTEPQ  NSTEPC
+ #3    70616     66       7          0       0      0        0        0      0      0      19      0      0       0       0    2690
+
+ ADJUST:  TIME =   32.00  Q = 0.78  DE =  1.91E-06  E = -0.249949  RMIN = 1.3E-02  DTMIN = 4.4E-04  TC =    0  DELTA =  3.0E-07  E(3) = -0.042754  DETOT =  0.000051
+
+
+ T =    32.  N =   100  <NB> =  6  KS =    1  NM =  0  MM = 0  NS =    98  NSTEPS =     479537      4847     134908       7336  DE =  1.9E-06  E = -0.249949  M = 1.0000
+
+    <R>  RTIDE  RDENS   RC    NC   MC   RHOD   RHOM  CMAX   <Cn>   Ir/R   UN    NP   RCM    VCM      AZ      EB/E   EM/E   TCR     T6  NESC  VRMS
+ #1 2.53  25.3  0.77 0.4201    4  0.240   19.    32.    2.  14.8  0.399    0    19   0.002  0.0002  -0.0727  4.846 -0.000 39.99     2     0   0.8
+
+       NNPRED    NBCORR  NBFULL  NBVOID    NICONV  NBSMIN  NBDIS  NBDIS2  NCMDER  NBDER  NFAST  NBFAST    NBLOCK    NBLCKR     NBPRED     NBFLUX  NIRECT  NRRECT  NURECT  NBRECT
+ #2     14236        69    2513     1967    20815    1953      0       0       0      0      0       0    100441         0    1681226     148487       0       0       0       0
+
+     NKSTRY  NKSREG  NKSHYP     NKSPER  NPRECT  NEWKS   NKSMOD    NTTRY  NTRIP  NQUAD  NCHAIN  NMERG  NEWHI  NSTEPT  NSTEPQ  NSTEPC
+ #3    71161     66       7          0       0      0        0        0      0      0      19      0      0       0       0    2690
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    32.121    82   1  17  1.85E-02  3.56E-02 -2.06E-01 -2.17E-03  5.05E-02
+ CHAIN BINARY    NM M1 M2 VCM A PB       1      3   7.6   2.5    0.4  1.84E-02  8.51E+05
+
+
+ T =    33.  N =   100  <NB> =  9  KS =    1  NM =  0  MM = 0  NS =    98  NSTEPS =     486478      5730     136695       8853  DE = -6.8E-05  E = -0.249966  M = 1.0000
+
+    <R>  RTIDE  RDENS   RC    NC   MC   RHOD   RHOM  CMAX   <Cn>   Ir/R   UN    NP   RCM    VCM      AZ      EB/E   EM/E   TCR     T6  NESC  VRMS
+ #1 2.53  25.3  0.86 0.6302    4  0.282    0.     0.    1.  16.2  1.050    0    17   0.002  0.0002  -0.0727  5.335 -0.000 39.99     2     0   0.9
+
+       NNPRED    NBCORR  NBFULL  NBVOID    NICONV  NBSMIN  NBDIS  NBDIS2  NCMDER  NBDER  NFAST  NBFAST    NBLOCK    NBLCKR     NBPRED     NBFLUX  NIRECT  NRRECT  NURECT  NBRECT
+ #2     14453        70    2538     1968    21166    1979      0       0       0      0      0       0    101951         0    1706843     150398       0       0       0       0
+
+     NKSTRY  NKSREG  NKSHYP     NKSPER  NPRECT  NEWKS   NKSMOD    NTTRY  NTRIP  NQUAD  NCHAIN  NMERG  NEWHI  NSTEPT  NSTEPQ  NSTEPC
+ #3    72244     67       7          0       0      0        0        0      0      0      20      0      0       0       0    2939
+
+ ADJUST:  TIME =   34.01  Q = 0.77  DE =  1.75E-05  E = -0.249963  RMIN = 1.5E-02  DTMIN = 5.2E-04  TC =    0  DELTA =  2.3E-06  E(3) = -0.039289  DETOT =  0.000037
+
+
+ T =    34.  N =   100  <NB> =  9  KS =    1  NM =  0  MM = 0  NS =    98  NSTEPS =     491219      6348     137973      10097  DE =  1.8E-05  E = -0.249963  M = 1.0000
+
+    <R>  RTIDE  RDENS   RC    NC   MC   RHOD   RHOM  CMAX   <Cn>   Ir/R   UN    NP   RCM    VCM      AZ      EB/E   EM/E   TCR     T6  NESC  VRMS
+ #1 2.97  29.7  0.87 0.6745    4  0.299   11.    22.    2.  16.7  0.679    0    16   0.002  0.0004  -0.0728  5.362 -0.000 45.40     2     0   0.7
+
+       NNPRED    NBCORR  NBFULL  NBVOID    NICONV  NBSMIN  NBDIS  NBDIS2  NCMDER  NBDER  NFAST  NBFAST    NBLOCK    NBLCKR     NBPRED     NBFLUX  NIRECT  NRRECT  NURECT  NBRECT
+ #2     14704        72    2563     1970    21365    1980      0       0       0      0      0       0    102602         0    1714709     151999       0       0       0       0
+
+     NKSTRY  NKSREG  NKSHYP     NKSPER  NPRECT  NEWKS   NKSMOD    NTTRY  NTRIP  NQUAD  NCHAIN  NMERG  NEWHI  NSTEPT  NSTEPQ  NSTEPC
+ #3    72310     67       7          0       0      0        0        0      0      0      20      0      0       0       0    2939
+
+
+ T =    35.  N =   100  <NB> = 10  KS =    1  NM =  0  MM = 0  NS =    98  NSTEPS =     495773      6874     139001      11265  DE =  9.4E-06  E = -0.249961  M = 1.0000
+
+    <R>  RTIDE  RDENS   RC    NC   MC   RHOD   RHOM  CMAX   <Cn>   Ir/R   UN    NP   RCM    VCM      AZ      EB/E   EM/E   TCR     T6  NESC  VRMS
+ #1 2.97  29.7  0.93 0.6175    4  0.284    0.     0.    2.  16.1  0.619    0    18   0.002  0.0004  -0.0728  5.287 -0.000 45.40     2     0   1.0
+
+       NNPRED    NBCORR  NBFULL  NBVOID    NICONV  NBSMIN  NBDIS  NBDIS2  NCMDER  NBDER  NFAST  NBFAST    NBLOCK    NBLCKR     NBPRED     NBFLUX  NIRECT  NRRECT  NURECT  NBRECT
+ #2     14904        74    2592     1972    21567    1983      0       0       0      0      0       0    103181         0    1722476     153371       0       0       0       0
+
+     NKSTRY  NKSREG  NKSHYP     NKSPER  NPRECT  NEWKS   NKSMOD    NTTRY  NTRIP  NQUAD  NCHAIN  NMERG  NEWHI  NSTEPT  NSTEPQ  NSTEPC
+ #3    72448     67       7          0       0      0        0        0      0      0      20      0      0       0       0    2939
+
+ ADJUST:  TIME =   36.00  Q = 0.78  DE =  2.53E-06  E = -0.249961  RMIN = 1.4E-02  DTMIN = 4.8E-04  TC =    0  DELTA =  3.5E-07  E(3) = -0.039541  DETOT =  0.000039
+
+
+ T =    36.  N =   100  <NB> =  9  KS =    1  NM =  0  MM = 0  NS =    98  NSTEPS =     501097      7275     140169      12326  DE =  2.5E-06  E = -0.249961  M = 1.0000
+
+    <R>  RTIDE  RDENS   RC    NC   MC   RHOD   RHOM  CMAX   <Cn>   Ir/R   UN    NP   RCM    VCM      AZ      EB/E   EM/E   TCR     T6  NESC  VRMS
+ #1 2.78  27.8  0.97 0.4930    4  0.286   25.    37.    3.  16.5  1.094    0    15   0.003  0.0004  -0.0728  5.322 -0.000 44.97     2     0   0.8
+
+       NNPRED    NBCORR  NBFULL  NBVOID    NICONV  NBSMIN  NBDIS  NBDIS2  NCMDER  NBDER  NFAST  NBFAST    NBLOCK    NBLCKR     NBPRED     NBFLUX  NIRECT  NRRECT  NURECT  NBRECT
+ #2     15117        75    2636     1974    21736    1986      0       0       0      0      0       0    104047         0    1735717     154989       0       0       0       0
+
+     NKSTRY  NKSREG  NKSHYP     NKSPER  NPRECT  NEWKS   NKSMOD    NTTRY  NTRIP  NQUAD  NCHAIN  NMERG  NEWHI  NSTEPT  NSTEPQ  NSTEPC
+ #3    73052     67       7          0       0      0        0        0      0      0      20      0      0       0       0    2939
+
+
+ T =    37.  N =   100  <NB> =  9  KS =    1  NM =  0  MM = 0  NS =    98  NSTEPS =     509449      8652     141846      14356  DE =  9.4E-04  E = -0.249726  M = 1.0000
+
+    <R>  RTIDE  RDENS   RC    NC   MC   RHOD   RHOM  CMAX   <Cn>   Ir/R   UN    NP   RCM    VCM      AZ      EB/E   EM/E   TCR     T6  NESC  VRMS
+ #1 2.78  27.8  1.02 0.2092    4  0.336    1.     2.    2.  16.3  0.491    0    17   0.003  0.0004  -0.0728  6.555 -0.000 44.97     2     0   1.0
+
+       NNPRED    NBCORR  NBFULL  NBVOID    NICONV  NBSMIN  NBDIS  NBDIS2  NCMDER  NBDER  NFAST  NBFAST    NBLOCK    NBLCKR     NBPRED     NBFLUX  NIRECT  NRRECT  NURECT  NBRECT
+ #2     15464        80    2692     1980    21986    1993      0       0       0      0      0       0    105781         0    1761427     157005       0       0       0       0
+
+     NKSTRY  NKSREG  NKSHYP     NKSPER  NPRECT  NEWKS   NKSMOD    NTTRY  NTRIP  NQUAD  NCHAIN  NMERG  NEWHI  NSTEPT  NSTEPQ  NSTEPC
+ #3    74443     72       9          0       0      0        0        1      0      0      20      0      0       0       0    2939
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    37.522     2   1  16  1.77E-02  6.80E-02 -2.16E-01 -3.84E-02  5.10E-02
+
+ ADJUST:  TIME =   38.00  Q = 0.92  DE =  2.57E-05  E = -0.249722  RMIN = 1.4E-02  DTMIN = 4.5E-04  TC =    0  DELTA =  4.0E-06  E(3) = -0.014060  DETOT =  0.000278
+
+
+ T =    38.  N =   100  <NB> =  9  KS =    1  NM =  0  MM = 0  NS =    98  NSTEPS =     517929      9029     143207      15136  DE =  2.6E-05  E = -0.249722  M = 1.0000
+
+    <R>  RTIDE  RDENS   RC    NC   MC   RHOD   RHOM  CMAX   <Cn>   Ir/R   UN    NP   RCM    VCM      AZ      EB/E   EM/E   TCR     T6  NESC  VRMS
+ #1 2.98  29.8  1.17 0.5270    4  0.220   22.    46.    4.  16.2  0.876    0    17   0.004  0.0004  -0.0727 16.761 -0.000212.07     2     0   0.8
+
+       NNPRED    NBCORR  NBFULL  NBVOID    NICONV  NBSMIN  NBDIS  NBDIS2  NCMDER  NBDER  NFAST  NBFAST    NBLOCK    NBLCKR     NBPRED     NBFLUX  NIRECT  NRRECT  NURECT  NBRECT
+ #2     15675        82    2735     1985    22250    2016      0       0       0      0      0       0    107254         0    1786427     158959       0       0       0       0
+
+     NKSTRY  NKSREG  NKSHYP     NKSPER  NPRECT  NEWKS   NKSMOD    NTTRY  NTRIP  NQUAD  NCHAIN  NMERG  NEWHI  NSTEPT  NSTEPQ  NSTEPC
+ #3    75450     73       9          0       0      0        0        1      0      0      21      0      0       0       0    3949
+
+
+ T =    39.  N =   100  <NB> =  8  KS =    1  NM =  0  MM = 0  NS =    98  NSTEPS =     522646      9286     144235      16277  DE =  6.2E-07  E = -0.249722  M = 1.0000
+
+    <R>  RTIDE  RDENS   RC    NC   MC   RHOD   RHOM  CMAX   <Cn>   Ir/R   UN    NP   RCM    VCM      AZ      EB/E   EM/E   TCR     T6  NESC  VRMS
+ #1 2.98  29.8  1.27 0.8056    4  0.239    0.     0.    2.  13.8  0.360    0    18   0.004  0.0004  -0.0727 16.770 -0.000212.07     2     0   0.8
+
+       NNPRED    NBCORR  NBFULL  NBVOID    NICONV  NBSMIN  NBDIS  NBDIS2  NCMDER  NBDER  NFAST  NBFAST    NBLOCK    NBLCKR     NBPRED     NBFLUX  NIRECT  NRRECT  NURECT  NBRECT
+ #2     15806        82    2771     1992    22415    2017      0       0       0      0      0       0    107988         0    1798954     160844       0       0       0       0
+
+     NKSTRY  NKSREG  NKSHYP     NKSPER  NPRECT  NEWKS   NKSMOD    NTTRY  NTRIP  NQUAD  NCHAIN  NMERG  NEWHI  NSTEPT  NSTEPQ  NSTEPC
+ #3    75634     73       9          0       0      0        0        1      0      0      21      0      0       0       0    3949
+
+ ADJUST:  TIME =   40.00  Q = 0.92  DE = -3.69E-07  E = -0.249722  RMIN = 1.4E-02  DTMIN = 4.8E-04  TC =    0  DELTA = -6.4E-08  E(3) = -0.014048  DETOT =  0.000278
+
+
+ T =    40.  N =   100  <NB> =  9  KS =    1  NM =  0  MM = 0  NS =    98  NSTEPS =     525851      9518     145294      17419  DE = -3.7E-07  E = -0.249722  M = 1.0000
+
+    <R>  RTIDE  RDENS   RC    NC   MC   RHOD   RHOM  CMAX   <Cn>   Ir/R   UN    NP   RCM    VCM      AZ      EB/E   EM/E   TCR     T6  NESC  VRMS
+ #1 2.67  26.7  1.28 0.9349    4  0.305    4.     9.    2.  16.2  0.443    0    18   0.005  0.0004  -0.0727 16.776 -0.000212.34     2     0   0.9
+
+       NNPRED    NBCORR  NBFULL  NBVOID    NICONV  NBSMIN  NBDIS  NBDIS2  NCMDER  NBDER  NFAST  NBFAST    NBLOCK    NBLCKR     NBPRED     NBFLUX  NIRECT  NRRECT  NURECT  NBRECT
+ #2     15933        82    2831     2000    22660    2017      0       0       0      0      0       0    108244         0    1801851     163083       0       0       0       0
+
+     NKSTRY  NKSREG  NKSHYP     NKSPER  NPRECT  NEWKS   NKSMOD    NTTRY  NTRIP  NQUAD  NCHAIN  NMERG  NEWHI  NSTEPT  NSTEPQ  NSTEPC
+ #3    75634     73       9          0       0      0        0        1      0      0      21      0      0       0       0    3949
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    40.164     2   1  19  1.61E-02  4.45E-02 -2.38E-01 -2.76E-02  5.59E-02
+
+
+ T =    41.  N =   100  <NB> =  8  KS =    1  NM =  0  MM = 0  NS =    98  NSTEPS =     531537      9888     146830      18571  DE = -4.0E-06  E = -0.249723  M = 1.0000
+
+    <R>  RTIDE  RDENS   RC    NC   MC   RHOD   RHOM  CMAX   <Cn>   Ir/R   UN    NP   RCM    VCM      AZ      EB/E   EM/E   TCR     T6  NESC  VRMS
+ #1 2.67  26.7  1.25 0.4851    3  0.233    0.     0.    2.  15.8  0.386    0    18   0.005  0.0004  -0.0727 30.695 -0.000212.34     2     0   0.8
+
+       NNPRED    NBCORR  NBFULL  NBVOID    NICONV  NBSMIN  NBDIS  NBDIS2  NCMDER  NBDER  NFAST  NBFAST    NBLOCK    NBLCKR     NBPRED     NBFLUX  NIRECT  NRRECT  NURECT  NBRECT
+ #2     16070        83    2882     2008    22974    2039      0       0       0      0      0       0    109476         0    1823345     165357       0       0       0       0
+
+     NKSTRY  NKSREG  NKSHYP     NKSPER  NPRECT  NEWKS   NKSMOD    NTTRY  NTRIP  NQUAD  NCHAIN  NMERG  NEWHI  NSTEPT  NSTEPQ  NSTEPC
+ #3    76531     74       9          0       0      0        0        1      0      0      22      0      0       0       0    4469
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    41.326     7   1  18  1.59E-02  3.59E-02 -2.41E-01 -1.13E-02  5.31E-02
+
+ ADJUST:  TIME =   42.00  Q = 1.05  DE = -1.09E-05  E = -0.249724  RMIN = 7.4E-03  DTMIN = 1.8E-04  TC =    0  DELTA = -1.5E-06  E(3) =  0.006197  DETOT =  0.000276
+
+
+ T =    42.  N =   100  <NB> =  8  KS =    1  NM =  0  MM = 0  NS =    98  NSTEPS =     537472     10218     148015      19518  DE = -1.1E-05  E = -0.249724  M = 1.0000
+
+    <R>  RTIDE  RDENS   RC    NC   MC   RHOD   RHOM  CMAX   <Cn>   Ir/R   UN    NP   RCM    VCM      AZ      EB/E   EM/E   TCR     T6  NESC  VRMS
+ #1 3.73  37.3  1.20 0.5112    5  0.252   28.    47.    8.  14.6  0.390    0    16   0.005  0.0004  -0.0727-41.300  0.000******     2     0   0.8
+
+       NNPRED    NBCORR  NBFULL  NBVOID    NICONV  NBSMIN  NBDIS  NBDIS2  NCMDER  NBDER  NFAST  NBFAST    NBLOCK    NBLCKR     NBPRED     NBFLUX  NIRECT  NRRECT  NURECT  NBRECT
+ #2     16206        83    2932     2017    23198    2042      0       0       0      0      0       0    110654         0    1844298     167228       0       0       0       0
+
+     NKSTRY  NKSREG  NKSHYP     NKSPER  NPRECT  NEWKS   NKSMOD    NTTRY  NTRIP  NQUAD  NCHAIN  NMERG  NEWHI  NSTEPT  NSTEPQ  NSTEPC
+ #3    77215     75       9          0       0      0        0        1      0      0      23      0      0       0       0    5230
+
+
+ T =    43.  N =   100  <NB> =  9  KS =    1  NM =  0  MM = 0  NS =    98  NSTEPS =     540524     10374     148891      20755  DE = -5.4E-07  E = -0.249724  M = 1.0000
+
+    <R>  RTIDE  RDENS   RC    NC   MC   RHOD   RHOM  CMAX   <Cn>   Ir/R   UN    NP   RCM    VCM      AZ      EB/E   EM/E   TCR     T6  NESC  VRMS
+ #1 3.73  37.3  1.38 0.8239    6  0.246    0.     0.    4.  16.0  0.574    0    18   0.005  0.0004  -0.0727-41.304  0.000******     2     0   0.7
+
+       NNPRED    NBCORR  NBFULL  NBVOID    NICONV  NBSMIN  NBDIS  NBDIS2  NCMDER  NBDER  NFAST  NBFAST    NBLOCK    NBLCKR     NBPRED     NBFLUX  NIRECT  NRRECT  NURECT  NBRECT
+ #2     16324        83    2947     2021    23348    2042      0       0       0      0      0       0    110906         0    1847311     168046       0       0       0       0
+
+     NKSTRY  NKSREG  NKSHYP     NKSPER  NPRECT  NEWKS   NKSMOD    NTTRY  NTRIP  NQUAD  NCHAIN  NMERG  NEWHI  NSTEPT  NSTEPQ  NSTEPC
+ #3    77215     75       9          0       0      0        0        1      0      0      23      0      0       0       0    5230
+
+ ADJUST:  TIME =   44.00  Q = 1.05  DE = -2.53E-06  E = -0.249725  RMIN = 1.5E-02  DTMIN = 5.2E-04  TC =    0  DELTA = -3.1E-07  E(3) =  0.006196  DETOT =  0.000275
+
+
+ T =    44.  N =   100  <NB> =  9  KS =    1  NM =  0  MM = 0  NS =    98  NSTEPS =     543532     10624     149545      22030  DE = -2.5E-06  E = -0.249725  M = 1.0000
+
+    <R>  RTIDE  RDENS   RC    NC   MC   RHOD   RHOM  CMAX   <Cn>   Ir/R   UN    NP   RCM    VCM      AZ      EB/E   EM/E   TCR     T6  NESC  VRMS
+ #1 4.24  42.4  1.59 1.1150    6  0.258   16.    36.    4.  16.1  0.701    0    18   0.006  0.0004  -0.0727-41.307  0.000******     2     0   0.7
+
+       NNPRED    NBCORR  NBFULL  NBVOID    NICONV  NBSMIN  NBDIS  NBDIS2  NCMDER  NBDER  NFAST  NBFAST    NBLOCK    NBLCKR     NBPRED     NBFLUX  NIRECT  NRRECT  NURECT  NBRECT
+ #2     16452        83    2970     2026    23397    2042      0       0       0      0      0       0    111194         0    1850994     168615       0       0       0       0
+
+     NKSTRY  NKSREG  NKSHYP     NKSPER  NPRECT  NEWKS   NKSMOD    NTTRY  NTRIP  NQUAD  NCHAIN  NMERG  NEWHI  NSTEPT  NSTEPQ  NSTEPC
+ #3    77215     75       9          0       0      0        0        1      0      0      23      0      0       0       0    5230
+
+
+ T =    45.  N =   100  <NB> =  9  KS =    1  NM =  0  MM = 0  NS =    98  NSTEPS =     547147     10818     150245      23294  DE =  3.9E-07  E = -0.249725  M = 1.0000
+
+    <R>  RTIDE  RDENS   RC    NC   MC   RHOD   RHOM  CMAX   <Cn>   Ir/R   UN    NP   RCM    VCM      AZ      EB/E   EM/E   TCR     T6  NESC  VRMS
+ #1 4.24  42.4  1.68 1.2446    6  0.291    0.     0.    5.  15.9  0.807    0    19   0.006  0.0004  -0.0727-41.305  0.000******     3     0   0.7
+
+       NNPRED    NBCORR  NBFULL  NBVOID    NICONV  NBSMIN  NBDIS  NBDIS2  NCMDER  NBDER  NFAST  NBFAST    NBLOCK    NBLCKR     NBPRED     NBFLUX  NIRECT  NRRECT  NURECT  NBRECT
+ #2     16609        83    3036     2031    23478    2042      0       0       0      0      0       0    111608         0    1856540     169874       0       0       0       0
+
+     NKSTRY  NKSREG  NKSHYP     NKSPER  NPRECT  NEWKS   NKSMOD    NTTRY  NTRIP  NQUAD  NCHAIN  NMERG  NEWHI  NSTEPT  NSTEPQ  NSTEPC
+ #3    77418     76       9          0       0      0        0        1      0      0      23      0      0       0       0    5230
+
+ ADJUST:  TIME =   46.01  Q = 1.05  DE = -5.62E-08  E = -0.249725  RMIN = 1.6E-02  DTMIN = 5.9E-04  TC =    0  DELTA = -7.3E-09  E(3) =  0.006195  DETOT =  0.000275
+
+
+ T =    46.  N =   100  <NB> =  9  KS =    1  NM =  0  MM = 0  NS =    98  NSTEPS =     550102     11002     150817      24537  DE = -5.6E-08  E = -0.249725  M = 1.0000
+
+    <R>  RTIDE  RDENS   RC    NC   MC   RHOD   RHOM  CMAX   <Cn>   Ir/R   UN    NP   RCM    VCM      AZ      EB/E   EM/E   TCR     T6  NESC  VRMS
+ #1 4.06  40.6  1.85 0.5157    4  0.260   30.    60.    3.  15.9  0.513    0    18   0.007  0.0004  -0.0727-41.311  0.000******     3     0   0.7
+
+       NNPRED    NBCORR  NBFULL  NBVOID    NICONV  NBSMIN  NBDIS  NBDIS2  NCMDER  NBDER  NFAST  NBFAST    NBLOCK    NBLCKR     NBPRED     NBFLUX  NIRECT  NRRECT  NURECT  NBRECT
+ #2     16710        83    3066     2036    23535    2042      0       0       0      0      0       0    111926         0    1861519     170976       0       0       0       0
+
+     NKSTRY  NKSREG  NKSHYP     NKSPER  NPRECT  NEWKS   NKSMOD    NTTRY  NTRIP  NQUAD  NCHAIN  NMERG  NEWHI  NSTEPT  NSTEPQ  NSTEPC
+ #3    77466     76       9          0       0      0        0        1      0      0      23      0      0       0       0    5230
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    46.828     8   1  19  1.48E-02  3.62E-02 -2.57E-01 -2.54E-03  5.35E-02
+
+
+ T =    47.  N =   100  <NB> = 10  KS =    1  NM =  0  MM = 0  NS =    98  NSTEPS =     555109     11777     151563      26382  DE =  2.5E-05  E = -0.249719  M = 1.0000
+
+    <R>  RTIDE  RDENS   RC    NC   MC   RHOD   RHOM  CMAX   <Cn>   Ir/R   UN    NP   RCM    VCM      AZ      EB/E   EM/E   TCR     T6  NESC  VRMS
+ #1 4.06  40.6  1.70 0.6205    3  0.228    0.     0.    2.  17.9  1.909    0    18   0.007  0.0004  -0.0727-34.430  0.000******     3     0   0.8
+
+       NNPRED    NBCORR  NBFULL  NBVOID    NICONV  NBSMIN  NBDIS  NBDIS2  NCMDER  NBDER  NFAST  NBFAST    NBLOCK    NBLCKR     NBPRED     NBFLUX  NIRECT  NRRECT  NURECT  NBRECT
+ #2     16839        84    3100     2040    23630    2061      0       0       0      0      0       0    113022         0    1880610     172275       0       0       0       0
+
+     NKSTRY  NKSREG  NKSHYP     NKSPER  NPRECT  NEWKS   NKSMOD    NTTRY  NTRIP  NQUAD  NCHAIN  NMERG  NEWHI  NSTEPT  NSTEPQ  NSTEPC
+ #3    78316     78      10          0       0      0        0        1      0      0      23      0      0       0       0    5230
+
+ ADJUST:  TIME =   48.01  Q = 1.07  DE = -1.85E-07  E = -0.249719  RMIN = 2.1E-02  DTMIN = 8.5E-04  TC =    0  DELTA = -2.1E-08  E(3) =  0.007456  DETOT =  0.000281
+
+
+ T =    48.  N =   100  <NB> =  9  KS =    1  NM =  0  MM = 0  NS =    98  NSTEPS =     558561     12127     152042      27685  DE = -1.9E-07  E = -0.249719  M = 1.0000
+
+    <R>  RTIDE  RDENS   RC    NC   MC   RHOD   RHOM  CMAX   <Cn>   Ir/R   UN    NP   RCM    VCM      AZ      EB/E   EM/E   TCR     T6  NESC  VRMS
+ #1 4.65  46.5  1.66 1.1174    7  0.280   10.    18.    3.  16.7  0.876    0    19   0.007  0.0004  -0.0727-34.494  0.000803.14     3     0   0.7
+
+       NNPRED    NBCORR  NBFULL  NBVOID    NICONV  NBSMIN  NBDIS  NBDIS2  NCMDER  NBDER  NFAST  NBFAST    NBLOCK    NBLCKR     NBPRED     NBFLUX  NIRECT  NRRECT  NURECT  NBRECT
+ #2     16942        84    3103     2045    23662    2065      0       0       0      0      0       0    113545         0    1889493     172870       0       0       0       0
+
+     NKSTRY  NKSREG  NKSHYP     NKSPER  NPRECT  NEWKS   NKSMOD    NTTRY  NTRIP  NQUAD  NCHAIN  NMERG  NEWHI  NSTEPT  NSTEPQ  NSTEPC
+ #3    78378     78      10          0       0      0        0        1      0      0      23      0      0       0       0    5230
+
+
+ T =    49.  N =   100  <NB> = 10  KS =    1  NM =  0  MM = 0  NS =    98  NSTEPS =     561015     12325     152437      28936  DE =  6.5E-09  E = -0.249719  M = 1.0000
+
+    <R>  RTIDE  RDENS   RC    NC   MC   RHOD   RHOM  CMAX   <Cn>   Ir/R   UN    NP   RCM    VCM      AZ      EB/E   EM/E   TCR     T6  NESC  VRMS
+ #1 4.65  46.5  1.69 1.2326    5  0.248    0.     0.    3.  17.2  1.604    0    17   0.007  0.0004  -0.0727-34.493  0.000803.14     3     0   0.7
+
+       NNPRED    NBCORR  NBFULL  NBVOID    NICONV  NBSMIN  NBDIS  NBDIS2  NCMDER  NBDER  NFAST  NBFAST    NBLOCK    NBLCKR     NBPRED     NBFLUX  NIRECT  NRRECT  NURECT  NBRECT
+ #2     17015        84    3120     2049    23694    2065      0       0       0      0      0       0    113808         0    1894249     173391       0       0       0       0
+
+     NKSTRY  NKSREG  NKSHYP     NKSPER  NPRECT  NEWKS   NKSMOD    NTTRY  NTRIP  NQUAD  NCHAIN  NMERG  NEWHI  NSTEPT  NSTEPQ  NSTEPC
+ #3    78378     78      10          0       0      0        0        1      0      0      23      0      0       0       0    5230
+
+ ADJUST:  TIME =   50.00  Q = 1.07  DE = -9.79E-06  E = -0.249720  RMIN = 2.3E-02  DTMIN = 9.6E-04  TC =    0  DELTA = -1.1E-06  E(3) =  0.007445  DETOT =  0.000280
+
+
+ T =    50.  N =   100  <NB> = 10  KS =    1  NM =  0  MM = 0  NS =    98  NSTEPS =     564580     12856     152857      30386  DE = -9.8E-06  E = -0.249720  M = 1.0000
+
+    <R>  RTIDE  RDENS   RC    NC   MC   RHOD   RHOM  CMAX   <Cn>   Ir/R   UN    NP   RCM    VCM      AZ      EB/E   EM/E   TCR     T6  NESC  VRMS
+ #1 4.66  46.6  1.52 1.1572    4  0.242   10.    25.    3.  17.9  1.766    0    16   0.008  0.0004  -0.0727-34.542  0.000804.88     3     0   0.7
+
+       NNPRED    NBCORR  NBFULL  NBVOID    NICONV  NBSMIN  NBDIS  NBDIS2  NCMDER  NBDER  NFAST  NBFAST    NBLOCK    NBLCKR     NBPRED     NBFLUX  NIRECT  NRRECT  NURECT  NBRECT
+ #2     17117        84    3133     2052    23712    2070      0       0       0      0      0       0    114480         0    1906846     173932       0       0       0       0
+
+     NKSTRY  NKSREG  NKSHYP     NKSPER  NPRECT  NEWKS   NKSMOD    NTTRY  NTRIP  NQUAD  NCHAIN  NMERG  NEWHI  NSTEPT  NSTEPQ  NSTEPC
+ #3    78613     78      10          0       0      0        0        1      0      0      23      0      0       0       0    5230
+
+
+ T =    51.  N =   100  <NB> = 10  KS =    1  NM =  0  MM = 0  NS =    98  NSTEPS =     568680     13778     153286      32131  DE =  3.1E-06  E = -0.249719  M = 1.0000
+
+    <R>  RTIDE  RDENS   RC    NC   MC   RHOD   RHOM  CMAX   <Cn>   Ir/R   UN    NP   RCM    VCM      AZ      EB/E   EM/E   TCR     T6  NESC  VRMS
+ #1 4.66  46.6  1.44 1.4442    5  0.247    0.     0.    2.  17.5  1.182    0    17   0.008  0.0004  -0.0727-23.451  0.000804.88     3     0   0.7
+
+       NNPRED    NBCORR  NBFULL  NBVOID    NICONV  NBSMIN  NBDIS  NBDIS2  NCMDER  NBDER  NFAST  NBFAST    NBLOCK    NBLCKR     NBPRED     NBFLUX  NIRECT  NRRECT  NURECT  NBRECT
+ #2     17207        84    3151     2057    23730    2071      0       0       0      0      0       0    115457         0    1926185     174459       0       0       0       0
+
+     NKSTRY  NKSREG  NKSHYP     NKSPER  NPRECT  NEWKS   NKSMOD    NTTRY  NTRIP  NQUAD  NCHAIN  NMERG  NEWHI  NSTEPT  NSTEPQ  NSTEPC
+ #3    79083     78      10          0       0      0        0        1      0      0      23      0      0       0       0    5230
+
+ ADJUST:  TIME =   52.00  Q = 1.11  DE =  6.26E-08  E = -0.249719  RMIN = 5.7E-03  DTMIN = 1.2E-04  TC =    0  DELTA =  6.9E-09  E(3) =  0.011122  DETOT =  0.000281
+
+
+ T =    52.  N =   100  <NB> = 10  KS =    1  NM =  0  MM = 0  NS =    98  NSTEPS =     571519     14081     153715      33468  DE =  6.3E-08  E = -0.249719  M = 1.0000
+
+    <R>  RTIDE  RDENS   RC    NC   MC   RHOD   RHOM  CMAX   <Cn>   Ir/R   UN    NP   RCM    VCM      AZ      EB/E   EM/E   TCR     T6  NESC  VRMS
+ #1 5.07  50.7  1.86 1.4976    5  0.316    8.    16.    5.  17.2  1.902    0    17   0.009  0.0004  -0.0727-23.452  0.000449.65     3     0   0.7
+
+       NNPRED    NBCORR  NBFULL  NBVOID    NICONV  NBSMIN  NBDIS  NBDIS2  NCMDER  NBDER  NFAST  NBFAST    NBLOCK    NBLCKR     NBPRED     NBFLUX  NIRECT  NRRECT  NURECT  NBRECT
+ #2     17282        84    3174     2063    23748    2072      0       0       0      0      0       0    115893         0    1935289     175058       0       0       0       0
+
+     NKSTRY  NKSREG  NKSHYP     NKSPER  NPRECT  NEWKS   NKSMOD    NTTRY  NTRIP  NQUAD  NCHAIN  NMERG  NEWHI  NSTEPT  NSTEPQ  NSTEPC
+ #3    79209     79      10          0       0      0        0        1      0      0      23      0      0       0       0    5230
+
+
+ T =    53.  N =   100  <NB> = 10  KS =    1  NM =  0  MM = 0  NS =    98  NSTEPS =     574937     14730     154147      35042  DE = -9.2E-07  E = -0.249719  M = 1.0000
+
+    <R>  RTIDE  RDENS   RC    NC   MC   RHOD   RHOM  CMAX   <Cn>   Ir/R   UN    NP   RCM    VCM      AZ      EB/E   EM/E   TCR     T6  NESC  VRMS
+ #1 5.07  50.7  2.11 1.0533    4  0.114    0.     0.    4.  16.5  0.618    0    15   0.009  0.0004  -0.0727-23.336  0.000449.65     3     0   0.7
+
+       NNPRED    NBCORR  NBFULL  NBVOID    NICONV  NBSMIN  NBDIS  NBDIS2  NCMDER  NBDER  NFAST  NBFAST    NBLOCK    NBLCKR     NBPRED     NBFLUX  NIRECT  NRRECT  NURECT  NBRECT
+ #2     17358        84    3186     2069    23767    2072      0       0       0      0      0       0    116714         0    1951344     175698       0       0       0       0
+
+     NKSTRY  NKSREG  NKSHYP     NKSPER  NPRECT  NEWKS   NKSMOD    NTTRY  NTRIP  NQUAD  NCHAIN  NMERG  NEWHI  NSTEPT  NSTEPQ  NSTEPC
+ #3    79291     79      10          0       0      0        0        1      0      0      23      0      0       0       0    5230
+
+ ADJUST:  TIME =   54.00  Q = 1.10  DE = -8.79E-06  E = -0.249720  RMIN = 1.8E-02  DTMIN = 6.7E-04  TC =    0  DELTA = -1.1E-06  E(3) =  0.011170  DETOT =  0.000280
+
+
+ T =    54.  N =   100  <NB> = 10  KS =    1  NM =  0  MM = 0  NS =    98  NSTEPS =     577660     15244     154675      36539  DE = -8.8E-06  E = -0.249720  M = 1.0000
+
+    <R>  RTIDE  RDENS   RC    NC   MC   RHOD   RHOM  CMAX   <Cn>   Ir/R   UN    NP   RCM    VCM      AZ      EB/E   EM/E   TCR     T6  NESC  VRMS
+ #1 4.60  46.0  1.75 0.6917    2  0.009   23.    52.    2.  16.8  1.006    0    17   0.010  0.0004  -0.0727-23.356  0.000444.76     3     0   0.7
+
+       NNPRED    NBCORR  NBFULL  NBVOID    NICONV  NBSMIN  NBDIS  NBDIS2  NCMDER  NBDER  NFAST  NBFAST    NBLOCK    NBLCKR     NBPRED     NBFLUX  NIRECT  NRRECT  NURECT  NBRECT
+ #2     17405        85    3205     2075    23832    2072      0       0       0      0      0       0    117262         0    1961991     176163       0       0       0       0
+
+     NKSTRY  NKSREG  NKSHYP     NKSPER  NPRECT  NEWKS   NKSMOD    NTTRY  NTRIP  NQUAD  NCHAIN  NMERG  NEWHI  NSTEPT  NSTEPQ  NSTEPC
+ #3    79346     79      10          0       0      0        0        1      0      0      23      0      0       0       0    5230
+
+
+ T =    55.  N =   100  <NB> = 10  KS =    1  NM =  0  MM = 0  NS =    98  NSTEPS =     581130     15583     155077      37850  DE = -2.1E-07  E = -0.249720  M = 1.0000
+
+    <R>  RTIDE  RDENS   RC    NC   MC   RHOD   RHOM  CMAX   <Cn>   Ir/R   UN    NP   RCM    VCM      AZ      EB/E   EM/E   TCR     T6  NESC  VRMS
+ #1 4.60  46.0  1.44 0.8293    5  0.220    0.     0.    2.  17.0  1.116    0    16   0.010  0.0004  -0.0727-23.362  0.000444.76     3     0   0.7
+
+       NNPRED    NBCORR  NBFULL  NBVOID    NICONV  NBSMIN  NBDIS  NBDIS2  NCMDER  NBDER  NFAST  NBFAST    NBLOCK    NBLCKR     NBPRED     NBFLUX  NIRECT  NRRECT  NURECT  NBRECT
+ #2     17470        85    3261     2081    23856    2072      0       0       0      0      0       0    117914         0    1974619     176878       0       0       0       0
+
+     NKSTRY  NKSREG  NKSHYP     NKSPER  NPRECT  NEWKS   NKSMOD    NTTRY  NTRIP  NQUAD  NCHAIN  NMERG  NEWHI  NSTEPT  NSTEPQ  NSTEPC
+ #3    79675     79      10          0       0      0        0        1      0      0      23      0      0       0       0    5230
+
+ ADJUST:  TIME =   56.00  Q = 1.10  DE =  7.49E-07  E = -0.249720  RMIN = 2.3E-02  DTMIN = 9.9E-04  TC =    0  DELTA =  9.1E-08  E(3) =  0.011169  DETOT =  0.000280
+
+
+ T =    56.  N =   100  <NB> = 10  KS =    1  NM =  0  MM = 0  NS =    98  NSTEPS =     586134     16519     155616      39558  DE =  7.5E-07  E = -0.249720  M = 1.0000
+
+    <R>  RTIDE  RDENS   RC    NC   MC   RHOD   RHOM  CMAX   <Cn>   Ir/R   UN    NP   RCM    VCM      AZ      EB/E   EM/E   TCR     T6  NESC  VRMS
+ #1 4.51  45.1  1.57 0.9020    5  0.289   17.    32.    3.  17.2  1.983    0    18   0.010  0.0004  -0.0727-23.359  0.000444.42     3     0   0.7
+
+       NNPRED    NBCORR  NBFULL  NBVOID    NICONV  NBSMIN  NBDIS  NBDIS2  NCMDER  NBDER  NFAST  NBFAST    NBLOCK    NBLCKR     NBPRED     NBFLUX  NIRECT  NRRECT  NURECT  NBRECT
+ #2     17558        85    3289     2087    23896    2087      0       0       0      0      0       0    119032         0    1995874     177480       0       0       0       0
+
+     NKSTRY  NKSREG  NKSHYP     NKSPER  NPRECT  NEWKS   NKSMOD    NTTRY  NTRIP  NQUAD  NCHAIN  NMERG  NEWHI  NSTEPT  NSTEPQ  NSTEPC
+ #3    80407     80      11          0       0      0        0        1      0      0      23      0      0       0       0    5230
+
+
+ T =    57.  N =   100  <NB> = 10  KS =    1  NM =  0  MM = 0  NS =    98  NSTEPS =     590235     17058     156075      40934  DE =  2.1E-07  E = -0.249720  M = 1.0000
+
+    <R>  RTIDE  RDENS   RC    NC   MC   RHOD   RHOM  CMAX   <Cn>   Ir/R   UN    NP   RCM    VCM      AZ      EB/E   EM/E   TCR     T6  NESC  VRMS
+ #1 4.51  45.1  1.52 0.7644    4  0.289    0.     0.    3.  16.8  1.185    0    19   0.010  0.0004  -0.0727-23.418  0.000444.42     3     0   0.8
+
+       NNPRED    NBCORR  NBFULL  NBVOID    NICONV  NBSMIN  NBDIS  NBDIS2  NCMDER  NBDER  NFAST  NBFAST    NBLOCK    NBLCKR     NBPRED     NBFLUX  NIRECT  NRRECT  NURECT  NBRECT
+ #2     17670        85    3322     2091    23937    2133      0       0       0      0      0       0    119837         0    2010720     178045       0       0       0       0
+
+     NKSTRY  NKSREG  NKSHYP     NKSPER  NPRECT  NEWKS   NKSMOD    NTTRY  NTRIP  NQUAD  NCHAIN  NMERG  NEWHI  NSTEPT  NSTEPQ  NSTEPC
+ #3    81144     80      11          0       0      0        0        1      0      0      23      0      0       0       0    5230
+
+ ADJUST:  TIME =   58.00  Q = 1.09  DE = -2.13E-06  E = -0.249720  RMIN = 2.1E-02  DTMIN = 8.6E-04  TC =    0  DELTA = -2.8E-07  E(3) =  0.011184  DETOT =  0.000280
+
+
+ T =    58.  N =   100  <NB> = 10  KS =    1  NM =  0  MM = 0  NS =    98  NSTEPS =     595639     17887     156668      42558  DE = -2.1E-06  E = -0.249720  M = 1.0000
+
+    <R>  RTIDE  RDENS   RC    NC   MC   RHOD   RHOM  CMAX   <Cn>   Ir/R   UN    NP   RCM    VCM      AZ      EB/E   EM/E   TCR     T6  NESC  VRMS
+ #1 4.08  40.8  1.57 0.7235    4  0.282   16.    28.    2.  17.3  2.193    0    18   0.011  0.0004  -0.0727-23.329  0.000441.65     3     0   0.8
+
+       NNPRED    NBCORR  NBFULL  NBVOID    NICONV  NBSMIN  NBDIS  NBDIS2  NCMDER  NBDER  NFAST  NBFAST    NBLOCK    NBLCKR     NBPRED     NBFLUX  NIRECT  NRRECT  NURECT  NBRECT
+ #2     17800        85    3345     2095    24007    2186      0       0       0      0      0       0    120866         0    2029821     178668       0       0       0       0
+
+     NKSTRY  NKSREG  NKSHYP     NKSPER  NPRECT  NEWKS   NKSMOD    NTTRY  NTRIP  NQUAD  NCHAIN  NMERG  NEWHI  NSTEPT  NSTEPQ  NSTEPC
+ #3    82492     81      11          0       0      0        0        1      0      0      23      0      0       0       0    5230
+
+
+ T =    59.  N =   100  <NB> =  9  KS =    1  NM =  0  MM = 0  NS =    98  NSTEPS =     600213     18534     157190      44014  DE = -2.3E-07  E = -0.249720  M = 1.0000
+
+    <R>  RTIDE  RDENS   RC    NC   MC   RHOD   RHOM  CMAX   <Cn>   Ir/R   UN    NP   RCM    VCM      AZ      EB/E   EM/E   TCR     T6  NESC  VRMS
+ #1 4.08  40.8  1.61 0.9757    6  0.236    0.     0.    3.  17.6  1.310    0    19   0.011  0.0004  -0.0727-23.380  0.000441.65     3     0   0.7
+
+       NNPRED    NBCORR  NBFULL  NBVOID    NICONV  NBSMIN  NBDIS  NBDIS2  NCMDER  NBDER  NFAST  NBFAST    NBLOCK    NBLCKR     NBPRED     NBFLUX  NIRECT  NRRECT  NURECT  NBRECT
+ #2     17899        85    3365     2098    24042    2210      0       0       0      0      0       0    121771         0    2046484     179253       0       0       0       0
+
+     NKSTRY  NKSREG  NKSHYP     NKSPER  NPRECT  NEWKS   NKSMOD    NTTRY  NTRIP  NQUAD  NCHAIN  NMERG  NEWHI  NSTEPT  NSTEPQ  NSTEPC
+ #3    83057     81      11          0       0      0        0        1      0      0      23      0      0       0       0    5230
+
+ ADJUST:  TIME =   60.00  Q = 1.10  DE =  1.15E-06  E = -0.249720  RMIN = 1.9E-02  DTMIN = 7.4E-04  TC =    0  DELTA =  1.4E-07  E(3) =  0.011170  DETOT =  0.000280
+
+
+ T =    60.  N =   100  <NB> =  9  KS =    1  NM =  0  MM = 0  NS =    98  NSTEPS =     604760     19191     157703      45508  DE =  1.1E-06  E = -0.249720  M = 1.0000
+
+    <R>  RTIDE  RDENS   RC    NC   MC   RHOD   RHOM  CMAX   <Cn>   Ir/R   UN    NP   RCM    VCM      AZ      EB/E   EM/E   TCR     T6  NESC  VRMS
+ #1 4.62  46.2  1.39 1.0707    5  0.249   14.    29.    5.  18.0  2.955    0    19   0.012  0.0004  -0.0727-23.357  0.000444.88     4     0   0.7
+
+       NNPRED    NBCORR  NBFULL  NBVOID    NICONV  NBSMIN  NBDIS  NBDIS2  NCMDER  NBDER  NFAST  NBFAST    NBLOCK    NBLCKR     NBPRED     NBFLUX  NIRECT  NRRECT  NURECT  NBRECT
+ #2     18022        85    3400     2104    24072    2214      0       0       0      0      0       0    122634         0    2061854     179999       0       0       0       0
+
+     NKSTRY  NKSREG  NKSHYP     NKSPER  NPRECT  NEWKS   NKSMOD    NTTRY  NTRIP  NQUAD  NCHAIN  NMERG  NEWHI  NSTEPT  NSTEPQ  NSTEPC
+ #3    83389     81      11          0       0      0        0        1      0      0      23      0      0       0       0    5230
+
+
+ T =    61.  N =   100  <NB> =  9  KS =    1  NM =  0  MM = 0  NS =    98  NSTEPS =     609378     20001     158193      47100  DE =  5.2E-07  E = -0.249720  M = 1.0000
+
+    <R>  RTIDE  RDENS   RC    NC   MC   RHOD   RHOM  CMAX   <Cn>   Ir/R   UN    NP   RCM    VCM      AZ      EB/E   EM/E   TCR     T6  NESC  VRMS
+ #1 4.62  46.2  1.34 0.7460    5  0.247    0.     0.    3.  16.4  0.927    0    17   0.012  0.0004  -0.0727-23.354  0.000444.88     4     0   0.7
+
+       NNPRED    NBCORR  NBFULL  NBVOID    NICONV  NBSMIN  NBDIS  NBDIS2  NCMDER  NBDER  NFAST  NBFAST    NBLOCK    NBLCKR     NBPRED     NBFLUX  NIRECT  NRRECT  NURECT  NBRECT
+ #2     18130        85    3407     2108    24091    2218      0       0       0      0      0       0    123601         0    2079499     180692       0       0       0       0
+
+     NKSTRY  NKSREG  NKSHYP     NKSPER  NPRECT  NEWKS   NKSMOD    NTTRY  NTRIP  NQUAD  NCHAIN  NMERG  NEWHI  NSTEPT  NSTEPQ  NSTEPC
+ #3    83729     81      11          0       0      0        0        1      0      0      23      0      0       0       0    5230
+
+ ADJUST:  TIME =   62.00  Q = 1.09  DE =  1.82E-07  E = -0.249720  RMIN = 2.0E-02  DTMIN = 8.2E-04  TC =    0  DELTA =  2.6E-08  E(3) =  0.011179  DETOT =  0.000280
+
+
+ T =    62.  N =   100  <NB> = 10  KS =    1  NM =  0  MM = 0  NS =    98  NSTEPS =     615164     20827     158774      48715  DE =  1.8E-07  E = -0.249720  M = 1.0000
+
+    <R>  RTIDE  RDENS   RC    NC   MC   RHOD   RHOM  CMAX   <Cn>   Ir/R   UN    NP   RCM    VCM      AZ      EB/E   EM/E   TCR     T6  NESC  VRMS
+ #1 3.83  38.3  1.32 0.3044    3  0.209  119.   188.    2.  17.5  3.900    0    18   0.012  0.0004  -0.0727-23.339  0.000440.78     4     0   0.8
+
+       NNPRED    NBCORR  NBFULL  NBVOID    NICONV  NBSMIN  NBDIS  NBDIS2  NCMDER  NBDER  NFAST  NBFAST    NBLOCK    NBLCKR     NBPRED     NBFLUX  NIRECT  NRRECT  NURECT  NBRECT
+ #2     18247        85    3423     2113    24136    2239      0       0       0      0      0       0    124649         0    2099101     181297       0       0       0       0
+
+     NKSTRY  NKSREG  NKSHYP     NKSPER  NPRECT  NEWKS   NKSMOD    NTTRY  NTRIP  NQUAD  NCHAIN  NMERG  NEWHI  NSTEPT  NSTEPQ  NSTEPC
+ #3    84509     81      11          0       0      0        0        1      0      0      23      0      0       0       0    5230
+
+
+ T =    63.  N =   100  <NB> =  9  KS =    1  NM =  0  MM = 0  NS =    98  NSTEPS =     621992     22045     159388      50812  DE =  1.3E-05  E = -0.249717  M = 1.0000
+
+    <R>  RTIDE  RDENS   RC    NC   MC   RHOD   RHOM  CMAX   <Cn>   Ir/R   UN    NP   RCM    VCM      AZ      EB/E   EM/E   TCR     T6  NESC  VRMS
+ #1 3.83  38.3  1.59 0.6088    4  0.213    0.     0.    3.  16.4  1.267    0    19   0.012  0.0004  -0.0727-19.200  0.000440.78     4     0   0.8
+
+       NNPRED    NBCORR  NBFULL  NBVOID    NICONV  NBSMIN  NBDIS  NBDIS2  NCMDER  NBDER  NFAST  NBFAST    NBLOCK    NBLCKR     NBPRED     NBFLUX  NIRECT  NRRECT  NURECT  NBRECT
+ #2     18402        85    3470     2118    24173    2284      0       0       0      0      0       0    126011         0    2124266     182043       0       0       0       0
+
+     NKSTRY  NKSREG  NKSHYP     NKSPER  NPRECT  NEWKS   NKSMOD    NTTRY  NTRIP  NQUAD  NCHAIN  NMERG  NEWHI  NSTEPT  NSTEPQ  NSTEPC
+ #3    85677     83      12          0       0      0        0        1      0      0      23      0      0       0       0    5230
+
+ ADJUST:  TIME =   64.00  Q = 1.11  DE = -8.24E-07  E = -0.249717  RMIN = 1.6E-02  DTMIN = 5.7E-04  TC =    0  DELTA = -1.2E-07  E(3) =  0.013722  DETOT =  0.000283
+
+
+ T =    64.  N =   100  <NB> =  9  KS =    1  NM =  0  MM = 0  NS =    98  NSTEPS =     626485     22631     159978      52242  DE = -8.2E-07  E = -0.249717  M = 1.0000
+
+    <R>  RTIDE  RDENS   RC    NC   MC   RHOD   RHOM  CMAX   <Cn>   Ir/R   UN    NP   RCM    VCM      AZ      EB/E   EM/E   TCR     T6  NESC  VRMS
+ #1 3.94  39.4  1.68 0.9301    5  0.239   12.    20.    5.  17.3  1.582    0    17   0.013  0.0004  -0.0727-19.199  0.000327.45     4     0   0.8
+
+       NNPRED    NBCORR  NBFULL  NBVOID    NICONV  NBSMIN  NBDIS  NBDIS2  NCMDER  NBDER  NFAST  NBFAST    NBLOCK    NBLCKR     NBPRED     NBFLUX  NIRECT  NRRECT  NURECT  NBRECT
+ #2     18528        85    3529     2122    24229    2291      0       0       0      0      0       0    126696         0    2136201     182936       0       0       0       0
+
+     NKSTRY  NKSREG  NKSHYP     NKSPER  NPRECT  NEWKS   NKSMOD    NTTRY  NTRIP  NQUAD  NCHAIN  NMERG  NEWHI  NSTEPT  NSTEPQ  NSTEPC
+ #3    85881     83      12          0       0      0        0        1      0      0      23      0      0       0       0    5230
+
+
+ T =    65.  N =   100  <NB> =  9  KS =    1  NM =  0  MM = 0  NS =    98  NSTEPS =     631526     23283     160682      53940  DE =  3.6E-07  E = -0.249717  M = 1.0000
+
+    <R>  RTIDE  RDENS   RC    NC   MC   RHOD   RHOM  CMAX   <Cn>   Ir/R   UN    NP   RCM    VCM      AZ      EB/E   EM/E   TCR     T6  NESC  VRMS
+ #1 3.94  39.4  1.64 0.8585    7  0.260    0.     0.    4.  16.8  1.227    0    18   0.013  0.0004  -0.0727-17.707  0.000327.45     4     0   0.8
+
+       NNPRED    NBCORR  NBFULL  NBVOID    NICONV  NBSMIN  NBDIS  NBDIS2  NCMDER  NBDER  NFAST  NBFAST    NBLOCK    NBLCKR     NBPRED     NBFLUX  NIRECT  NRRECT  NURECT  NBRECT
+ #2     18665        85    3544     2126    24252    2301      0       0       0      0      0       0    127852         0    2156719     184095       0       0       0       0
+
+     NKSTRY  NKSREG  NKSHYP     NKSPER  NPRECT  NEWKS   NKSMOD    NTTRY  NTRIP  NQUAD  NCHAIN  NMERG  NEWHI  NSTEPT  NSTEPQ  NSTEPC
+ #3    86703     84      13          0       0      0        0        1      0      0      23      0      0       0       0    5230
+
+ ADJUST:  TIME =   66.00  Q = 1.10  DE = -1.45E-06  E = -0.249717  RMIN = 1.6E-02  DTMIN = 5.8E-04  TC =    0  DELTA = -2.3E-07  E(3) =  0.014949  DETOT =  0.000283
+
+
+ T =    66.  N =   100  <NB> =  9  KS =    1  NM =  0  MM = 0  NS =    98  NSTEPS =     636371     23826     161303      55380  DE = -1.4E-06  E = -0.249717  M = 1.0000
+
+    <R>  RTIDE  RDENS   RC    NC   MC   RHOD   RHOM  CMAX   <Cn>   Ir/R   UN    NP   RCM    VCM      AZ      EB/E   EM/E   TCR     T6  NESC  VRMS
+ #1 3.43  34.3  1.89 0.6272    5  0.321   20.    30.    3.  16.7  0.834    0    19   0.014  0.0004  -0.0727-17.704  0.000287.24     4     0   0.8
+
+       NNPRED    NBCORR  NBFULL  NBVOID    NICONV  NBSMIN  NBDIS  NBDIS2  NCMDER  NBDER  NFAST  NBFAST    NBLOCK    NBLCKR     NBPRED     NBFLUX  NIRECT  NRRECT  NURECT  NBRECT
+ #2     18808        85    3594     2129    24331    2320      0       0       0      0      0       0    128638         0    2169723     185373       0       0       0       0
+
+     NKSTRY  NKSREG  NKSHYP     NKSPER  NPRECT  NEWKS   NKSMOD    NTTRY  NTRIP  NQUAD  NCHAIN  NMERG  NEWHI  NSTEPT  NSTEPQ  NSTEPC
+ #3    87065     84      13          0       0      0        0        1      0      0      23      0      0       0       0    5230
+
+
+ T =    67.  N =   100  <NB> =  8  KS =    1  NM =  0  MM = 0  NS =    98  NSTEPS =     642084     24646     162082      57009  DE = -1.2E-06  E = -0.249717  M = 1.0000
+
+    <R>  RTIDE  RDENS   RC    NC   MC   RHOD   RHOM  CMAX   <Cn>   Ir/R   UN    NP   RCM    VCM      AZ      EB/E   EM/E   TCR     T6  NESC  VRMS
+ #1 3.43  34.3  1.97 0.4702    6  0.326    0.     0.    3.  17.0  2.169    0    18   0.014  0.0004  -0.0727-17.706  0.000287.24     4     0   0.9
+
+       NNPRED    NBCORR  NBFULL  NBVOID    NICONV  NBSMIN  NBDIS  NBDIS2  NCMDER  NBDER  NFAST  NBFAST    NBLOCK    NBLCKR     NBPRED     NBFLUX  NIRECT  NRRECT  NURECT  NBRECT
+ #2     18971        85    3610     2131    24431    2337      0       0       0      0      0       0    129599         0    2185767     186744       0       0       0       0
+
+     NKSTRY  NKSREG  NKSHYP     NKSPER  NPRECT  NEWKS   NKSMOD    NTTRY  NTRIP  NQUAD  NCHAIN  NMERG  NEWHI  NSTEPT  NSTEPQ  NSTEPC
+ #3    87491     84      13          0       0      0        0        1      0      0      23      0      0       0       0    5230
+
+ ADJUST:  TIME =   68.00  Q = 1.11  DE = -1.23E-06  E = -0.249718  RMIN = 1.6E-02  DTMIN = 5.9E-04  TC =    0  DELTA = -1.9E-07  E(3) =  0.014951  DETOT =  0.000282
+
+
+ T =    68.  N =   100  <NB> =  8  KS =    1  NM =  0  MM = 0  NS =    98  NSTEPS =     648309     25486     162967      58613  DE = -1.2E-06  E = -0.249718  M = 1.0000
+
+    <R>  RTIDE  RDENS   RC    NC   MC   RHOD   RHOM  CMAX   <Cn>   Ir/R   UN    NP   RCM    VCM      AZ      EB/E   EM/E   TCR     T6  NESC  VRMS
+ #1 3.63  36.3  1.79 0.3974    4  0.249   73.   108.    2.  16.4  1.036    0    17   0.015  0.0004  -0.0727-17.703  0.000287.96     4     0   0.8
+
+       NNPRED    NBCORR  NBFULL  NBVOID    NICONV  NBSMIN  NBDIS  NBDIS2  NCMDER  NBDER  NFAST  NBFAST    NBLOCK    NBLCKR     NBPRED     NBFLUX  NIRECT  NRRECT  NURECT  NBRECT
+ #2     19112        85    3618     2133    24558    2367      0       0       0      0      0       0    130505         0    2201320     187850       0       0       0       0
+
+     NKSTRY  NKSREG  NKSHYP     NKSPER  NPRECT  NEWKS   NKSMOD    NTTRY  NTRIP  NQUAD  NCHAIN  NMERG  NEWHI  NSTEPT  NSTEPQ  NSTEPC
+ #3    87954     84      13          0       0      0        0        1      0      0      23      0      0       0       0    5230
+
+
+ T =    69.  N =   100  <NB> =  8  KS =    1  NM =  0  MM = 0  NS =    98  NSTEPS =     652683     25966     163523      59978  DE = -5.5E-08  E = -0.249718  M = 1.0000
+
+    <R>  RTIDE  RDENS   RC    NC   MC   RHOD   RHOM  CMAX   <Cn>   Ir/R   UN    NP   RCM    VCM      AZ      EB/E   EM/E   TCR     T6  NESC  VRMS
+ #1 3.63  36.3  1.71 0.7198    4  0.244    0.     0.    1.  16.1  0.885    0    17   0.015  0.0004  -0.0727-17.707  0.000287.96     4     0   0.7
+
+       NNPRED    NBCORR  NBFULL  NBVOID    NICONV  NBSMIN  NBDIS  NBDIS2  NCMDER  NBDER  NFAST  NBFAST    NBLOCK    NBLCKR     NBPRED     NBFLUX  NIRECT  NRRECT  NURECT  NBRECT
+ #2     19232        85    3628     2135    24600    2378      0       0       0      0      0       0    131282         0    2214684     188625       0       0       0       0
+
+     NKSTRY  NKSREG  NKSHYP     NKSPER  NPRECT  NEWKS   NKSMOD    NTTRY  NTRIP  NQUAD  NCHAIN  NMERG  NEWHI  NSTEPT  NSTEPQ  NSTEPC
+ #3    88229     84      13          0       0      0        0        1      0      0      23      0      0       0       0    5230
+
+ ADJUST:  TIME =   70.01  Q = 1.15  DE = -4.53E-07  E = -0.249718  RMIN = 1.3E-02  DTMIN = 4.0E-04  TC =    0  DELTA = -5.3E-08  E(3) =  0.014948  DETOT =  0.000282
+
+
+ T =    70.  N =   100  <NB> =  8  KS =    1  NM =  0  MM = 0  NS =    98  NSTEPS =     655202     26129     163925      61287  DE = -4.5E-07  E = -0.249718  M = 1.0000
+
+    <R>  RTIDE  RDENS   RC    NC   MC   RHOD   RHOM  CMAX   <Cn>   Ir/R   UN    NP   RCM    VCM      AZ      EB/E   EM/E   TCR     T6  NESC  VRMS
+ #1 4.85  48.5  1.61 1.0160    6  0.288   16.    27.    3.  16.7  0.878    0    17   0.015  0.0004  -0.0727-17.706  0.000292.77     4     0   0.7
+
+       NNPRED    NBCORR  NBFULL  NBVOID    NICONV  NBSMIN  NBDIS  NBDIS2  NCMDER  NBDER  NFAST  NBFAST    NBLOCK    NBLCKR     NBPRED     NBFLUX  NIRECT  NRRECT  NURECT  NBRECT
+ #2     19323        85    3637     2137    24619    2378      0       0       0      0      0       0    131571         0    2219237     189128       0       0       0       0
+
+     NKSTRY  NKSREG  NKSHYP     NKSPER  NPRECT  NEWKS   NKSMOD    NTTRY  NTRIP  NQUAD  NCHAIN  NMERG  NEWHI  NSTEPT  NSTEPQ  NSTEPC
+ #3    88229     84      13          0       0      0        0        1      0      0      23      0      0       0       0    5230
+
+
+ T =    71.  N =   100  <NB> =  9  KS =    1  NM =  0  MM = 0  NS =    98  NSTEPS =     657803     26375     164336      62610  DE =  5.8E-07  E = -0.249717  M = 1.0000
+
+    <R>  RTIDE  RDENS   RC    NC   MC   RHOD   RHOM  CMAX   <Cn>   Ir/R   UN    NP   RCM    VCM      AZ      EB/E   EM/E   TCR     T6  NESC  VRMS
+ #1 4.85  48.5  1.54 0.8003    4  0.277    0.     0.    2.  15.6  0.784    0    15   0.015  0.0004  -0.0727-17.709  0.000292.77     4     0   0.8
+
+       NNPRED    NBCORR  NBFULL  NBVOID    NICONV  NBSMIN  NBDIS  NBDIS2  NCMDER  NBDER  NFAST  NBFAST    NBLOCK    NBLCKR     NBPRED     NBFLUX  NIRECT  NRRECT  NURECT  NBRECT
+ #2     19403        85    3643     2138    24639    2378      0       0       0      0      0       0    132081         0    2228198     189609       0       0       0       0
+
+     NKSTRY  NKSREG  NKSHYP     NKSPER  NPRECT  NEWKS   NKSMOD    NTTRY  NTRIP  NQUAD  NCHAIN  NMERG  NEWHI  NSTEPT  NSTEPQ  NSTEPC
+ #3    88301     84      13          0       0      0        0        1      0      0      23      0      0       0       0    5230
+
+ ADJUST:  TIME =   72.00  Q = 1.26  DE = -1.67E-01  E = -0.271038  RMIN = 2.6E-02  DTMIN = 1.2E-03  TC =    0  DELTA = -2.1E-02  E(3) =  0.025978  DETOT = -0.021038
+
+         CALCULATIONS HALTED * * *
