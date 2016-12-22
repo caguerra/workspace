@@ -1,0 +1,239 @@
+Directory: stars-10
+Number of good files: 63
+Time steps :{499}
+Particles dimensions {3, #files}: {3, 63}
+End times of runs: {498, 499}
+
+CompiledFunction::cfne: Numerical error encountered; proceeding with uncompiled evaluation.
+
+                                 1
+Power::infy: Infinite expression -- encountered.
+                                 0.
+
+Infinity::indet: Indeterminate expression 0. ComplexInfinity encountered.
+
+                                 1
+Power::infy: Infinite expression -- encountered.
+                                 0.
+
+Infinity::indet: Indeterminate expression 0. ComplexInfinity encountered.
+
+                                 1
+Power::infy: Infinite expression -- encountered.
+                                 0.
+
+General::stop: Further output of Power::infy will be suppressed during this calculation.
+
+Infinity::indet: Indeterminate expression 0. ComplexInfinity encountered.
+
+General::stop: Further output of Infinity::indet will be suppressed during this calculation.
+
+CompiledFunction::cfne: Numerical error encountered; proceeding with uncompiled evaluation.
+
+CompiledFunction::cfne: Numerical error encountered; proceeding with uncompiled evaluation.
+
+General::stop: Further output of CompiledFunction::cfne will be suppressed during this calculation.
+Directory: stars-100
+Number of good files: 47
+Time steps :{499}
+Particles dimensions {3, #files}: {3, 47}
+End times of runs: {496, 497, 498, 499}
+
+Min::nord: Invalid comparison with ComplexInfinity attempted.
+
+Min::nord: Invalid comparison with ComplexInfinity attempted.
+
+Min::nord: Invalid comparison with ComplexInfinity attempted.
+
+General::stop: Further output of Min::nord will be suppressed during this calculation.
+Directory: stars-110
+Number of good files: 52
+Time steps :{499}
+Particles dimensions {3, #files}: {3, 52}
+End times of runs: {497, 498, 499}
+Directory: stars-120
+Number of good files: 49
+Time steps :{499}
+Particles dimensions {3, #files}: {3, 49}
+End times of runs: {496, 497, 498, 499}
+Directory: stars-130
+Number of good files: 46
+Time steps :{499}
+Particles dimensions {3, #files}: {3, 46}
+End times of runs: {496, 497, 498, 499}
+Directory: stars-140
+Number of good files: 36
+Time steps :{499}
+Particles dimensions {3, #files}: {3, 36}
+End times of runs: {496, 497, 498, 499}
+Directory: stars-150
+Number of good files: 39
+Time steps :{499}
+Particles dimensions {3, #files}: {3, 39}
+End times of runs: {496, 497, 498, 499}
+Directory: stars-160
+Number of good files: 46
+Time steps :{499}
+Particles dimensions {3, #files}: {3, 46}
+End times of runs: {496, 497, 498, 499}
+Directory: stars-170
+Number of good files: 34
+Time steps :{499}
+Particles dimensions {3, #files}: {3, 34}
+End times of runs: {496, 497, 498, 499}
+Directory: stars-180
+Number of good files: 38
+Time steps :{499}
+Particles dimensions {3, #files}: {3, 38}
+End times of runs: {495, 496, 497, 498, 499}
+Directory: stars-190
+Number of good files: 39
+Time steps :{499}
+Particles dimensions {3, #files}: {3, 39}
+End times of runs: {496, 497, 498, 499}
+Directory: stars-20
+Number of good files: 52
+Time steps :{499}
+Particles dimensions {3, #files}: {3, 52}
+End times of runs: {495, 497, 498, 499}
+Directory: stars-200
+Number of good files: 35
+Time steps :{499}
+Particles dimensions {3, #files}: {3, 35}
+End times of runs: {495, 496, 497, 498, 499}
+Directory: stars-210
+Number of good files: 32
+Time steps :{499}
+Particles dimensions {3, #files}: {3, 32}
+End times of runs: {496, 497, 498, 499}
+Directory: stars-220
+Number of good files: 28
+Time steps :{499}
+Particles dimensions {3, #files}: {3, 28}
+End times of runs: {496, 497, 498, 499}
+Directory: stars-230
+Number of good files: 31
+Time steps :{499}
+Particles dimensions {3, #files}: {3, 31}
+End times of runs: {496, 497, 498, 499}
+Directory: stars-240
+Number of good files: 38
+Time steps :{499}
+Particles dimensions {3, #files}: {3, 38}
+End times of runs: {496, 497, 498, 499}
+Directory: stars-250
+Number of good files: 24
+Time steps :{499}
+Particles dimensions {3, #files}: {3, 24}
+End times of runs: {497, 498, 499}
+Directory: stars-260
+Number of good files: 33
+Time steps :{499}
+Particles dimensions {3, #files}: {3, 33}
+End times of runs: {497, 498, 499}
+Directory: stars-270
+Number of good files: 25
+Time steps :{499}
+Particles dimensions {3, #files}: {3, 25}
+End times of runs: {497, 498, 499}
+Directory: stars-280
+Number of good files: 24
+Time steps :{499}
+Particles dimensions {3, #files}: {3, 24}
+End times of runs: {497, 498, 499}
+Directory: stars-290
+Number of good files: 22
+Time steps :{499}
+Particles dimensions {3, #files}: {3, 22}
+End times of runs: {497, 498, 499}
+Directory: stars-30
+Number of good files: 47
+Time steps :{499}
+Particles dimensions {3, #files}: {3, 47}
+End times of runs: {496, 498, 499}
+Directory: stars-300
+Number of good files: 20
+Time steps :{499}
+Particles dimensions {3, #files}: {3, 20}
+End times of runs: {496, 498, 499}
+Directory: stars-310
+Number of good files: 28
+Time steps :{499}
+Particles dimensions {3, #files}: {3, 28}
+End times of runs: {496, 497, 498, 499}
+Directory: stars-320
+Number of good files: 19
+Time steps :{499}
+Particles dimensions {3, #files}: {3, 19}
+End times of runs: {496, 497, 498, 499}
+Directory: stars-330
+Number of good files: 28
+Time steps :{499}
+Particles dimensions {3, #files}: {3, 28}
+End times of runs: {495, 496, 497, 498, 499}
+Directory: stars-340
+Number of good files: 12
+Time steps :{499}
+Particles dimensions {3, #files}: {3, 12}
+End times of runs: {494, 496, 497, 498, 499}
+Directory: stars-350
+Number of good files: 21
+Time steps :{499}
+Particles dimensions {3, #files}: {3, 21}
+End times of runs: {495, 497, 498, 499}
+Directory: stars-360
+Number of good files: 31
+Time steps :{499}
+Particles dimensions {3, #files}: {3, 31}
+End times of runs: {494, 495, 496, 497, 498, 499}
+Directory: stars-370
+Number of good files: 18
+Time steps :{499}
+Particles dimensions {3, #files}: {3, 18}
+End times of runs: {495, 496, 497, 498, 499}
+Directory: stars-380
+Number of good files: 18
+Time steps :{499}
+Particles dimensions {3, #files}: {3, 18}
+End times of runs: {495, 496, 497, 498, 499}
+Directory: stars-390
+Number of good files: 27
+Time steps :{499}
+Particles dimensions {3, #files}: {3, 27}
+End times of runs: {496, 497, 498, 499}
+Directory: stars-40
+Number of good files: 54
+Time steps :{499}
+Particles dimensions {3, #files}: {3, 54}
+End times of runs: {498, 499}
+Directory: stars-400
+Number of good files: 30
+Time steps :{499}
+Particles dimensions {3, #files}: {3, 30}
+End times of runs: {495, 496, 497, 498, 499}
+Directory: stars-50
+Number of good files: 57
+Time steps :{499}
+Particles dimensions {3, #files}: {3, 57}
+End times of runs: {497, 498, 499}
+Directory: stars-60
+Number of good files: 55
+Time steps :{499}
+Particles dimensions {3, #files}: {3, 55}
+End times of runs: {496, 498, 499}
+Directory: stars-70
+Number of good files: 49
+Time steps :{499}
+Particles dimensions {3, #files}: {3, 49}
+End times of runs: {496, 497, 498, 499}
+Directory: stars-80
+Number of good files: 58
+Time steps :{499}
+Particles dimensions {3, #files}: {3, 58}
+End times of runs: {497, 498, 499}
+Directory: stars-90
+Number of good files: 53
+Time steps :{499}
+Particles dimensions {3, #files}: {3, 53}
+End times of runs: {497, 498, 499}
+all done!

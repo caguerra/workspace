@@ -1,0 +1,214 @@
+[Wed Dec 14 16:32:27 PET 2016] Start
+running files in stars-1000
+
+running file 1000
+BEGIN: [Wed Dec 14 16:32:27 PET 2016]
+END: [Wed Dec 14 16:33:18 PET 2016]
+         CALCULATIONS HALTED * * *
+
+running file 1100
+BEGIN: [Wed Dec 14 16:33:18 PET 2016]
+END: [Wed Dec 14 16:33:56 PET 2016]
+         CALCULATIONS HALTED * * *
+
+running file 1200
+BEGIN: [Wed Dec 14 16:33:56 PET 2016]
+END: [Wed Dec 14 16:35:40 PET 2016]
+         CALCULATIONS HALTED * * *
+
+running file 1300
+BEGIN: [Wed Dec 14 16:35:40 PET 2016]
+END: [Wed Dec 14 16:36:14 PET 2016]
+         CALCULATIONS HALTED * * *
+
+running file 1400
+BEGIN: [Wed Dec 14 16:36:14 PET 2016]
+END: [Wed Dec 14 16:36:49 PET 2016]
+  Stepsize = 0!
+
+running file 1500
+BEGIN: [Wed Dec 14 16:36:49 PET 2016]
+END: [Wed Dec 14 16:37:24 PET 2016]
+         CALCULATIONS HALTED * * *
+
+running file 1600
+BEGIN: [Wed Dec 14 16:37:24 PET 2016]
+END: [Wed Dec 14 16:38:18 PET 2016]
+         CALCULATIONS HALTED * * *
+
+running file 1700
+BEGIN: [Wed Dec 14 16:38:18 PET 2016]
+END: [Wed Dec 14 16:39:01 PET 2016]
+         CALCULATIONS HALTED * * *
+
+running file 1800
+BEGIN: [Wed Dec 14 16:39:01 PET 2016]
+END: [Wed Dec 14 16:41:42 PET 2016]
+         END RUN   TIME =  498.0  CPUTOT =    0.0  ERRTOT = -0.001736  DETOT =  0.017974
+
+running file 1900
+BEGIN: [Wed Dec 14 16:41:42 PET 2016]
+END: [Wed Dec 14 16:42:38 PET 2016]
+         CALCULATIONS HALTED * * *
+
+running file 2000
+BEGIN: [Wed Dec 14 16:42:38 PET 2016]
+END: [Wed Dec 14 16:43:45 PET 2016]
+         CALCULATIONS HALTED * * *
+
+running file 2100
+BEGIN: [Wed Dec 14 16:43:45 PET 2016]
+END: [Wed Dec 14 16:44:45 PET 2016]
+         CALCULATIONS HALTED * * *
+
+running file 2200
+BEGIN: [Wed Dec 14 16:44:45 PET 2016]
+END: [Wed Dec 14 16:45:45 PET 2016]
+         CALCULATIONS HALTED * * *
+
+running file 2300
+BEGIN: [Wed Dec 14 16:45:45 PET 2016]
+END: [Wed Dec 14 16:46:31 PET 2016]
+         CALCULATIONS HALTED * * *
+
+running file 2400
+BEGIN: [Wed Dec 14 16:46:31 PET 2016]
+END: [Wed Dec 14 16:47:31 PET 2016]
+         CALCULATIONS HALTED * * *
+
+running file 2500
+BEGIN: [Wed Dec 14 16:47:31 PET 2016]
+END: [Wed Dec 14 16:49:44 PET 2016]
+         CALCULATIONS HALTED * * *
+
+running file 2600
+BEGIN: [Wed Dec 14 16:49:44 PET 2016]
+END: [Wed Dec 14 16:50:27 PET 2016]
+         CALCULATIONS HALTED * * *
+
+running file 2700
+BEGIN: [Wed Dec 14 16:50:27 PET 2016]
+END: [Wed Dec 14 16:51:29 PET 2016]
+         CALCULATIONS HALTED * * *
+
+running file 2800
+BEGIN: [Wed Dec 14 16:51:29 PET 2016]
+END: [Wed Dec 14 16:52:31 PET 2016]
+         CALCULATIONS HALTED * * *
+
+running file 2900
+BEGIN: [Wed Dec 14 16:52:31 PET 2016]
+WARNING: timeout reached
+END: [Wed Dec 14 17:12:31 PET 2016]
+ ADJUST:  TIME =   96.00  Q = 1.32  DE = -5.5E-07  E = -0.250107  RMIN = 2.1E-03  DTMIN = 1.2E-04  TC =    2  DELTA = -1.3E-07  E(3) =  0.058401  DETOT = -0.000104
+
+running file 3000
+BEGIN: [Wed Dec 14 17:12:31 PET 2016]
+END: [Wed Dec 14 17:27:54 PET 2016]
+         CALCULATIONS HALTED * * *
+
+running file 3100
+BEGIN: [Wed Dec 14 17:27:54 PET 2016]
+END: [Wed Dec 14 17:29:13 PET 2016]
+         CALCULATIONS HALTED * * *
+
+running file 3200
+BEGIN: [Wed Dec 14 17:29:13 PET 2016]
+WARNING: timeout reached
+END: [Wed Dec 14 17:49:13 PET 2016]
+ ADJUST:  TIME =   60.00  Q = 0.69  DE =  1.0E-06  E = -0.249814  RMIN = 1.8E-03  DTMIN = 9.6E-05  TC =    3  DELTA =  1.8E-07  E(3) = -0.080485  DETOT =  0.000189
+
+running file 3300
+BEGIN: [Wed Dec 14 17:49:13 PET 2016]
+END: [Wed Dec 14 17:49:51 PET 2016]
+         CALCULATIONS HALTED * * *
+
+running file 3400
+BEGIN: [Wed Dec 14 17:49:51 PET 2016]
+END: [Wed Dec 14 17:53:24 PET 2016]
+         END RUN   TIME =  498.0  CPUTOT =    0.1  ERRTOT = -0.000933  DETOT = -0.042538
+
+running file 3500
+BEGIN: [Wed Dec 14 17:53:24 PET 2016]
+WARNING: timeout reached
+END: [Wed Dec 14 18:13:24 PET 2016]
+ NEW CHAIN    T NMJ NCL NP A RX EB EORB GI    81.516    11   1  32  4.39E-03  1.39E-02 -1.34E-02  1.63E-03  5.18E-02
+
+running file 3600
+BEGIN: [Wed Dec 14 18:13:24 PET 2016]
+END: [Wed Dec 14 18:14:56 PET 2016]
+         CALCULATIONS HALTED * * *
+
+running file 3700
+BEGIN: [Wed Dec 14 18:14:56 PET 2016]
+END: [Wed Dec 14 18:17:03 PET 2016]
+         END RUN   TIME =  498.0  CPUTOT =    0.0  ERRTOT =  0.002419  DETOT = -0.000192
+
+running file 3800
+BEGIN: [Wed Dec 14 18:17:03 PET 2016]
+WARNING: timeout reached
+END: [Wed Dec 14 18:37:03 PET 2016]
+ ADJUST:  TIME =   86.00  Q = 1.48  DE = -2.4E-06  E = -0.250258  RMIN = 2.9E-03  DTMIN = 1.9E-04  TC =    4  DELTA = -7.0E-07  E(3) =  0.095806  DETOT = -0.000285
+
+running file 3900
+BEGIN: [Wed Dec 14 18:37:03 PET 2016]
+END: [Wed Dec 14 18:37:44 PET 2016]
+         CALCULATIONS HALTED * * *
+
+running file 4000
+BEGIN: [Wed Dec 14 18:37:44 PET 2016]
+END: [Wed Dec 14 18:38:48 PET 2016]
+         CALCULATIONS HALTED * * *
+
+running file 4100
+BEGIN: [Wed Dec 14 18:38:48 PET 2016]
+END: [Wed Dec 14 18:39:40 PET 2016]
+         CALCULATIONS HALTED * * *
+
+running file 4200
+BEGIN: [Wed Dec 14 18:39:40 PET 2016]
+END: [Wed Dec 14 18:40:54 PET 2016]
+         CALCULATIONS HALTED * * *
+
+running file 4300
+BEGIN: [Wed Dec 14 18:40:54 PET 2016]
+END: [Wed Dec 14 18:42:23 PET 2016]
+         CALCULATIONS HALTED * * *
+
+running file 4400
+BEGIN: [Wed Dec 14 18:42:23 PET 2016]
+END: [Wed Dec 14 18:43:19 PET 2016]
+         CALCULATIONS HALTED * * *
+
+running file 4500
+BEGIN: [Wed Dec 14 18:43:19 PET 2016]
+END: [Wed Dec 14 18:44:52 PET 2016]
+         CALCULATIONS HALTED * * *
+
+running file 4600
+BEGIN: [Wed Dec 14 18:44:52 PET 2016]
+END: [Wed Dec 14 18:49:35 PET 2016]
+         END RUN   TIME =  498.0  CPUTOT =    0.1  ERRTOT = -0.001673  DETOT = -0.001014
+
+running file 4700
+BEGIN: [Wed Dec 14 18:49:35 PET 2016]
+END: [Wed Dec 14 18:51:52 PET 2016]
+         END RUN   TIME =  498.0  CPUTOT =    0.0  ERRTOT = -0.002352  DETOT = -0.013931
+
+running file 4800
+BEGIN: [Wed Dec 14 18:51:52 PET 2016]
+END: [Wed Dec 14 18:52:37 PET 2016]
+         CALCULATIONS HALTED * * *
+
+running file 4900
+BEGIN: [Wed Dec 14 18:52:37 PET 2016]
+END: [Wed Dec 14 18:56:49 PET 2016]
+         END RUN   TIME =  498.0  CPUTOT =    0.1  ERRTOT = -0.003935  DETOT =  1.110837
+
+running file 5000
+BEGIN: [Wed Dec 14 18:56:49 PET 2016]
+END: [Wed Dec 14 18:57:35 PET 2016]
+         CALCULATIONS HALTED * * *
+[Wed Dec 14 18:57:35 PET 2016] End
+elapsed time: 8708
+all done

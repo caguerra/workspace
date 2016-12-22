@@ -1,0 +1,59 @@
+Directory: stars-500
+Number of good files: 10
+Time steps :{499}
+Particles dimensions {3, #files}: {3, 10}
+End times of runs: {496, 497, 498, 499}
+
+CompiledFunction::cfne: Numerical error encountered; proceeding with uncompiled evaluation.
+
+                                 1
+Power::infy: Infinite expression -- encountered.
+                                 0.
+
+                                 1
+Power::infy: Infinite expression -- encountered.
+                                 0.
+
+Min::nord: Invalid comparison with ComplexInfinity attempted.
+
+Min::nord: Invalid comparison with ComplexInfinity attempted.
+
+CompiledFunction::cfne: Numerical error encountered; proceeding with uncompiled evaluation.
+
+                                 1
+Power::infy: Infinite expression -- encountered.
+                                 0.
+
+General::stop: Further output of Power::infy will be suppressed during this calculation.
+
+Min::nord: Invalid comparison with ComplexInfinity attempted.
+
+General::stop: Further output of Min::nord will be suppressed during this calculation.
+
+CompiledFunction::cfne: Numerical error encountered; proceeding with uncompiled evaluation.
+
+General::stop: Further output of CompiledFunction::cfne will be suppressed during this calculation.
+
+Infinity::indet: Indeterminate expression 0. ComplexInfinity encountered.
+
+Infinity::indet: Indeterminate expression 0. ComplexInfinity encountered.
+
+Infinity::indet: Indeterminate expression 0. ComplexInfinity encountered.
+
+General::stop: Further output of Infinity::indet will be suppressed during this calculation.
+Directory: stars-600
+Number of good files: 10
+Time steps :{499}
+Particles dimensions {3, #files}: {3, 10}
+End times of runs: {497, 498, 499}
+Directory: stars-700
+Number of good files: 13
+Time steps :{499}
+Particles dimensions {3, #files}: {3, 13}
+End times of runs: {497, 498, 499}
+Directory: stars-800
+Number of good files: 10
+Time steps :{499}
+Particles dimensions {3, #files}: {3, 10}
+End times of runs: {496, 497, 498, 499}
+all done!

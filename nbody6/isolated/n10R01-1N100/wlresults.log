@@ -1,0 +1,61 @@
+Directory: VR-2
+Number of good files: 34
+Time steps :{199}
+Particles dimensions {3, #files}: {3, 34}
+End times of runs: {198, 199}
+
+CompiledFunction::cfne: Numerical error encountered; proceeding with uncompiled evaluation.
+
+                                 1
+Power::infy: Infinite expression -- encountered.
+                                 0.
+
+Infinity::indet: Indeterminate expression 0. ComplexInfinity encountered.
+
+                                 1
+Power::infy: Infinite expression -- encountered.
+                                 0.
+
+Infinity::indet: Indeterminate expression 0. ComplexInfinity encountered.
+
+                                 1
+Power::infy: Infinite expression -- encountered.
+                                 0.
+
+General::stop: Further output of Power::infy will be suppressed during this calculation.
+
+Infinity::indet: Indeterminate expression 0. ComplexInfinity encountered.
+
+General::stop: Further output of Infinity::indet will be suppressed during this calculation.
+
+CompiledFunction::cfne: Numerical error encountered; proceeding with uncompiled evaluation.
+
+CompiledFunction::cfne: Numerical error encountered; proceeding with uncompiled evaluation.
+
+General::stop: Further output of CompiledFunction::cfne will be suppressed during this calculation.
+Directory: VR-3
+Number of good files: 34
+Time steps :{199}
+Particles dimensions {3, #files}: {3, 34}
+End times of runs: {198, 199}
+Directory: VR-4
+Number of good files: 34
+Time steps :{199}
+Particles dimensions {3, #files}: {3, 34}
+End times of runs: {198, 199}
+Directory: VR-5
+Number of good files: 34
+Time steps :{199}
+Particles dimensions {3, #files}: {3, 34}
+End times of runs: {198, 199}
+Directory: VR-6
+Number of good files: 34
+Time steps :{199}
+Particles dimensions {3, #files}: {3, 34}
+End times of runs: {198, 199}
+Directory: VR-7
+Number of good files: 34
+Time steps :{199}
+Particles dimensions {3, #files}: {3, 34}
+End times of runs: {198, 199}
+all done!

@@ -1,0 +1,30 @@
+Directory: stars-1000
+Number of good files: 9
+Time steps :{499}
+Particles dimensions {3, #files}: {3, 9}
+End times of runs: {497, 498, 499}
+
+CompiledFunction::cfne: Numerical error encountered; proceeding with uncompiled evaluation.
+
+                                 1
+Power::infy: Infinite expression -- encountered.
+                                 0.
+
+Infinity::indet: Indeterminate expression 0. ComplexInfinity encountered.
+
+                                 1
+Power::infy: Infinite expression -- encountered.
+                                 0.
+
+Infinity::indet: Indeterminate expression 0. ComplexInfinity encountered.
+
+                                 1
+Power::infy: Infinite expression -- encountered.
+                                 0.
+
+General::stop: Further output of Power::infy will be suppressed during this calculation.
+
+Infinity::indet: Indeterminate expression 0. ComplexInfinity encountered.
+
+General::stop: Further output of Infinity::indet will be suppressed during this calculation.
+all done!

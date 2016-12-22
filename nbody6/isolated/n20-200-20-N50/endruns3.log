@@ -1,0 +1,45 @@
+[Wed Dec 14 08:54:35 PET 2016] Start
+running files in stars-1000
+
+running file 100
+BEGIN: [Wed Dec 14 08:54:35 PET 2016]
+END: [Wed Dec 14 08:56:57 PET 2016]
+         CALCULATIONS HALTED * * *
+
+running file 200
+BEGIN: [Wed Dec 14 08:56:57 PET 2016]
+END: [Wed Dec 14 08:59:15 PET 2016]
+         END RUN   TIME =  498.0  CPUTOT =    0.0  ERRTOT = -0.002586  DETOT = -0.000653
+
+running file 300
+BEGIN: [Wed Dec 14 08:59:15 PET 2016]
+END: [Wed Dec 14 09:00:13 PET 2016]
+         CALCULATIONS HALTED * * *
+
+running file 400
+BEGIN: [Wed Dec 14 09:00:13 PET 2016]
+END: [Wed Dec 14 09:04:10 PET 2016]
+         END RUN   TIME =  498.0  CPUTOT =    0.1  ERRTOT = -0.000002  DETOT =  0.000110
+
+running file 500
+BEGIN: [Wed Dec 14 09:04:10 PET 2016]
+END: [Wed Dec 14 09:08:02 PET 2016]
+         CALCULATIONS HALTED * * *
+
+running file 600
+BEGIN: [Wed Dec 14 09:08:02 PET 2016]
+END: [Wed Dec 14 09:09:04 PET 2016]
+         CALCULATIONS HALTED * * *
+
+running file 700
+BEGIN: [Wed Dec 14 09:09:04 PET 2016]
+END: [Wed Dec 14 09:10:33 PET 2016]
+         CALCULATIONS HALTED * * *
+
+running file 800
+BEGIN: [Wed Dec 14 09:10:33 PET 2016]
+END: [Wed Dec 14 09:12:43 PET 2016]
+         END RUN   TIME =  498.0  CPUTOT =    0.0  ERRTOT = -0.000394  DETOT = -0.000354
+
+running file 900
+BEGIN: [Wed Dec 14 09:12:43 PET 2016]

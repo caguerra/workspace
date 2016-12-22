@@ -1,0 +1,3 @@
+#!/bin/bash
+rm -rf O* f* F* T* output ESC
+clear
