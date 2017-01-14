@@ -1,6 +1,11 @@
 #!/bin/bash
 cd ./results
-for numberStars in {1000..1000..100}
+stars1=({10..90..10});
+stars2=({100..480..20});
+stars3=({500..1000..50});
+starsAll=("${stars1[@]}" "${stars2[@]}" "${stars3[@]}")
+
+for numberStars in ${starsAll[@]}
 do
 	if [ -d "stars-$numberStars" ]; then
 		cd ./stars-$numberStars
