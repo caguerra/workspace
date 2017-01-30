@@ -13,15 +13,13 @@ AppendTo[$Path, $MYGITDIR];
 Get["AstroTools`nbody6`"];
 
 (* Set working directory *)
-SetDirectory["/home/usr2/cesarg/git/workspace/nbody6/isolated/n10-1000R01N70T25/results"];
-stars1=Range[10,90,10];
-stars2=Range[100,480,20];
-stars3=Range[500,1000,50];
-stars=Join[stars1,stars2,stars3];
+SetDirectory["~/git/workspace/nbody6/isolated/n10R001-1N100/results"];
+virialRadiusIndex=Range[1,21];
+virialRadius = 10.^((virialRadiusIndex-21)/10.);
 
-starDirs = "stars-" <> ToString[#] & /@ stars;
+VRDirs = "VR-" <> ToString[#] & /@ virialRadiusIndex;
 
-len = Length[starDirs];
+len = Length[VRDirs];
 
 energyFromPairs = 
 Compile[{{mass,_Real,1},{pos,_Real,2},{vel,_Real,2}},
@@ -66,8 +64,8 @@ giveMeBinaries[mass_,position_,velocity_]:=
 	
 
 Do[
-	SetDirectory[starDirs[[i]]];
-	Print["Directory: ", starDirs[[i]]];
+	SetDirectory[VRDirs[[i]]];
+	Print["Directory: ", VRDirs[[i]]];
 	goodFiles = FileNameJoin[First[#]]& /@ 
 		GatherBy[StringSplit[Import["goodRuns.log"][[All,2]], "/"], #[[-2]]&];
 	Print["Number of good files: ", Length[goodFiles]];

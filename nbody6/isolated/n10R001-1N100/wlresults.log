@@ -1,0 +1,136 @@
+Directory: VR-1
+Number of good files: 23
+Time steps :{199}
+Particles dimensions {3, #files}: {3, 23}
+End times of runs: {197, 199}
+
+CompiledFunction::cfne: Numerical error encountered; proceeding with uncompiled evaluation.
+
+                                 1
+Power::infy: Infinite expression -- encountered.
+                                 0.
+
+Infinity::indet: Indeterminate expression 0. ComplexInfinity encountered.
+
+                                 1
+Power::infy: Infinite expression -- encountered.
+                                 0.
+
+Infinity::indet: Indeterminate expression 0. ComplexInfinity encountered.
+
+                                 1
+Power::infy: Infinite expression -- encountered.
+                                 0.
+
+General::stop: Further output of Power::infy will be suppressed during this calculation.
+
+Infinity::indet: Indeterminate expression 0. ComplexInfinity encountered.
+
+General::stop: Further output of Infinity::indet will be suppressed during this calculation.
+
+CompiledFunction::cfne: Numerical error encountered; proceeding with uncompiled evaluation.
+
+CompiledFunction::cfne: Numerical error encountered; proceeding with uncompiled evaluation.
+
+General::stop: Further output of CompiledFunction::cfne will be suppressed during this calculation.
+Directory: VR-2
+Number of good files: 31
+Time steps :{199}
+Particles dimensions {3, #files}: {3, 31}
+End times of runs: {197, 199}
+Directory: VR-3
+Number of good files: 28
+Time steps :{199}
+Particles dimensions {3, #files}: {3, 28}
+End times of runs: {198, 199}
+Directory: VR-4
+Number of good files: 33
+Time steps :{199}
+Particles dimensions {3, #files}: {3, 33}
+End times of runs: {198, 199}
+Directory: VR-5
+Number of good files: 27
+Time steps :{199}
+Particles dimensions {3, #files}: {3, 27, 199}
+End times of runs: {199}
+Directory: VR-6
+Number of good files: 44
+Time steps :{199}
+Particles dimensions {3, #files}: {3, 44}
+End times of runs: {197, 198, 199}
+Directory: VR-7
+Number of good files: 35
+Time steps :{199}
+Particles dimensions {3, #files}: {3, 35}
+End times of runs: {196, 198, 199}
+Directory: VR-8
+Number of good files: 32
+Time steps :{199}
+Particles dimensions {3, #files}: {3, 32}
+End times of runs: {198, 199}
+Directory: VR-9
+Number of good files: 36
+Time steps :{199}
+Particles dimensions {3, #files}: {3, 36}
+End times of runs: {198, 199}
+Directory: VR-10
+Number of good files: 25
+Time steps :{199}
+Particles dimensions {3, #files}: {3, 25}
+End times of runs: {198, 199}
+Directory: VR-11
+Number of good files: 31
+Time steps :{199}
+Particles dimensions {3, #files}: {3, 31, 199}
+End times of runs: {199}
+Directory: VR-12
+Number of good files: 29
+Time steps :{199}
+Particles dimensions {3, #files}: {3, 29}
+End times of runs: {196, 198, 199}
+Directory: VR-13
+Number of good files: 39
+Time steps :{199}
+Particles dimensions {3, #files}: {3, 39}
+End times of runs: {198, 199}
+Directory: VR-14
+Number of good files: 30
+Time steps :{199}
+Particles dimensions {3, #files}: {3, 30}
+End times of runs: {198, 199}
+Directory: VR-15
+Number of good files: 27
+Time steps :{199}
+Particles dimensions {3, #files}: {3, 27}
+End times of runs: {198, 199}
+Directory: VR-16
+Number of good files: 24
+Time steps :{199}
+Particles dimensions {3, #files}: {3, 24}
+End times of runs: {198, 199}
+Directory: VR-17
+Number of good files: 32
+Time steps :{199}
+Particles dimensions {3, #files}: {3, 32}
+End times of runs: {198, 199}
+Directory: VR-18
+Number of good files: 37
+Time steps :{199}
+Particles dimensions {3, #files}: {3, 37}
+End times of runs: {198, 199}
+Directory: VR-19
+Number of good files: 30
+Time steps :{199}
+Particles dimensions {3, #files}: {3, 30}
+End times of runs: {198, 199}
+Directory: VR-20
+Number of good files: 20
+Time steps :{199}
+Particles dimensions {3, #files}: {3, 20}
+End times of runs: {196, 198, 199}
+Directory: VR-21
+Number of good files: 30
+Time steps :{199}
+Particles dimensions {3, #files}: {3, 30}
+End times of runs: {197, 198, 199}
+all done!
