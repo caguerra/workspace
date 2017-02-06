@@ -1,0 +1,71 @@
+
+
+
+
+
+               N  NFIX  NCRIT  NRAND  NNBMAX  NRUN
+
+             100     1      5  53476      20     1
+
+
+            ETAI      ETAR      RS0       DTADJ     DELTAT    TCRIT     QE        RBAR      ZMBAR
+
+            1.0E-02   1.0E-02   3.0E-02   2.0E+00   1.0E+00   5.0E+02   1.0E-03   1.0E-01   5.0E-01
+
+
+            OPTIONS
+
+           1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50
+
+           0  0  1  0  1  0  0  0  0  0  0  0  0  2  0  0  0  0  0  2  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+
+
+            DTMIN     RMIN      ETAU      ECLOSE    GMIN      GMAX
+
+            2.0E-05   1.0E-03   2.0E-01   1.0E+00   1.0E-06   1.0E-03
+
+            SINGLE STAR IMF:    NS =   100  RANGE =  8.30E+00  2.01E-01  <MS> = 6.09E-01
+
+            SCALING:    SX =  1.00  E = -2.49E-01  M(1) = 1.36E-01  M(N) = 3.30E-03  <M> = 1.00E-02
+
+            TIME SCALES:   TRH = 4.2E+00  TCR =  2.83  2<R>/<V> =  2.83  SMAX =  0.125
+
+
+            PHYSICAL SCALING:    R* = 0.10  M* =    60.9  V* = 1.619  T* = 0.060  <M> = 0.61  SU = 4.4E+06
+
+            POINT-MASS MODEL:    GMG =  1.6E+06  RG =  8.0E+00  OMEGA =  5.7E-05  RT =470.51  RBAR =  0.10
+
+            TIDAL PARAMETERS:    9.62E-09  0.00E+00 -3.21E-09  1.13E-04  TSCALE = 6.04E-02  RTIDE =469.98
+
+
+            WARNING!   SMALL NEIGHBOUR NUMBERS   <NNB> =   1.6
+
+ ADJUST:  TIME =    0.00  Q = 0.50  DE =  0.0E+00  E = -0.250000  RMIN = 1.0E-03  DTMIN = 2.0E-05  TC =    0  DELTA =  0.0E+00  E(3) = -0.250000  DETOT =  0.000000
+
+
+ T =     0.  N =   100  <NB> =  1  KS =    0  NM =  0  MM = 0  NS =   100  NSTEPS =          0         0          0          0  DE =  0.0E+00  E = -0.250000  M = 1.0000
+
+    <R>  RTIDE  RDENS   RC    NC   MC   RHOD   RHOM  CMAX   <Cn>   Ir/R   UN    NP   RCM    VCM      AZ      EB/E   EM/E   TCR     T6  NESC  VRMS
+ #1 1.00 470.0  0.00 1.0000   50  0.610    0.     0.   40.   1.4  0.024    0     0   0.000  0.0000   0.0281 -0.000 -0.000  2.83     0     0   1.1
+
+       NNPRED    NBCORR  NBFULL  NBVOID    NICONV  NBSMIN  NBDIS  NBDIS2  NCMDER  NBDER  NFAST  NBFAST    NBLOCK    NBLCKR     NBPRED     NBFLUX  NIRECT  NRRECT  NURECT  NBRECT
+ #2         0         0       0      828        0       0      0       0       0      0      0       0         0         0          0          0       0       0       0       0
+
+     NKSTRY  NKSREG  NKSHYP     NKSPER  NPRECT  NEWKS   NKSMOD    NTTRY  NTRIP  NQUAD  NCHAIN  NMERG  NEWHI  NSTEPT  NSTEPQ  NSTEPC
+ #3        0      0       0          0       0      0        0        0      0      0       0      0      0       0       0       0
+
+
+ T =     1.  N =   100  <NB> =  3  KS =    0  NM =  0  MM = 0  NS =   100  NSTEPS =      12327         0       5180          0  DE = -1.1E-05  E = -0.250003  M = 1.0000
+
+    <R>  RTIDE  RDENS   RC    NC   MC   RHOD   RHOM  CMAX   <Cn>   Ir/R   UN    NP   RCM    VCM      AZ      EB/E   EM/E   TCR     T6  NESC  VRMS
+ #1 1.00 470.0  0.35 0.2703    6  0.180    1.     2.    4.   4.9  0.120    0     0   0.000  0.0000   0.0281 -0.000 -0.000  2.83     0     0   1.1
+
+       NNPRED    NBCORR  NBFULL  NBVOID    NICONV  NBSMIN  NBDIS  NBDIS2  NCMDER  NBDER  NFAST  NBFAST    NBLOCK    NBLCKR     NBPRED     NBFLUX  NIRECT  NRRECT  NURECT  NBRECT
+ #2       286         0       0     1862      767       0      0       0       0      0      0       0       846         0       8006       4168       0       0       0       0
+
+     NKSTRY  NKSREG  NKSHYP     NKSPER  NPRECT  NEWKS   NKSMOD    NTTRY  NTRIP  NQUAD  NCHAIN  NMERG  NEWHI  NSTEPT  NSTEPQ  NSTEPC
+ #3        0      0       0          0       0      0        0        0      0      0       0      0      0       0       0       0
+
+ ADJUST:  TIME =    2.00  Q = 0.61  DE =  8.7E-02  E = -0.220377  RMIN = 1.0E-03  DTMIN = 2.0E-05  TC =    0  DELTA =  3.0E-02  E(3) = -0.220377  DETOT =  0.029623
+
+         CALCULATIONS HALTED * * *
