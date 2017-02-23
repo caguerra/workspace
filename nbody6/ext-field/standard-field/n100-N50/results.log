@@ -1,0 +1,254 @@
+[Wed Feb 22 18:02:28 PET 2017] Start
+
+running file 100
+BEGIN: [Wed Feb 22 18:02:28 PET 2017]
+END: [Wed Feb 22 18:02:42 PET 2017]
+         CALCULATIONS HALTED * * *
+
+running file 200
+BEGIN: [Wed Feb 22 18:02:42 PET 2017]
+END: [Wed Feb 22 18:03:24 PET 2017]
+         END RUN   TIME =  498.0  CPUTOT =    0.0  ERRTOT = -0.000006  DETOT =  0.000191
+
+running file 300
+BEGIN: [Wed Feb 22 18:03:24 PET 2017]
+END: [Wed Feb 22 18:04:03 PET 2017]
+         END RUN   TIME =  498.0  CPUTOT =    0.0  ERRTOT = -0.001945  DETOT =  4.586231
+
+running file 400
+BEGIN: [Wed Feb 22 18:04:03 PET 2017]
+END: [Wed Feb 22 18:04:17 PET 2017]
+         CALCULATIONS HALTED * * *
+
+running file 500
+BEGIN: [Wed Feb 22 18:04:17 PET 2017]
+END: [Wed Feb 22 18:04:18 PET 2017]
+         CALCULATIONS HALTED * * *
+
+running file 600
+BEGIN: [Wed Feb 22 18:04:18 PET 2017]
+END: [Wed Feb 22 18:04:25 PET 2017]
+         CALCULATIONS HALTED * * *
+
+running file 700
+BEGIN: [Wed Feb 22 18:04:25 PET 2017]
+END: [Wed Feb 22 18:05:24 PET 2017]
+         END RUN   TIME =  498.0  CPUTOT =    0.0  ERRTOT = -0.002077  DETOT = -0.001749
+
+running file 800
+BEGIN: [Wed Feb 22 18:05:24 PET 2017]
+END: [Wed Feb 22 18:06:01 PET 2017]
+         CALCULATIONS HALTED * * *
+
+running file 900
+BEGIN: [Wed Feb 22 18:06:01 PET 2017]
+END: [Wed Feb 22 18:06:35 PET 2017]
+         CALCULATIONS HALTED * * *
+
+running file 1000
+BEGIN: [Wed Feb 22 18:06:35 PET 2017]
+END: [Wed Feb 22 18:09:14 PET 2017]
+         END RUN   TIME =  498.0  CPUTOT =    0.0  ERRTOT = -0.145989  DETOT = -0.278321
+
+running file 1100
+BEGIN: [Wed Feb 22 18:09:14 PET 2017]
+END: [Wed Feb 22 18:09:31 PET 2017]
+         END RUN   TIME =  498.0  CPUTOT =    0.0  ERRTOT = -0.000304  DETOT =  0.000428
+
+running file 1200
+BEGIN: [Wed Feb 22 18:09:31 PET 2017]
+END: [Wed Feb 22 18:09:52 PET 2017]
+         END RUN   TIME =  498.0  CPUTOT =    0.0  ERRTOT = -0.003394  DETOT = -0.003806
+
+running file 1300
+BEGIN: [Wed Feb 22 18:09:52 PET 2017]
+END: [Wed Feb 22 18:10:22 PET 2017]
+         END RUN   TIME =  498.0  CPUTOT =    0.0  ERRTOT = -0.003847  DETOT =  9.746088
+
+running file 1400
+BEGIN: [Wed Feb 22 18:10:22 PET 2017]
+END: [Wed Feb 22 18:10:33 PET 2017]
+         CALCULATIONS HALTED * * *
+
+running file 1500
+BEGIN: [Wed Feb 22 18:10:33 PET 2017]
+END: [Wed Feb 22 18:10:44 PET 2017]
+         CALCULATIONS HALTED * * *
+
+running file 1600
+BEGIN: [Wed Feb 22 18:10:44 PET 2017]
+END: [Wed Feb 22 18:10:59 PET 2017]
+         CALCULATIONS HALTED * * *
+
+running file 1700
+BEGIN: [Wed Feb 22 18:10:59 PET 2017]
+END: [Wed Feb 22 18:11:19 PET 2017]
+         END RUN   TIME =  498.0  CPUTOT =    0.0  ERRTOT = -0.003495  DETOT = -0.001479
+
+running file 1800
+BEGIN: [Wed Feb 22 18:11:19 PET 2017]
+END: [Wed Feb 22 18:11:28 PET 2017]
+         CALCULATIONS HALTED * * *
+
+running file 1900
+BEGIN: [Wed Feb 22 18:11:28 PET 2017]
+END: [Wed Feb 22 18:11:42 PET 2017]
+         CALCULATIONS HALTED * * *
+
+running file 2000
+BEGIN: [Wed Feb 22 18:11:42 PET 2017]
+END: [Wed Feb 22 18:11:57 PET 2017]
+         CALCULATIONS HALTED * * *
+
+running file 2100
+BEGIN: [Wed Feb 22 18:11:57 PET 2017]
+END: [Wed Feb 22 18:12:47 PET 2017]
+         END RUN   TIME =  498.0  CPUTOT =    0.0  ERRTOT = -0.021345  DETOT = 67.772398
+
+running file 2200
+BEGIN: [Wed Feb 22 18:12:47 PET 2017]
+END: [Wed Feb 22 18:12:55 PET 2017]
+         CALCULATIONS HALTED * * *
+
+running file 2300
+BEGIN: [Wed Feb 22 18:12:55 PET 2017]
+END: [Wed Feb 22 18:13:02 PET 2017]
+         CALCULATIONS HALTED * * *
+
+running file 2400
+BEGIN: [Wed Feb 22 18:13:02 PET 2017]
+END: [Wed Feb 22 18:13:07 PET 2017]
+         CALCULATIONS HALTED * * *
+
+running file 2500
+BEGIN: [Wed Feb 22 18:13:07 PET 2017]
+END: [Wed Feb 22 18:13:27 PET 2017]
+         END RUN   TIME =  498.0  CPUTOT =    0.0  ERRTOT = -0.002897  DETOT =  0.667536
+
+running file 2600
+BEGIN: [Wed Feb 22 18:13:27 PET 2017]
+END: [Wed Feb 22 18:13:49 PET 2017]
+         CALCULATIONS HALTED * * *
+
+running file 2700
+BEGIN: [Wed Feb 22 18:13:49 PET 2017]
+END: [Wed Feb 22 18:13:57 PET 2017]
+         CALCULATIONS HALTED * * *
+
+running file 2800
+BEGIN: [Wed Feb 22 18:13:57 PET 2017]
+END: [Wed Feb 22 18:14:02 PET 2017]
+         CALCULATIONS HALTED * * *
+
+running file 2900
+BEGIN: [Wed Feb 22 18:14:02 PET 2017]
+END: [Wed Feb 22 18:14:36 PET 2017]
+         END RUN   TIME =  498.0  CPUTOT =    0.0  ERRTOT = -0.011155  DETOT =  7.379519
+
+running file 3000
+BEGIN: [Wed Feb 22 18:14:36 PET 2017]
+END: [Wed Feb 22 18:14:37 PET 2017]
+         CALCULATIONS HALTED * * *
+
+running file 3100
+BEGIN: [Wed Feb 22 18:14:37 PET 2017]
+END: [Wed Feb 22 18:14:49 PET 2017]
+         CALCULATIONS HALTED * * *
+
+running file 3200
+BEGIN: [Wed Feb 22 18:14:49 PET 2017]
+END: [Wed Feb 22 18:15:18 PET 2017]
+         END RUN   TIME =  498.0  CPUTOT =    0.0  ERRTOT = -0.005444  DETOT = -0.005312
+
+running file 3300
+BEGIN: [Wed Feb 22 18:15:18 PET 2017]
+END: [Wed Feb 22 18:15:48 PET 2017]
+         END RUN   TIME =  498.0  CPUTOT =    0.0  ERRTOT = -0.009280  DETOT =  9.321429
+
+running file 3400
+BEGIN: [Wed Feb 22 18:15:48 PET 2017]
+END: [Wed Feb 22 18:15:59 PET 2017]
+         CALCULATIONS HALTED * * *
+
+running file 3500
+BEGIN: [Wed Feb 22 18:15:59 PET 2017]
+END: [Wed Feb 22 18:16:14 PET 2017]
+         END RUN   TIME =  498.0  CPUTOT =    0.0  ERRTOT = -0.000316  DETOT = 21.263512
+
+running file 3600
+BEGIN: [Wed Feb 22 18:16:14 PET 2017]
+END: [Wed Feb 22 18:16:32 PET 2017]
+         END RUN   TIME =  498.0  CPUTOT =    0.0  ERRTOT = -0.000643  DETOT = -0.000662
+
+running file 3700
+BEGIN: [Wed Feb 22 18:16:32 PET 2017]
+END: [Wed Feb 22 18:16:42 PET 2017]
+         CALCULATIONS HALTED * * *
+
+running file 3800
+BEGIN: [Wed Feb 22 18:16:42 PET 2017]
+END: [Wed Feb 22 18:17:12 PET 2017]
+         END RUN   TIME =  498.0  CPUTOT =    0.0  ERRTOT = -0.003942  DETOT = 11.494527
+
+running file 3900
+BEGIN: [Wed Feb 22 18:17:12 PET 2017]
+END: [Wed Feb 22 18:17:55 PET 2017]
+         END RUN   TIME =  498.0  CPUTOT =    0.0  ERRTOT = -0.017732  DETOT = 23.950015
+
+running file 4000
+BEGIN: [Wed Feb 22 18:17:55 PET 2017]
+END: [Wed Feb 22 18:17:56 PET 2017]
+         CALCULATIONS HALTED * * *
+
+running file 4100
+BEGIN: [Wed Feb 22 18:17:56 PET 2017]
+END: [Wed Feb 22 18:18:14 PET 2017]
+         END RUN   TIME =  498.0  CPUTOT =    0.0  ERRTOT = -0.000256  DETOT = -0.000783
+
+running file 4200
+BEGIN: [Wed Feb 22 18:18:14 PET 2017]
+END: [Wed Feb 22 18:18:17 PET 2017]
+         CALCULATIONS HALTED * * *
+
+running file 4300
+BEGIN: [Wed Feb 22 18:18:17 PET 2017]
+END: [Wed Feb 22 18:18:30 PET 2017]
+         END RUN   TIME =  498.0  CPUTOT =    0.0  ERRTOT = -0.000040  DETOT =  0.000004
+
+running file 4400
+BEGIN: [Wed Feb 22 18:18:30 PET 2017]
+END: [Wed Feb 22 18:18:31 PET 2017]
+         CALCULATIONS HALTED * * *
+
+running file 4500
+BEGIN: [Wed Feb 22 18:18:31 PET 2017]
+END: [Wed Feb 22 18:18:39 PET 2017]
+         CALCULATIONS HALTED * * *
+
+running file 4600
+BEGIN: [Wed Feb 22 18:18:39 PET 2017]
+END: [Wed Feb 22 18:18:59 PET 2017]
+         END RUN   TIME =  498.0  CPUTOT =    0.0  ERRTOT = -0.000324  DETOT =  5.228977
+
+running file 4700
+BEGIN: [Wed Feb 22 18:18:59 PET 2017]
+END: [Wed Feb 22 18:19:11 PET 2017]
+         CALCULATIONS HALTED * * *
+
+running file 4800
+BEGIN: [Wed Feb 22 18:19:11 PET 2017]
+END: [Wed Feb 22 18:19:31 PET 2017]
+         CALCULATIONS HALTED * * *
+
+running file 4900
+BEGIN: [Wed Feb 22 18:19:31 PET 2017]
+END: [Wed Feb 22 18:19:52 PET 2017]
+         CALCULATIONS HALTED * * *
+
+running file 5000
+BEGIN: [Wed Feb 22 18:19:52 PET 2017]
+END: [Wed Feb 22 18:20:18 PET 2017]
+         END RUN   TIME =  498.0  CPUTOT =    0.0  ERRTOT = -0.010965  DETOT = -0.011649
+[Wed Feb 22 18:20:18 PET 2017] End
+elapsed time: 1070
+all done
