@@ -1,0 +1,1540 @@
+ WIDE PAIRS    T TPHYS N       0.0    0.0     100
+ WIDE PAIRS    T TPHYS N       1.0    0.1     100
+ WIDE PAIRS    T TPHYS N       2.0    0.1     100
+ WIDE PAIRS    T TPHYS N       3.0    0.2     100
+ WIDE PAIRS    T TPHYS N       4.0    0.2     100
+ WIDE PAIRS    T TPHYS N       5.0    0.3     100
+ WIDE PAIRS    T TPHYS N       6.0    0.4     100
+ WIDE PAIRS    T TPHYS N       7.0    0.4     100
+ WIDE PAIRS    T TPHYS N       8.0    0.5     100
+ WIDE PAIRS    T TPHYS N       9.0    0.5     100
+ WIDE PAIRS    T TPHYS N      10.0    0.6     100
+   0.618   1286.0  2.1E+04   0.2   4.7      5      6   1   1
+   0.223   1972.2  4.2E+04   0.1   4.4     19      2   1   1
+ WIDE PAIRS    T TPHYS N      11.0    0.6     100
+   0.573   2192.7  3.9E+04   0.1   6.8      1      7   1   1
+ WIDE PAIRS    T TPHYS N      12.0    0.7     100
+   0.769    841.4  1.2E+04   0.1   3.9      6      7   1   1
+ WIDE PAIRS    T TPHYS N      13.0    0.8     100
+   0.853   1309.2  1.8E+04   0.1   6.8      1      7   1   1
+ WIDE PAIRS    T TPHYS N      14.0    0.8     100
+   0.932    397.4  3.0E+03   0.1   6.8      1      7   1   1
+ WIDE PAIRS    T TPHYS N      15.0    0.9     100
+   0.699    655.7  5.7E+03   0.2   8.8      1      2   1   1
+ WIDE PAIRS    T TPHYS N      16.0    0.9     100
+   0.725    219.4  1.4E+03   0.2   5.4      7      2   1   1
+ WIDE PAIRS    T TPHYS N      17.0    1.0     100
+   0.495    443.3  3.2E+03   0.1   8.8      1      2   1   1
+ WIDE PAIRS    T TPHYS N      18.0    1.1     100
+   0.407    357.3  2.6E+03   0.1   6.8      1      7   1   1
+ WIDE PAIRS    T TPHYS N      19.0    1.1     100
+   0.807    220.7  1.3E+03   0.1   6.7      8      1   1   1
+ WIDE PAIRS    T TPHYS N      20.0    1.2     100
+   0.302    258.7  1.4E+03   0.1   8.8      2      1   1   1
+ WIDE PAIRS    T TPHYS N      21.0    1.2     100
+   0.303    259.3  1.4E+03   0.0   8.8      2      1   1   1
+ WIDE PAIRS    T TPHYS N      22.0    1.3     100
+   0.345    258.1  1.4E+03   0.1   8.8      2      1   1   1
+ WIDE PAIRS    T TPHYS N      23.0    1.3     100
+   0.354    257.8  1.4E+03   0.2   8.8      2      1   1   1
+   0.467   1756.5  3.6E+04   0.1   4.3      5      7   1   1
+ WIDE PAIRS    T TPHYS N      24.0    1.4     100
+   0.381    257.8  1.4E+03   0.1   8.8      2      1   1   1
+ WIDE PAIRS    T TPHYS N      25.0    1.5     100
+   0.381    261.9  1.4E+03   0.1   8.8      2      1   1   1
+ WIDE PAIRS    T TPHYS N      26.0    1.5     100
+   0.382    254.4  1.4E+03   0.1   8.8      2      1   1   1
+ WIDE PAIRS    T TPHYS N      27.0    1.6     100
+   0.376    253.4  1.4E+03   0.2   8.8      2      1   1   1
+ WIDE PAIRS    T TPHYS N      28.0    1.6     100
+   0.499   4034.7  7.6E+04   0.3  11.3      5    102   1   0
+ WIDE PAIRS    T TPHYS N      29.0    1.7     100
+   0.543   3083.5  5.1E+04   0.1  11.3      5    102   1   0
+ WIDE PAIRS    T TPHYS N      30.0    1.8     100
+   0.563   3295.7  5.6E+04   0.2  11.3      5    102   1   0
+ WIDE PAIRS    T TPHYS N      31.0    1.8     100
+   0.582   1229.8  1.3E+04   0.2  10.5      7    102   1   0
+ WIDE PAIRS    T TPHYS N      32.0    1.9     100
+   0.897    248.2  1.3E+03   0.2   8.8      2      1   1   1
+ WIDE PAIRS    T TPHYS N      33.0    1.9     100
+   0.970    248.0  1.3E+03   0.1   8.8      2      1   1   1
+ WIDE PAIRS    T TPHYS N      34.0    2.0     100
+   0.822    279.3  1.6E+03   0.1   8.8      1      2   1   1
+ WIDE PAIRS    T TPHYS N      35.0    2.1     100
+   0.800    274.2  1.5E+03   0.1   8.8      2      1   1   1
+ WIDE PAIRS    T TPHYS N      36.0    2.1     100
+ WIDE PAIRS    T TPHYS N      37.0    2.2     100
+   0.811   3760.0  7.1E+04   0.6  10.5      7    102   1   0
+ WIDE PAIRS    T TPHYS N      38.0    2.2     100
+   0.792   2729.5  4.4E+04   0.7  10.5      7    102   1   0
+ WIDE PAIRS    T TPHYS N      39.0    2.3     100
+   0.810   2548.7  4.0E+04   0.6  10.5      7    102   1   0
+ WIDE PAIRS    T TPHYS N      40.0    2.3     100
+   0.835   2607.9  4.1E+04   0.4  10.5      7    102   1   0
+ WIDE PAIRS    T TPHYS N      41.0    2.4     100
+ WIDE PAIRS    T TPHYS N      42.0    2.5     100
+ WIDE PAIRS    T TPHYS N      43.0    2.5     100
+ WIDE PAIRS    T TPHYS N      44.0    2.6     100
+ WIDE PAIRS    T TPHYS N      45.0    2.6     100
+ WIDE PAIRS    T TPHYS N      46.0    2.7     100
+ WIDE PAIRS    T TPHYS N      47.0    2.8     100
+ WIDE PAIRS    T TPHYS N      48.0    2.8     100
+ WIDE PAIRS    T TPHYS N      49.0    2.9     100
+ WIDE PAIRS    T TPHYS N      50.0    2.9     100
+ WIDE PAIRS    T TPHYS N      51.0    3.0     100
+ WIDE PAIRS    T TPHYS N      52.0    3.1     100
+ WIDE PAIRS    T TPHYS N      53.0    3.1     100
+ WIDE PAIRS    T TPHYS N      54.0    3.2     100
+ WIDE PAIRS    T TPHYS N      55.0    3.2     100
+ WIDE PAIRS    T TPHYS N      56.0    3.3     100
+ WIDE PAIRS    T TPHYS N      57.0    3.3     100
+ WIDE PAIRS    T TPHYS N      58.0    3.4     100
+ WIDE PAIRS    T TPHYS N      59.0    3.5     100
+ WIDE PAIRS    T TPHYS N      60.0    3.5     100
+ WIDE PAIRS    T TPHYS N      61.0    3.6     100
+ WIDE PAIRS    T TPHYS N      62.0    3.6     100
+ WIDE PAIRS    T TPHYS N      63.0    3.7     100
+   0.922  10683.2  3.2E+05   0.2  11.7      4    102   1   0
+ WIDE PAIRS    T TPHYS N      64.0    3.8     100
+ WIDE PAIRS    T TPHYS N      65.0    3.8     100
+ WIDE PAIRS    T TPHYS N      66.0    3.9     100
+ WIDE PAIRS    T TPHYS N      67.0    3.9     100
+   0.797   9736.8  2.8E+05   0.7  11.7      4    102   1   0
+ WIDE PAIRS    T TPHYS N      68.0    4.0     100
+   0.797   9599.8  2.7E+05   1.1  11.7      4    102   1   0
+ WIDE PAIRS    T TPHYS N      69.0    4.0     100
+ WIDE PAIRS    T TPHYS N      70.0    4.1     100
+ WIDE PAIRS    T TPHYS N      71.0    4.2     100
+ WIDE PAIRS    T TPHYS N      72.0    4.2     100
+   0.845   9733.9  2.8E+05   0.4  11.7      4    102   1   0
+ WIDE PAIRS    T TPHYS N      73.0    4.3     100
+   0.841  10019.0  2.9E+05   0.2  11.7    102      4   0   1
+ WIDE PAIRS    T TPHYS N      74.0    4.3     100
+ WIDE PAIRS    T TPHYS N      75.0    4.4     100
+ WIDE PAIRS    T TPHYS N      76.0    4.5     100
+ WIDE PAIRS    T TPHYS N      77.0    4.5     100
+ WIDE PAIRS    T TPHYS N      78.0    4.6     100
+ WIDE PAIRS    T TPHYS N      79.0    4.6     100
+ WIDE PAIRS    T TPHYS N      80.0    4.7     100
+ WIDE PAIRS    T TPHYS N      81.0    4.8     100
+ WIDE PAIRS    T TPHYS N      82.0    4.8     100
+ WIDE PAIRS    T TPHYS N      83.0    4.9     100
+ WIDE PAIRS    T TPHYS N      84.0    4.9     100
+ WIDE PAIRS    T TPHYS N      85.0    5.0     100
+ WIDE PAIRS    T TPHYS N      86.0    5.0     100
+ WIDE PAIRS    T TPHYS N      87.0    5.1     100
+ WIDE PAIRS    T TPHYS N      88.0    5.2     100
+   0.789   8325.6  2.2E+05   0.4  11.7      4    102   1   0
+ WIDE PAIRS    T TPHYS N      89.0    5.2     100
+ WIDE PAIRS    T TPHYS N      90.0    5.3     100
+ WIDE PAIRS    T TPHYS N      91.0    5.3     100
+ WIDE PAIRS    T TPHYS N      92.0    5.4     100
+ WIDE PAIRS    T TPHYS N      93.0    5.5     100
+ WIDE PAIRS    T TPHYS N      94.0    5.5     100
+ WIDE PAIRS    T TPHYS N      95.0    5.6     100
+ WIDE PAIRS    T TPHYS N      96.0    5.6     100
+   0.825    143.0  5.8E+02   7.0   8.8      1      2   1   1
+ WIDE PAIRS    T TPHYS N      97.0    5.7     100
+   0.665     74.6  2.3E+02   7.1   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N      98.0    5.7     100
+   0.665     74.6  2.3E+02   6.8   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N      99.0    5.8     100
+   0.665     74.6  2.3E+02   6.6   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     100.0    5.9     100
+   0.665     74.6  2.3E+02   6.4   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     101.0    5.9     100
+   0.665     74.6  2.3E+02   6.3   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     102.0    6.0     100
+   0.665     74.5  2.3E+02   6.2   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     103.0    6.0     100
+   0.665     74.5  2.3E+02   6.3   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     104.0    6.1     100
+   0.665     74.5  2.3E+02   6.3   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     105.0    6.2     100
+   0.665     74.5  2.3E+02   6.5   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     106.0    6.2     100
+   0.665     74.5  2.3E+02   6.7   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     107.0    6.3     100
+   0.665     74.5  2.3E+02   6.9   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     108.0    6.3     100
+   0.665     74.5  2.3E+02   7.1   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     109.0    6.4     100
+   0.665     74.5  2.3E+02   7.4   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     110.0    6.5     100
+   0.665     74.5  2.3E+02   7.8   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     111.0    6.5     100
+   0.664     74.5  2.3E+02   8.1   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     112.0    6.6     100
+   0.664     74.5  2.3E+02   8.5   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     113.0    6.6     100
+   0.664     74.5  2.3E+02   8.9   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     114.0    6.7     100
+   0.664     74.5  2.3E+02   9.3   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     115.0    6.7     100
+   0.664     74.4  2.3E+02   9.7   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     116.0    6.8     100
+   0.664     74.4  2.3E+02  10.2   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     117.0    6.9     100
+   0.664     74.4  2.3E+02  10.6   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     118.0    6.9     100
+   0.664     74.4  2.3E+02  11.1   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     119.0    7.0     100
+   0.664     74.4  2.3E+02  11.5   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     120.0    7.0     100
+   0.664     74.4  2.3E+02  12.0   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     121.0    7.1     100
+   0.664     74.4  2.3E+02  12.5   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     122.0    7.2     100
+   0.664     74.4  2.3E+02  12.9   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     123.0    7.2     100
+   0.664     74.4  2.3E+02  13.4   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     124.0    7.3     100
+   0.664     74.4  2.3E+02  13.9   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     125.0    7.3     100
+   0.664     74.4  2.3E+02  14.4   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     126.0    7.4     100
+   0.664     74.4  2.3E+02  14.8   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     127.0    7.4     100
+   0.664     74.4  2.3E+02  15.3   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     128.0    7.5     100
+   0.664     74.3  2.3E+02  15.8   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     129.0    7.6     100
+   0.664     74.3  2.3E+02  16.3   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     130.0    7.6     100
+   0.664     74.3  2.3E+02  16.8   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     131.0    7.7     100
+   0.664     74.3  2.3E+02  17.3   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     132.0    7.7     100
+   0.664     74.3  2.3E+02  17.8   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     133.0    7.8     100
+   0.663     74.3  2.3E+02  18.3   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     134.0    7.9     100
+   0.663     74.3  2.3E+02  18.8   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     135.0    7.9     100
+   0.663     74.3  2.3E+02  19.3   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     136.0    8.0     100
+   0.663     74.3  2.3E+02  19.8   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     137.0    8.0     100
+   0.663     74.3  2.3E+02  20.3   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     138.0    8.1     100
+   0.663     74.3  2.3E+02  20.8   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     139.0    8.2     100
+   0.663     74.3  2.3E+02  21.2   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     140.0    8.2     100
+   0.637     71.3  2.1E+02  21.7   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     141.0    8.3     100
+   0.637     71.3  2.1E+02  22.2   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     142.0    8.3     100
+   0.637     71.3  2.1E+02  22.6   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     143.0    8.4     100
+   0.637     71.2  2.1E+02  23.1   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     144.0    8.4     100
+   0.637     71.2  2.1E+02  23.5   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     145.0    8.5     100
+   0.637     71.2  2.1E+02  24.0   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     146.0    8.6     100
+   0.637     71.2  2.1E+02  24.4   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     147.0    8.6     100
+   0.636     71.2  2.1E+02  24.9   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     148.0    8.7     100
+   0.636     71.2  2.1E+02  25.3   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     149.0    8.7     100
+   0.636     71.2  2.1E+02  25.7   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     150.0    8.8     100
+   0.636     71.2  2.1E+02  26.2   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     151.0    8.9     100
+   0.636     71.2  2.1E+02  26.6   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     152.0    8.9     100
+   0.636     71.2  2.1E+02  27.1   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     153.0    9.0     100
+   0.636     71.2  2.1E+02  27.5   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     154.0    9.0     100
+   0.636     71.1  2.1E+02  28.0   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     155.0    9.1     100
+   0.636     71.1  2.1E+02  28.4   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     156.0    9.2     100
+   0.636     71.1  2.1E+02  28.8   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     157.0    9.2     100
+   0.636     71.1  2.1E+02  29.3   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     158.0    9.3     100
+   0.636     71.1  2.1E+02  29.7   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     159.0    9.3     100
+   0.636     71.1  2.1E+02  30.2   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     160.0    9.4     100
+   0.636     71.1  2.1E+02  30.6   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     161.0    9.4     100
+   0.636     71.1  2.1E+02  31.1   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     162.0    9.5     100
+   0.636     71.1  2.1E+02  31.5   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     163.0    9.6     100
+   0.636     71.1  2.1E+02  31.9   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     164.0    9.6     100
+   0.635     71.1  2.1E+02  32.4   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     165.0    9.7     100
+   0.635     71.0  2.1E+02  32.8   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     166.0    9.7     100
+   0.635     71.0  2.1E+02  33.3   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     167.0    9.8     100
+   0.635     71.0  2.1E+02  33.7   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     168.0    9.9     100
+   0.635     71.0  2.1E+02  34.1   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     169.0    9.9     100
+   0.635     71.0  2.1E+02  34.6   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     170.0   10.0     100
+   0.635     71.0  2.1E+02  35.0   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     171.0   10.0     100
+   0.635     71.0  2.1E+02  35.5   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     172.0   10.1     100
+   0.635     71.0  2.1E+02  35.9   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     173.0   10.1     100
+   0.635     71.0  2.1E+02  36.3   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     174.0   10.2     100
+   0.635     71.0  2.1E+02  36.8   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     175.0   10.3     100
+   0.635     71.0  2.1E+02  37.2   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     176.0   10.3     100
+   0.635     70.9  2.1E+02  37.6   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     177.0   10.4     100
+   0.635     70.9  2.1E+02  38.1   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     178.0   10.4     100
+   0.635     70.9  2.1E+02  38.5   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     179.0   10.5     100
+   0.635     70.9  2.1E+02  39.0   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     180.0   10.6     100
+   0.635     70.9  2.1E+02  39.4   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     181.0   10.6     100
+   0.635     70.9  2.1E+02  39.8   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     182.0   10.7     100
+   0.634     70.9  2.1E+02  40.3   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     183.0   10.7     100
+   0.634     70.9  2.1E+02  40.7   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     184.0   10.8     100
+   0.634     70.9  2.1E+02  41.1   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     185.0   10.9     100
+   0.634     70.9  2.1E+02  41.6   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     186.0   10.9     100
+   0.634     70.9  2.1E+02  42.0   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     187.0   11.0     100
+   0.634     70.8  2.1E+02  42.4   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     188.0   11.0     100
+   0.634     70.8  2.1E+02  42.9   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     189.0   11.1     100
+   0.634     70.8  2.1E+02  43.3   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     190.0   11.1     100
+   0.634     70.8  2.1E+02  43.7   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     191.0   11.2     100
+   0.634     70.8  2.1E+02  44.2   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     192.0   11.3     100
+   0.634     70.8  2.1E+02  44.6   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     193.0   11.3     100
+   0.634     70.8  2.1E+02  45.1   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     194.0   11.4     100
+   0.634     70.8  2.1E+02  45.5   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     195.0   11.4     100
+   0.634     70.8  2.1E+02  45.9   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     196.0   11.5     100
+   0.634     70.8  2.1E+02  46.4   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     197.0   11.6     100
+   0.634     70.8  2.1E+02  46.8   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     198.0   11.6     100
+   0.634     70.7  2.1E+02  47.2   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     199.0   11.7     100
+   0.633     70.7  2.1E+02  47.7   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     200.0   11.7     100
+   0.633     70.7  2.1E+02  48.1   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     201.0   11.8     100
+   0.633     70.7  2.1E+02  48.5   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     202.0   11.8     100
+   0.633     70.7  2.1E+02  49.0   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     203.0   11.9     100
+   0.633     70.7  2.1E+02  49.4   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     204.0   12.0     100
+   0.633     70.7  2.1E+02  49.8   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     205.0   12.0     100
+   0.633     70.7  2.1E+02  50.2   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     206.0   12.1     100
+   0.633     70.7  2.1E+02  50.7   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     207.0   12.1     100
+   0.633     70.7  2.1E+02  51.1   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     208.0   12.2     100
+   0.633     70.7  2.1E+02  51.5   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     209.0   12.3     100
+   0.633     70.6  2.1E+02  52.0   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     210.0   12.3     100
+   0.633     70.6  2.1E+02  52.4   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     211.0   12.4     100
+   0.633     70.6  2.1E+02  52.8   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     212.0   12.4     100
+   0.633     70.6  2.1E+02  53.3   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     213.0   12.5     100
+   0.633     70.6  2.1E+02  53.7   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     214.0   12.6     100
+   0.633     70.6  2.1E+02  54.1   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     215.0   12.6     100
+   0.633     70.6  2.1E+02  54.6   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     216.0   12.7     100
+   0.632     70.6  2.1E+02  55.0   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     217.0   12.7     100
+   0.632     70.6  2.1E+02  55.4   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     218.0   12.8     100
+   0.632     70.6  2.1E+02  55.9   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     219.0   12.8     100
+   0.632     70.6  2.1E+02  56.3   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     220.0   12.9     100
+   0.632     70.5  2.1E+02  56.7   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     221.0   13.0     100
+   0.632     70.5  2.1E+02  57.1   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     222.0   13.0     100
+   0.632     70.5  2.1E+02  57.6   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     223.0   13.1     100
+   0.632     70.5  2.1E+02  58.0   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     224.0   13.1     100
+   0.632     70.5  2.1E+02  58.4   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     225.0   13.2     100
+   0.632     70.5  2.1E+02  58.9   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     226.0   13.3     100
+   0.632     70.5  2.1E+02  59.3   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     227.0   13.3     100
+   0.632     70.5  2.1E+02  59.7   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     228.0   13.4     100
+   0.632     70.5  2.1E+02  60.2   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     229.0   13.4     100
+   0.632     70.5  2.1E+02  60.6   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     230.0   13.5     100
+   0.632     70.5  2.1E+02  61.0   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     231.0   13.6     100
+   0.632     70.4  2.1E+02  61.4   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     232.0   13.6     100
+   0.631     70.4  2.1E+02  61.9   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     233.0   13.7     100
+   0.631     70.4  2.1E+02  62.3   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     234.0   13.7     100
+   0.631     70.4  2.1E+02  62.7   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     235.0   13.8     100
+   0.631     70.4  2.1E+02  63.2   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     236.0   13.8     100
+   0.631     70.4  2.1E+02  63.6   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     237.0   13.9     100
+   0.631     70.4  2.1E+02  64.0   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     238.0   14.0     100
+   0.631     70.4  2.1E+02  64.4   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     239.0   14.0     100
+   0.631     70.4  2.1E+02  64.9   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     240.0   14.1     100
+   0.631     70.4  2.1E+02  65.3   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     241.0   14.1     100
+   0.631     70.4  2.1E+02  65.7   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     242.0   14.2     100
+   0.631     70.3  2.1E+02  66.2   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     243.0   14.3     100
+   0.631     70.3  2.1E+02  66.6   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     244.0   14.3     100
+   0.631     70.3  2.1E+02  67.0   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     245.0   14.4     100
+   0.631     70.3  2.1E+02  67.4   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     246.0   14.4     100
+   0.631     70.3  2.1E+02  67.9   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     247.0   14.5     100
+   0.631     70.3  2.1E+02  68.3   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     248.0   14.5     100
+   0.631     70.3  2.1E+02  68.7   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     249.0   14.6     100
+   0.630     70.3  2.1E+02  69.1   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     250.0   14.7     100
+   0.630     70.3  2.1E+02  69.6   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     251.0   14.7     100
+   0.630     70.3  2.1E+02  70.0   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     252.0   14.8     100
+   0.630     70.3  2.1E+02  70.4   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     253.0   14.8     100
+   0.630     70.2  2.1E+02  70.9   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     254.0   14.9     100
+   0.630     70.2  2.1E+02  71.3   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     255.0   15.0     100
+   0.630     70.2  2.1E+02  71.7   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     256.0   15.0     100
+   0.630     70.2  2.1E+02  72.1   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     257.0   15.1     100
+   0.630     70.2  2.1E+02  72.6   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     258.0   15.1     100
+   0.630     70.2  2.1E+02  73.0   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     259.0   15.2     100
+   0.630     70.2  2.1E+02  73.4   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     260.0   15.3     100
+   0.630     70.2  2.1E+02  73.8   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     261.0   15.3     100
+   0.630     70.2  2.1E+02  74.3   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     262.0   15.4     100
+   0.630     70.2  2.1E+02  74.7   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     263.0   15.4     100
+   0.630     70.2  2.1E+02  75.1   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     264.0   15.5     100
+   0.630     70.1  2.1E+02  75.6   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     265.0   15.5     100
+   0.630     70.1  2.1E+02  76.0   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     266.0   15.6     100
+   0.629     70.1  2.1E+02  76.4   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     267.0   15.7     100
+   0.629     70.1  2.1E+02  76.8   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     268.0   15.7     100
+   0.629     70.1  2.1E+02  77.3   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     269.0   15.8     100
+   0.629     70.1  2.1E+02  77.7   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     270.0   15.8     100
+   0.629     70.1  2.1E+02  78.1   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     271.0   15.9     100
+   0.629     70.1  2.1E+02  78.5   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     272.0   16.0     100
+   0.629     70.1  2.1E+02  79.0   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     273.0   16.0     100
+   0.629     70.1  2.1E+02  79.4   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     274.0   16.1     100
+   0.629     70.1  2.1E+02  79.8   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     275.0   16.1     100
+   0.629     70.0  2.1E+02  80.2   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     276.0   16.2     100
+   0.629     70.0  2.1E+02  80.7   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     277.0   16.2     100
+   0.629     70.0  2.1E+02  81.1   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     278.0   16.3     100
+   0.629     70.0  2.1E+02  81.5   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     279.0   16.4     100
+   0.629     70.0  2.1E+02  81.9   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     280.0   16.4     100
+   0.629     70.0  2.1E+02  82.4   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     281.0   16.5     100
+   0.629     70.0  2.1E+02  82.8   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     282.0   16.5     100
+   0.628     70.0  2.1E+02  83.2   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     283.0   16.6     100
+   0.628     70.0  2.1E+02  83.6   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     284.0   16.7     100
+   0.628     70.0  2.1E+02  84.1   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     285.0   16.7     100
+   0.628     70.0  2.1E+02  84.5   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     286.0   16.8     100
+   0.628     69.9  2.1E+02  84.9   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     287.0   16.8     100
+   0.628     69.9  2.1E+02  85.3   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     288.0   16.9     100
+   0.628     69.9  2.1E+02  85.8   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     289.0   17.0     100
+   0.628     69.9  2.1E+02  86.2   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     290.0   17.0     100
+   0.628     69.9  2.1E+02  86.6   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     291.0   17.1     100
+   0.628     69.9  2.1E+02  87.0   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     292.0   17.1     100
+   0.628     69.9  2.1E+02  87.5   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     293.0   17.2     100
+   0.628     69.9  2.1E+02  87.9   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     294.0   17.2     100
+   0.628     69.9  2.1E+02  88.3   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     295.0   17.3     100
+   0.628     69.9  2.1E+02  88.7   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     296.0   17.4     100
+   0.628     69.9  2.1E+02  89.2   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     297.0   17.4     100
+   0.628     69.8  2.1E+02  89.6   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     298.0   17.5     100
+   0.627     69.8  2.1E+02  90.0   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     299.0   17.5     100
+   0.627     69.8  2.1E+02  90.4   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     300.0   17.6     100
+   0.627     69.8  2.1E+02  90.8   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     301.0   17.7     100
+   0.627     69.8  2.1E+02  91.3   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     302.0   17.7     100
+   0.627     69.8  2.1E+02  91.7   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     303.0   17.8     100
+   0.627     69.8  2.1E+02  92.1   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     304.0   17.8     100
+   0.627     69.8  2.1E+02  92.5   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     305.0   17.9     100
+   0.627     69.8  2.1E+02  93.0   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     306.0   18.0     100
+   0.627     69.8  2.0E+02  93.4   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     307.0   18.0     100
+   0.627     69.7  2.0E+02  93.8   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     308.0   18.1     100
+   0.627     69.7  2.0E+02  94.2   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     309.0   18.1     100
+   0.627     69.7  2.0E+02  94.7   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     310.0   18.2     100
+   0.627     69.7  2.0E+02  95.1   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     311.0   18.2     100
+   0.627     69.7  2.0E+02  95.5   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     312.0   18.3     100
+   0.627     69.7  2.0E+02  95.9   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     313.0   18.4     100
+   0.627     69.7  2.0E+02  96.4   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     314.0   18.4     100
+   0.626     69.7  2.0E+02  96.8   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     315.0   18.5     100
+   0.626     69.7  2.0E+02  97.2   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     316.0   18.5     100
+   0.626     69.7  2.0E+02  97.6   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     317.0   18.6     100
+   0.626     69.7  2.0E+02  98.0   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     318.0   18.7     100
+   0.626     69.6  2.0E+02  98.5   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     319.0   18.7     100
+   0.626     69.6  2.0E+02  98.9   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     320.0   18.8     100
+   0.626     69.6  2.0E+02  99.3   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     321.0   18.8     100
+   0.626     69.6  2.0E+02  99.7   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     322.0   18.9     100
+   0.626     69.6  2.0E+02 100.2   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     323.0   18.9     100
+   0.626     69.6  2.0E+02 100.6   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     324.0   19.0     100
+   0.626     69.6  2.0E+02 101.0   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     325.0   19.1     100
+   0.626     69.6  2.0E+02 101.4   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     326.0   19.1     100
+   0.626     69.6  2.0E+02 101.8   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     327.0   19.2     100
+   0.626     69.6  2.0E+02 102.3   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     328.0   19.2     100
+   0.626     69.6  2.0E+02 102.7   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     329.0   19.3     100
+   0.626     69.5  2.0E+02 103.1   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     330.0   19.4     100
+   0.625     69.5  2.0E+02 103.5   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     331.0   19.4     100
+   0.625     69.5  2.0E+02 104.0   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     332.0   19.5     100
+   0.625     69.5  2.0E+02 104.4   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     333.0   19.5     100
+   0.625     69.5  2.0E+02 104.8   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     334.0   19.6     100
+   0.625     69.5  2.0E+02 105.2   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     335.0   19.7     100
+   0.625     69.5  2.0E+02 105.6   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     336.0   19.7     100
+   0.625     69.5  2.0E+02 106.1   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     337.0   19.8     100
+   0.625     69.5  2.0E+02 106.5   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     338.0   19.8     100
+   0.625     69.5  2.0E+02 106.9   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     339.0   19.9     100
+   0.625     69.4  2.0E+02 107.3   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     340.0   19.9     100
+   0.625     69.4  2.0E+02 107.8   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     341.0   20.0     100
+   0.625     69.4  2.0E+02 108.2   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     342.0   20.1     100
+   0.625     69.4  2.0E+02 108.6   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     343.0   20.1     100
+   0.625     69.4  2.0E+02 109.0   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     344.0   20.2     100
+   0.625     69.4  2.0E+02 109.4   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     345.0   20.2     100
+   0.625     69.4  2.0E+02 109.9   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     346.0   20.3     100
+   0.624     69.4  2.0E+02 110.3   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     347.0   20.4     100
+   0.624     69.4  2.0E+02 110.7   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     348.0   20.4     100
+   0.624     69.4  2.0E+02 111.1   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     349.0   20.5     100
+   0.624     69.4  2.0E+02 111.5   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     350.0   20.5     100
+   0.624     69.3  2.0E+02 112.0   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     351.0   20.6     100
+   0.624     69.3  2.0E+02 112.4   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     352.0   20.6     100
+   0.624     69.3  2.0E+02 112.8   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     353.0   20.7     100
+   0.624     69.3  2.0E+02 113.2   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     354.0   20.8     100
+   0.624     69.3  2.0E+02 113.7   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     355.0   20.8     100
+   0.624     69.3  2.0E+02 114.1   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     356.0   20.9     100
+   0.624     69.3  2.0E+02 114.5   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     357.0   20.9     100
+   0.624     69.3  2.0E+02 114.9   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     358.0   21.0     100
+   0.624     69.3  2.0E+02 115.3   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     359.0   21.1     100
+   0.624     69.3  2.0E+02 115.8   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     360.0   21.1     100
+   0.624     69.3  2.0E+02 116.2   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     361.0   21.2     100
+   0.624     69.2  2.0E+02 116.6   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     362.0   21.2     100
+   0.623     69.2  2.0E+02 117.0   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     363.0   21.3     100
+   0.623     69.2  2.0E+02 117.4   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     364.0   21.4     100
+   0.623     69.2  2.0E+02 117.9   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     365.0   21.4     100
+   0.623     69.2  2.0E+02 118.3   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     366.0   21.5     100
+   0.623     69.2  2.0E+02 118.7   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     367.0   21.5     100
+   0.623     69.2  2.0E+02 119.1   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     368.0   21.6     100
+   0.623     69.2  2.0E+02 119.5   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     369.0   21.6     100
+   0.623     69.2  2.0E+02 120.0   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     370.0   21.7     100
+   0.623     69.2  2.0E+02 120.4   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     371.0   21.8     100
+   0.623     69.1  2.0E+02 120.8   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     372.0   21.8     100
+   0.623     69.1  2.0E+02 121.2   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     373.0   21.9     100
+   0.623     69.1  2.0E+02 121.7   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     374.0   21.9     100
+   0.623     69.1  2.0E+02 122.1   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     375.0   22.0     100
+   0.623     69.1  2.0E+02 122.5   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     376.0   22.1     100
+   0.623     69.1  2.0E+02 122.9   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     377.0   22.1     100
+   0.622     69.1  2.0E+02 123.3   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     378.0   22.2     100
+   0.622     69.1  2.0E+02 123.8   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     379.0   22.2     100
+   0.622     69.1  2.0E+02 124.2   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     380.0   22.3     100
+   0.622     69.1  2.0E+02 124.6   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     381.0   22.3     100
+   0.622     69.1  2.0E+02 125.0   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     382.0   22.4     100
+   0.622     69.0  2.0E+02 125.4   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     383.0   22.5     100
+   0.622     69.0  2.0E+02 125.9   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     384.0   22.5     100
+   0.622     69.0  2.0E+02 126.3   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     385.0   22.6     100
+   0.622     69.0  2.0E+02 126.7   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     386.0   22.6     100
+   0.622     69.0  2.0E+02 127.1   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     387.0   22.7     100
+   0.622     69.0  2.0E+02 127.5   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     388.0   22.8     100
+   0.622     69.0  2.0E+02 128.0   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     389.0   22.8     100
+   0.622     69.0  2.0E+02 128.4   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     390.0   22.9     100
+   0.622     69.0  2.0E+02 128.8   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     391.0   22.9     100
+   0.622     69.0  2.0E+02 129.2   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     392.0   23.0     100
+   0.622     68.9  2.0E+02 129.6   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     393.0   23.1     100
+   0.621     68.9  2.0E+02 130.1   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     394.0   23.1     100
+   0.621     68.9  2.0E+02 130.5   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     395.0   23.2     100
+   0.621     68.9  2.0E+02 130.9   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     396.0   23.2     100
+   0.621     68.9  2.0E+02 131.3   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     397.0   23.3     100
+   0.621     68.9  2.0E+02 131.7   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     398.0   23.3     100
+   0.621     68.9  2.0E+02 132.1   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     399.0   23.4     100
+   0.621     68.9  2.0E+02 132.6   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     400.0   23.5     100
+   0.621     68.9  2.0E+02 133.0   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     401.0   23.5     100
+   0.621     68.9  2.0E+02 133.4   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     402.0   23.6     100
+   0.621     68.9  2.0E+02 133.8   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     403.0   23.6     100
+   0.621     68.8  2.0E+02 134.2   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     404.0   23.7     100
+   0.621     68.8  2.0E+02 134.7   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     405.0   23.8     100
+   0.621     68.8  2.0E+02 135.1   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     406.0   23.8     100
+   0.621     68.8  2.0E+02 135.5   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     407.0   23.9     100
+   0.621     68.8  2.0E+02 135.9   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     408.0   23.9     100
+   0.620     68.8  2.0E+02 136.3   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     409.0   24.0     100
+   0.620     68.8  2.0E+02 136.8   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     410.0   24.1     100
+   0.620     68.8  2.0E+02 137.2   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     411.0   24.1     100
+   0.620     68.8  2.0E+02 137.6   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     412.0   24.2     100
+   0.620     68.8  2.0E+02 138.0   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     413.0   24.2     100
+   0.620     68.7  2.0E+02 138.4   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     414.0   24.3     100
+   0.620     68.7  2.0E+02 138.9   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     415.0   24.3     100
+   0.620     68.7  2.0E+02 139.3   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     416.0   24.4     100
+   0.620     68.7  2.0E+02 139.7   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     417.0   24.5     100
+   0.620     68.7  2.0E+02 140.1   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     418.0   24.5     100
+   0.620     68.7  2.0E+02 140.5   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     419.0   24.6     100
+   0.620     68.7  2.0E+02 141.0   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     420.0   24.6     100
+   0.620     68.7  2.0E+02 141.4   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     421.0   24.7     100
+   0.620     68.7  2.0E+02 141.8   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     422.0   24.8     100
+   0.620     68.7  2.0E+02 142.2   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     423.0   24.8     100
+   0.619     68.7  2.0E+02 142.6   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     424.0   24.9     100
+   0.619     68.6  2.0E+02 143.0   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     425.0   24.9     100
+   0.619     68.6  2.0E+02 143.5   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     426.0   25.0     100
+   0.619     68.6  2.0E+02 143.9   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     427.0   25.0     100
+   0.619     68.6  2.0E+02 144.3   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     428.0   25.1     100
+   0.619     68.6  2.0E+02 144.7   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     429.0   25.2     100
+   0.619     68.6  2.0E+02 145.1   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     430.0   25.2     100
+   0.619     68.6  2.0E+02 145.6   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     431.0   25.3     100
+   0.619     68.6  2.0E+02 146.0   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     432.0   25.3     100
+   0.619     68.6  2.0E+02 146.4   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     433.0   25.4     100
+   0.619     68.6  2.0E+02 146.8   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     434.0   25.5     100
+   0.619     68.5  2.0E+02 147.2   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     435.0   25.5     100
+   0.619     68.5  2.0E+02 147.7   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     436.0   25.6     100
+   0.619     68.5  2.0E+02 148.1   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     437.0   25.6     100
+   0.619     68.5  2.0E+02 148.5   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     438.0   25.7     100
+   0.619     68.5  2.0E+02 148.9   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     439.0   25.8     100
+   0.618     68.5  2.0E+02 149.3   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     440.0   25.8     100
+   0.618     68.5  2.0E+02 149.7   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     441.0   25.9     100
+   0.618     68.5  2.0E+02 150.2   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     442.0   25.9     100
+   0.618     68.5  2.0E+02 150.6   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     443.0   26.0     100
+   0.618     68.5  2.0E+02 151.0   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     444.0   26.0     100
+   0.618     68.4  2.0E+02 151.4   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     445.0   26.1     100
+   0.618     68.4  2.0E+02 151.8   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     446.0   26.2     100
+   0.618     68.4  2.0E+02 152.3   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     447.0   26.2     100
+   0.618     68.4  2.0E+02 152.7   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     448.0   26.3     100
+   0.618     68.4  2.0E+02 153.1   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     449.0   26.3     100
+   0.618     68.4  2.0E+02 153.5   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     450.0   26.4     100
+   0.618     68.4  2.0E+02 153.9   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     451.0   26.5     100
+   0.618     68.4  2.0E+02 154.3   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     452.0   26.5     100
+   0.618     68.4  2.0E+02 154.8   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     453.0   26.6     100
+   0.618     68.4  2.0E+02 155.2   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     454.0   26.6     100
+   0.617     68.4  2.0E+02 155.6   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     455.0   26.7     100
+   0.617     68.3  2.0E+02 156.0   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     456.0   26.7     100
+   0.617     68.3  2.0E+02 156.4   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     457.0   26.8     100
+   0.617     68.3  2.0E+02 156.9   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     458.0   26.9     100
+   0.617     68.3  2.0E+02 157.3   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     459.0   26.9     100
+   0.617     68.3  2.0E+02 157.7   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     460.0   27.0     100
+   0.617     68.3  2.0E+02 158.1   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     461.0   27.0     100
+   0.617     68.3  2.0E+02 158.5   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     462.0   27.1     100
+   0.617     68.3  2.0E+02 158.9   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     463.0   27.2     100
+   0.617     68.3  2.0E+02 159.4   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     464.0   27.2     100
+   0.617     68.3  2.0E+02 159.8   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     465.0   27.3     100
+   0.617     68.2  2.0E+02 160.2   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     466.0   27.3     100
+   0.617     68.2  2.0E+02 160.6   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     467.0   27.4     100
+   0.617     68.2  2.0E+02 161.0   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     468.0   27.5     100
+   0.616     68.2  2.0E+02 161.4   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     469.0   27.5     100
+   0.616     68.2  2.0E+02 161.9   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     470.0   27.6     100
+   0.616     68.2  2.0E+02 162.3   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     471.0   27.6     100
+   0.616     68.2  2.0E+02 162.7   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     472.0   27.7     100
+   0.616     68.2  2.0E+02 163.1   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     473.0   27.7     100
+   0.616     68.2  2.0E+02 163.5   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     474.0   27.8     100
+   0.616     68.2  2.0E+02 164.0   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     475.0   27.9     100
+   0.616     68.1  2.0E+02 164.4   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     476.0   27.9     100
+   0.616     68.1  2.0E+02 164.8   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     477.0   28.0     100
+   0.616     68.1  2.0E+02 165.2   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     478.0   28.0     100
+   0.616     68.1  2.0E+02 165.6   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     479.0   28.1     100
+   0.616     68.1  2.0E+02 166.0   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     480.0   28.2     100
+   0.616     68.1  2.0E+02 166.5   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     481.0   28.2     100
+   0.616     68.1  2.0E+02 166.9   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     482.0   28.3     100
+   0.616     68.1  2.0E+02 167.3   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     483.0   28.3     100
+   0.615     68.1  2.0E+02 167.7   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     484.0   28.4     100
+   0.615     68.1  2.0E+02 168.1   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     485.0   28.5     100
+   0.615     68.0  2.0E+02 168.5   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     486.0   28.5     100
+   0.615     68.0  2.0E+02 169.0   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     487.0   28.6     100
+   0.615     68.0  2.0E+02 169.4   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     488.0   28.6     100
+   0.615     68.0  2.0E+02 169.8   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     489.0   28.7     100
+   0.615     68.0  2.0E+02 170.2   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     490.0   28.7     100
+   0.615     68.0  2.0E+02 170.6   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     491.0   28.8     100
+   0.615     68.0  2.0E+02 171.0   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     492.0   28.9     100
+   0.615     68.0  2.0E+02 171.5   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     493.0   28.9     100
+   0.615     68.0  2.0E+02 171.9   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     494.0   29.0     100
+   0.615     68.0  2.0E+02 172.3   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     495.0   29.0     100
+   0.615     68.0  2.0E+02 172.7   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     496.0   29.1     100
+   0.615     67.9  2.0E+02 173.1   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     497.0   29.2     100
+   0.615     67.9  2.0E+02 173.6   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     498.0   29.2     100
+   0.614     67.9  2.0E+02 174.0   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     499.0   29.3     100
+   0.614     67.9  2.0E+02 174.4   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     500.0   29.3     100
+   0.614     67.9  2.0E+02 174.8   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     501.0   29.4     100
+   0.614     67.9  2.0E+02 175.2   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     502.0   29.4     100
+   0.614     67.9  2.0E+02 175.6   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     503.0   29.5     100
+   0.614     67.9  2.0E+02 176.1   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     504.0   29.6     100
+   0.614     67.9  2.0E+02 176.5   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     505.0   29.6     100
+   0.614     67.9  2.0E+02 176.9   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     506.0   29.7     100
+   0.614     67.8  2.0E+02 177.3   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     507.0   29.7     100
+   0.614     67.8  2.0E+02 177.7   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     508.0   29.8     100
+   0.614     67.8  2.0E+02 178.1   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     509.0   29.9     100
+   0.614     67.8  2.0E+02 178.6   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     510.0   29.9     100
+   0.614     67.8  2.0E+02 179.0   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     511.0   30.0     100
+   0.614     67.8  2.0E+02 179.4   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     512.0   30.0     100
+   0.613     67.8  2.0E+02 179.8   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     513.0   30.1     100
+   0.613     67.8  2.0E+02 180.2   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     514.0   30.2     100
+   0.613     67.8  2.0E+02 180.6   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     515.0   30.2     100
+   0.613     67.8  2.0E+02 181.1   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     516.0   30.3     100
+   0.613     67.7  2.0E+02 181.5   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     517.0   30.3     100
+   0.613     67.7  2.0E+02 181.9   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     518.0   30.4     100
+   0.613     67.7  2.0E+02 182.3   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     519.0   30.4     100
+   0.613     67.7  2.0E+02 182.7   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     520.0   30.5     100
+   0.613     67.7  2.0E+02 183.1   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     521.0   30.6     100
+   0.613     67.7  2.0E+02 183.6   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     522.0   30.6     100
+   0.613     67.7  2.0E+02 184.0   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     523.0   30.7     100
+   0.613     67.7  2.0E+02 184.4   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     524.0   30.7     100
+   0.613     67.7  2.0E+02 184.8   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     525.0   30.8     100
+   0.613     67.7  2.0E+02 185.2   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     526.0   30.9     100
+   0.613     67.6  2.0E+02 185.6   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     527.0   30.9     100
+   0.612     67.6  2.0E+02 186.1   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     528.0   31.0     100
+   0.612     67.6  2.0E+02 186.5   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     529.0   31.0     100
+   0.612     67.6  2.0E+02 186.9   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     530.0   31.1     100
+   0.612     67.6  2.0E+02 187.3   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     531.0   31.1     100
+   0.612     67.6  2.0E+02 187.7   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     532.0   31.2     100
+   0.612     67.6  2.0E+02 188.1   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     533.0   31.3     100
+   0.612     67.6  2.0E+02 188.6   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     534.0   31.3     100
+   0.612     67.6  2.0E+02 189.0   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     535.0   31.4     100
+   0.612     67.6  2.0E+02 189.4   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     536.0   31.4     100
+   0.612     67.5  2.0E+02 189.8   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     537.0   31.5     100
+   0.612     67.5  2.0E+02 190.2   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     538.0   31.6     100
+   0.612     67.5  2.0E+02 190.6   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     539.0   31.6     100
+   0.612     67.5  2.0E+02 191.0   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     540.0   31.7     100
+   0.612     67.5  2.0E+02 191.5   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     541.0   31.7     100
+   0.611     67.5  2.0E+02 191.9   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     542.0   31.8     100
+   0.611     67.5  2.0E+02 192.3   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     543.0   31.9     100
+   0.611     67.5  2.0E+02 192.7   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     544.0   31.9     100
+   0.611     67.5  1.9E+02 193.1   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     545.0   32.0     100
+   0.611     67.5  1.9E+02 193.5   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     546.0   32.0     100
+   0.611     67.4  1.9E+02 194.0   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     547.0   32.1     100
+   0.611     67.4  1.9E+02 194.4   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     548.0   32.1     100
+   0.611     67.4  1.9E+02 194.8   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     549.0   32.2     100
+   0.611     67.4  1.9E+02 195.2   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     550.0   32.3     100
+   0.611     67.4  1.9E+02 195.6   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     551.0   32.3     100
+   0.611     67.4  1.9E+02 196.0   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     552.0   32.4     100
+   0.611     67.4  1.9E+02 196.5   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     553.0   32.4     100
+   0.611     67.4  1.9E+02 196.9   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     554.0   32.5     100
+   0.611     67.4  1.9E+02 197.3   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     555.0   32.6     100
+   0.610     67.4  1.9E+02 197.7   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     556.0   32.6     100
+   0.610     67.3  1.9E+02 198.1   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     557.0   32.7     100
+   0.610     67.3  1.9E+02 198.5   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     558.0   32.7     100
+   0.610     67.3  1.9E+02 199.0   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     559.0   32.8     100
+   0.610     67.3  1.9E+02 199.4   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     560.0   32.8     100
+   0.610     67.3  1.9E+02 199.8   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     561.0   32.9     100
+   0.610     67.3  1.9E+02 200.2   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     562.0   33.0     100
+   0.610     67.3  1.9E+02 200.6   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     563.0   33.0     100
+   0.610     67.3  1.9E+02 201.0   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     564.0   33.1     100
+   0.610     67.3  1.9E+02 201.4   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     565.0   33.1     100
+   0.610     67.3  1.9E+02 201.9   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     566.0   33.2     100
+   0.610     67.2  1.9E+02 202.3   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     567.0   33.3     100
+   0.610     67.2  1.9E+02 202.7   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     568.0   33.3     100
+   0.610     67.2  1.9E+02 203.1   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     569.0   33.4     100
+   0.609     67.2  1.9E+02 203.5   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     570.0   33.4     100
+   0.609     67.2  1.9E+02 203.9   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     571.0   33.5     100
+   0.609     67.2  1.9E+02 204.4   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     572.0   33.6     100
+   0.609     67.2  1.9E+02 204.8   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     573.0   33.6     100
+   0.609     67.2  1.9E+02 205.2   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     574.0   33.7     100
+   0.609     67.2  1.9E+02 205.6   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     575.0   33.7     100
+   0.609     67.2  1.9E+02 206.0   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     576.0   33.8     100
+   0.609     67.1  1.9E+02 206.4   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     577.0   33.8     100
+   0.609     67.1  1.9E+02 206.9   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     578.0   33.9     100
+   0.609     67.1  1.9E+02 207.3   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     579.0   34.0     100
+   0.609     67.1  1.9E+02 207.7   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     580.0   34.0     100
+   0.609     67.1  1.9E+02 208.1   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     581.0   34.1     100
+   0.609     67.1  1.9E+02 208.5   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     582.0   34.1     100
+   0.609     67.1  1.9E+02 208.9   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     583.0   34.2     100
+   0.608     67.1  1.9E+02 209.3   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     584.0   34.3     100
+   0.608     67.1  1.9E+02 209.8   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     585.0   34.3     100
+   0.608     67.1  1.9E+02 210.2   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     586.0   34.4     100
+   0.608     67.0  1.9E+02 210.6   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     587.0   34.4     100
+   0.608     67.0  1.9E+02 211.0   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     588.0   34.5     100
+   0.608     67.0  1.9E+02 211.4   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     589.0   34.6     100
+   0.608     67.0  1.9E+02 211.8   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     590.0   34.6     100
+   0.608     67.0  1.9E+02 212.3   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     591.0   34.7     100
+   0.608     67.0  1.9E+02 212.7   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     592.0   34.7     100
+   0.608     67.0  1.9E+02 213.1   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     593.0   34.8     100
+   0.608     67.0  1.9E+02 213.5   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     594.0   34.8     100
+   0.608     67.0  1.9E+02 213.9   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     595.0   34.9     100
+   0.608     67.0  1.9E+02 214.3   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     596.0   35.0     100
+   0.608     66.9  1.9E+02 214.7   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     597.0   35.0     100
+   0.607     66.9  1.9E+02 215.2   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     598.0   35.1     100
+   0.607     66.9  1.9E+02 215.6   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     599.0   35.1     100
+   0.607     66.9  1.9E+02 216.0   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     600.0   35.2     100
+   0.607     66.9  1.9E+02 216.4   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     601.0   35.3     100
+   0.607     66.9  1.9E+02 216.8   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     602.0   35.3     100
+   0.607     66.9  1.9E+02 217.2   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     603.0   35.4     100
+   0.607     66.9  1.9E+02 217.7   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     604.0   35.4     100
+   0.607     66.9  1.9E+02 218.1   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     605.0   35.5     100
+   0.607     66.9  1.9E+02 218.5   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     606.0   35.5     100
+   0.607     66.8  1.9E+02 218.9   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     607.0   35.6     100
+   0.607     66.8  1.9E+02 219.3   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     608.0   35.7     100
+   0.607     66.8  1.9E+02 219.7   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     609.0   35.7     100
+   0.607     66.8  1.9E+02 220.1   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     610.0   35.8     100
+   0.607     66.8  1.9E+02 220.6   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     611.0   35.8     100
+   0.606     66.8  1.9E+02 221.0   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     612.0   35.9     100
+   0.606     66.8  1.9E+02 221.4   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     613.0   36.0     100
+   0.606     66.8  1.9E+02 221.8   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     614.0   36.0     100
+   0.606     66.8  1.9E+02 222.2   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     615.0   36.1     100
+   0.606     66.8  1.9E+02 222.6   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     616.0   36.1     100
+   0.606     66.7  1.9E+02 223.0   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     617.0   36.2     100
+   0.606     66.7  1.9E+02 223.5   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     618.0   36.3     100
+   0.606     66.7  1.9E+02 223.9   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     619.0   36.3     100
+   0.606     66.7  1.9E+02 224.3   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     620.0   36.4     100
+   0.606     66.7  1.9E+02 224.7   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     621.0   36.4     100
+   0.606     66.7  1.9E+02 225.1   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     622.0   36.5     100
+   0.606     66.7  1.9E+02 225.5   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     623.0   36.5     100
+   0.606     66.7  1.9E+02 226.0   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     624.0   36.6     100
+   0.606     66.7  1.9E+02 226.4   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     625.0   36.7     100
+   0.605     66.7  1.9E+02 226.8   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     626.0   36.7     100
+   0.605     66.6  1.9E+02 227.2   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     627.0   36.8     100
+   0.605     66.6  1.9E+02 227.6   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     628.0   36.8     100
+   0.605     66.6  1.9E+02 228.0   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     629.0   36.9     100
+   0.605     66.6  1.9E+02 228.4   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     630.0   37.0     100
+   0.605     66.6  1.9E+02 228.9   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     631.0   37.0     100
+   0.605     66.6  1.9E+02 229.3   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     632.0   37.1     100
+   0.605     66.6  1.9E+02 229.7   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     633.0   37.1     100
+   0.605     66.6  1.9E+02 230.1   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     634.0   37.2     100
+   0.605     66.6  1.9E+02 230.5   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     635.0   37.2     100
+   0.605     66.5  1.9E+02 230.9   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     636.0   37.3     100
+   0.605     66.5  1.9E+02 231.3   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     637.0   37.4     100
+   0.605     66.5  1.9E+02 231.8   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     638.0   37.4     100
+   0.604     66.5  1.9E+02 232.2   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     639.0   37.5     100
+   0.604     66.5  1.9E+02 232.6   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     640.0   37.5     100
+   0.604     66.5  1.9E+02 233.0   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     641.0   37.6     100
+   0.604     66.5  1.9E+02 233.4   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     642.0   37.7     100
+   0.604     66.5  1.9E+02 233.8   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     643.0   37.7     100
+   0.604     66.5  1.9E+02 234.3   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     644.0   37.8     100
+   0.604     66.5  1.9E+02 234.7   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     645.0   37.8     100
+   0.604     66.4  1.9E+02 235.1   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     646.0   37.9     100
+   0.604     66.4  1.9E+02 235.5   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     647.0   38.0     100
+   0.604     66.4  1.9E+02 235.9   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     648.0   38.0     100
+   0.604     66.4  1.9E+02 236.3   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     649.0   38.1     100
+   0.604     66.4  1.9E+02 236.7   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     650.0   38.1     100
+   0.604     66.4  1.9E+02 237.2   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     651.0   38.2     100
+   0.604     66.4  1.9E+02 237.6   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     652.0   38.2     100
+   0.603     66.4  1.9E+02 238.0   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     653.0   38.3     100
+   0.603     66.4  1.9E+02 238.4   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     654.0   38.4     100
+   0.603     66.4  1.9E+02 238.8   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     655.0   38.4     100
+   0.603     66.3  1.9E+02 239.2   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     656.0   38.5     100
+   0.603     66.3  1.9E+02 239.6   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     657.0   38.5     100
+   0.603     66.3  1.9E+02 240.1   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     658.0   38.6     100
+   0.603     66.3  1.9E+02 240.5   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     659.0   38.7     100
+   0.603     66.3  1.9E+02 240.9   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     660.0   38.7     100
+   0.603     66.3  1.9E+02 241.3   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     661.0   38.8     100
+   0.603     66.3  1.9E+02 241.7   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     662.0   38.8     100
+   0.603     66.3  1.9E+02 242.1   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     663.0   38.9     100
+   0.603     66.3  1.9E+02 242.5   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     664.0   39.0     100
+   0.603     66.3  1.9E+02 243.0   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     665.0   39.0     100
+   0.602     66.2  1.9E+02 243.4   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     666.0   39.1     100
+   0.602     66.2  1.9E+02 243.8   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     667.0   39.1     100
+   0.602     66.2  1.9E+02 244.2   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     668.0   39.2     100
+   0.602     66.2  1.9E+02 244.6   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     669.0   39.2     100
+   0.602     66.2  1.9E+02 245.0   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     670.0   39.3     100
+   0.602     66.2  1.9E+02 245.4   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     671.0   39.4     100
+   0.602     66.2  1.9E+02 245.9   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     672.0   39.4     100
+   0.602     66.2  1.9E+02 246.3   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     673.0   39.5     100
+   0.602     66.2  1.9E+02 246.7   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     674.0   39.5     100
+   0.602     66.1  1.9E+02 247.1   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     675.0   39.6     100
+   0.602     66.1  1.9E+02 247.5   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     676.0   39.7     100
+   0.602     66.1  1.9E+02 247.9   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     677.0   39.7     100
+   0.602     66.1  1.9E+02 248.3   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     678.0   39.8     100
+   0.601     66.1  1.9E+02 248.8   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     679.0   39.8     100
+   0.601     66.1  1.9E+02 249.2   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     680.0   39.9     100
+   0.601     66.1  1.9E+02 249.6   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     681.0   39.9     100
+   0.601     66.1  1.9E+02 250.0   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     682.0   40.0     100
+   0.601     66.1  1.9E+02 250.4   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     683.0   40.1     100
+   0.601     66.1  1.9E+02 250.8   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     684.0   40.1     100
+   0.601     66.0  1.9E+02 251.2   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     685.0   40.2     100
+   0.601     66.0  1.9E+02 251.7   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     686.0   40.2     100
+   0.601     66.0  1.9E+02 252.1   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     687.0   40.3     100
+   0.601     66.0  1.9E+02 252.5   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     688.0   40.4     100
+   0.601     66.0  1.9E+02 252.9   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     689.0   40.4     100
+   0.601     66.0  1.9E+02 253.3   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     690.0   40.5     100
+   0.601     66.0  1.9E+02 253.7   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     691.0   40.5     100
+   0.600     66.0  1.9E+02 254.1   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     692.0   40.6     100
+   0.600     66.0  1.9E+02 254.6   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     693.0   40.7     100
+   0.600     65.9  1.9E+02 255.0   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     694.0   40.7     100
+   0.600     65.9  1.9E+02 255.4   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     695.0   40.8     100
+   0.600     65.9  1.9E+02 255.8   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     696.0   40.8     100
+   0.600     65.9  1.9E+02 256.2   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     697.0   40.9     100
+   0.600     65.9  1.9E+02 256.6   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     698.0   40.9     100
+   0.600     65.9  1.9E+02 257.0   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     699.0   41.0     100
+   0.600     65.9  1.9E+02 257.5   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     700.0   41.1     100
+   0.600     65.9  1.9E+02 257.9   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     701.0   41.1     100
+   0.600     65.9  1.9E+02 258.3   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     702.0   41.2     100
+   0.600     65.9  1.9E+02 258.7   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     703.0   41.2     100
+   0.600     65.8  1.9E+02 259.1   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     704.0   41.3     100
+   0.599     65.8  1.9E+02 259.5   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     705.0   41.4     100
+   0.599     65.8  1.9E+02 259.9   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     706.0   41.4     100
+   0.599     65.8  1.9E+02 260.4   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     707.0   41.5     100
+   0.599     65.8  1.9E+02 260.8   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     708.0   41.5     100
+   0.599     65.8  1.9E+02 261.2   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     709.0   41.6     100
+   0.599     65.8  1.9E+02 261.6   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     710.0   41.6     100
+   0.599     65.8  1.9E+02 262.0   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     711.0   41.7     100
+   0.599     65.8  1.9E+02 262.4   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     712.0   41.8     100
+   0.599     65.8  1.9E+02 262.8   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     713.0   41.8     100
+   0.599     65.7  1.9E+02 263.3   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     714.0   41.9     100
+   0.599     65.7  1.9E+02 263.7   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     715.0   41.9     100
+   0.599     65.7  1.9E+02 264.1   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     716.0   42.0     100
+   0.599     65.7  1.9E+02 264.5   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     717.0   42.1     100
+   0.598     65.7  1.9E+02 264.9   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     718.0   42.1     100
+   0.598     65.7  1.9E+02 265.3   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     719.0   42.2     100
+   0.598     65.7  1.9E+02 265.7   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     720.0   42.2     100
+   0.598     65.7  1.9E+02 266.2   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     721.0   42.3     100
+   0.598     65.7  1.9E+02 266.6   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     722.0   42.4     100
+   0.598     65.6  1.9E+02 267.0   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     723.0   42.4     100
+   0.598     65.6  1.9E+02 267.4   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     724.0   42.5     100
+   0.598     65.6  1.9E+02 267.8   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     725.0   42.5     100
+   0.598     65.6  1.9E+02 268.2   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     726.0   42.6     100
+   0.598     65.6  1.9E+02 268.6   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     727.0   42.6     100
+   0.598     65.6  1.9E+02 269.0   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     728.0   42.7     100
+   0.598     65.6  1.9E+02 269.5   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     729.0   42.8     100
+   0.598     65.6  1.9E+02 269.9   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     730.0   42.8     100
+   0.597     65.6  1.9E+02 270.3   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     731.0   42.9     100
+   0.597     65.5  1.9E+02 270.7   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     732.0   42.9     100
+   0.597     65.5  1.9E+02 271.1   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     733.0   43.0     100
+   0.597     65.5  1.9E+02 271.5   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     734.0   43.1     100
+   0.597     65.5  1.9E+02 271.9   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     735.0   43.1     100
+   0.597     65.5  1.9E+02 272.4   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     736.0   43.2     100
+   0.597     65.5  1.9E+02 272.8   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     737.0   43.2     100
+   0.597     65.5  1.9E+02 273.2   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     738.0   43.3     100
+   0.597     65.5  1.9E+02 273.6   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     739.0   43.4     100
+   0.597     65.5  1.9E+02 274.0   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     740.0   43.4     100
+   0.597     65.5  1.9E+02 274.4   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     741.0   43.5     100
+   0.597     65.4  1.9E+02 274.8   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     742.0   43.5     100
+   0.597     65.4  1.9E+02 275.3   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     743.0   43.6     100
+   0.596     65.4  1.9E+02 275.7   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     744.0   43.6     100
+   0.596     65.4  1.9E+02 276.1   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     745.0   43.7     100
+   0.596     65.4  1.9E+02 276.5   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     746.0   43.8     100
+   0.596     65.4  1.9E+02 276.9   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     747.0   43.8     100
+   0.596     65.4  1.9E+02 277.3   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     748.0   43.9     100
+   0.596     65.4  1.9E+02 277.7   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     749.0   43.9     100
+   0.596     65.4  1.9E+02 278.2   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     750.0   44.0     100
+   0.596     65.3  1.9E+02 278.6   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     751.0   44.1     100
+   0.596     65.3  1.9E+02 279.0   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     752.0   44.1     100
+   0.596     65.3  1.9E+02 279.4   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     753.0   44.2     100
+   0.596     65.3  1.9E+02 279.8   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     754.0   44.2     100
+   0.596     65.3  1.9E+02 280.2   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     755.0   44.3     100
+   0.596     65.3  1.9E+02 280.6   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     756.0   44.3     100
+   0.595     65.3  1.9E+02 281.0   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     757.0   44.4     100
+   0.595     65.3  1.9E+02 281.5   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     758.0   44.5     100
+   0.595     65.3  1.9E+02 281.9   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     759.0   44.5     100
+   0.595     65.3  1.9E+02 282.3   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     760.0   44.6     100
+   0.595     65.2  1.9E+02 282.7   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     761.0   44.6     100
+   0.595     65.2  1.9E+02 283.1   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     762.0   44.7     100
+   0.595     65.2  1.9E+02 283.5   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     763.0   44.8     100
+   0.595     65.2  1.9E+02 283.9   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     764.0   44.8     100
+   0.595     65.2  1.9E+02 284.4   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     765.0   44.9     100
+   0.595     65.2  1.9E+02 284.8   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     766.0   44.9     100
+   0.595     65.2  1.9E+02 285.2   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     767.0   45.0     100
+   0.595     65.2  1.9E+02 285.6   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     768.0   45.1     100
+   0.594     65.2  1.9E+02 286.0   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     769.0   45.1     100
+   0.594     65.1  1.9E+02 286.4   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     770.0   45.2     100
+   0.594     65.1  1.8E+02 286.8   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     771.0   45.2     100
+   0.594     65.1  1.8E+02 287.2   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     772.0   45.3     100
+   0.594     65.1  1.8E+02 287.7   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     773.0   45.3     100
+   0.594     65.1  1.8E+02 288.1   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     774.0   45.4     100
+   0.594     65.1  1.8E+02 288.5   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     775.0   45.5     100
+   0.594     65.1  1.8E+02 288.9   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     776.0   45.5     100
+   0.594     65.1  1.8E+02 289.3   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     777.0   45.6     100
+   0.594     65.1  1.8E+02 289.7   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     778.0   45.6     100
+   0.594     65.0  1.8E+02 290.1   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     779.0   45.7     100
+   0.594     65.0  1.8E+02 290.6   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     780.0   45.8     100
+   0.594     65.0  1.8E+02 291.0   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     781.0   45.8     100
+   0.593     65.0  1.8E+02 291.4   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     782.0   45.9     100
+   0.593     65.0  1.8E+02 291.8   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     783.0   45.9     100
+   0.593     65.0  1.8E+02 292.2   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     784.0   46.0     100
+   0.593     65.0  1.8E+02 292.6   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     785.0   46.0     100
+   0.593     65.0  1.8E+02 293.0   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     786.0   46.1     100
+   0.593     65.0  1.8E+02 293.4   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     787.0   46.2     100
+   0.593     65.0  1.8E+02 293.9   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     788.0   46.2     100
+   0.593     64.9  1.8E+02 294.3   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     789.0   46.3     100
+   0.593     64.9  1.8E+02 294.7   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     790.0   46.3     100
+   0.593     64.9  1.8E+02 295.1   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     791.0   46.4     100
+   0.593     64.9  1.8E+02 295.5   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     792.0   46.5     100
+   0.593     64.9  1.8E+02 295.9   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     793.0   46.5     100
+   0.592     64.9  1.8E+02 296.3   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     794.0   46.6     100
+   0.592     64.9  1.8E+02 296.8   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     795.0   46.6     100
+   0.592     64.9  1.8E+02 297.2   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     796.0   46.7     100
+   0.592     64.9  1.8E+02 297.6   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     797.0   46.8     100
+   0.592     64.8  1.8E+02 298.0   8.1      1      4   1   1
+ WIDE PAIRS    T TPHYS N     798.0   46.8     100
+   0.592     64.8  1.8E+02 298.4   8.1      1      4   1   1
