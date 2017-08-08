@@ -3,12 +3,12 @@
 echo "[`date`] Start"
 
 cd results/
-for randomseed in {1..120..1}
+for filenumber in {221..250..1}
 do
-	mkdir "./run-$randomseed/"
-  	cat << EOF > ./run-$randomseed/ini.dat
+	mkdir "./run-$filenumber/"
+  	cat << EOF > ./run-$filenumber/ini.dat
 1 20.0
-250 1 10 $randomseed 60 1
+250 1 10 $RANDOM 60 1
 0.01 0.01 0.3 2.0 10.0 1500.0 1.0E-03 0.1 0.5
 0 0 1 0 1 0 0 0 0 0
 0 0 0 0 0 0 0 0 0 2
@@ -19,7 +19,7 @@ do
 2.3 50.0 0.2 0 0 0.002 0 5.0
 0.5 0 0 0 0.25
 EOF
-	echo $randomseed
+	echo $filenumber
 done
 
 cd ..
