@@ -4,7 +4,7 @@ echo "[`date`] Start"
 
 cd results/
 
-for filenumber in {1..100..1}
+for filenumber in {101..250..1}
 do
 	echo ""
 	echo "running file $filenumber"
