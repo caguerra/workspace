@@ -1,17 +1,18 @@
 #!/bin/bash
 jobwait() { while [ `jobs | wc -l` -gt $1 ]; do sleep .1; done }
 
-echo "[`date`] Start"
+KERNELS=32
 
+echo "[`date`] Start"
 cd results/
 
-for filenumber in {1..32..1}
+for filenumber in {1..150..1}
 do
 	echo ""
 	echo "running file $filenumber"
-    cd "./run-$filenumber"
-    timeout 120s nbody6 <ini.dat> output &
-    jobwait 8
+	cd "./run-$filenumber"
+	time  (timeout 240s nbody6 <ini.dat> output) 2>> timings &
+	jobwait $KERNELS
 	cd ..
 done
 wait
