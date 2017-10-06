@@ -3,13 +3,13 @@
 echo "[`date`] Start"
 
 cd results/
-for filenumber in {1..150..1}
+for filenumber in {151..300..1}
 do
 	mkdir "./run-$filenumber/"
   	cat << EOF > ./run-$filenumber/ini.dat
 1 20.0
 1500 1 10 $RANDOM 78 1
-0.02 0.02 0.34 2.0 10.0 3200.0 1.0E-03 0.1 0.5
+0.02 0.02 0.34 2.0 10.0 5700.0 1.0E-03 0.1 0.5
 0 0 1 0 1 0 0 0 0 0
 0 0 0 0 0 0 0 0 0 2
 0 0 0 0 0 0 0 0 0 0

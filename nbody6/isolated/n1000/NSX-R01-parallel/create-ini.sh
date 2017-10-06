@@ -3,7 +3,7 @@
 echo "[`date`] Start"
 
 cd results/
-for filenumber in {1..150..1}
+for filenumber in {151..300..1}
 do
 	mkdir "./run-$filenumber/"
   	cat << EOF > ./run-$filenumber/ini.dat
