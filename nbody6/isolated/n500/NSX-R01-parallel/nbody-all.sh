@@ -1,4 +1,8 @@
 #!/bin/bash
+
+# Run in  parallel
+# ================
+
 jobwait() { while [ `jobs | wc -l` -gt $1 ]; do sleep .1; done }
 
 KERNELS=32
