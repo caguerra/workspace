@@ -2,7 +2,7 @@
 # first group 1-250
 
 echo "[`date`] Start"
-
+mkdir results
 cd results/
 for filenumber in {1..250..1}
 do
@@ -12,7 +12,7 @@ do
 250 1 10 $RANDOM 35 1
 0.01 0.01 0.2 1.0 1.0 1500.0 1.0E-03 0.1 0.5
 0 0 1 0 1 0 0 0 0 0
-0 0 0 0 0 0 0 0 0 2
+0 0 0 1 0 0 0 0 0 2
 0 0 0 0 0 0 0 0 0 0
 0 0 0 0 0 0 0 0 0 0
 0 0 0 0 0 0 0 0 0 0
