@@ -11,7 +11,7 @@ do
 	echo ""
 	echo "running file $filenumber"
 	cd "./run-$filenumber"
-	time  (timeout 25m nbody6 <ini.dat> output) 2>> timings &
+	time  (timeout 120m nbody6 <ini.dat> output) 2>> timings &
 	jobwait $KERNELS
 	cd ..
 done
