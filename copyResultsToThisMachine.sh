@@ -1,7 +1,7 @@
 
-dir=./nbody6/isolated/n250/NS100-R01/results
+dir=./nbody6/isolated/n250/NSX-R1/results
 
--avuzP "$dir"/ cesarg@poincare:~/git/workspace/"$dir"/
+ rsync -avuzP cesarg@tars:~/git/workspace/"$dir"/ "$dir"
 
 
 
