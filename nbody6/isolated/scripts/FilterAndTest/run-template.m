@@ -18,6 +18,8 @@ script`path = Directory[];
 script`nbname = $ScriptCommandLine[[2]];
 script`file = FileNameJoin[{script`path, script`nbname}];
 
+script`stars = {800,900,1000};
+
 Do[
 	$RunNumber = script`i;
 	Print["Evaluate notebook: ", $RunNumber];
@@ -30,7 +32,7 @@ Do[
 		) 
 	]
 	,
-	{script`i, {100, 200} }
+	{script`i, script`stars }
 ];	
 
 Print["Evaluation done!"];
