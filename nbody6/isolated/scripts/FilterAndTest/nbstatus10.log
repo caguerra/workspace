@@ -1,0 +1,245 @@
+"Begin log ...."
+"computing particles.mx ...."
+{Parallel`Kernels`kernel[Parallel`Kernels`Private`bk[
+   SubKernels`LocalKernels`localKernel[SubKernels`LocalKernels`Private`lk[
+     LinkObject["/home/Developer/11.1/Executables/wolfram -subkernel -noinit \
+-nopaclet -wstp", 1978, 2], 
+     {"/home/Developer/11.1/Executables/wolfram -subkernel -noinit -nopaclet \
+-wstp"}, SubKernels`LocalKernels`Private`speed$1172349, 
+     SubKernels`LocalKernels`Private`preemptive$1172349]], 
+   Parallel`Kernels`Private`id$1172372, 
+   Parallel`Kernels`Private`name$1172372], Parallel`Kernels`Private`ek[
+   Parallel`Kernels`Private`nev$1172373, Parallel`Kernels`Private`pb$1172373, 
+   Parallel`Kernels`Private`rd$1172373], Parallel`Kernels`Private`sk[
+   Parallel`Kernels`Private`q$1172374, Parallel`Kernels`Private`n0$1172374, 
+   Parallel`Kernels`Private`n1$1172374]], Parallel`Kernels`kernel[
+  Parallel`Kernels`Private`bk[SubKernels`LocalKernels`localKernel[
+    SubKernels`LocalKernels`Private`lk[LinkObject["/home/Developer/11.1/Execu\
+tables/wolfram -subkernel -noinit -nopaclet -wstp", 1979, 3], 
+     {"/home/Developer/11.1/Executables/wolfram -subkernel -noinit -nopaclet \
+-wstp"}, SubKernels`LocalKernels`Private`speed$1172350, 
+     SubKernels`LocalKernels`Private`preemptive$1172350]], 
+   Parallel`Kernels`Private`id$1172376, 
+   Parallel`Kernels`Private`name$1172376], Parallel`Kernels`Private`ek[
+   Parallel`Kernels`Private`nev$1172377, Parallel`Kernels`Private`pb$1172377, 
+   Parallel`Kernels`Private`rd$1172377], Parallel`Kernels`Private`sk[
+   Parallel`Kernels`Private`q$1172378, Parallel`Kernels`Private`n0$1172378, 
+   Parallel`Kernels`Private`n1$1172378]], Parallel`Kernels`kernel[
+  Parallel`Kernels`Private`bk[SubKernels`LocalKernels`localKernel[
+    SubKernels`LocalKernels`Private`lk[LinkObject["/home/Developer/11.1/Execu\
+tables/wolfram -subkernel -noinit -nopaclet -wstp", 1980, 4], 
+     {"/home/Developer/11.1/Executables/wolfram -subkernel -noinit -nopaclet \
+-wstp"}, SubKernels`LocalKernels`Private`speed$1172351, 
+     SubKernels`LocalKernels`Private`preemptive$1172351]], 
+   Parallel`Kernels`Private`id$1172380, 
+   Parallel`Kernels`Private`name$1172380], Parallel`Kernels`Private`ek[
+   Parallel`Kernels`Private`nev$1172381, Parallel`Kernels`Private`pb$1172381, 
+   Parallel`Kernels`Private`rd$1172381], Parallel`Kernels`Private`sk[
+   Parallel`Kernels`Private`q$1172382, Parallel`Kernels`Private`n0$1172382, 
+   Parallel`Kernels`Private`n1$1172382]], Parallel`Kernels`kernel[
+  Parallel`Kernels`Private`bk[SubKernels`LocalKernels`localKernel[
+    SubKernels`LocalKernels`Private`lk[LinkObject["/home/Developer/11.1/Execu\
+tables/wolfram -subkernel -noinit -nopaclet -wstp", 1981, 5], 
+     {"/home/Developer/11.1/Executables/wolfram -subkernel -noinit -nopaclet \
+-wstp"}, SubKernels`LocalKernels`Private`speed$1172352, 
+     SubKernels`LocalKernels`Private`preemptive$1172352]], 
+   Parallel`Kernels`Private`id$1172384, 
+   Parallel`Kernels`Private`name$1172384], Parallel`Kernels`Private`ek[
+   Parallel`Kernels`Private`nev$1172385, Parallel`Kernels`Private`pb$1172385, 
+   Parallel`Kernels`Private`rd$1172385], Parallel`Kernels`Private`sk[
+   Parallel`Kernels`Private`q$1172386, Parallel`Kernels`Private`n0$1172386, 
+   Parallel`Kernels`Private`n1$1172386]], Parallel`Kernels`kernel[
+  Parallel`Kernels`Private`bk[SubKernels`LocalKernels`localKernel[
+    SubKernels`LocalKernels`Private`lk[LinkObject["/home/Developer/11.1/Execu\
+tables/wolfram -subkernel -noinit -nopaclet -wstp", 1982, 6], 
+     {"/home/Developer/11.1/Executables/wolfram -subkernel -noinit -nopaclet \
+-wstp"}, SubKernels`LocalKernels`Private`speed$1172353, 
+     SubKernels`LocalKernels`Private`preemptive$1172353]], 
+   Parallel`Kernels`Private`id$1172388, 
+   Parallel`Kernels`Private`name$1172388], Parallel`Kernels`Private`ek[
+   Parallel`Kernels`Private`nev$1172389, Parallel`Kernels`Private`pb$1172389, 
+   Parallel`Kernels`Private`rd$1172389], Parallel`Kernels`Private`sk[
+   Parallel`Kernels`Private`q$1172390, Parallel`Kernels`Private`n0$1172390, 
+   Parallel`Kernels`Private`n1$1172390]], Parallel`Kernels`kernel[
+  Parallel`Kernels`Private`bk[SubKernels`LocalKernels`localKernel[
+    SubKernels`LocalKernels`Private`lk[LinkObject["/home/Developer/11.1/Execu\
+tables/wolfram -subkernel -noinit -nopaclet -wstp", 1983, 7], 
+     {"/home/Developer/11.1/Executables/wolfram -subkernel -noinit -nopaclet \
+-wstp"}, SubKernels`LocalKernels`Private`speed$1172354, 
+     SubKernels`LocalKernels`Private`preemptive$1172354]], 
+   Parallel`Kernels`Private`id$1172392, 
+   Parallel`Kernels`Private`name$1172392], Parallel`Kernels`Private`ek[
+   Parallel`Kernels`Private`nev$1172393, Parallel`Kernels`Private`pb$1172393, 
+   Parallel`Kernels`Private`rd$1172393], Parallel`Kernels`Private`sk[
+   Parallel`Kernels`Private`q$1172394, Parallel`Kernels`Private`n0$1172394, 
+   Parallel`Kernels`Private`n1$1172394]], Parallel`Kernels`kernel[
+  Parallel`Kernels`Private`bk[SubKernels`LocalKernels`localKernel[
+    SubKernels`LocalKernels`Private`lk[LinkObject["/home/Developer/11.1/Execu\
+tables/wolfram -subkernel -noinit -nopaclet -wstp", 1984, 8], 
+     {"/home/Developer/11.1/Executables/wolfram -subkernel -noinit -nopaclet \
+-wstp"}, SubKernels`LocalKernels`Private`speed$1172355, 
+     SubKernels`LocalKernels`Private`preemptive$1172355]], 
+   Parallel`Kernels`Private`id$1172396, 
+   Parallel`Kernels`Private`name$1172396], Parallel`Kernels`Private`ek[
+   Parallel`Kernels`Private`nev$1172397, Parallel`Kernels`Private`pb$1172397, 
+   Parallel`Kernels`Private`rd$1172397], Parallel`Kernels`Private`sk[
+   Parallel`Kernels`Private`q$1172398, Parallel`Kernels`Private`n0$1172398, 
+   Parallel`Kernels`Private`n1$1172398]], Parallel`Kernels`kernel[
+  Parallel`Kernels`Private`bk[SubKernels`LocalKernels`localKernel[
+    SubKernels`LocalKernels`Private`lk[LinkObject["/home/Developer/11.1/Execu\
+tables/wolfram -subkernel -noinit -nopaclet -wstp", 1985, 9], 
+     {"/home/Developer/11.1/Executables/wolfram -subkernel -noinit -nopaclet \
+-wstp"}, SubKernels`LocalKernels`Private`speed$1172356, 
+     SubKernels`LocalKernels`Private`preemptive$1172356]], 
+   Parallel`Kernels`Private`id$1172400, 
+   Parallel`Kernels`Private`name$1172400], Parallel`Kernels`Private`ek[
+   Parallel`Kernels`Private`nev$1172401, Parallel`Kernels`Private`pb$1172401, 
+   Parallel`Kernels`Private`rd$1172401], Parallel`Kernels`Private`sk[
+   Parallel`Kernels`Private`q$1172402, Parallel`Kernels`Private`n0$1172402, 
+   Parallel`Kernels`Private`n1$1172402]], Parallel`Kernels`kernel[
+  Parallel`Kernels`Private`bk[SubKernels`LocalKernels`localKernel[
+    SubKernels`LocalKernels`Private`lk[LinkObject["/home/Developer/11.1/Execu\
+tables/wolfram -subkernel -noinit -nopaclet -wstp", 1986, 10], 
+     {"/home/Developer/11.1/Executables/wolfram -subkernel -noinit -nopaclet \
+-wstp"}, SubKernels`LocalKernels`Private`speed$1172357, 
+     SubKernels`LocalKernels`Private`preemptive$1172357]], 
+   Parallel`Kernels`Private`id$1172404, 
+   Parallel`Kernels`Private`name$1172404], Parallel`Kernels`Private`ek[
+   Parallel`Kernels`Private`nev$1172405, Parallel`Kernels`Private`pb$1172405, 
+   Parallel`Kernels`Private`rd$1172405], Parallel`Kernels`Private`sk[
+   Parallel`Kernels`Private`q$1172406, Parallel`Kernels`Private`n0$1172406, 
+   Parallel`Kernels`Private`n1$1172406]], Parallel`Kernels`kernel[
+  Parallel`Kernels`Private`bk[SubKernels`LocalKernels`localKernel[
+    SubKernels`LocalKernels`Private`lk[LinkObject["/home/Developer/11.1/Execu\
+tables/wolfram -subkernel -noinit -nopaclet -wstp", 1987, 11], 
+     {"/home/Developer/11.1/Executables/wolfram -subkernel -noinit -nopaclet \
+-wstp"}, SubKernels`LocalKernels`Private`speed$1172358, 
+     SubKernels`LocalKernels`Private`preemptive$1172358]], 
+   Parallel`Kernels`Private`id$1172408, 
+   Parallel`Kernels`Private`name$1172408], Parallel`Kernels`Private`ek[
+   Parallel`Kernels`Private`nev$1172409, Parallel`Kernels`Private`pb$1172409, 
+   Parallel`Kernels`Private`rd$1172409], Parallel`Kernels`Private`sk[
+   Parallel`Kernels`Private`q$1172410, Parallel`Kernels`Private`n0$1172410, 
+   Parallel`Kernels`Private`n1$1172410]], Parallel`Kernels`kernel[
+  Parallel`Kernels`Private`bk[SubKernels`LocalKernels`localKernel[
+    SubKernels`LocalKernels`Private`lk[LinkObject["/home/Developer/11.1/Execu\
+tables/wolfram -subkernel -noinit -nopaclet -wstp", 1988, 12], 
+     {"/home/Developer/11.1/Executables/wolfram -subkernel -noinit -nopaclet \
+-wstp"}, SubKernels`LocalKernels`Private`speed$1172359, 
+     SubKernels`LocalKernels`Private`preemptive$1172359]], 
+   Parallel`Kernels`Private`id$1172412, 
+   Parallel`Kernels`Private`name$1172412], Parallel`Kernels`Private`ek[
+   Parallel`Kernels`Private`nev$1172413, Parallel`Kernels`Private`pb$1172413, 
+   Parallel`Kernels`Private`rd$1172413], Parallel`Kernels`Private`sk[
+   Parallel`Kernels`Private`q$1172414, Parallel`Kernels`Private`n0$1172414, 
+   Parallel`Kernels`Private`n1$1172414]], Parallel`Kernels`kernel[
+  Parallel`Kernels`Private`bk[SubKernels`LocalKernels`localKernel[
+    SubKernels`LocalKernels`Private`lk[LinkObject["/home/Developer/11.1/Execu\
+tables/wolfram -subkernel -noinit -nopaclet -wstp", 1989, 13], 
+     {"/home/Developer/11.1/Executables/wolfram -subkernel -noinit -nopaclet \
+-wstp"}, SubKernels`LocalKernels`Private`speed$1172360, 
+     SubKernels`LocalKernels`Private`preemptive$1172360]], 
+   Parallel`Kernels`Private`id$1172416, 
+   Parallel`Kernels`Private`name$1172416], Parallel`Kernels`Private`ek[
+   Parallel`Kernels`Private`nev$1172417, Parallel`Kernels`Private`pb$1172417, 
+   Parallel`Kernels`Private`rd$1172417], Parallel`Kernels`Private`sk[
+   Parallel`Kernels`Private`q$1172418, Parallel`Kernels`Private`n0$1172418, 
+   Parallel`Kernels`Private`n1$1172418]], Parallel`Kernels`kernel[
+  Parallel`Kernels`Private`bk[SubKernels`LocalKernels`localKernel[
+    SubKernels`LocalKernels`Private`lk[LinkObject["/home/Developer/11.1/Execu\
+tables/wolfram -subkernel -noinit -nopaclet -wstp", 1990, 14], 
+     {"/home/Developer/11.1/Executables/wolfram -subkernel -noinit -nopaclet \
+-wstp"}, SubKernels`LocalKernels`Private`speed$1172361, 
+     SubKernels`LocalKernels`Private`preemptive$1172361]], 
+   Parallel`Kernels`Private`id$1172420, 
+   Parallel`Kernels`Private`name$1172420], Parallel`Kernels`Private`ek[
+   Parallel`Kernels`Private`nev$1172421, Parallel`Kernels`Private`pb$1172421, 
+   Parallel`Kernels`Private`rd$1172421], Parallel`Kernels`Private`sk[
+   Parallel`Kernels`Private`q$1172422, Parallel`Kernels`Private`n0$1172422, 
+   Parallel`Kernels`Private`n1$1172422]], Parallel`Kernels`kernel[
+  Parallel`Kernels`Private`bk[SubKernels`LocalKernels`localKernel[
+    SubKernels`LocalKernels`Private`lk[LinkObject["/home/Developer/11.1/Execu\
+tables/wolfram -subkernel -noinit -nopaclet -wstp", 1991, 15], 
+     {"/home/Developer/11.1/Executables/wolfram -subkernel -noinit -nopaclet \
+-wstp"}, SubKernels`LocalKernels`Private`speed$1172362, 
+     SubKernels`LocalKernels`Private`preemptive$1172362]], 
+   Parallel`Kernels`Private`id$1172424, 
+   Parallel`Kernels`Private`name$1172424], Parallel`Kernels`Private`ek[
+   Parallel`Kernels`Private`nev$1172425, Parallel`Kernels`Private`pb$1172425, 
+   Parallel`Kernels`Private`rd$1172425], Parallel`Kernels`Private`sk[
+   Parallel`Kernels`Private`q$1172426, Parallel`Kernels`Private`n0$1172426, 
+   Parallel`Kernels`Private`n1$1172426]], Parallel`Kernels`kernel[
+  Parallel`Kernels`Private`bk[SubKernels`LocalKernels`localKernel[
+    SubKernels`LocalKernels`Private`lk[LinkObject["/home/Developer/11.1/Execu\
+tables/wolfram -subkernel -noinit -nopaclet -wstp", 1992, 16], 
+     {"/home/Developer/11.1/Executables/wolfram -subkernel -noinit -nopaclet \
+-wstp"}, SubKernels`LocalKernels`Private`speed$1172363, 
+     SubKernels`LocalKernels`Private`preemptive$1172363]], 
+   Parallel`Kernels`Private`id$1172428, 
+   Parallel`Kernels`Private`name$1172428], Parallel`Kernels`Private`ek[
+   Parallel`Kernels`Private`nev$1172429, Parallel`Kernels`Private`pb$1172429, 
+   Parallel`Kernels`Private`rd$1172429], Parallel`Kernels`Private`sk[
+   Parallel`Kernels`Private`q$1172430, Parallel`Kernels`Private`n0$1172430, 
+   Parallel`Kernels`Private`n1$1172430]], Parallel`Kernels`kernel[
+  Parallel`Kernels`Private`bk[SubKernels`LocalKernels`localKernel[
+    SubKernels`LocalKernels`Private`lk[LinkObject["/home/Developer/11.1/Execu\
+tables/wolfram -subkernel -noinit -nopaclet -wstp", 1993, 17], 
+     {"/home/Developer/11.1/Executables/wolfram -subkernel -noinit -nopaclet \
+-wstp"}, SubKernels`LocalKernels`Private`speed$1172364, 
+     SubKernels`LocalKernels`Private`preemptive$1172364]], 
+   Parallel`Kernels`Private`id$1172432, 
+   Parallel`Kernels`Private`name$1172432], Parallel`Kernels`Private`ek[
+   Parallel`Kernels`Private`nev$1172433, Parallel`Kernels`Private`pb$1172433, 
+   Parallel`Kernels`Private`rd$1172433], Parallel`Kernels`Private`sk[
+   Parallel`Kernels`Private`q$1172434, Parallel`Kernels`Private`n0$1172434, 
+   Parallel`Kernels`Private`n1$1172434]], Parallel`Kernels`kernel[
+  Parallel`Kernels`Private`bk[SubKernels`LocalKernels`localKernel[
+    SubKernels`LocalKernels`Private`lk[LinkObject["/home/Developer/11.1/Execu\
+tables/wolfram -subkernel -noinit -nopaclet -wstp", 1994, 18], 
+     {"/home/Developer/11.1/Executables/wolfram -subkernel -noinit -nopaclet \
+-wstp"}, SubKernels`LocalKernels`Private`speed$1172365, 
+     SubKernels`LocalKernels`Private`preemptive$1172365]], 
+   Parallel`Kernels`Private`id$1172436, 
+   Parallel`Kernels`Private`name$1172436], Parallel`Kernels`Private`ek[
+   Parallel`Kernels`Private`nev$1172437, Parallel`Kernels`Private`pb$1172437, 
+   Parallel`Kernels`Private`rd$1172437], Parallel`Kernels`Private`sk[
+   Parallel`Kernels`Private`q$1172438, Parallel`Kernels`Private`n0$1172438, 
+   Parallel`Kernels`Private`n1$1172438]], Parallel`Kernels`kernel[
+  Parallel`Kernels`Private`bk[SubKernels`LocalKernels`localKernel[
+    SubKernels`LocalKernels`Private`lk[LinkObject["/home/Developer/11.1/Execu\
+tables/wolfram -subkernel -noinit -nopaclet -wstp", 1995, 19], 
+     {"/home/Developer/11.1/Executables/wolfram -subkernel -noinit -nopaclet \
+-wstp"}, SubKernels`LocalKernels`Private`speed$1172366, 
+     SubKernels`LocalKernels`Private`preemptive$1172366]], 
+   Parallel`Kernels`Private`id$1172440, 
+   Parallel`Kernels`Private`name$1172440], Parallel`Kernels`Private`ek[
+   Parallel`Kernels`Private`nev$1172441, Parallel`Kernels`Private`pb$1172441, 
+   Parallel`Kernels`Private`rd$1172441], Parallel`Kernels`Private`sk[
+   Parallel`Kernels`Private`q$1172442, Parallel`Kernels`Private`n0$1172442, 
+   Parallel`Kernels`Private`n1$1172442]], Parallel`Kernels`kernel[
+  Parallel`Kernels`Private`bk[SubKernels`LocalKernels`localKernel[
+    SubKernels`LocalKernels`Private`lk[LinkObject["/home/Developer/11.1/Execu\
+tables/wolfram -subkernel -noinit -nopaclet -wstp", 1996, 20], 
+     {"/home/Developer/11.1/Executables/wolfram -subkernel -noinit -nopaclet \
+-wstp"}, SubKernels`LocalKernels`Private`speed$1172367, 
+     SubKernels`LocalKernels`Private`preemptive$1172367]], 
+   Parallel`Kernels`Private`id$1172444, 
+   Parallel`Kernels`Private`name$1172444], Parallel`Kernels`Private`ek[
+   Parallel`Kernels`Private`nev$1172445, Parallel`Kernels`Private`pb$1172445, 
+   Parallel`Kernels`Private`rd$1172445], Parallel`Kernels`Private`sk[
+   Parallel`Kernels`Private`q$1172446, Parallel`Kernels`Private`n0$1172446, 
+   Parallel`Kernels`Private`n1$1172446]], Parallel`Kernels`kernel[
+  Parallel`Kernels`Private`bk[SubKernels`LocalKernels`localKernel[
+    SubKernels`LocalKernels`Private`lk[LinkObject["/home/Developer/11.1/Execu\
+tables/wolfram -subkernel -noinit -nopaclet -wstp", 1997, 21], 
+     {"/home/Developer/11.1/Executables/wolfram -subkernel -noinit -nopaclet \
+-wstp"}, SubKernels`LocalKernels`Private`speed$1172368, 
+     SubKernels`LocalKernels`Private`preemptive$1172368]], 
+   Parallel`Kernels`Private`id$1172448, 
+   Parallel`Kernels`Private`name$1172448], Parallel`Kernels`Private`ek[
+   Parallel`Kernels`Private`nev$1172449, Parallel`Kernels`Private`pb$1172449, 
+   Parallel`Kernels`Private`rd$1172449], Parallel`Kernels`Private`sk[
+   Parallel`Kernels`Private`q$1172450, Parallel`Kernels`Private`n0$1172450, 
+   Parallel`Kernels`Private`n1$1172450]]}
+"particles.mx done!"
+"End log ...."

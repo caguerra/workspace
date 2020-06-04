@@ -6,7 +6,7 @@ KERNELS=32
 echo "[`date`] Start"
 cd results/
 
-for filenumber in {1..300..1}
+for filenumber in {1..450..1}
 do
 	echo ""
 	echo "running file $filenumber"
@@ -23,6 +23,3 @@ echo "[`date`] End"
 echo "elapsed time: $SECONDS"
 echo all done
 
-
-./run2end.sh
-cat ./results/goodRuns.log

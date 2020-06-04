@@ -27,8 +27,6 @@ echo "[`date`] End"
 echo "elapsed time: $SECONDS"
 echo all done
 
-./run2end 
-cat results/goodResults.log
 
 
 # Run in series

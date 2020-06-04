@@ -18,7 +18,7 @@ script`path = Directory[];
 script`nbname = $ScriptCommandLine[[2]];
 script`file = FileNameJoin[{script`path, script`nbname}];
 
-script`stars = {800,900,1000};
+script`stars = {30};
 
 Do[
 	$RunNumber = script`i;

@@ -10,12 +10,12 @@ KERNELS=32
 echo "[`date`] Start"
 cd results/
 
-for filenumber in {1..250..1}
+for filenumber in {651..1300..1}
 do
 	echo ""
 	echo "running file $filenumber"
 	cd "./run-$filenumber"
-	time  (timeout 60s nbody6 <ini.dat> output) 2>> timings &
+	time  (timeout 10m nbody6 <ini.dat> output) 2>> timings &
 	jobwait $KERNELS
 	cd ..
 done
