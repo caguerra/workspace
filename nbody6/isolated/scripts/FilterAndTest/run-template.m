@@ -5,7 +5,7 @@
   * To monitor evaluation of the notebook another Kernel should be used.
 *)
 
-SetOptions[Developer`InstallFrontEnd, Developer`LaunchFlags -> "-display :3 -nogui -geometry 800x600+10+10 -default visual"];
+SetOptions[Developer`InstallFrontEnd, Developer`LaunchFlags -> "-display :1 -nogui -geometry 800x600+10+10 -default visual"];
 
 SetOptions[$Output, FormatType -> StandardForm];
 
@@ -14,11 +14,14 @@ If[Length[$ScriptCommandLine] < 2,
 	Quit[]
 ]
 
+script`date = DateString[{"Year", "Month", "Day"}];
 script`path = Directory[];
 script`nbname = $ScriptCommandLine[[2]];
 script`file = FileNameJoin[{script`path, script`nbname}];
 
-script`stars = {30};
+script`stars = Insert[Range[100, 1000, 100], 250, 3];
+
+CreateDirectory[FileNameJoin[{script`path, "results-"<>script`date}]];
 
 Do[
 	$RunNumber = script`i;
@@ -27,7 +30,7 @@ Do[
 		( 
 		script`nb = NotebookOpen[script`file];
 		NotebookEvaluate[script`nb, InsertResults->True];
-		NotebookSave[script`nb, FileNameJoin[{script`path, "results", "Evaluated"<>ToString[$RunNumber]<>script`nbname}]];
+		NotebookSave[script`nb, FileNameJoin[{script`path, "results-"<>script`date, "Evaluated"<>ToString[$RunNumber]<>script`nbname}]];
 		NotebookClose[script`nb];  
 		) 
 	]
