@@ -1,0 +1,6 @@
+Begin evaluation ...
+Fri 26 Mar 2021 15:35:51
+Evaluate notebook: 100
+Evaluate notebook: 200
+../run2end.sh: line 3: cd: ./results: No such file or directory
+Evaluate notebook: 250
