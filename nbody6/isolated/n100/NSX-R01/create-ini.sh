@@ -1,10 +1,10 @@
 #!/bin/bash
-# first group 1-250
+# group 1-750
 
 echo "[`date`] Start"
 
 cd results/
-for filenumber in {501..750..1}
+for filenumber in {1..750..1}
 do
 	mkdir "./run-$filenumber/"
   	cat << EOF > ./run-$filenumber/ini.dat

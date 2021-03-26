@@ -1,0 +1,2 @@
+$Version
+Print["Hello World!"]

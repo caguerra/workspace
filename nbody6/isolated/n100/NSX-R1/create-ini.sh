@@ -1,5 +1,5 @@
 #!/bin/bash
-# first group 1-250
+# series 1-500
 
 echo "[`date`] Start"
 

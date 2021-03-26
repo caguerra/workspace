@@ -1,0 +1,7 @@
+SetOptions["stdin", FormatType -> InputForm];SetOptions["stderr", FormatType -> InputForm];SetOptions[$Output, FormatType -> InputForm];$Version"11.1.1 for Linux x86 (64-bit) (June 2, 2017)"
+1/0
+                                 1
+Power::infy: Infinite expression - encountered.
+                                 0
+ComplexInfinity
+Print["Hello World!"]"Hello World!"
