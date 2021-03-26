@@ -23,6 +23,9 @@ script`stars = Insert[Range[100, 1000, 100], 250, 3];
 
 CreateDirectory[FileNameJoin[{script`path, "results-"<>script`date}]];
 
+Print["Begin evaluation ..."];
+Print[DateString[]];
+
 Do[
 	$RunNumber = script`i;
 	Print["Evaluate notebook: ", $RunNumber];
@@ -33,9 +36,14 @@ Do[
 		NotebookSave[script`nb, FileNameJoin[{script`path, "results-"<>script`date, "Evaluated"<>ToString[$RunNumber]<>script`nbname}]];
 		NotebookClose[script`nb];  
 		) 
-	]
+	];
+    Clear["Global`*"];
+    Unprotect[In, Out];
+    Clear[In];
+    Clear[Out];
 	,
 	{script`i, script`stars }
 ];	
 
 Print["Evaluation done!"];
+Print[DateString[]];
