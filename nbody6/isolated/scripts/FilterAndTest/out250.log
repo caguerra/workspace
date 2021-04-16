@@ -1,8 +1,0 @@
-
-CreateDirectory::filex: /home/cesarg/git/workspace/nbody6/isolated/scripts/FilterAndTest/results-20210326 already exists.
-Begin evaluation ...
-Fri 26 Mar 2021 18:01:04
-Evaluate notebook: 250
-../run2end.sh: line 3: cd: ./results: No such file or directory
-Evaluation done!
-Fri 26 Mar 2021 18:49:42

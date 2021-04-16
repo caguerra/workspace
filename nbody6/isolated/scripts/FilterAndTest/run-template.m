@@ -20,12 +20,12 @@ If[Length[$ScriptCommandLine] < 2,
 	Quit[]
 ]
 
-script`date = DateString[{"Year", "Month", "Day"}];
+script`date = DateString[{"Year", "Month", "Day", "Hour", "Minute"}];
 script`path = Directory[];
 script`nbname = $ScriptCommandLine[[2]];
 script`file = FileNameJoin[{script`path, script`nbname}];
 
-script`stars = {300};
+script`stars = {400};
 
 CreateDirectory[FileNameJoin[{script`path, "results-"<>script`date}]];
 
