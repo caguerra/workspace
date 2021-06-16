@@ -10,7 +10,7 @@ KERNELS=40
 echo "[`date`] Start"
 cd results/
 
-for filenumber in {1001..2000..1}
+for filenumber in {1..3000..1}
 do
 	echo ""
 	echo "running file $filenumber"

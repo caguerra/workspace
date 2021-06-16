@@ -1,12 +1,12 @@
 #!/bin/bash
 jobwait() { while [ `jobs | wc -l` -gt $1 ]; do sleep .1; done }
 
-KERNELS=32
+KERNELS=40
 
 echo "[`date`] Start"
 cd results/
 
-for filenumber in {1001..1500..1}
+for filenumber in {1..2000..1}
 do
 	echo ""
 	echo "running file $filenumber"

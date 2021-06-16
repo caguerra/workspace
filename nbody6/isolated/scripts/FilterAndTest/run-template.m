@@ -25,7 +25,7 @@ script`path = Directory[];
 script`nbname = $ScriptCommandLine[[2]];
 script`file = FileNameJoin[{script`path, script`nbname}];
 
-script`stars = {400};
+script`stars = {700};
 
 CreateDirectory[FileNameJoin[{script`path, "results-"<>script`date}]];
 
